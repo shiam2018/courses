@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Примеры из практики (кейсы)</title>
+    <link rel="stylesheet" href="slides.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <style>
+        .case-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 30px;
+        }
+        
+        .case-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            overflow: hidden;
+            position: relative;
+            height: 400px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            animation: fadeInUp 0.5s ease-out calc(0.7s + (var(--card-index) * 0.15s)) both;
+        }
+        
+        .case-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+        }
+        
+        .case-tag {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: var(--accent-color);
+            color: white;
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: bold;
+            z-index: 2;
+        }
+        
+        .case-icon {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            font-size: 32px;
+            z-index: 2;
+        }
+        
+        .case-header {
+            background: linear-gradient(to bottom, rgba(30, 56, 89, 0.7), var(--primary-color));
+            padding: 80px 20px 30px;
+            position: relative;
+        }
+        
+        .case-title {
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 10px;
+            position: relative;
+        }
+        
+        .case-subtitle {
+            font-size: 18px;
+            opacity: 0.8;
+        }
+        
+        .case-content {
+            padding: 20px;
+            height: calc(100% - 160px);
+            overflow-y: auto;
+        }
+        
+        .case-step {
+            margin-bottom: 15px;
+            position: relative;
+            padding-left: 30px;
+        }
+        
+        .case-step:before {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 10px;
+            width: 10px;
+            height: 10px;
+            background: var(--accent-color);
+            border-radius: 50%;
+        }
+        
+        .case-step:after {
+            content: "";
+            position: absolute;
+            left: 5px;
+            top: 20px;
+            width: 2px;
+            height: calc(100% + 5px);
+            background: var(--accent-color);
+            opacity: 0.5;
+        }
+        
+        .case-step:last-child:after {
+            display: none;
+        }
+        
+        .case-step-title {
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+        
+        .case-step-text {
+            font-size: 16px;
+            opacity: 0.9;
+        }
+        
+        .case-result {
+            margin-top: 20px;
+            background: rgba(40, 167, 69, 0.1);
+            border-left: 3px solid var(--success-color);
+            padding: 10px 15px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <!-- Декоративные фигуры для фона -->
+        <div class="shapes">
+            <div class="shape"></div>
+            <div class="shape"></div>
+            <div class="shape"></div>
+            <div class="shape"></div>
+        </div>
+        
+        <div class="slide-content">
+            <div class="slide-header">
+                <h1 class="slide-title">Примеры из практики</h1>
+                <h2 class="slide-subtitle">Реальные кейсы успешных продаж через понимание потребностей</h2>
+            </div>
+            
+            <div class="slide-body">
+                <div class="case-container">
+                    <div class="case-card" style="--card-index: 0">
+                        <span class="case-tag">B2B</span>
+                        <div class="case-icon">🏢</div>
+                        <div class="case-header">
+                            <h3 class="case-title">IT-решение для производства</h3>
+                            <div class="case-subtitle">Продажа ERP-системы крупному промышленному предприятию</div>
+                        </div>
+                        <div class="case-content">
+                            <div class="case-step">
+                                <div class="case-step-title">Выявление скрытой потребности</div>
+                                <div class="case-step-text">Основное требование клиента — снизить стоимость автоматизации. При глубоком интервью выяснилось, что главная проблема — потеря данных между отделами.</div>
+                            </div>
+                            <div class="case-step">
+                                <div class="case-step-title">Смещение фокуса</div>
+                                <div class="case-step-text">Вместо обсуждения цены, продавец сфокусировался на расчёте потерь от рассинхронизации данных (≈3 млн руб/год).</div>
+                            </div>
+                            <div class="case-step">
+                                <div class="case-step-title">Демонстрация реального ROI</div>
+                                <div class="case-step-text">Был предложен более дорогой продукт, но с расчетом окупаемости за 4 месяца за счет решения именно этой проблемы.</div>
+                            </div>
+                            <div class="case-result">
+                                <strong>Результат:</strong> Клиент выбрал более дорогое решение, осознав истинную цену проблемы. Сделка выросла на 35%.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="case-card" style="--card-index: 1">
+                        <span class="case-tag">B2C</span>
+                        <div class="case-icon">👨‍👩‍👧</div>
+                        <div class="case-header">
+                            <h3 class="case-title">Премиальный продукт</h3>
+                            <div class="case-subtitle">Продажа семейного автомобиля премиум-класса</div>
+                        </div>
+                        <div class="case-content">
+                            <div class="case-step">
+                                <div class="case-step-title">Выявление эмоциональных потребностей</div>
+                                <div class="case-step-text">Вместо стандартного перечисления характеристик менеджер задал вопросы о стиле жизни семьи и их представлениях о комфортном путешествии.</div>
+                            </div>
+                            <div class="case-step">
+                                <div class="case-step-title">Формирование новой потребности</div>
+                                <div class="case-step-text">Клиент не знал о существовании определенных систем безопасности. Менеджер рассказал истории клиентов, где эти системы спасли семью от аварии.</div>
+                            </div>
+                            <div class="case-step">
+                                <div class="case-step-title">Проработка возражения о цене</div>
+                                <div class="case-step-text">Представил альтернативу в виде финансовой программы с нулевым первым взносом и комфортными ежемесячными платежами.</div>
+                            </div>
+                            <div class="case-result">
+                                <strong>Результат:</strong> Клиент выбрал комплектацию на 20% дороже изначально планируемой, приобретя дополнительные функции безопасности и комфорта.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="case-card" style="--card-index: 2">
+                        <span class="case-tag">SaaS</span>
+                        <div class="case-icon">☁️</div>
+                        <div class="case-header">
+                            <h3 class="case-title">Облачный сервис</h3>
+                            <div class="case-subtitle">Продажа CRM-системы растущему стартапу</div>
+                        </div>
+                        <div class="case-content">
+                            <div class="case-step">
+                                <div class="case-step-title">Определение ключевой проблемы роста</div>
+                                <div class="case-step-text">Клиент жаловался на потерю клиентов. Анализ показал, что проблема в отсутствии систематизации работы с воронкой продаж.</div>
+                            </div>
+                            <div class="case-step">
+                                <div class="case-step-title">Расчет стоимости бездействия</div>
+                                <div class="case-step-text">Продавец рассчитал, что из-за плохого отслеживания лидов компания теряет до 30% потенциальных клиентов (~500K₽/месяц).</div>
+                            </div>
+                            <div class="case-step">
+                                <div class="case-step-title">Демонстрация быстрых побед</div>
+                                <div class="case-step-text">Разработана 30-дневная дорожная карта внедрения с фокусом на быстрое улучшение конверсии в первую неделю.</div>
+                            </div>
+                            <div class="case-result">
+                                <strong>Результат:</strong> Стартап подписал годовой контракт вместо планируемой ежемесячной подписки. Экономия 25%.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="case-card" style="--card-index: 3">
+                        <span class="case-tag">Услуга</span>
+                        <div class="case-icon">🛠️</div>
+                        <div class="case-header">
+                            <h3 class="case-title">Консалтинговый проект</h3>
+                            <div class="case-subtitle">Продажа маркетингового аудита компании с падающими продажами</div>
+                        </div>
+                        <div class="case-content">
+                            <div class="case-step">
+                                <div class="case-step-title">Обращение к скрытой организационной потребности</div>
+                                <div class="case-step-text">За запросом "аудит маркетинга" скрывалась потребность руководителя получить независимое мнение о работе отдела.</div>
+                            </div>
+                            <div class="case-step">
+                                <div class="case-step-title">Изменение объема проекта</div>
+                                <div class="case-step-text">Вместо стандартного аудита было предложено комплексное исследование с глубинными интервью сотрудников и клиентов.</div>
+                            </div>
+                            <div class="case-step">
+                                <div class="case-step-title">Структурирование выгод</div>
+                                <div class="case-step-text">Предложение включало не только отчет, но и план реорганизации с оценкой рисков, тайминг и KPI изменений.</div>
+                            </div>
+                            <div class="case-result">
+                                <strong>Результат:</strong> Стоимость проекта выросла в 2,5 раза при расширении объема работ. Сэкономлено 2 месяца на самостоятельный поиск решения.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Анимация карточек кейсов
+        const cards = document.querySelectorAll('.case-card');
+        
+        cards.forEach(card => {
+            card.addEventListener('mouseenter', () => {
+                card.style.transform = 'translateY(-10px)';
+                card.style.boxShadow = '0 15px 30px rgba(0, 0, 0, 0.2)';
+                
+                // Анимация шагов в кейсе
+                const steps = card.querySelectorAll('.case-step');
+                steps.forEach((step, index) => {
+                    setTimeout(() => {
+                        step.style.transform = 'translateX(10px)';
+                        step.style.transition = 'transform 0.3s ease';
+                    }, index * 100);
+                });
+            });
+            
+            card.addEventListener('mouseleave', () => {
+                card.style.transform = '';
+                card.style.boxShadow = '';
+                
+                // Возврат шагов в исходное положение
+                const steps = card.querySelectorAll('.case-step');
+                steps.forEach(step => {
+                    step.style.transform = '';
+                });
+            });
+        });
+    </script>
+</body>
+</html> 

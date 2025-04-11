@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Покажите продукт как решение</title>
+    <link rel="stylesheet" href="slides.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <style>
+        .slide-body {
+            padding-top: 20px;
+        }
+        
+        .feature-benefit-container {
+            margin-bottom: 40px;
+        }
+        
+        .feature-benefit-table {
+            width: 100%;
+            border-collapse: collapse;
+            animation: fadeInUp 1s ease-out 0.5s both;
+        }
+        
+        .feature-benefit-table th,
+        .feature-benefit-table td {
+            padding: 15px;
+            text-align: left;
+            transition: all 0.3s ease;
+        }
+        
+        .feature-benefit-table th {
+            background: rgba(255, 255, 255, 0.2);
+            font-size: 20px;
+            color: white;
+        }
+        
+        .feature-benefit-table tr:nth-child(even) td {
+            background: rgba(255, 255, 255, 0.05);
+        }
+        
+        .feature-benefit-table tr:nth-child(odd) td {
+            background: rgba(255, 255, 255, 0.1);
+        }
+        
+        .feature-benefit-table tr:hover td {
+            background: rgba(255, 255, 255, 0.15);
+        }
+        
+        .table-title {
+            font-size: 28px;
+            color: var(--accent-color);
+            margin-bottom: 20px;
+            text-align: center;
+            animation: fadeInUp 1s ease-out 0.3s both;
+        }
+        
+        .arrow-container {
+            display: flex;
+            justify-content: center;
+            margin: 15px 0;
+            animation: fadeInUp 1s ease-out 0.4s both;
+        }
+        
+        .arrow {
+            width: 0;
+            height: 0;
+            border-left: 20px solid transparent;
+            border-right: 20px solid transparent;
+            border-top: 20px solid var(--accent-color);
+            animation: bounce 2s infinite;
+        }
+        
+        .formula {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 24px;
+            animation: fadeInUp 1s ease-out 0.6s both;
+        }
+        
+        .formula strong {
+            color: var(--accent-color);
+        }
+        
+        .steps-container {
+            margin-top: 40px;
+        }
+        
+        .steps-title {
+            font-size: 28px;
+            color: var(--accent-color);
+            margin-bottom: 20px;
+            text-align: center;
+            animation: fadeInUp 1s ease-out 0.7s both;
+        }
+        
+        .steps-list {
+            counter-reset: step;
+            list-style: none;
+            padding: 0;
+        }
+        
+        .step-item {
+            position: relative;
+            padding-left: 70px;
+            margin-bottom: 30px;
+            min-height: 50px;
+            animation: fadeInUp 0.5s ease-out calc(0.8s + (var(--step-index) * 0.15s)) both;
+        }
+        
+        .step-item:before {
+            content: counter(step);
+            counter-increment: step;
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 50px;
+            height: 50px;
+            background: var(--accent-color);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        
+        .step-title {
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        
+        .step-description {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+        
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {
+                transform: translateY(0);
+            }
+            40% {
+                transform: translateY(-15px);
+            }
+            60% {
+                transform: translateY(-7px);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <!-- Декоративные фигуры для фона -->
+        <div class="shapes">
+            <div class="shape"></div>
+            <div class="shape"></div>
+            <div class="shape"></div>
+            <div class="shape"></div>
+        </div>
+        
+        <div class="slide-content">
+            <div class="slide-header">
+                <h1 class="slide-title">Покажите продукт как решение</h1>
+                <h2 class="slide-subtitle">Трансформация характеристик в выгоды для клиента</h2>
+            </div>
+            
+            <div class="slide-body">
+                <div class="feature-benefit-container">
+                    <h3 class="table-title">Как превратить характеристики в выгоды</h3>
+                    
+                    <table class="feature-benefit-table">
+                        <thead>
+                            <tr>
+                                <th>Характеристика</th>
+                                <th>Выгода для клиента</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Память 16 ГБ</td>
+                                <td>Можно работать с большими файлами без зависаний, экономя до 30 минут в день</td>
+                            </tr>
+                            <tr>
+                                <td>Время работы от батареи 12 часов</td>
+                                <td>Весь рабочий день без подзарядки, можно работать в поездках и не искать розетку</td>
+                            </tr>
+                            <tr>
+                                <td>24/7 поддержка</td>
+                                <td>Ваши проблемы будут решены в любое время, что снижает риск простоя бизнеса</td>
+                            </tr>
+                            <tr>
+                                <td>Безлимитное хранилище</td>
+                                <td>Не нужно беспокоиться об удалении важных данных и тратить время на их сортировку</td>
+                            </tr>
+                            <tr>
+                                <td>Интеграция с 15 сервисами</td>
+                                <td>Все ваши системы будут работать как единый организм, избавляя от двойного ввода данных</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    
+                    <div class="arrow-container">
+                        <div class="arrow"></div>
+                    </div>
+                    
+                    <div class="formula">
+                        Формула презентации выгоды: <strong>"[Характеристика], а это значит, что вы сможете [конкретная польза для клиента]"</strong>
+                    </div>
+                </div>
+                
+                <div class="steps-container">
+                    <h3 class="steps-title">Логичный рассказ о продукте</h3>
+                    
+                    <ul class="steps-list">
+                        <li class="step-item" style="--step-index: 0">
+                            <div class="step-title">Контекст</div>
+                            <div class="step-description">Напомните о выявленных потребностях («Как мы обсудили ранее...»)</div>
+                        </li>
+                        <li class="step-item" style="--step-index: 1">
+                            <div class="step-title">Общее решение</div>
+                            <div class="step-description">Дайте обзор продукта в целом (1-2 предложения)</div>
+                        </li>
+                        <li class="step-item" style="--step-index: 2">
+                            <div class="step-title">3-5 ключевых выгод</div>
+                            <div class="step-description">Расставленные по приоритету для конкретного клиента</div>
+                        </li>
+                        <li class="step-item" style="--step-index: 3">
+                            <div class="step-title">Устранение типичных возражений</div>
+                            <div class="step-description">Предвосхитите сомнения, которые могут возникнуть у клиента</div>
+                        </li>
+                        <li class="step-item" style="--step-index: 4">
+                            <div class="step-title">Подтверждение соответствия</div>
+                            <div class="step-description">Как это решение соотносится с тем, что клиент искал</div>
+                        </li>
+                        <li class="step-item" style="--step-index: 5">
+                            <div class="step-title">Следующий шаг</div>
+                            <div class="step-description">Что конкретно нужно сделать для начала сотрудничества</div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Анимация элементов таблицы при наведении
+        const rows = document.querySelectorAll('.feature-benefit-table tbody tr');
+        rows.forEach(row => {
+            row.addEventListener('mouseenter', () => {
+                row.style.transform = 'scale(1.03)';
+                row.style.transition = 'all 0.3s ease';
+            });
+            
+            row.addEventListener('mouseleave', () => {
+                row.style.transform = '';
+                row.style.transition = 'all 0.3s ease';
+            });
+        });
+        
+        // Анимация шагов при наведении
+        const steps = document.querySelectorAll('.step-item');
+        steps.forEach(step => {
+            step.addEventListener('mouseenter', () => {
+                step.style.transform = 'translateX(15px)';
+                step.style.transition = 'all 0.3s ease';
+                step.querySelector('.step-title').style.color = '#4f78bf';
+            });
+            
+            step.addEventListener('mouseleave', () => {
+                step.style.transform = '';
+                step.style.transition = 'all 0.3s ease';
+                step.querySelector('.step-title').style.color = '';
+            });
+        });
+    </script>
+</body>
+</html> 

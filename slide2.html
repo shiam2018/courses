@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Разные уровни потребностей клиентов</title>
+    <link rel="stylesheet" href="slides.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="slide-container">
+        <!-- Декоративные фигуры для фона -->
+        <div class="shapes">
+            <div class="shape"></div>
+            <div class="shape"></div>
+            <div class="shape"></div>
+            <div class="shape"></div>
+        </div>
+        
+        <div class="slide-content">
+            <div class="slide-header">
+                <h1 class="slide-title">Разные уровни потребностей клиентов</h1>
+                <h2 class="slide-subtitle">От базовых функций до эмоциональных ценностей</h2>
+            </div>
+            
+            <div class="slide-body">
+                <div class="two-columns">
+                    <div class="column">
+                        <div class="pyramid">
+                            <div class="pyramid-level" style="--level-index: 0">
+                                <div class="pyramid-icon">✨</div>
+                                <div class="pyramid-content">
+                                    <h4 class="pyramid-title">Эмоциональные</h4>
+                                    <p class="pyramid-description">Статус, самореализация, гордость</p>
+                                </div>
+                            </div>
+                            
+                            <div class="pyramid-level" style="--level-index: 1">
+                                <div class="pyramid-icon">👥</div>
+                                <div class="pyramid-content">
+                                    <h4 class="pyramid-title">Организационные</h4>
+                                    <p class="pyramid-description">Корпоративная культура, стратегия</p>
+                                </div>
+                            </div>
+                            
+                            <div class="pyramid-level" style="--level-index: 2">
+                                <div class="pyramid-icon">⚙️</div>
+                                <div class="pyramid-content">
+                                    <h4 class="pyramid-title">Процессные</h4>
+                                    <p class="pyramid-description">Удобство, интеграция, поддержка</p>
+                                </div>
+                            </div>
+                            
+                            <div class="pyramid-level" style="--level-index: 3">
+                                <div class="pyramid-icon">💰</div>
+                                <div class="pyramid-content">
+                                    <h4 class="pyramid-title">Экономические</h4>
+                                    <p class="pyramid-description">Цена, ROI, выгода, экономия</p>
+                                </div>
+                            </div>
+                            
+                            <div class="pyramid-level" style="--level-index: 4">
+                                <div class="pyramid-icon">🛠️</div>
+                                <div class="pyramid-content">
+                                    <h4 class="pyramid-title">Функциональные</h4>
+                                    <p class="pyramid-description">Базовые свойства, характеристики</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="column">
+                        <h3 class="column-title">Явные vs Скрытые потребности</h3>
+                        
+                        <div class="icon-box" style="--item-index: 0">
+                            <div class="icon">🗣️</div>
+                            <div class="icon-content">
+                                <div class="icon-title">Явная: "Нам нужна CRM с интеграцией"</div>
+                                <div class="icon-text">Скрытая: Стремление автоматизировать рутину и получить признание руководства</div>
+                            </div>
+                        </div>
+                        
+                        <div class="icon-box" style="--item-index: 1">
+                            <div class="icon">💼</div>
+                            <div class="icon-content">
+                                <div class="icon-title">Явная: "Мы ищем решение дешевле"</div>
+                                <div class="icon-text">Скрытая: Страх ошибиться и потерять бюджет на неэффективном решении</div>
+                            </div>
+                        </div>
+                        
+                        <div class="icon-box" style="--item-index: 2">
+                            <div class="icon">⏱️</div>
+                            <div class="icon-content">
+                                <div class="icon-title">Явная: "Нужно внедрить быстро"</div>
+                                <div class="icon-text">Скрытая: Давление руководства и желание показать быстрые результаты</div>
+                            </div>
+                        </div>
+                        
+                        <div class="icon-box" style="--item-index: 3">
+                            <div class="icon">🔧</div>
+                            <div class="icon-content">
+                                <div class="icon-title">Явная: "Система должна быть простой"</div>
+                                <div class="icon-text">Скрытая: Боязнь сложностей и сопротивления сотрудников</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Анимация при наведении на элементы пирамиды
+        const levels = document.querySelectorAll('.pyramid-level');
+        levels.forEach(level => {
+            level.addEventListener('mouseenter', () => {
+                level.style.transform = 'translateX(10px)';
+                level.style.backgroundColor = 'rgba(255, 255, 255, 0.3)';
+                level.style.transition = 'all 0.3s ease';
+            });
+            
+            level.addEventListener('mouseleave', () => {
+                level.style.transform = '';
+                level.style.backgroundColor = '';
+                level.style.transition = 'all 0.3s ease';
+            });
+        });
+        
+        // Анимация при наведении на боксы с иконками
+        const boxes = document.querySelectorAll('.icon-box');
+        boxes.forEach(box => {
+            box.addEventListener('mouseenter', () => {
+                box.style.transform = 'translateY(-5px)';
+                box.style.backgroundColor = 'rgba(255, 255, 255, 0.2)';
+                box.style.transition = 'all 0.3s ease';
+            });
+            
+            box.addEventListener('mouseleave', () => {
+                box.style.transform = '';
+                box.style.backgroundColor = '';
+                box.style.transition = 'all 0.3s ease';
+            });
+        });
+    </script>
+</body>
+</html> 
