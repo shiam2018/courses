@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Введение в модуль "Как понять, что нужно клиенту"</title>
+    <link rel="stylesheet" href="slides.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="slide-container">
+        <!-- Декоративные фигуры для фона -->
+        <div class="shapes">
+            <div class="shape"></div>
+            <div class="shape"></div>
+            <div class="shape"></div>
+            <div class="shape"></div>
+        </div>
+        
+        <div class="slide-content">
+            <div class="slide-header">
+                <h1 class="slide-title">Как понять, что нужно клиенту</h1>
+                <h2 class="slide-subtitle">Вводный урок модуля 1</h2>
+            </div>
+            
+            <div class="slide-body">
+                <div class="two-columns">
+                    <div class="column">
+                        <h3 class="column-title">Чему вы научитесь:</h3>
+                        <ul class="item-list">
+                            <li style="--item-index: 0">Различать типы и уровни потребностей клиентов</li>
+                            <li style="--item-index: 1">Задавать правильные вопросы для выявления потребностей</li>
+                            <li style="--item-index: 2">Трансформировать потребности в параметры предложения</li>
+                            <li style="--item-index: 3">Создавать уникальное торговое предложение</li>
+                            <li style="--item-index: 4">Формировать у клиента новые потребности</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="column">
+                        <h3 class="column-title">Структура модуля:</h3>
+                        <ul class="item-list">
+                            <li style="--item-index: 0">Основы продажи через потребности</li>
+                            <li style="--item-index: 1">Разные уровни потребностей клиентов</li>
+                            <li style="--item-index: 2">Конкуренция в процессе продаж</li>
+                            <li style="--item-index: 3">Формирование новых потребностей</li>
+                            <li style="--item-index: 4">Практика выявления потребностей</li>
+                            <li style="--item-index: 5">Презентация продукта как решения</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Простая анимация при наведении на элементы списка
+        const items = document.querySelectorAll('.item-list li');
+        items.forEach(item => {
+            item.addEventListener('mouseenter', () => {
+                item.style.transform = 'translateX(10px)';
+                item.style.color = '#4f78bf';
+                item.style.transition = 'all 0.3s ease';
+            });
+            
+            item.addEventListener('mouseleave', () => {
+                item.style.transform = 'translateX(0)';
+                item.style.color = '';
+                item.style.transition = 'all 0.3s ease';
+            });
+        });
+    </script>
+</body>
+</html> 
