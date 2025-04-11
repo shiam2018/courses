@@ -6,6 +6,10 @@
 Для встраивания презентации в Степик используйте iframe:
 
 ```html
-<iframe src="https://shiam2018.github.io/slide2.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://shiam2018.github.io/courses/slide2.html" width="100%" height="600" frameborder="0"></iframe>
 ```
 
+
+## Автор
+
+Игорь Шеньшин, интернет-маркетолог с 15-летним опытом
