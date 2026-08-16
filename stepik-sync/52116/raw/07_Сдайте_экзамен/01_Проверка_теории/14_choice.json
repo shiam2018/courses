@@ -5,7 +5,7 @@
   "status": "ready",
   "block": {
     "name": "choice",
-    "text": "<h3>Блок 3: \"Креативы\"</h3>\n\n<p>Как расчитывается <strong>CTR</strong>?</p>\n",
+    "text": "<h3>Блок 3: \"Креативы\"</h3>\n\n<p>Как рассчитывается <strong>CTR</strong>?</p>\n",
     "video": null,
     "options": {
       "is_multiple_choice": false

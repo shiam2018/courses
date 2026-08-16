@@ -5,7 +5,7 @@
   "status": "ready",
   "block": {
     "name": "choice",
-    "text": "<h3>Блок 2: \"Реклама Facebook Ads\"</h3>\n\n<p>Что такое <strong>поведенческие таргетинги</strong>?</p>\n",
+    "text": "<h3>Блок 2: \"Реклама Meta Ads*\"</h3>\n\n<p>Что такое <strong>поведенческие таргетинги</strong>?</p>\n",
     "video": null,
     "options": {
       "is_multiple_choice": false
@@ -22,7 +22,7 @@
       "options": [
         {
           "is_correct": true,
-          "text": "Выбор пользователей, ведущих себя определенным образом на Facebook или его сайтах-партнерах",
+          "text": "Выбор пользователей, ведущих себя определенным образом в Meta* или на её сайтах-партнерах",
           "feedback": ""
         },
         {
