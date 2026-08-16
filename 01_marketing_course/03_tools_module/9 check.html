@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Проверка знаний: инструменты маркетинга</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+            margin-top: 30px;
+        }
+        h1 {
+            font-size: 32px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        .intro {
+            background-color: #e8f4f8;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            border-left: 5px solid #3498db;
+        }
+        .question {
+            background-color: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .options {
+            margin-left: 20px;
+        }
+        .option {
+            margin-bottom: 10px;
+        }
+        .option label {
+            cursor: pointer;
+            display: inline-block;
+            width: 100%;
+            padding: 8px;
+            border-radius: 4px;
+        }
+        .option label:hover {
+            background-color: #f0f0f0;
+        }
+        .correct {
+            background-color: #d4edda;
+            padding: 15px;
+            margin-top: 10px;
+            border-radius: 8px;
+            display: none;
+        }
+        .submission {
+            margin-top: 30px;
+            text-align: center;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        .result {
+            margin-top: 30px;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            display: none;
+        }
+        .resources {
+            background-color: #f8f9fa;
+            padding: 20px;
+            margin-top: 40px;
+            border-radius: 8px;
+            border-left: 5px solid #e67e22;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #e74c3c;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <h3><img alt="Проверка знаний по инструментам маркетинга" height="400" src="https://ucarecdn.com/0f1f8cec-466b-4f01-b650-d5bb607abb54/" width="1200"></h3>
+
+    <div class="intro">
+        <p>🎉 <strong>Поздравляю! Вы прошли теоретическую часть второго модуля — «Инструменты маркетинга»</strong></p>
+
+        <p>Мы с вами разобрались в том, как устроены сайты и лендинги, как создаются креативы, как изучать конкурентов и управлять отзывами. Отличная база, чтобы уверенно двигаться дальше!</p>
+
+        <p>Впереди — ещё больше практики, но сначала давайте проверим, насколько вы разобрались в материале 📚</p>
+
+        <p>📝 <strong>Мини-тест: 10 вопросов</strong></p>
+
+        <p>Один правильный ответ, остальные — с подвохом и лёгким юмором 😏</p>
+
+        <p>💪 Уверен, у вас получится! Поехали! 🌟</p>
+    </div>
+
+    <div id="quiz">
+        <div class="question" id="q1">
+            <h3>1. Что такое лендинг?</h3>
+            <div class="options">
+                <div class="option">
+                    <input type="radio" id="q1a" name="q1" value="a">
+                    <label for="q1a">Посадочная площадка для вертолётов на крыше офиса</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q1b" name="q1" value="b">
+                    <label for="q1b">Одностраничный сайт, созданный для конверсии посетителей в клиентов</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q1c" name="q1" value="c">
+                    <label for="q1c">Приземление парашютиста на точку в рекламной кампании</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q1d" name="q1" value="d">
+                    <label for="q1d">Место на сайте, где пользователи обязательно «приземлятся» в случае ошибки</label>
+                </div>
+            </div>
+            <div class="correct">
+                <p>✅ Правильно! Лендинг — это одностраничный сайт, созданный для конверсии посетителей в клиентов. Цель лендинга — получить контакт пользователя или побудить его к целевому действию.</p>
+            </div>
+        </div>
+
+        <div class="question" id="q2">
+            <h3>2. Что такое CTR?</h3>
+            <div class="options">
+                <div class="option">
+                    <input type="radio" id="q2a" name="q2" value="a">
+                    <label for="q2a">Отношение числа кликов к числу показов рекламы, выраженное в процентах</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q2b" name="q2" value="b">
+                    <label for="q2b">Центр Тактической Разработки в маркетинговом агентстве</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q2c" name="q2" value="c">
+                    <label for="q2c">Кнопка «Сохранить» на венгерском языке</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q2d" name="q2" value="d">
+                    <label for="q2d">Количество Творческих Решений, предложенных на брейнсторме</label>
+                </div>
+            </div>
+            <div class="correct">
+                <p>✅ Верно! CTR (Click-Through Rate) — это отношение числа кликов к числу показов рекламы, выраженное в процентах. Это важный показатель эффективности рекламных объявлений.</p>
+            </div>
+        </div>
+
+        <div class="question" id="q3">
+            <h3>3. Какой инструмент лучше всего подходит для анализа сайтов конкурентов?</h3>
+            <div class="options">
+                <div class="option">
+                    <input type="radio" id="q3a" name="q3" value="a">
+                    <label for="q3a">Микроскоп с 400-кратным увеличением</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q3b" name="q3" value="b">
+                    <label for="q3b">SimilarWeb или Ahrefs</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q3c" name="q3" value="c">
+                    <label for="q3c">Подкуп сотрудников конкурента за чашку кофе</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q3d" name="q3" value="d">
+                    <label for="q3d">Кристальный шар с функцией Wi-Fi</label>
+                </div>
+            </div>
+            <div class="correct">
+                <p>✅ Правильно! SimilarWeb и Ahrefs — это профессиональные инструменты для анализа конкурентов, которые позволяют изучить их трафик, источники, ключевые слова и многое другое.</p>
+            </div>
+        </div>
+
+        <div class="question" id="q4">
+            <h3>4. Что такое SERM?</h3>
+            <div class="options">
+                <div class="option">
+                    <input type="radio" id="q4a" name="q4" value="a">
+                    <label for="q4a">Специальная Единица Разработки Мемов</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q4b" name="q4" value="b">
+                    <label for="q4b">Система Эффективного Распределения Маркетологов</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q4c" name="q4" value="c">
+                    <label for="q4c">Search Engine Reputation Management — управление репутацией в поисковых системах</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q4d" name="q4" value="d">
+                    <label for="q4d">Самый Эффективный Рецепт Мотивации для команды</label>
+                </div>
+            </div>
+            <div class="correct">
+                <p>✅ Верно! SERM (Search Engine Reputation Management) — это управление репутацией в поисковых системах, целью которого является создание позитивного образа компании в поисковой выдаче.</p>
+            </div>
+        </div>
+
+        <div class="question" id="q5">
+            <h3>5. Что такое креатив в маркетинге?</h3>
+            <div class="options">
+                <div class="option">
+                    <input type="radio" id="q5a" name="q5" value="a">
+                    <label for="q5a">Рекламное сообщение, призванное привлечь внимание аудитории</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q5b" name="q5" value="b">
+                    <label for="q5b">Сотрудник, который носит яркие носки в офис</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q5c" name="q5" value="c">
+                    <label for="q5c">Способность выжить на одном кофе во время дедлайна</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q5d" name="q5" value="d">
+                    <label for="q5d">Искусство придумывать оправдания за невыполнение KPI</label>
+                </div>
+            </div>
+            <div class="correct">
+                <p>✅ Правильно! Креатив в маркетинге — это рекламное сообщение (текст, изображение, видео или их комбинация), призванное привлечь внимание аудитории и побудить её к действию.</p>
+            </div>
+        </div>
+
+        <div class="question" id="q6">
+            <h3>6. Что измеряет коэффициент конверсии (CR)?</h3>
+            <div class="options">
+                <div class="option">
+                    <input type="radio" id="q6a" name="q6" value="a">
+                    <label for="q6a">Процент пользователей, которые совершили целевое действие на сайте</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q6b" name="q6" value="b">
+                    <label for="q6b">Скорость превращения маркетолога в программиста после сложного проекта</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q6c" name="q6" value="c">
+                    <label for="q6c">Насколько быстро конкуренты копируют ваши идеи</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q6d" name="q6" value="d">
+                    <label for="q6d">Эффективность разговоров с боссом о повышении зарплаты</label>
+                </div>
+            </div>
+            <div class="correct">
+                <p>✅ Верно! Коэффициент конверсии (CR - Conversion Rate) — это процент пользователей, которые совершили целевое действие на сайте (покупка, подписка, заполнение формы) от общего числа посетителей.</p>
+            </div>
+        </div>
+
+        <div class="question" id="q7">
+            <h3>7. Какой из следующих инструментов используется для создания лендингов без навыков программирования?</h3>
+            <div class="options">
+                <div class="option">
+                    <input type="radio" id="q7a" name="q7" value="a">
+                    <label for="q7a">Tilda, Wix или WordPress</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q7b" name="q7" value="b">
+                    <label for="q7b">Экстрасенсорные способности и гуглтранслейт</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q7c" name="q7" value="c">
+                    <label for="q7c">Пять чашек кофе и один бессонный программист</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q7d" name="q7" value="d">
+                    <label for="q7d">Генератор случайного HTML-кода</label>
+                </div>
+            </div>
+            <div class="correct">
+                <p>✅ Правильно! Tilda, Wix и WordPress — это конструкторы сайтов, позволяющие создавать лендинги без навыков программирования с помощью визуальных редакторов и готовых шаблонов.</p>
+            </div>
+        </div>
+
+        <div class="question" id="q8">
+            <h3>8. Что такое SWOT-анализ?</h3>
+            <div class="options">
+                <div class="option">
+                    <input type="radio" id="q8a" name="q8" value="a">
+                    <label for="q8a">Методика анализа сильных и слабых сторон, возможностей и угроз компании</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q8b" name="q8" value="b">
+                    <label for="q8b">Спецподразделение маркетологов для борьбы с конкурентами</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q8c" name="q8" value="c">
+                    <label for="q8c">Система Выявления Оправданий Траты рекламного бюджета</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q8d" name="q8" value="d">
+                    <label for="q8d">Способ Вознаграждения Офисных Трудоголиков</label>
+                </div>
+            </div>
+            <div class="correct">
+                <p>✅ Верно! SWOT-анализ — это методика анализа сильных сторон (Strengths), слабых сторон (Weaknesses), возможностей (Opportunities) и угроз (Threats) компании или проекта.</p>
+            </div>
+        </div>
+
+        <div class="question" id="q9">
+            <h3>9. Что означает аббревиатура ROAS?</h3>
+            <div class="options">
+                <div class="option">
+                    <input type="radio" id="q9a" name="q9" value="a">
+                    <label for="q9a">Реально Огромные Амбиции Стартапа</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q9b" name="q9" value="b">
+                    <label for="q9b">Return On Advertising Spend — возврат инвестиций в рекламу</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q9c" name="q9" value="c">
+                    <label for="q9c">Руководство по Отражению Атак Спамеров</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q9d" name="q9" value="d">
+                    <label for="q9d">Рекламодатели Обычно Анализируют Статистику</label>
+                </div>
+            </div>
+            <div class="correct">
+                <p>✅ Правильно! ROAS (Return On Advertising Spend) — это коэффициент, показывающий возврат инвестиций в рекламу. Рассчитывается как отношение дохода от рекламы к затратам на неё.</p>
+            </div>
+        </div>
+
+        <div class="question" id="q10">
+            <h3>10. Какое из утверждений о веб-аналитике верно?</h3>
+            <div class="options">
+                <div class="option">
+                    <input type="radio" id="q10a" name="q10" value="a">
+                    <label for="q10a">Веб-аналитика нужна только крупным компаниям с большим бюджетом</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q10b" name="q10" value="b">
+                    <label for="q10b">Лучше полагаться на интуицию, чем на данные аналитики</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q10c" name="q10" value="c">
+                    <label for="q10c">Веб-аналитика позволяет измерять эффективность маркетинговых действий и принимать решения на основе данных</label>
+                </div>
+                <div class="option">
+                    <input type="radio" id="q10d" name="q10" value="d">
+                    <label for="q10d">Веб-аналитика — это когда ты смотришь на график и делаешь вид, что понимаешь, что происходит</label>
+                </div>
+            </div>
+            <div class="correct">
+                <p>✅ Верно! Веб-аналитика действительно позволяет измерять эффективность маркетинговых действий и принимать обоснованные решения на основе собранных данных о поведении пользователей.</p>
+            </div>
+        </div>
+
+        <div class="submission">
+            <button id="checkAnswers">Проверить результаты</button>
+        </div>
+
+        <div class="result" id="result">
+            <h2>Ваш результат: <span id="score">0</span> из 10</h2>
+            <p id="feedback"></p>
+        </div>
+    </div>
+
+    <div class="resources">
+        <h3>🔍 Полезные ресурсы для закрепления материала:</h3>
+        <ul>
+            <li><a href="#" target="_blank">Глоссарий маркетинговых терминов</a></li>
+            <li><a href="#" target="_blank">Обзор инструментов аналитики</a></li>
+            <li><a href="#" target="_blank">Чек-лист по созданию эффективных лендингов</a></li>
+        </ul>
+    </div>
+
+    <script>
+        document.getElementById('checkAnswers').addEventListener('click', function() {
+            const correctAnswers = {
+                q1: 'b',
+                q2: 'a',
+                q3: 'b',
+                q4: 'c',
+                q5: 'a',
+                q6: 'a',
+                q7: 'a',
+                q8: 'a',
+                q9: 'b',
+                q10: 'c'
+            };
+            
+            let score = 0;
+            
+            // Проверка ответов и отображение правильных ответов
+            for (let i = 1; i <= 10; i++) {
+                const questionName = 'q' + i;
+                const selectedOption = document.querySelector(`input[name="${questionName}"]:checked`);
+                
+                if (selectedOption) {
+                    if (selectedOption.value === correctAnswers[questionName]) {
+                        score++;
+                        selectedOption.parentElement.style.backgroundColor = '#d4edda';
+                    } else {
+                        selectedOption.parentElement.style.backgroundColor = '#f8d7da';
+                        // Подсветить правильный ответ
+                        document.querySelector(`input[id="${questionName}${correctAnswers[questionName]}"]`).parentElement.style.backgroundColor = '#d4edda';
+                    }
+                }
+                
+                // Показать объяснение к вопросу
+                document.querySelector(`#${questionName} .correct`).style.display = 'block';
+            }
+            
+            // Обновить и показать результат
+            document.getElementById('score').textContent = score;
+            
+            // Персонализированный отзыв в зависимости от количества баллов
+            let feedback = '';
+            if (score === 10) {
+                feedback = '🏆 Великолепно! Вы настоящий эксперт в инструментах маркетинга!';
+            } else if (score >= 8) {
+                feedback = '👍 Отличный результат! Вы хорошо усвоили материал модуля.';
+            } else if (score >= 6) {
+                feedback = '👌 Неплохой результат! Возможно, стоит повторить некоторые темы.';
+            } else if (score >= 4) {
+                feedback = '🤔 Вы на правильном пути! Рекомендуем вернуться к материалам модуля.';
+            } else {
+                feedback = '📚 Стоит внимательнее изучить материалы модуля. Не сдавайтесь!';
+            }
+            
+            document.getElementById('feedback').textContent = feedback;
+            document.getElementById('result').style.display = 'block';
+            
+            // Прокрутка к результатам
+            document.getElementById('result').scrollIntoView({ behavior: 'smooth' });
+        });
+    </script>
+</body>
+</html>

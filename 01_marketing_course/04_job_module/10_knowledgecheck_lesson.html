@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Проверка знаний: каналы и источники трафика</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            font-size: 28px;
+            margin-bottom: 25px;
+            color: #2a2a2a;
+        }
+        h2 {
+            font-size: 22px;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: #3a3a3a;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        .intro-block {
+            background-color: #f5f5f5;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .question-block {
+            background-color: #f9f9f9;
+            border-left: 4px solid #4285f4;
+            padding: 15px 20px;
+            margin: 15px 0;
+            counter-increment: question-counter;
+        }
+        .question-block h3::before {
+            content: "Вопрос " counter(question-counter) ": ";
+        }
+        .answer-option {
+            display: block;
+            padding: 10px 15px;
+            margin: 5px 0;
+            border-radius: 3px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            border: 1px solid #ddd;
+        }
+        .answer-option:hover {
+            background-color: #e0e0e0;
+        }
+        .answer-option input[type="radio"] {
+            margin-right: 10px;
+        }
+        .submit-button {
+            background-color: #4285f4;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .submit-button:hover {
+            background-color: #3367d6;
+        }
+        .result-block {
+            display: none;
+            background-color: #e8f0fe;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .correct {
+            background-color: #d4edda;
+            border-color: #c3e6cb;
+        }
+        .incorrect {
+            background-color: #f8d7da;
+            border-color: #f5c6cb;
+        }
+        .answer-explanation {
+            display: none;
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border-left: 3px solid #4285f4;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Проверим, насколько хорошо вы освоили каналы трафика?</h1>
+
+<img src="https://placehold.co/1920x1080" alt="Проверка знаний: тест по каналам трафика" width="100%">
+
+<div class="intro-block">
+    <p>Ниже — тест из десяти вопросов с четырьмя вариантами ответов. Один из них правильный, остальные — с долей шутки. Проверьте, как хорошо вы усвоили материал, и не пугайтесь шутливых ответов!</p>
+    
+    <p>Этот тест поможет вам закрепить ключевые понятия по всем каналам трафика, которые мы изучили в модуле. Постарайтесь набрать максимальное количество баллов!</p>
+</div>
+
+<h2>📝 Тестирование знаний</h2>
+
+<form id="quiz-form">
+    <div class="question-block">
+        <h3>Что такое SEO?</h3>
+        <label class="answer-option">
+            <input type="radio" name="q1" value="a"> Это крутое название для вкусных бургеров
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q1" value="b"> Оптимизация сайта под поисковые системы для повышения органического трафика
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q1" value="c"> Секретный отдел аналитики в любой IT-компании
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q1" value="d"> Сбор email-адресов для рассылки
+        </label>
+        <div class="answer-explanation" id="exp1">
+            <strong>Правильный ответ: Оптимизация сайта под поисковые системы для повышения органического трафика.</strong><br>
+            SEO (Search Engine Optimization) – это комплекс мер по внутренней и внешней оптимизации сайта для повышения его позиций в результатах выдачи поисковых систем. Бургеры, хотя и вкусные, к этому отношения не имеют!
+        </div>
+    </div>
+
+    <div class="question-block">
+        <h3>Какой показатель поможет понять, сколько вы потратили на привлечение одного покупателя?</h3>
+        <label class="answer-option">
+            <input type="radio" name="q2" value="a"> CPC (Cost Per Click)
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q2" value="b"> CTR (Click-Through Rate)
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q2" value="c"> CAC (Customer Acquisition Cost)
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q2" value="d"> CPM (Cost Per Mille)
+        </label>
+        <div class="answer-explanation" id="exp2">
+            <strong>Правильный ответ: CAC (Customer Acquisition Cost).</strong><br>
+            CAC показывает, сколько в среднем стоит привлечение одного клиента, включая все затраты на маркетинг и продажи. CPC — это стоимость одного клика, CTR — показатель кликабельности, CPM — стоимость тысячи показов.
+        </div>
+    </div>
+
+    <div class="question-block">
+        <h3>Какой главный минус контекстной рекламы?</h3>
+        <label class="answer-option">
+            <input type="radio" name="q3" value="a"> Не работает по ночам, уходит спать
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q3" value="b"> Сразу заканчиваются деньги, если включить таргет
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q3" value="c"> Нужно ждать полгода до первых продаж
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q3" value="d"> Как только отключаешь кампанию, поток клиентов прекращается
+        </label>
+        <div class="answer-explanation" id="exp3">
+            <strong>Правильный ответ: Как только отключаешь кампанию, поток клиентов прекращается.</strong><br>
+            В отличие от SEO, которое дает долгосрочный эффект, контекстная реклама перестает работать сразу после прекращения финансирования. И да, контекстная реклама отлично работает и ночью!
+        </div>
+    </div>
+
+    <div class="question-block">
+        <h3>Что такое ROI?</h3>
+        <label class="answer-option">
+            <input type="radio" name="q4" value="a"> Рассылка о новых идеях (Roster Of Ideas)
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q4" value="b"> Метрика возврата инвестиций
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q4" value="c"> Загадочный ритуал для оптимизации SMM
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q4" value="d"> Название детектива о рекламе
+        </label>
+        <div class="answer-explanation" id="exp4">
+            <strong>Правильный ответ: Метрика возврата инвестиций.</strong><br>
+            ROI (Return On Investment) показывает, сколько прибыли вы получаете на каждый вложенный рубль. Формула: (Доход - Инвестиции) / Инвестиции × 100%. А книга о детективе-маркетологе была бы интересной!
+        </div>
+    </div>
+
+    <div class="question-block">
+        <h3>Как расшифровывается модель CPA?</h3>
+        <label class="answer-option">
+            <input type="radio" name="q5" value="a"> Cost Per Action
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q5" value="b"> Crazy People Advertising
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q5" value="c"> Capture Perfect Audience
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q5" value="d"> Click Per Affiliate
+        </label>
+        <div class="answer-explanation" id="exp5">
+            <strong>Правильный ответ: Cost Per Action.</strong><br>
+            CPA (Cost Per Action) — это модель оплаты рекламы, при которой рекламодатель платит за конкретное действие пользователя (заполнение формы, регистрацию, покупку и т.д.). "Crazy People Advertising" звучит весело, но это не настоящая расшифровка!
+        </div>
+    </div>
+
+    <div class="question-block">
+        <h3>Зачем нужны реферальные программы?</h3>
+        <label class="answer-option">
+            <input type="radio" name="q6" value="a"> Чтобы клиенты уговаривали друзей сдать экзамен вместо них
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q6" value="b"> Чтобы клиенты рекомендовали ваш продукт и получали за это бонус
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q6" value="c"> Чтобы конкуренты не могли получить доступ к вашим базам
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q6" value="d"> Чтобы можно было блокировать негативные отзывы
+        </label>
+        <div class="answer-explanation" id="exp6">
+            <strong>Правильный ответ: Чтобы клиенты рекомендовали ваш продукт и получали за это бонус.</strong><br>
+            Реферальные программы стимулируют существующих клиентов рекомендовать ваш продукт друзьям за вознаграждение. Это эффективный канал, основанный на доверии между друзьями. Блокировка негативных отзывов — это, кстати, плохая практика!
+        </div>
+    </div>
+
+    <div class="question-block">
+        <h3>Что делать, если ваш CTR высокий, но конверсия низкая?</h3>
+        <label class="answer-option">
+            <input type="radio" name="q7" value="a"> Праздновать победу, ведь CTR – это главное
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q7" value="b"> Поднять цену и продавать ещё дороже
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q7" value="c"> Улучшать сайт и оффер, чтобы заинтересовать кликающих
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q7" value="d"> Ждать у моря погоды и ничего не менять
+        </label>
+        <div class="answer-explanation" id="exp7">
+            <strong>Правильный ответ: Улучшать сайт и оффер, чтобы заинтересовать кликающих.</strong><br>
+            Высокий CTR означает, что ваши объявления привлекательны, но низкая конверсия говорит о проблемах на сайте или в предложении. Нужно работать над улучшением посадочных страниц, удобством использования и привлекательностью оффера.
+        </div>
+    </div>
+    
+    <div class="question-block">
+        <h3>Что такое Look-alike аудитория в таргетированной рекламе?</h3>
+        <label class="answer-option">
+            <input type="radio" name="q8" value="a"> Аудитория, которая очень похожа на моделей с обложек журналов
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q8" value="b"> Аудитория, похожая на ваших существующих клиентов по поведению и интересам
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q8" value="c"> Посетители, которые только смотрят, но не покупают
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q8" value="d"> Люди, которые ищут похожие на ваши товары у конкурентов
+        </label>
+        <div class="answer-explanation" id="exp8">
+            <strong>Правильный ответ: Аудитория, похожая на ваших существующих клиентов по поведению и интересам.</strong><br>
+            Look-alike (или похожие аудитории) — это алгоритм рекламных платформ, который находит пользователей, максимально похожих на вашу базу клиентов. Это эффективный способ расширить охват, не теряя релевантности.
+        </div>
+    </div>
+    
+    <div class="question-block">
+        <h3>Какой главный показатель эффективности медийной рекламы?</h3>
+        <label class="answer-option">
+            <input type="radio" name="q9" value="a"> Количество людей, увидевших рекламу хотя бы два раза
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q9" value="b"> Размер баннера в пикселях
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q9" value="c"> CPM (стоимость тысячи показов)
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q9" value="d"> VTR (процент просмотров видео до конца)
+        </label>
+        <div class="answer-explanation" id="exp9">
+            <strong>Правильный ответ: CPM (стоимость тысячи показов).</strong><br>
+            CPM — основной показатель для медийной рекламы, которая в первую очередь нацелена на охват. Для видеорекламы важен также VTR (View-Through Rate), но как отдельная метрика. Размер баннера, конечно, важен, но не как показатель эффективности!
+        </div>
+    </div>
+    
+    <div class="question-block">
+        <h3>Какой канал трафика дает самый быстрый результат?</h3>
+        <label class="answer-option">
+            <input type="radio" name="q10" value="a"> SEO
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q10" value="b"> Контекстная реклама
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q10" value="c"> Органический SMM
+        </label>
+        <label class="answer-option">
+            <input type="radio" name="q10" value="d"> Статьи на сторонних сайтах
+        </label>
+        <div class="answer-explanation" id="exp10">
+            <strong>Правильный ответ: Контекстная реклама.</strong><br>
+            Контекстная реклама может начать приводить клиентов уже в день запуска. SEO требует месяцев работы, органический SMM — постепенного наращивания аудитории, а статьи — времени на индексацию и набор авторитета.
+        </div>
+    </div>
+
+    <button type="button" class="submit-button" onclick="checkAnswers()">Проверить ответы</button>
+</form>
+
+<div class="result-block" id="result">
+    <h2>Ваш результат: <span id="score">0</span>/10</h2>
+    <p id="feedback"></p>
+</div>
+
+<script>
+    function checkAnswers() {
+        const correctAnswers = {
+            q1: "b",
+            q2: "c",
+            q3: "d",
+            q4: "b",
+            q5: "a",
+            q6: "b",
+            q7: "c",
+            q8: "b",
+            q9: "c",
+            q10: "b"
+        };
+        
+        let score = 0;
+        
+        for (const question in correctAnswers) {
+            const selectedOption = document.querySelector(`input[name="${question}"]:checked`);
+            if (selectedOption) {
+                if (selectedOption.value === correctAnswers[question]) {
+                    score++;
+                    selectedOption.parentElement.classList.add("correct");
+                } else {
+                    selectedOption.parentElement.classList.add("incorrect");
+                    document.querySelector(`input[name="${question}"][value="${correctAnswers[question]}"]`).parentElement.classList.add("correct");
+                }
+            }
+            
+            // Show explanation
+            document.getElementById(`exp${question.substr(1)}`).style.display = "block";
+        }
+        
+        document.getElementById("score").textContent = score;
+        
+        // Provide feedback based on score
+        const feedback = document.getElementById("feedback");
+        if (score <= 3) {
+            feedback.textContent = "Рекомендуем вам повторить материал. Особенно важно понять основные термины и метрики.";
+        } else if (score <= 6) {
+            feedback.textContent = "Неплохо! Вы знаете основы, но стоит углубить знания о некоторых каналах и метриках.";
+        } else if (score <= 9) {
+            feedback.textContent = "Отличный результат! Вы хорошо разбираетесь в каналах трафика. Осталось разобраться с некоторыми нюансами.";
+        } else {
+            feedback.textContent = "Превосходно! Вы отлично освоили материал по всем каналам трафика. Готовы к работе в интернет-маркетинге!";
+        }
+        
+        document.getElementById("result").style.display = "block";
+        window.scrollTo(0, document.getElementById("result").offsetTop);
+    }
+</script>
+
+</body>
+</html>

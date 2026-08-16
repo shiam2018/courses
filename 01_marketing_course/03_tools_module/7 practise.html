@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Практическое задание: создаем лендинг на Tilda</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            font-size: 28px;
+            margin-bottom: 25px;
+            color: #2a2a2a;
+        }
+        h2 {
+            font-size: 22px;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: #3a3a3a;
+        }
+        h3, h4 {
+            font-size: 18px;
+            margin-top: 20px;
+            color: #444;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul, ol {
+            padding-left: 20px;
+            margin-bottom: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px 0;
+        }
+        .intro {
+            background-color: #f5f5f5;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+            border-left: 4px solid #4285f4;
+        }
+        .task {
+            background-color: #e8f0fe;
+            padding: 15px 20px;
+            margin: 15px 0;
+            border-radius: 5px;
+            border-left: 4px solid #34a853;
+        }
+        .warning {
+            background-color: #fce8e6;
+            padding: 15px 20px;
+            margin: 15px 0;
+            border-radius: 5px;
+            border-left: 4px solid #ea4335;
+        }
+        .tip {
+            background-color: #fff8e1;
+            padding: 15px 20px;
+            margin: 15px 0;
+            border-radius: 5px;
+            border-left: 4px solid #fbbc04;
+        }
+        .example {
+            background-color: #e8f5e9;
+            padding: 15px 20px;
+            margin: 25px 0;
+            border-radius: 5px;
+            border-left: 4px solid #34a853;
+        }
+        .tools {
+            background-color: #e0f7fa;
+            padding: 15px 20px;
+            margin: 15px 0;
+            border-radius: 5px;
+            border-left: 4px solid #03a9f4;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        .quote {
+            font-style: italic;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-left: 3px solid #ccc;
+            margin: 15px 0;
+        }
+        .steps {
+            counter-reset: step-counter;
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .steps li {
+            position: relative;
+            padding-left: 50px;
+            margin-bottom: 25px;
+        }
+        .steps li:before {
+            content: counter(step-counter);
+            counter-increment: step-counter;
+            position: absolute;
+            left: 0;
+            top: 0;
+            background-color: #4285f4;
+            color: white;
+            font-weight: bold;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 30px;
+        }
+        .resource-card {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 15px;
+            transition: all 0.3s ease;
+        }
+        .resource-card:hover {
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        .resource-title {
+            font-weight: bold;
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        .resource-desc {
+            color: #555;
+        }
+        .resource-link {
+            display: inline-block;
+            margin-top: 10px;
+            color: #4285f4;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .resource-link:hover {
+            text-decoration: underline;
+        }
+        .checklist {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .checklist li {
+            position: relative;
+            padding-left: 35px;
+            margin-bottom: 15px;
+        }
+        .checklist li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 25px;
+            height: 25px;
+            background-color: #34a853;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 25px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>🛠️ Практическое задание: создаем лендинг на Tilda</h1>
+
+<p><img src="https://ucarecdn.com/fe7e2a83-9bb0-4742-9bee-9f49980134b3/" alt="Создание лендинга на Tilda"></p>
+
+<div class="intro">
+    <p>В этом практическом задании вы примените все знания, полученные в модуле «Инструменты интернет-маркетолога». Вам предстоит создать простую, но эффективную одностраничную веб-страницу (лендинг) на платформе Tilda.</p>
+    <p>Не волнуйтесь, если у вас нет опыта в веб-разработке — именно для таких случаев и созданы конструкторы сайтов. Вы сможете сделать профессиональный лендинг без единой строчки кода!</p>
+</div>
+
+<h2>📋 Описание задания</h2>
+
+<div class="task">
+    <p><strong>Цель:</strong> Создать одностраничный сайт на платформе Tilda по выбранной тематике с учетом принципов эффективного маркетинга.</p>
+    
+    <p><strong>Формат:</strong> Опубликованная веб-страница на поддомене Tilda (бесплатный тариф) или собственном домене (если у вас есть).</p>
+    
+    <p><strong>Время выполнения:</strong> 5-7 часов (включая изучение материалов, подготовку контента и создание сайта).</p>
+</div>
+
+<h2>🚀 Этапы выполнения</h2>
+
+<ol class="steps">
+    <li>
+        <h3>Выберите тему для вашего лендинга</h3>
+        <p>Это может быть:</p>
+        <ul>
+            <li>Продажа реального или вымышленного продукта</li>
+            <li>Анонс мероприятия (вебинар, конференция, встреча)</li>
+            <li>Сбор заявок на услугу</li>
+            <li>Лендинг вашего личного проекта или хобби</li>
+            <li>Портфолио ваших работ</li>
+        </ul>
+        <div class="tip">
+            <p>💡 <strong>Совет:</strong> Выбирайте тему, в которой вы хорошо разбираетесь или которая вам интересна. Так будет проще создавать убедительный контент.</p>
+        </div>
+    </li>
+    
+    <li>
+        <h3>Определите целевую аудиторию</h3>
+        <p>Опишите ваших потенциальных клиентов/посетителей:</p>
+        <ul>
+            <li>Кто они? (возраст, пол, профессия, интересы)</li>
+            <li>Какие проблемы они хотят решить?</li>
+            <li>Что их мотивирует к действию?</li>
+            <li>Какие возражения могут у них возникнуть?</li>
+        </ul>
+        <div class="example">
+            <p><strong>Пример описания аудитории:</strong></p>
+            <p>"Мой лендинг курса по йоге ориентирован на женщин 25-45 лет, ведущих активный образ жизни, но испытывающих стресс на работе. Они хотят найти способ расслабиться, улучшить здоровье и гибкость. Их мотивируют результаты других людей и возможность заниматься дома. Основные возражения: нехватка времени и сомнения в эффективности онлайн-формата."</p>
+        </div>
+    </li>
+    
+    <li>
+        <h3>Спланируйте структуру лендинга</h3>
+        <p>Определите, какие блоки будут на вашей странице. Стандартная структура лендинга включает:</p>
+        <ul>
+            <li><strong>Первый экран</strong> (hero section) с главным предложением и призывом к действию</li>
+            <li><strong>Описание проблемы</strong>, которую решает ваш продукт/услуга</li>
+            <li><strong>Преимущества</strong> вашего предложения</li>
+            <li><strong>Как это работает</strong> (этапы, процесс)</li>
+            <li><strong>Социальные доказательства</strong> (отзывы, кейсы)</li>
+            <li><strong>Цены</strong> и варианты (если применимо)</li>
+            <li><strong>FAQ</strong> (часто задаваемые вопросы)</li>
+            <li><strong>Призыв к действию</strong> (форма заявки или другая конверсионная цель)</li>
+            <li><strong>Контакты</strong> и футер</li>
+        </ul>
+        <div class="tip">
+            <p>💡 <strong>Совет:</strong> Не обязательно включать все блоки. Используйте те, которые наиболее релевантны для вашей конкретной цели и аудитории.</p>
+        </div>
+    </li>
+    
+    <li>
+        <h3>Зарегистрируйтесь на Tilda и ознакомьтесь с интерфейсом</h3>
+        <ol>
+            <li>Перейдите на сайт <a href="https://tilda.cc/ru/" target="_blank">Tilda.cc</a> и нажмите "Регистрация"</li>
+            <li>Заполните форму регистрации (можно использовать бесплатный тариф)</li>
+            <li>После входа в систему нажмите "Создать сайт"</li>
+            <li>Дайте название проекту и создайте новую страницу</li>
+            <li>Ознакомьтесь с панелью инструментов и функциями редактирования</li>
+        </ol>
+        <div class="warning">
+            <p>⚠️ <strong>Важно:</strong> Бесплатный тариф имеет ограничения (не более 50 страниц, нет возможности подключить собственный домен, присутствует водяной знак), но для учебного проекта его вполне достаточно.</p>
+        </div>
+    </li>
+    
+    <li>
+        <h3>Создайте контент для вашего лендинга</h3>
+        <p>Подготовьте все необходимые материалы:</p>
+        <ul>
+            <li><strong>Тексты:</strong> заголовки, описания, призывы к действию, вопросы FAQ</li>
+            <li><strong>Изображения:</strong> можно использовать бесплатные стоки (Unsplash, Pexels)</li>
+            <li><strong>Видео:</strong> если планируете его использовать</li>
+            <li><strong>Логотипы и иконки:</strong> можно создать простой логотип в Canva или использовать только текст</li>
+        </ul>
+        <div class="tools">
+            <h4>🖼️ Ресурсы для изображений и графики:</h4>
+            <ul>
+                <li><a href="https://unsplash.com/" target="_blank">Unsplash</a> — бесплатные фото</li>
+                <li><a href="https://www.pexels.com/" target="_blank">Pexels</a> — бесплатные фото и видео</li>
+                <li><a href="https://www.canva.com/" target="_blank">Canva</a> — создание простых графических элементов</li>
+                <li><a href="https://www.flaticon.com/" target="_blank">Flaticon</a> — бесплатные иконки</li>
+                <li><a href="https://coolors.co/" target="_blank">Coolors</a> — генератор цветовых палитр</li>
+            </ul>
+        </div>
+    </li>
+    
+    <li>
+        <h3>Соберите лендинг на Tilda</h3>
+        <p>Создайте свой лендинг, используя блоки и инструменты Tilda:</p>
+        <ol>
+            <li>В редакторе нажмите "+" для добавления нового блока</li>
+            <li>Выберите подходящие для вашей структуры блоки (Zero Block или готовые блоки)</li>
+            <li>Настройте внешний вид каждого блока: изображения, тексты, цвета, шрифты</li>
+            <li>Создайте форму для сбора заявок (если это ваша конверсионная цель)</li>
+            <li>Убедитесь, что дизайн соответствует вашему бренду/теме</li>
+        </ol>
+        <div class="example">
+            <p>Tilda предлагает два основных инструмента для создания страниц:</p>
+            <ul>
+                <li><strong>Zero Block</strong> — более гибкий инструмент для создания уникального дизайна с нуля</li>
+                <li><strong>Библиотека блоков</strong> — коллекция готовых блоков, которые можно комбинировать и настраивать</li>
+            </ul>
+            <p>Для новичков лучше начать с готовых блоков, а затем при необходимости переходить к Zero Block.</p>
+        </div>
+    </li>
+    
+    <li>
+        <h3>Настройте аналитику</h3>
+        <p>Для отслеживания эффективности вашего лендинга подключите системы аналитики:</p>
+        <ol>
+            <li>Перейдите в настройки проекта (значок шестеренки)</li>
+            <li>Выберите раздел "Статистика и инструменты"</li>
+            <li>Подключите Яндекс Метрику (создайте счетчик на сайте Яндекс Метрики и вставьте его номер)</li>
+            <li>При желании, подключите Google Analytics аналогичным образом</li>
+        </ol>
+        <div class="tip">
+            <p>💡 <strong>Совет:</strong> Настройте цели для отслеживания конверсий (например, заполнение формы или клик по кнопке). В Tilda это можно сделать без кода.</p>
+        </div>
+    </li>
+    
+    <li>
+        <h3>Проверьте и оптимизируйте лендинг</h3>
+        <p>Перед публикацией проверьте свой лендинг по следующим параметрам:</p>
+        <ul class="checklist">
+            <li><strong>Мобильная версия</strong> — убедитесь, что страница хорошо выглядит на смартфонах</li>
+            <li><strong>Скорость загрузки</strong> — оптимизируйте размер изображений, если они слишком тяжелые</li>
+            <li><strong>Текстовые ошибки</strong> — проверьте орфографию и пунктуацию</li>
+            <li><strong>Работоспособность форм</strong> — протестируйте отправку заявок</li>
+            <li><strong>Призывы к действию</strong> — убедитесь, что они заметны и понятны</li>
+            <li><strong>Единый стиль</strong> — проверьте согласованность дизайна и цветов</li>
+        </ul>
+    </li>
+    
+    <li>
+        <h3>Опубликуйте лендинг</h3>
+        <p>Когда всё готово, опубликуйте ваш лендинг:</p>
+        <ol>
+            <li>Нажмите кнопку "Опубликовать" в верхней части редактора</li>
+            <li>Выберите URL для публикации (на поддомене Tilda или на собственном домене)</li>
+            <li>Дождитесь завершения публикации</li>
+            <li>Проверьте опубликованную версию, перейдя по предоставленной ссылке</li>
+        </ol>
+    </li>
+</ol>
+
+<h2>📝 Критерии оценки работы</h2>
+
+<p>Ваш лендинг будет оцениваться по следующим критериям:</p>
+
+<table>
+    <tr>
+        <th>Критерий</th>
+        <th>Описание</th>
+    </tr>
+    <tr>
+        <td><strong>Структура</strong></td>
+        <td>Наличие всех необходимых блоков, логичная последовательность информации</td>
+    </tr>
+    <tr>
+        <td><strong>Визуальный дизайн</strong></td>
+        <td>Привлекательный внешний вид, согласованность стиля, качество изображений</td>
+    </tr>
+    <tr>
+        <td><strong>Копирайтинг</strong></td>
+        <td>Убедительные тексты, четкие призывы к действию, отсутствие ошибок</td>
+    </tr>
+    <tr>
+        <td><strong>Конверсионные элементы</strong></td>
+        <td>Наличие и качество форм, кнопок, призывов к действию</td>
+    </tr>
+    <tr>
+        <td><strong>Адаптивность</strong></td>
+        <td>Корректное отображение на различных устройствах</td>
+    </tr>
+    <tr>
+        <td><strong>Аналитика</strong></td>
+        <td>Правильная настройка систем аналитики и целей</td>
+    </tr>
+</table>
+
+<h2>🎓 Дополнительные материалы для изучения</h2>
+
+<div class="resource-card">
+    <div class="resource-title">Официальная справка Tilda</div>
+    <div class="resource-desc">Подробная документация по работе с платформой, включая инструкции, видеоуроки и примеры</div>
+    <a href="https://help-ru.tilda.cc/" class="resource-link" target="_blank">Открыть справку</a>
+</div>
+
+<div class="resource-card">
+    <div class="resource-title">Курс "Основы Tilda" от самой Tilda</div>
+    <div class="resource-desc">Бесплатный курс для начинающих, который поможет освоить основные инструменты платформы</div>
+    <a href="https://tilda.education/courses/websitebuilder/" class="resource-link" target="_blank">Начать курс</a>
+</div>
+
+<div class="resource-card">
+    <div class="resource-title">Галерея шаблонов Tilda</div>
+    <div class="resource-desc">Коллекция готовых шаблонов, которые можно использовать как основу для вашего лендинга</div>
+    <a href="https://tilda.cc/ru/templates/" class="resource-link" target="_blank">Посмотреть шаблоны</a>
+</div>
+
+<div class="resource-card">
+    <div class="resource-title">Сборник примеров лендингов</div>
+    <div class="resource-desc">Коллекция успешных одностраничных сайтов, созданных на Tilda</div>
+    <a href="https://tilda.cc/ru/cases/" class="resource-link" target="_blank">Изучить примеры</a>
+</div>
+
+<h2>❓ Часто задаваемые вопросы</h2>
+
+<div class="task">
+    <h3>Обязательно ли использовать Tilda?</h3>
+    <p>Tilda рекомендуется, поскольку это один из самых простых и функциональных конструкторов для создания лендингов без знания кода. Однако, если у вас есть опыт работы с другими платформами (WordPress, Wix, Readymag и т.д.), вы можете использовать их.</p>
+</div>
+
+<div class="task">
+    <h3>Что делать, если у меня нет идей для лендинга?</h3>
+    <p>Вы можете создать лендинг для:</p>
+    <ul>
+        <li>Вашего хобби (фотография, рисование, кулинария)</li>
+        <li>Вымышленного сервиса (придумайте что-то, что могло бы быть полезно)</li>
+        <li>Своего резюме или портфолио</li>
+        <li>Благотворительной акции или социальной инициативы</li>
+    </ul>
+</div>
+
+<div class="task">
+    <h3>Нужно ли покупать платный тариф Tilda?</h3>
+    <p>Нет, для выполнения практического задания достаточно бесплатного тарифа. Он имеет некоторые ограничения (наличие водяного знака Tilda, ограниченное количество страниц), но для создания одностраничного сайта этого достаточно.</p>
+</div>
+
+<div class="task">
+    <h3>Как сдать работу на проверку?</h3>
+    <p>После публикации лендинга отправьте:</p>
+    <ol>
+        <li>Ссылку на опубликованный лендинг</li>
+        <li>Краткое описание вашей целевой аудитории и целей лендинга</li>
+        <li>Скриншот настроек аналитики</li>
+    </ol>
+</div>
+
+<div class="quote">
+    <p>"Лучший дизайн — это не тот, к которому нечего добавить, а тот, от которого нечего отнять."</p>
+    <p style="text-align: right;">— Антуан де Сент-Экзюпери</p>
+</div>
+
+<h2>🏁 Итог</h2>
+
+<div class="intro">
+    <p>Создание лендинга — это не просто техническая задача. Это возможность применить все маркетинговые знания: от понимания аудитории до измерения результатов.</p>
+    <p>После выполнения этого задания у вас будет не только готовый проект для портфолио, но и практический опыт создания инструмента, который может конвертировать посетителей в клиентов.</p>
+    <p>Удачи в создании вашего первого лендинга! 🚀</p>
+</div>
+
+</body>
+</html>
