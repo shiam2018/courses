@@ -1,0 +1,96 @@
+{
+  "id": 621413,
+  "lesson": 209182,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2 style=\"text-align: center;\">Выберете аббревиатуру  на английском языке, которая обозначает <strong>цену за тысячу показов</strong></h2>\n",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 3,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "CPM",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "CPC",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "CPA",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-621413",
+  "subscriptions": [
+    "31-77-621413",
+    "30-77-621413"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 4252,
+  "passed_by": 4116,
+  "correct_ratio": 0.7373485388453315,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 600503,
+  "create_date": "2019-02-14T14:11:21Z",
+  "update_date": "2019-02-14T14:11:53Z",
+  "discussions_count": 2,
+  "discussion_proxy": "77-621413-1",
+  "discussion_threads": [
+    "77-621413-1",
+    "77-621413-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

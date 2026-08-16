@@ -1,0 +1,70 @@
+{
+  "id": 621143,
+  "lesson": 209008,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "free-answer",
+    "text": "<h2 style=\"text-align: center;\">Чего вы ожидаете от обучения?</h2>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_attachments_enabled": false,
+      "is_html_enabled": true,
+      "manual_scoring": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#"
+  },
+  "progress": "77-621143",
+  "subscriptions": [
+    "31-77-621143",
+    "30-77-621143"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 5327,
+  "passed_by": 4126,
+  "correct_ratio": 0.9917450126117863,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 600234,
+  "create_date": "2019-02-14T12:09:28Z",
+  "update_date": "2019-12-13T20:14:27Z",
+  "discussions_count": 0,
+  "discussion_proxy": null,
+  "discussion_threads": [],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

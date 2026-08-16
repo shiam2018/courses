@@ -1,0 +1,67 @@
+{
+  "id": 618930,
+  "lesson": 208430,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<ul>\n\t<li><strong>Креатив или крео</strong> – изображение или видео, которые используются в рекламе</li>\n\t<li><strong>Эффективный или “жгущий” креатив</strong> – креатив обладающий высокой кликабельностью и/или конверсией</li>\n\t<li><strong>Кликабельность или CTR</strong> – отношение кликов к показам, показывает насколько заметен креатив для пользователей. Чем выше, тем лучше</li>\n\t<li><strong>Показатель конверсии или CVR/CR</strong> – отношение целевых действий к кликам, показывает насколько интересен продукт пользователям. Чем выше, тем лучше</li>\n\t<li><strong>Spy-сервисы </strong>– сайты, которые позволяют увидеть креативы конкурентов</li>\n\t<li><strong>Баннермейкер и моушн-дизайнер</strong> – специалисты, которые разрабатывают баннеры и видео креативы</li>\n\t<li><strong>Техническое задание</strong> – краткое описание и требования к креативу, который должен сделать баннермейкер или моушн-дизайнер</li>\n</ul>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-618930",
+  "subscriptions": [
+    "31-77-618930",
+    "30-77-618930"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3513,
+  "passed_by": 3513,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 598021,
+  "create_date": "2019-02-12T13:32:48Z",
+  "update_date": "2019-02-13T08:44:44Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-618930-1",
+  "discussion_threads": [
+    "77-618930-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

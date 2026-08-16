@@ -1,0 +1,101 @@
+{
+  "id": 620301,
+  "lesson": 208759,
+  "position": 14,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h3>Блок 3: \"Креативы\"</h3>\n\n<p>Как расчитывается <strong>CTR</strong>?</p>\n",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Отношение показов к целевым действиям, CTR = (Показы / Конверсии) x 100%",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Отношение кликов к показам, CTR = (Клики / Показы) x 100%",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Сумма всех расходов в рекламной системе",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Отношение конверсий к кликам, CTR = (Конверсии / Клики) x 100%",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-620301",
+  "subscriptions": [
+    "31-77-620301",
+    "30-77-620301"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2795,
+  "passed_by": 2751,
+  "correct_ratio": 0.6163101604278075,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 599392,
+  "create_date": "2019-02-13T15:13:28Z",
+  "update_date": "2019-02-14T11:20:45Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-620301-1",
+  "discussion_threads": [
+    "77-620301-1",
+    "77-620301-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

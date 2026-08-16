@@ -1,0 +1,96 @@
+{
+  "id": 621923,
+  "lesson": 209189,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2 style=\"text-align: center;\">Что такое доход в арбитраже трафика?</h2>\n",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 3,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Сумма, которую платит рекламодатель за целевые действия, которые привлек арбитражник",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Сумма, которую платят арбитражники рекламным системам",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Зарплата арбитражника, аккаунт менеджера, баннермейкера",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-621923",
+  "subscriptions": [
+    "31-77-621923",
+    "30-77-621923"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3086,
+  "passed_by": 3002,
+  "correct_ratio": 0.885689097854834,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 601013,
+  "create_date": "2019-02-15T08:53:45Z",
+  "update_date": "2019-02-15T08:53:46Z",
+  "discussions_count": 1,
+  "discussion_proxy": "77-621923-1",
+  "discussion_threads": [
+    "77-621923-1",
+    "77-621923-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

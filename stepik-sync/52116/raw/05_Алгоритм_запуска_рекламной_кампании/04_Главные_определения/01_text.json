@@ -1,0 +1,67 @@
+{
+  "id": 620001,
+  "lesson": 208688,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<ul>\n\t<li><strong>Рекламный кабинет или аккаунт</strong> – место, где вы ведете кампании в рекламной системе</li>\n\t<li><strong>Прибыль или профит</strong> – разница между доходом и расходом, то что остается после выплаты всех расходов</li>\n\t<li><strong>Доход </strong>– сумма, которую выплачивает рекламодатель за все целевые действия, привлеченные арбитражником. Рассчитывается как произведение выплаты на количество конверсий</li>\n\t<li><strong>Расход </strong>– сумма, которую платит арбитражник рекламной системе. Рассчитывается как произведение стоимости за действие на количество конверсий</li>\n\t<li><strong>ROI или рентабельность</strong> – показатель насколько выгодно вкладывать деньги в рекламу оффера. Рассчитывается как отношение прибыли к расходам.</li>\n\t<li><strong>Подготовка </strong>– этап работы, когда собираются данные об оффере, целевой аудитории, готовятся кабинеты, заказываются креативы</li>\n\t<li><strong>Тестирование </strong>– этап работы, когда получаются первые данные (CTR, CPC, CVR, ROI) по креативам </li>\n\t<li><strong>Оптимизация </strong>– этап работы, когда улучшаются показатели, отключается неэффективное, увеличиваются ставки на эффективные креативы</li>\n\t<li><strong>Масштабирование </strong>– этап работы, когда арбитражники пытаются максимизировать прибыль – подключают новые страны, аудитории, увеличивают бюджеты, ищут самые кликабельные креативы</li>\n\t<li><strong>Стоимость за действие</strong> – сколько арбитражник платит за одну конверсию, отношение расхода к количеству конверсий</li>\n\t<li><strong>Минусит </strong>– приносит убыток</li>\n\t<li><strong>Плюсует </strong>– приносит прибыль</li>\n\t<li><strong>Выплата </strong>– сумма, которую платит рекламодатель за каждую конверсию</li>\n</ul>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-620001",
+  "subscriptions": [
+    "31-77-620001",
+    "30-77-620001"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3223,
+  "passed_by": 3223,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 599092,
+  "create_date": "2019-02-13T09:42:06Z",
+  "update_date": "2019-02-28T07:53:58Z",
+  "discussions_count": 2,
+  "discussion_proxy": "77-620001-1",
+  "discussion_threads": [
+    "77-620001-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

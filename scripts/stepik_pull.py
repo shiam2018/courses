@@ -92,7 +92,7 @@ def main():
     sections = batch_get("sections", section_ids, token, key="sections")
     sections.sort(key=lambda s: s.get("position", 0))
 
-    out_root = os.path.join(os.path.dirname(__file__), "..", "stepik-sync")
+    out_root = os.path.join(os.path.dirname(__file__), "..", "stepik-sync", str(course_id))
     raw_root = os.path.join(out_root, "raw")
     os.makedirs(raw_root, exist_ok=True)
 

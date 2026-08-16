@@ -1,0 +1,67 @@
+{
+  "id": 621094,
+  "lesson": 208993,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h3>Поздравляю с успешным завершением курса!</h3>\n\n<p>Благодарю вас за то, что уделили время и прошли мой курс. Пожалуйста, оставьте ваш отзыв и отправьте ссылку на курс вашим друзьям и знакомым, которым он может быть полезен.</p>\n\n<p>Я уверен, что вы приобрели полезные знания в области арбитража трафика. Не забудьте подписаться на мои <a href=\"https://t.me/marketingjourney/\" rel=\"noopener noreferrer nofollow\">Telegram</a> и <a href=\"https://www.youtube.com/@shenshinigor\" rel=\"noopener noreferrer nofollow\">YouTube</a> каналы, где я даю советы по поиску работы в маркетинге и развитию своих навыков.</p>\n\n<p>Лучшая инвестиция - это инвестиция в себя и свое образование. Человек, который постоянно учится и развивается, имеет гораздо больше шансов достичь успеха в своей карьере и жизни в целом. Поэтому я настоятельно рекомендую продолжать обучение. Буду рад видеть вас на других моих курсах и надеюсь, что они будут также познавательными и интересными.</p>\n\n<p>Буду рад видеть вас на моих бесплатных курсах, включая \"<a href=\"https://stepik.org/course/94835/\" rel=\"noopener noreferrer nofollow\">Введение в контекстную рекламу и Яндекс.Директ</a>\", где я рассказываю о необходимых знаниях для начала работы в контекстной рекламе.</p>\n\n<p>Если вы хотите записаться на индивидуальное обучение и коучинг для достижения конкретных целей, напишите мне в <a href=\"https://t.me/shenshinigor/\" rel=\"noopener noreferrer nofollow\">Telegram</a>.</p>\n\n<p>Новости и бесплатные ресурсы, в том числе мои вебинары и подкасты, доступны на моем сайте <a href=\"https://shenshinigor.ru/\" rel=\"noopener noreferrer nofollow\">shenshinigor.ru</a>.</p>\n\n<p>Мир маркетинга постоянно развивается, каждый год появляются новые возможности. Я надеюсь, что вы будете их отслеживать и сможете извлечь из перемен большую выгоду.</p>\n\n<p>Я желаю вам успеха на вашем пути маркетолога!</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-621094",
+  "subscriptions": [
+    "31-77-621094",
+    "30-77-621094"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3102,
+  "passed_by": 3102,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 600185,
+  "create_date": "2019-02-14T11:07:46Z",
+  "update_date": "2023-04-03T14:58:49Z",
+  "discussions_count": 23,
+  "discussion_proxy": "77-621094-1",
+  "discussion_threads": [
+    "77-621094-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

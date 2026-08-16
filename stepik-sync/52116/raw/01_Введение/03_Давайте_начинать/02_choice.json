@@ -1,0 +1,92 @@
+{
+  "id": 3906409,
+  "lesson": 209008,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Теперь первая проверка знаний, которые вы получили на предыдущем шаге.</p>\n\n<p>Что такое \"арбитраж трафика\"?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 3,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": true,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Перепродажа трафика с целью получить прибыль",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Суд, разбирающий дела в сфере экономической деятельности",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": " Отслеживание соблюдения правил игры в футболе",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Правильно! Арбитраж - перепродажа трафика и получение прибыли на этом.",
+    "feedback_wrong": "Неправльно. Арбитраж трафика не имеет общего с судами и футболом."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#"
+  },
+  "progress": "77-3906409",
+  "subscriptions": [
+    "31-77-3906409",
+    "30-77-3906409"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3390,
+  "passed_by": 3002,
+  "correct_ratio": 0.9656941327348509,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3885506,
+  "create_date": "2023-03-27T12:23:36Z",
+  "update_date": "2023-03-27T12:29:50Z",
+  "discussions_count": 0,
+  "discussion_proxy": null,
+  "discussion_threads": [],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

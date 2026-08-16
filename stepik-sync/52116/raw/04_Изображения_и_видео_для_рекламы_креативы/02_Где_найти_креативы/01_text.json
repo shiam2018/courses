@@ -1,0 +1,67 @@
+{
+  "id": 618918,
+  "lesson": 208424,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Перед запуском любой рекламы, арбитражнику необходимо <strong>найти креативы</strong>, которые он загрузит в рекламную систему и начнет тестирование.</p>\n\n<h2 style=\"text-align: center;\">Где найти креативы?</h2>\n\n<ul>\n\t<li><strong>Найти в сервисах</strong> мониторинга (<strong>spy-сервисах</strong>) креативов таких как <a href=\"http://publer.pro\" rel=\"nofollow noopener noreferrer\">publer.pro</a> или <a href=\"http://adspy.com\" rel=\"nofollow noopener noreferrer\">adspy.com</a></li>\n\t<li><strong>Сделать самому</strong> в графическом или видеоредакторе – например по<a href=\"https://docs.google.com/document/d/1RtIOHxpAtSzw_daLwWqYQRBpJCWOfqW24pCntDBcyBI/edit#heading=h.urtskpsefdx4\" rel=\"nofollow noopener noreferrer\"> этой инструкции</a></li>\n\t<li><strong>Заказать у баннермейкера</strong> (дизайнер, который делает рекламные материалы) или моушн-дизайнера (дизайнер, который делает видеоролики) поставив им <a href=\"https://docs.google.com/document/d/1eWNGj9qRVlAsmn05oZpi22ytmlx6v121qGtWR-Oc9qU/edit\" rel=\"nofollow noopener noreferrer\">техническое задание</a></li>\n\t<li><strong>Попросить у коллег</strong> поделиться своими креативами</li>\n</ul>\n\n<h2 style=\"text-align: center;\">Какие креативы выбрать?</h2>\n\n<p>Выбирайте креативы с наиболее простым и понятным посылом. Наиболее <strong>яркие эмоции</strong> вызывает:</p>\n\n<ol>\n\t<li><strong>Экономия денег и жадность</strong> – при рекламе товаров и интернет-магазинов показывайте самые выгодные предложения, которые граничат с вау-эффектом</li>\n\t<li><strong>Ностальгия</strong> – при рекламе игр вы можете взывать к воспоминаниям детства, прошлого. Например, отлично работает отсылка к Тамагочи или Мортал Комбат </li>\n\t<li><strong>Вау-эффект</strong> – что-то невероятное и крутое, отлично работает со всеми офферами</li>\n\t<li><strong>Срочность и страх потери</strong> – ограничение количества, времени распродажи. Передайте, что если пользователь не совершит целевое действие, то лишится чего-то выгодного</li>\n</ol>\n\n<p>С опытом у арбитражника вырабатывается <strong>чутье на креативы</strong>, которое значительно укорачивает этап тестирования и повышает общую рентабельность закупки.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-618918",
+  "subscriptions": [
+    "31-77-618918",
+    "30-77-618918"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3629,
+  "passed_by": 3629,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 598009,
+  "create_date": "2019-02-12T13:28:01Z",
+  "update_date": "2019-02-16T11:17:05Z",
+  "discussions_count": 3,
+  "discussion_proxy": "77-618918-1",
+  "discussion_threads": [
+    "77-618918-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

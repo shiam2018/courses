@@ -1,0 +1,67 @@
+{
+  "id": 618919,
+  "lesson": 208425,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Чтобы получить прибыль и заработать деньги необходимо выбрать оффер и запустить прибыльную рекламную кампанию.</p>\n\n<p>Оффером арбитражника обеспечивает агентство, а кампании он должен запускать сам.</p>\n\n<h2 style=\"text-align: center;\">Алгоритм действий</h2>\n\n<ol>\n\t<li><strong>Изучить оффер</strong> – необходимо воспользоваться продуктом, который предлагает рекламодатель, чтобы понять как лучше его рекламировать пользователям</li>\n\t<li><strong>Изучить целевую аудиторию </strong>– составьте краткое описание целевой аудитории, которая заинтересована в оффере, затем превратите его в набор таргетингов для рекламной системы</li>\n\t<li><strong>Найти креативы</strong> – тем или иным способом получить изображения или видео для рекламы оффера</li>\n\t<li><strong>Настроить рекламный кабинет</strong> – позаботиться о рекламном аккаунте, где будет показываться реклама</li>\n\t<li><strong>Запустить рекламу</strong> – создать рекламные кампании, выбрать таргетинги, настроить ставки и бюджет, загрузить креативы, отправить на модерацию</li>\n\t<li><strong>Провести оптимизацию</strong> – после некоторого времени отключить неэффективные группы объявлений и увеличить ставки на эффективные группы объявлений</li>\n\t<li><strong>Заполнить отчет</strong> – заполнить ежедневную таблицу с доходом/расходом арбитражника для руководителя</li>\n</ol>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-618919",
+  "subscriptions": [
+    "31-77-618919",
+    "30-77-618919"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3561,
+  "passed_by": 3561,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 598010,
+  "create_date": "2019-02-12T13:28:47Z",
+  "update_date": "2019-02-13T14:03:55Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-618919-1",
+  "discussion_threads": [
+    "77-618919-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

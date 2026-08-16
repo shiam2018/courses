@@ -1,0 +1,101 @@
+{
+  "id": 621925,
+  "lesson": 209189,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2 style=\"text-align: center;\">Что нужно сделать в первую очередь перед запуском оффера?</h2>\n",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Изучить оффер и целевую аудиторию",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Провести оптимизацию и масштабирование",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Сделать умный вид и сказать, что оффер вывести в плюс невозможно",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Отложить задание руководителя, проверить Вконтакте и почту, выпить кофе",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-621925",
+  "subscriptions": [
+    "31-77-621925",
+    "30-77-621925"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3203,
+  "passed_by": 3023,
+  "correct_ratio": 0.9226569608735213,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 601016,
+  "create_date": "2019-02-15T08:53:45Z",
+  "update_date": "2019-02-15T10:21:54Z",
+  "discussions_count": 1,
+  "discussion_proxy": "77-621925-1",
+  "discussion_threads": [
+    "77-621925-1",
+    "77-621925-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

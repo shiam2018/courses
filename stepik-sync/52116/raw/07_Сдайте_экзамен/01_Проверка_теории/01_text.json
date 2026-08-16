@@ -1,0 +1,67 @@
+{
+  "id": 620249,
+  "lesson": 208759,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Сдайте простой тест, связанный с определениями, которые мы прошли.</p>\n\n<p><strong>3 блока по 5 вопросов </strong>с вариантами ответа, блоки повторяют структуру курса.</p>\n\n<p>В каждом вопросе возможен только <strong>один вариант ответа</strong>.</p>\n\n<p>Для прохождения экзамена нужно ответить правильно на <strong>12 вопросов (80%)</strong>.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-620249",
+  "subscriptions": [
+    "31-77-620249",
+    "30-77-620249"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3009,
+  "passed_by": 3009,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 599340,
+  "create_date": "2019-02-13T14:09:57Z",
+  "update_date": "2019-02-14T10:47:42Z",
+  "discussions_count": 2,
+  "discussion_proxy": "77-620249-1",
+  "discussion_threads": [
+    "77-620249-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

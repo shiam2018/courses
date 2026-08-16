@@ -1,0 +1,96 @@
+{
+  "id": 621908,
+  "lesson": 209188,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2 style=\"text-align: center;\">Что такое чутье на креативы?</h2>\n",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 3,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Способность быстро выбирать лучшие креативы, которая появляется с опытом работы",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Предугадывать появление руководителя в офисе",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Способность найти и запустить самый неэффективный креатив на планете",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-621908",
+  "subscriptions": [
+    "31-77-621908",
+    "30-77-621908"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3405,
+  "passed_by": 3318,
+  "correct_ratio": 0.959919261822376,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 600999,
+  "create_date": "2019-02-15T08:43:47Z",
+  "update_date": "2019-02-15T08:43:48Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-621908-1",
+  "discussion_threads": [
+    "77-621908-1",
+    "77-621908-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

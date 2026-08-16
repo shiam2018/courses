@@ -1,0 +1,101 @@
+{
+  "id": 620257,
+  "lesson": 208759,
+  "position": 6,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h3>Блок 1: \"Базовые понятия\"</h3>\n\n<p>Что такое <strong>целевое действие</strong>?</p>\n",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Действия маркетолога при запуске рекламы",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Действие, которое ведет рекламодателя к получению прибыли и за которое он готов платить арбитражникам",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Настройка таргетингов в рекламной системе",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Мозговой штурм при подготовке к запуску рекламы",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-620257",
+  "subscriptions": [
+    "31-77-620257",
+    "30-77-620257"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2853,
+  "passed_by": 2810,
+  "correct_ratio": 0.8667076167076168,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 599348,
+  "create_date": "2019-02-13T14:27:45Z",
+  "update_date": "2019-02-14T10:42:40Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-620257-1",
+  "discussion_threads": [
+    "77-620257-1",
+    "77-620257-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

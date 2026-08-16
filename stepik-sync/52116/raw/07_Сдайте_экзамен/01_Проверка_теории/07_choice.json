@@ -1,0 +1,101 @@
+{
+  "id": 621036,
+  "lesson": 208759,
+  "position": 7,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h3>Блок 2: \"Реклама Facebook Ads\"</h3>\n\n<p>Какой список <strong>мест размещения</strong> в Facebook Ads правильный?</p>\n",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Facebook, Instagram, Audience Network, Messenger ",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Баннеры, видео, слайдшоу",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Соцдем, Гео, Поведение, Аудитории",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "CPC, CPM, CPI, CPV",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-621036",
+  "subscriptions": [
+    "31-77-621036",
+    "30-77-621036"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2849,
+  "passed_by": 2807,
+  "correct_ratio": 0.7858337981037368,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 600127,
+  "create_date": "2019-02-14T10:28:09Z",
+  "update_date": "2019-02-14T10:42:40Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-621036-1",
+  "discussion_threads": [
+    "77-621036-1",
+    "77-621036-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

@@ -1,0 +1,77 @@
+{
+  "id": 621089,
+  "lesson": 208760,
+  "position": 5,
+  "status": "ready",
+  "block": {
+    "name": "number",
+    "text": "<p>Чему равна <strong>прибыль</strong>, если доход = 84 долларов, а расход = 70 долларов?</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "options": [
+        {
+          "answer": "14",
+          "max_error": "0"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-621089",
+  "subscriptions": [
+    "31-77-621089",
+    "30-77-621089"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2673,
+  "passed_by": 2578,
+  "correct_ratio": 0.9511209114296214,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 600180,
+  "create_date": "2019-02-14T11:04:49Z",
+  "update_date": "2019-02-14T11:04:50Z",
+  "discussions_count": 4,
+  "discussion_proxy": "77-621089-1",
+  "discussion_threads": [
+    "77-621089-1",
+    "77-621089-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

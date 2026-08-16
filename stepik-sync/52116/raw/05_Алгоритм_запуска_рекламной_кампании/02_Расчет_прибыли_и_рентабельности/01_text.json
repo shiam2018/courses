@@ -1,0 +1,67 @@
+{
+  "id": 618920,
+  "lesson": 208426,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align: center;\">Прибыль</h2>\n\n<p><strong>Прибыль или профит</strong> (от английского profit – прибыль/выгода) – главная цель в арбитраже трафика.</p>\n\n<p>На ее основе считается доход арбитражника, оценивается целесообразность работы над тем или иным оффером.</p>\n\n<p>Чтобы вычислить прибыль необходимо вычесть расход из дохода:</p>\n\n<p style=\"text-align: center;\"><strong>Прибыль = Доход – Расход</strong></p>\n\n<h2 style=\"text-align: center;\">Доход</h2>\n\n<p><strong>Доход </strong>в арбитраже рассчитывается как количество конверсий (целевых действий) умноженное на выплату (сумму которую рекламодатель выплачивает за каждое целевое действие)</p>\n\n<p style=\"text-align: center;\"><strong>Доход = Конверсии х Выплата</strong></p>\n\n<h2 style=\"text-align: center;\">Расход</h2>\n\n<p><strong>Расход </strong>в арбитраже равен сумме денег, потраченной в рекламной системе на покупку трафика, по другому это количество конверсий умноженное на стоимость действия (CPA - cost per action)</p>\n\n<p style=\"text-align: center;\"><strong>Расход = Деньги потраченные в рекламной системе = Конверсии х CPA</strong></p>\n\n<h2 style=\"text-align: center;\">Рентабельность</h2>\n\n<p>Чтобы рассчитать насколько выгодно работать с оффером используют показатель <strong>рентабельности или ROI</strong> (return on investment, читается как \"рой\", редко \"роай\").</p>\n\n<p style=\"text-align: center;\"><strong>ROI = (Прибыль / Расход ) х 100%</strong></p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-618920",
+  "subscriptions": [
+    "31-77-618920",
+    "30-77-618920"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3415,
+  "passed_by": 3415,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 598011,
+  "create_date": "2019-02-12T13:29:12Z",
+  "update_date": "2019-02-20T05:14:10Z",
+  "discussions_count": 2,
+  "discussion_proxy": "77-618920-1",
+  "discussion_threads": [
+    "77-618920-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
