@@ -1,0 +1,67 @@
+{
+  "id": 6171069,
+  "lesson": 1491800,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Этот уровень подходит для начинающих маркетологов, которые хотят закрепить базовые знания и навыки. Проект включает в себя выполнение ключевых шагов, достаточных для создания маркетинговой стратегии начального уровня.</p>\n\n<p><strong>Задания:</strong></p>\n\n<ol>\n\t<li>Краткое описание проекта и его целей.</li>\n\t<li>Проведение базового исследования целевой аудитории (без создания портретов).</li>\n\t<li>SWOT-анализ конкурентов для понимания сильных и слабых сторон.</li>\n\t<li>Составление простого медиаплана для продвижения проекта с указанием базовых каналов и бюджета.</li>\n</ol>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-6171069",
+  "subscriptions": [
+    "31-77-6171069",
+    "30-77-6171069"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6150160,
+  "create_date": "2024-10-31T13:08:20Z",
+  "update_date": "2024-11-01T04:47:49Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6171069-1",
+  "discussion_threads": [
+    "77-6171069-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

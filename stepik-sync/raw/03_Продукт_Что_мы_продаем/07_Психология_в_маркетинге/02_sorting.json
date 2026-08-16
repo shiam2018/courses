@@ -1,0 +1,89 @@
+{
+  "id": 6071564,
+  "lesson": 1390333,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "sorting",
+    "text": "<p>Расположите уровни пирамиды Маслоу в правильном порядке, начиная с базовых потребностей (в самом низу) и заканчивая высшими (вверху).</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_html_enabled": true,
+      "options": [
+        {
+          "text": "Потребности в самореализации."
+        },
+        {
+          "text": "Потребности в уважении."
+        },
+        {
+          "text": "Социальные потребности."
+        },
+        {
+          "text": "Потребности в безопасности."
+        },
+        {
+          "text": "Физиологические потребности."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Правильно! Пирамида Маслоу начинается с физиологических потребностей, как самых базовых, и заканчивается потребностями в самореализации на высшем уровне. Этот порядок отражает иерархию потребностей человека: сначала удовлетворяются базовые физиологические и социальные нужды, а затем человек стремится к личностному росту и самореализации.",
+    "feedback_wrong": "Важно помнить, что физиологические потребности — это основа пирамиды, их нужно выбрать внизу, и только после их удовлетворения человек может двигаться к более высоким уровням, таким как безопасность, социальные потребности, уважение и, наконец, самореализация."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6071564",
+  "subscriptions": [
+    "31-77-6071564",
+    "30-77-6071564"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6050657,
+  "create_date": "2024-10-11T13:38:21Z",
+  "update_date": "2024-10-11T13:38:21Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6071564-1",
+  "discussion_threads": [
+    "77-6071564-1",
+    "77-6071564-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

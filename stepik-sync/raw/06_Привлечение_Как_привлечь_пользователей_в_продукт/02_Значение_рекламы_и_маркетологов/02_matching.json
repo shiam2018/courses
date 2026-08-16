@@ -1,0 +1,87 @@
+{
+  "id": 6165316,
+  "lesson": 1390340,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>Сопоставьте следующие термины с их определениями</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Тестирование",
+          "second": "Проверка гипотез и оценка эффективности подходов, а также рекламных креативов."
+        },
+        {
+          "first": "Оптимизация",
+          "second": "Улучшения результатов текущих рекламных кампаний путём корректировки настроек, креативов, таргетинга, ставок и бюджетов."
+        },
+        {
+          "first": "Масштабирование",
+          "second": "Увеличение потока клиентов, одновременно контролируя стоимость привлечения, чтобы это оставалось прибыльным для бизнеса. "
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отличная работа! Вы правильно сопоставили термины с их определениями.",
+    "feedback_wrong": "Обратите внимание, проверка гипотез и оценка эффективности осуществляется в процессе тестирования. В процессе оптимизации происходит улучшение результатов, а при масштабировании происходит увеличение числа клиентов."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6165316",
+  "subscriptions": [
+    "31-77-6165316",
+    "30-77-6165316"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6144407,
+  "create_date": "2024-10-30T12:27:41Z",
+  "update_date": "2024-11-01T07:28:55Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6165316-1",
+  "discussion_threads": [
+    "77-6165316-1",
+    "77-6165316-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

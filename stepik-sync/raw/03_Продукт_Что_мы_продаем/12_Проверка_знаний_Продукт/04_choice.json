@@ -1,0 +1,101 @@
+{
+  "id": 5690545,
+  "lesson": 1374795,
+  "position": 4,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2><strong>Почему важна цена при выборе продукта?</strong></h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Потому что всем нравится тратить деньги бездумно.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Потому что у покупателя может не хватить денег или конкуренты могут продавать дешевле.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Потому что дешевые продукты всегда лучше.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": " Потому что цена указывает на цвет продукта.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Цена — это объективная величина, которая определяет стоимость продукта.",
+    "feedback_wrong": "Людям обычно не нравится тратить деньги бездумно, они стремятся к разумным покупкам; дешевые продукты не всегда лучше, так как их качество может быть низким, и цена не имеет никакого отношения к цвету продукта."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-5690545",
+  "subscriptions": [
+    "31-77-5690545",
+    "30-77-5690545"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2,
+  "passed_by": 1,
+  "correct_ratio": 1.0,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 5669639,
+  "create_date": "2024-07-08T17:28:03Z",
+  "update_date": "2024-07-15T14:18:56Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-5690545-1",
+  "discussion_threads": [
+    "77-5690545-1",
+    "77-5690545-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

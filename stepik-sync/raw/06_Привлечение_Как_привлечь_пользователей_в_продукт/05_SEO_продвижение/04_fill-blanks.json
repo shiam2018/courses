@@ -1,0 +1,175 @@
+{
+  "id": 6199770,
+  "lesson": 1390343,
+  "position": 4,
+  "status": "ready",
+  "block": {
+    "name": "fill-blanks",
+    "text": "Вы можете изменить условие задания в этом поле и указать настройки ниже.",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "components": [
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "Минус-слова",
+              "is_correct": false
+            },
+            {
+              "text": "Запросы",
+              "is_correct": false
+            },
+            {
+              "text": "Ключевые слова",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " - основа SEO продвижения. SEO направлено на",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "точное таргетирование",
+              "is_correct": false
+            },
+            {
+              "text": "широкое привлечение",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Наличие минус-слов является отличительной чертой",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "SEO",
+              "is_correct": true
+            },
+            {
+              "text": "контекстной рекламы",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "В",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "контекстной рекламе",
+              "is_correct": true
+            },
+            {
+              "text": "SEO",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "чаще всего работают  с «тёплыми» и «горячими» запросами (намеренные действия, такие как покупка). ",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "В контекстной рекламе",
+              "is_correct": false
+            },
+            {
+              "text": "В SEO",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "используют более широкий спектр запросов, включая информационные.",
+          "options": []
+        }
+      ],
+      "is_case_sensitive": false,
+      "is_detailed_feedback": false,
+      "is_partially_correct": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отличная работа! Вы правильно выбрали все ключевые термины.",
+    "feedback_wrong": "Обратите внимание, что в SEO нет понятия минус-слова - это отличительная черта контекстной рекламы. SEO направлено на широкое привлечение аудитории. Кроме этого, в SEO используются не только «тёплые» и «горячие» запросы."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6199770",
+  "subscriptions": [
+    "31-77-6199770",
+    "30-77-6199770"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6178861,
+  "create_date": "2024-11-05T21:23:58Z",
+  "update_date": "2024-11-05T21:27:21Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6199770-1",
+  "discussion_threads": [
+    "77-6199770-1",
+    "77-6199770-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

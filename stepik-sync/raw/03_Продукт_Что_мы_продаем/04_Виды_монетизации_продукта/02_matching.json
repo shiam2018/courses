@@ -1,0 +1,95 @@
+{
+  "id": 6071483,
+  "lesson": 1419571,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>Сопоставьте различные модели монетизации с их краткими определениями.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Продажа",
+          "second": "Компания продаёт товар или услугу за фиксированную цену."
+        },
+        {
+          "first": "Подписка",
+          "second": "Пользователи оплачивают доступ к продукту на регулярной основе, обычно ежемесячно или ежегодно."
+        },
+        {
+          "first": "Рекламная монетизация",
+          "second": "Доход генерируется за счёт показа рекламы внутри продукта."
+        },
+        {
+          "first": "Комиссия от продаж",
+          "second": "Бизнес получает процент с продаж, совершённых через его платформу, или доход от партнёрских ссылок."
+        },
+        {
+          "first": "Краудфандинг",
+          "second": "Продукт или проект финансируется пользователями ещё до выхода на рынок."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Правильно! Вы точно сопоставили модели монетизации с их определениями. Понимание того, как зарабатывает продукт, помогает эффективно продвигать его и выбирать подходящие рекламные подходы.",
+    "feedback_wrong": "Попробуйте ещё раз. Обратите внимание на суть каждой модели монетизации. Например, подписка предполагает регулярные платежи, а продажа — это предложение товара за фиксированную цену."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6071483",
+  "subscriptions": [
+    "31-77-6071483",
+    "30-77-6071483"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6050576,
+  "create_date": "2024-10-11T12:45:19Z",
+  "update_date": "2024-10-11T12:45:20Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6071483-1",
+  "discussion_threads": [
+    "77-6071483-1",
+    "77-6071483-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

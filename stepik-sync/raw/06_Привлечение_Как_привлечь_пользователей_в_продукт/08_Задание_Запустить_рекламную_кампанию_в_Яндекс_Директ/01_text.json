@@ -1,0 +1,67 @@
+{
+  "id": 6100316,
+  "lesson": 1471076,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2>Что будет в задании?</h2>\n\n<p>Для того чтобы получить навыки в контекстной рекламе, вам необходимо научиться создавать рекламные кампании в Яндекс Директ. В этом задании вам предстоит настроить кампанию по нашей инстуркции. Это будет достаточно для того, чтобы продемонстрировать, что вы понимаете, как запускать рекламные кампании.</p>\n\n<p>Оптимизация и масштабирование — это более продвинутые навыки, которые вы приобретёте с опытом работы.</p>\n\n<p>Итак, внимательно прочитайте условия задания и выполните его, следуя предложенной инструкции.</p>\n\n<h2>Задание</h2>\n\n<p>Вам необходимо подготовить единую перфоманс кампанию с показами на поиске и в рекламной сети Яндекса для рекламируемого объекта.</p>\n\n<h4>Условия задания:</h4>\n\n<ul>\n\t<li><strong>Объект рекламирования</strong>: игровые кресла DXRacer.</li>\n\t<li><strong>Посадочная страница</strong>: <a href=\"https://ru-dxracer.com/kresla-dxracer/igrovye-kresla-dxracer/\" rel=\"noopener noreferrer nofollow\" target=\"_new\">https://ru-dxracer.com/kresla-dxracer/igrovye-kresla-dxracer/</a></li>\n\t<li><strong>Регион показов</strong>: Москва и область.</li>\n\t<li>В кампании должно быть <strong>не менее 10 целевых ключевых фраз</strong>.</li>\n\t<li>Постарайтесь <strong>не использовать структуру 1 группа = 1 ключевая фраза</strong>.</li>\n\t<li>Добавьте в каждую группу <strong>автотаргетинг по целевым запросам</strong>.</li>\n\t<li>Добавьте <strong>4 быстрые ссылки с описаниями</strong>, а также <strong>уточнения</strong>.</li>\n\t<li>Используйте стратегию <strong>\"Максимум кликов\"</strong> с недельным бюджетом <strong>10,000 ₽</strong>.</li>\n\t<li><strong>Приложите выгрузку рекламной кампании в Excel</strong> через интерфейс \"Управление кампаниями с помощью XLS/XLSX\" и дайте ссылку на кампанию на вашем личном логине.</li>\n</ul>\n\n<h2>Инструкции по выполнению</h2>\n\n<ol>\n\t<li>\n\t<p><strong>Составьте список ключевых фраз</strong>:</p>\n\n\t<ul>\n\t\t<li>Идите на <a href=\"https://wordstat.yandex.ru\" rel=\"noopener noreferrer nofollow\" target=\"_new\">Яндекс Вордстат</a> и найдите целевые ключевые запросы для игровых кресел DXRacer.</li>\n\t\t<li>Выберите 10 ключевых фраз, которые потенциально могут привести к покупкам.</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<p><strong>Составьте список минус-фраз</strong>:</p>\n\n\t<ul>\n\t\t<li>Уберите все нерелевантные запросы (например, «перетяжка», «отзывы», «сборка»).</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<p><strong>Выберите структуру групп объявлений</strong>:</p>\n\n\t<ul>\n\t\t<li>Разделите ключевые фразы на логические группы (например, по запросам с «купить» и по запросам с моделями кресел).</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<p><strong>Составьте тексты объявлений</strong>:</p>\n\n\t<ul>\n\t\t<li>Для каждой группы создайте 2 варианта объявлений с релевантными заголовками и описаниями, которые привлекут целевую аудиторию.</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<p><strong>Создайте кампанию и настройте её</strong>:</p>\n\n\t<ul>\n\t\t<li>Настройте показы на поиске и в Рекламной сети Яндекса.</li>\n\t\t<li>Используйте регион показов Москва и область.</li>\n\t\t<li>Добавьте автотаргетинг по целевым запросам в каждую группу.</li>\n\t\t<li>Добавьте 4 быстрые ссылки с описаниями, а также уточнения.</li>\n\t\t<li>Примените стратегию \"Максимум кликов\" с недельным бюджетом 10,000 ₽.</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<p><strong>Приложите выгрузку рекламной кампании в Excel</strong>:</p>\n\n\t<ul>\n\t\t<li>Воспользуйтесь интерфейсом \"Управление кампаниями с помощью XLS/XLSX\" и скачайте файл с кампанией.</li>\n\t\t<li>Загрузите готовую рекламную кампанию в Excel и предоставьте ссылку на кампанию на вашем личном логине.</li>\n\t</ul>\n\t</li>\n</ol>\n\n<h4>Контрольные вопросы:</h4>\n\n<ul>\n\t<li>Сколько времени у вас ушло на подготовку кампании?</li>\n</ul>\n\n<p><strong>Пример времени на выполнение</strong>: 4 часа.</p>\n\n<p><strong>Пример ссылки на кампанию</strong>: <a href=\"https://direct.yandex.ru/dna/grid/campaigns\" rel=\"noopener noreferrer nofollow\" target=\"_new\">Ваша ссылка в Яндекс Директ</a>.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-6100316",
+  "subscriptions": [
+    "31-77-6100316",
+    "30-77-6100316"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6079407,
+  "create_date": "2024-10-17T04:39:22Z",
+  "update_date": "2024-10-17T13:26:37Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6100316-1",
+  "discussion_threads": [
+    "77-6100316-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

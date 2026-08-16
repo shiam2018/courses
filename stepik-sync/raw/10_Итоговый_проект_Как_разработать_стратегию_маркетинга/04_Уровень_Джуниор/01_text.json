@@ -1,0 +1,67 @@
+{
+  "id": 6171070,
+  "lesson": 1491801,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>На уровне «Джуниор» от вас ожидается более глубокое понимание маркетинга и аналитики. Этот проект позволяет вам углубиться в детали, исследовать и продемонстрировать навыки настройки рекламных кампаний и создания веб-контента.</p>\n\n<p><strong>Задания:</strong></p>\n\n<ol>\n\t<li>Краткое описание проекта и его целей.</li>\n\t<li>Исследование целевой аудитории с созданием портретов (профилей) для разных сегментов ЦА.</li>\n\t<li>Проведение сравнительного анализа конкурентов для более точного позиционирования.</li>\n\t<li>Создание простого веб-сайта на платформе Тильда.</li>\n\t<li>Настройка веб-аналитики на сайте для отслеживания пользовательской активности.</li>\n\t<li>Запуск рекламной кампании в Яндекс Директ с подбором 10 ключевых запросов.</li>\n\t<li>Создание и оформление группы в VK для поддержки и продвижения проекта.</li>\n</ol>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-6171070",
+  "subscriptions": [
+    "31-77-6171070",
+    "30-77-6171070"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6150161,
+  "create_date": "2024-10-31T13:08:22Z",
+  "update_date": "2024-11-01T04:48:09Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6171070-1",
+  "discussion_threads": [
+    "77-6171070-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

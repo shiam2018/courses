@@ -1,0 +1,95 @@
+{
+  "id": 6075673,
+  "lesson": 1417955,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>Сопоставьте действия с их описанием в процессе исследования и сегментации целевой аудитории.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Мозговой штурм.",
+          "second": "Этап, на котором группа генерирует идеи о потенциальных покупателях и фиксирует их."
+        },
+        {
+          "first": "Наблюдение за покупателями.",
+          "second": "Анализ поведения людей, посещающих ваше заведение, для определения их возраста, пола и привычек."
+        },
+        {
+          "first": "Изучение конкурентов.",
+          "second": "Сбор и анализ информации о том, как конкуренты взаимодействуют с целевой аудиторией и какие сильные и слабые стороны есть у их подходов."
+        },
+        {
+          "first": "Обработка данных.",
+          "second": "Превращение всей собранной информации в конкретные сегменты и портреты целевой аудитории."
+        },
+        {
+          "first": "Обсуждение с коллегами.",
+          "second": "Уточнение идей и полученных гипотез через обсуждения с коллегами для формирования более точного представления о ЦА."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отлично! Вы правильно сопоставили действия с их описаниями. Каждое из этих действий играет важную роль в процессе изучения и сегментации целевой аудитории.",
+    "feedback_wrong": "Проверьте соответствие каждого действия его описанию ещё раз. Важно понять, что наблюдение за покупателями связано с анализом их поведения, а обработка данных — это превращение всей информации в готовые сегменты и портреты целевой аудитории."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6075673",
+  "subscriptions": [
+    "31-77-6075673",
+    "30-77-6075673"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6054766,
+  "create_date": "2024-10-12T04:29:36Z",
+  "update_date": "2024-10-12T04:29:36Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6075673-1",
+  "discussion_threads": [
+    "77-6075673-1",
+    "77-6075673-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

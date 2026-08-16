@@ -1,0 +1,95 @@
+{
+  "id": 6088430,
+  "lesson": 1463448,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>Вам нужно сопоставить каждый инструмент с его назначением в маркетинге. Выберите правильные пары:</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Яндекс Метрика.",
+          "second": "Система для анализа поведения пользователей на сайте, отслеживания конверсий и событий."
+        },
+        {
+          "first": "Tilda.",
+          "second": "Платформа для создания сайтов без кода."
+        },
+        {
+          "first": "Adheart.",
+          "second": "Сервис для анализа баннеров и креативов конкурентов в таргетированной рекламе."
+        },
+        {
+          "first": "Adobe Photoshop.",
+          "second": "Программа для редактирования изображений и создания графического контента."
+        },
+        {
+          "first": "Intercom.",
+          "second": "Инструмент для онлайн-чатов и создания чат-ботов на сайте."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отличная работа! Вы правильно сопоставили типы инструментов с их предназначением в маркетинге. Это ключевые инструменты, которые помогут вам эффективно выполнять задачи в различных областях интернет-маркетинга.",
+    "feedback_wrong": "Обратите внимание на ключевые слова в описаниях. Например, инструменты для веб-аналитики всегда связаны с анализом поведения пользователей на сайте, а инструменты no-code и low-code используются для быстрого создания веб-сайтов и приложений."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6088430",
+  "subscriptions": [
+    "31-77-6088430",
+    "30-77-6088430"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6067523,
+  "create_date": "2024-10-15T05:58:20Z",
+  "update_date": "2024-10-15T05:58:20Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6088430-1",
+  "discussion_threads": [
+    "77-6088430-1",
+    "77-6088430-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

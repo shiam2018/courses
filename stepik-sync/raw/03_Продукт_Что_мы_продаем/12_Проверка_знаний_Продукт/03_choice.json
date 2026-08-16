@@ -1,0 +1,101 @@
+{
+  "id": 5690529,
+  "lesson": 1374795,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2><strong>Что такое качество?</strong></h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Соответствие продукта ожиданиям покупателя за уплаченную цену.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Когда продукт блестит на солнце.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Способность продукта издавать приятные звуки.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Когда продукт имеет красивую упаковку.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Качество продукта определяется его способностью удовлетворять ожидания покупателя.",
+    "feedback_wrong": "Блеск, звуки и упаковка могут быть приятными, но не являются основными критериями качества."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-5690529",
+  "subscriptions": [
+    "31-77-5690529",
+    "30-77-5690529"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 5669623,
+  "create_date": "2024-07-08T17:19:47Z",
+  "update_date": "2024-07-15T14:18:56Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-5690529-1",
+  "discussion_threads": [
+    "77-5690529-1",
+    "77-5690529-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

@@ -1,0 +1,101 @@
+{
+  "id": 5696284,
+  "lesson": 1374799,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Почему важно понимать, для чего покупают ваш продукт?</h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": true,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Узнать, что написать в рекламных постах.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Правильно выбрать упаковку.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Улучшить продукт и маркетинг.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Чтобы сделать клиентам приятный сюрприз.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Все варианты верны, хотя важнее улучшить продукт и маркетинг, но знание причины покупки также поможет написать рекламные посты, выбрать упаковку или сделать сюрприз клиенту.",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-5696284",
+  "subscriptions": [
+    "31-77-5696284",
+    "30-77-5696284"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3,
+  "passed_by": 2,
+  "correct_ratio": 1.0,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 5675379,
+  "create_date": "2024-07-10T07:04:33Z",
+  "update_date": "2024-07-15T14:18:37Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-5696284-1",
+  "discussion_threads": [
+    "77-5696284-1",
+    "77-5696284-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

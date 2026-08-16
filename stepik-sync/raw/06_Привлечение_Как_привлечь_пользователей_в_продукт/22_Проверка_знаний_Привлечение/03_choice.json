@@ -1,0 +1,101 @@
+{
+  "id": 6109282,
+  "lesson": 1390354,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Какую аудиторию следует выбрать для рекламы товаров для котов в таргетированной рекламе VK Ads?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Все жители планеты.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Владельцы котов или те, кто интересуется уходом за домашними животными и живут в регионе доставки. ",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Люди, которые интересуются бобрами и плотинами.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Все, кто когда-либо ел рыбу.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Верно! Таргетинг на владельцев котов и людей, интересующихся животными, поможет вам привлечь заинтересованных в вашем продукте пользователей.",
+    "feedback_wrong": "Бобры — не коты, а плотины — это совсем другая тема. Любители рыбы могут не иметь кошек, хотя и любят рыбные палочки. Выберите аудиторию, связанную с продвигаемым продуктом."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6109282",
+  "subscriptions": [
+    "31-77-6109282",
+    "30-77-6109282"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.3333333333333333,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6088373,
+  "create_date": "2024-10-19T04:28:35Z",
+  "update_date": "2024-10-19T04:40:48Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6109282-1",
+  "discussion_threads": [
+    "77-6109282-1",
+    "77-6109282-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

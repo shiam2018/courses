@@ -1,0 +1,96 @@
+{
+  "id": 6029166,
+  "lesson": 1416776,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "video",
+    "text": "",
+    "video": {
+      "id": 442765,
+      "thumbnail": "https://cdn.stepik.net/video/442765/thumbnail/772470f98ab006d467e44667da50a111.jpg",
+      "urls": [
+        {
+          "quality": "1080",
+          "url": "https://cdn.stepik.net/video/442765/1080/456f793e27cb9bf0344f974b48b3f352.mp4"
+        },
+        {
+          "quality": "720",
+          "url": "https://cdn.stepik.net/video/442765/720/794e766f7b85586c015f9e4d8c8a2802.mp4"
+        },
+        {
+          "quality": "540",
+          "url": "https://cdn.stepik.net/video/442765/540/e72325ddee80d71ea53658e0db5f901f.mp4"
+        },
+        {
+          "quality": "360",
+          "url": "https://cdn.stepik.net/video/442765/360/48626b4789c17fa623627f26b737d1ff.mp4"
+        },
+        {
+          "quality": "240",
+          "url": "https://cdn.stepik.net/video/442765/240/7f15cfcd150194a44dfce117dcf2af1d.mp4"
+        }
+      ],
+      "duration": 449,
+      "status": "ready",
+      "upload_date": "2024-10-17T11:45:20Z",
+      "filename": "яндекс презентации.mp4"
+    },
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-6029166",
+  "subscriptions": [
+    "31-77-6029166",
+    "30-77-6029166"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3,
+  "passed_by": 3,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6008259,
+  "create_date": "2024-09-30T20:25:23Z",
+  "update_date": "2024-10-17T18:44:38Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6029166-1",
+  "discussion_threads": [
+    "77-6029166-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

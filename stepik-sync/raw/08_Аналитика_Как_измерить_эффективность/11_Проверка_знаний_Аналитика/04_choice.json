@@ -1,0 +1,101 @@
+{
+  "id": 6164426,
+  "lesson": 1390376,
+  "position": 4,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что помогает определить MMP в мобильной аналитике?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Откуда пришёл трафик, например, реклама в соцсетях или поисковые запросы.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Определить уровень креативности маркетолога.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Подсчитать все мемы, которыми поделился пользователь.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Отправить аналитический отчёт в Яндекс.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Точно! MMP позволяет понять, откуда был привлечен трафик, что важно для планирования и оптимизации кампаний.",
+    "feedback_wrong": "MMP важен для анализа источников трафика, а не для измерения уровня креативности или отчета в Яндекс."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6164426",
+  "subscriptions": [
+    "31-77-6164426",
+    "30-77-6164426"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6143518,
+  "create_date": "2024-10-30T09:07:34Z",
+  "update_date": "2024-10-30T09:35:13Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6164426-1",
+  "discussion_threads": [
+    "77-6164426-1",
+    "77-6164426-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

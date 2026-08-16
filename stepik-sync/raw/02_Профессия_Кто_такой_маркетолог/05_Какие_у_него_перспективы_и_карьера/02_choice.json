@@ -1,0 +1,96 @@
+{
+  "id": 6060055,
+  "lesson": 1374802,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>На чем должна основываться зарплата, которую вы назовёте в качестве ожидаемой на собеседовании?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": true
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": true,
+      "is_always_correct": false,
+      "sample_size": 3,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "На комфортном уровне дохода для вас.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "На среднем рыночном предложении",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "На наличии или отсутствии бонусной и премиальной системы на работе",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Правильно! Все эти факторы важны при определении ваших зарплатных ожиданий. Вы должны учитывать как ваши личные потребности, так и рыночные условия, зарплаты на аналогичных позициях и возможные дополнительные бонусы или премии, которые может предложить компания.",
+    "feedback_wrong": "Скорее всего, все эти факторы играют важную роль. Ваши ожидания должны быть основаны не только на личных предпочтениях, но и на рыночной ситуации, требованиях вакансии и потенциальной бонусной системе."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6060055",
+  "subscriptions": [
+    "31-77-6060055",
+    "30-77-6060055"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6039148,
+  "create_date": "2024-10-09T05:27:22Z",
+  "update_date": "2024-10-09T05:27:22Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6060055-1",
+  "discussion_threads": [
+    "77-6060055-1",
+    "77-6060055-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

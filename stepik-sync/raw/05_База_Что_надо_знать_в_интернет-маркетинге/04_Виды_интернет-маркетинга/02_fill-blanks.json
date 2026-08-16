@@ -1,0 +1,206 @@
+{
+  "id": 6078947,
+  "lesson": 1463445,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "fill-blanks",
+    "text": "<p>Заполните пропуски, выбрав правильный вариант из предложенных:</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "components": [
+        {
+          "type": "text",
+          "text": "SMM — это продвижение бренда через\n",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "поисковые системы.",
+              "is_correct": false
+            },
+            {
+              "text": "социальные сети.",
+              "is_correct": true
+            },
+            {
+              "text": "email-рассылки.",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "<br>SEO направлено на повышение позиций сайта в",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "платных",
+              "is_correct": false
+            },
+            {
+              "text": "географических",
+              "is_correct": false
+            },
+            {
+              "text": "органических",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "результатах поисковых систем.",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": " <br>Лидогенерация — это процесс привлечения",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "потенциальных клиентов",
+              "is_correct": true
+            },
+            {
+              "text": "рекламных кампаний",
+              "is_correct": false
+            },
+            {
+              "text": "внешних ссылок",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "для дальнейшего взаимодействия с целью продажи.",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": " <br>Контент-маркетинг помогает создавать",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "платные рекламные объявления",
+              "is_correct": false
+            },
+            {
+              "text": "полезный и интересный контент",
+              "is_correct": true
+            },
+            {
+              "text": "скидки и акции",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "для привлечения и удержания аудитории.",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": " <br>CPA обозначает ",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "стоимость за тысячу показов.",
+              "is_correct": false
+            },
+            {
+              "text": "стоимость за клик.",
+              "is_correct": false
+            },
+            {
+              "text": "стоимость за целевое действие.",
+              "is_correct": true
+            }
+          ]
+        }
+      ],
+      "is_case_sensitive": false,
+      "is_detailed_feedback": false,
+      "is_partially_correct": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отличная работа! Вы правильно выбрали все ключевые термины.",
+    "feedback_wrong": "Обратите внимание, что SMM всегда связано с продвижением через социальные сети, а SEO — это работа с органическими результатами поиска. Лидогенерация ориентирована на привлечение потенциальных клиентов, а CPA — это стоимость за целевое действие, которое может быть, например, покупкой или регистрацией. Попробуйте еще раз!"
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6078947",
+  "subscriptions": [
+    "31-77-6078947",
+    "30-77-6078947"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6058040,
+  "create_date": "2024-10-13T05:37:56Z",
+  "update_date": "2024-10-13T05:37:56Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6078947-1",
+  "discussion_threads": [
+    "77-6078947-1",
+    "77-6078947-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

@@ -1,0 +1,168 @@
+{
+  "id": 6075668,
+  "lesson": 1375591,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "fill-blanks",
+    "text": "<p>Заполните пропуски в предложениях, выбрав правильный вариант из трёх предложенных.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "components": [
+        {
+          "type": "text",
+          "text": "Целевая аудитория — это группа людей, которые могут и хотят купить ваш продукт. Для её изучения часто используются метод ",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "разработки продукта.",
+              "is_correct": false
+            },
+            {
+              "text": "анкетирования.",
+              "is_correct": true
+            },
+            {
+              "text": "производства рекламы.",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "<br>При создании портретов целевой аудитории одним из ключевых критериев является ",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "доступность интернета.",
+              "is_correct": false
+            },
+            {
+              "text": "логистическая доступность.",
+              "is_correct": false
+            },
+            {
+              "text": "географическое положение.",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "<br> Для сегментации целевой аудитории маркетологи часто используют метод, предложенный ",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "Козьмой Прутковым.",
+              "is_correct": false
+            },
+            {
+              "text": " Сетом Годином.",
+              "is_correct": false
+            },
+            {
+              "text": "Филиппом Котлером.",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "<br> Основная задача исследования целевой аудитории — это понимание их потребностей и ",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "политических взглядов.",
+              "is_correct": false
+            },
+            {
+              "text": "поведения.",
+              "is_correct": true
+            },
+            {
+              "text": "хобби.",
+              "is_correct": false
+            }
+          ]
+        }
+      ],
+      "is_case_sensitive": false,
+      "is_detailed_feedback": false,
+      "is_partially_correct": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отличная работа! Вы верно определили ключевые понятия, связанные с исследованием целевой аудитории. Эти знания помогут вам лучше понять потребности клиентов.",
+    "feedback_wrong": "Обратите внимание на ключевые критерии и методы, используемые для изучения целевой аудитории. Правильное понимание этих понятий поможет вам точнее сегментировать и изучать ваших потенциальных клиентов."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6075668",
+  "subscriptions": [
+    "31-77-6075668",
+    "30-77-6075668"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6054761,
+  "create_date": "2024-10-12T04:22:43Z",
+  "update_date": "2024-10-12T04:22:44Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6075668-1",
+  "discussion_threads": [
+    "77-6075668-1",
+    "77-6075668-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

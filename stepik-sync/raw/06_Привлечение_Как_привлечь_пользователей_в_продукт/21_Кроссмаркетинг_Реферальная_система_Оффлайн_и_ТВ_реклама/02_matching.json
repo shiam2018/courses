@@ -1,0 +1,83 @@
+{
+  "id": 6210459,
+  "lesson": 1390347,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>Сопоставьте вид рекламы с его характеристикой.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Кроссмаркетинг",
+          "second": "Это рекламная стратегия, при которой один продукт рекламируется через другой. "
+        },
+        {
+          "first": "Реферальная система",
+          "second": "Это  способ привлечения новых клиентов через уже существующих пользователей."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отличная работа! Теперь вы знаете, что  реклама одного продукта через другой - это кроссмаркетинг, а привлечение новых клиентов через существующих - это реферальная система.",
+    "feedback_wrong": "Обратите внимание, что реклама одного товара через другой - кроссмаркетинг, а в реферальной системе ваши пользователи рекламируют ваш продукт потенциальным клиентам."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6210459",
+  "subscriptions": [
+    "31-77-6210459",
+    "30-77-6210459"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6189550,
+  "create_date": "2024-11-07T19:12:41Z",
+  "update_date": "2024-11-07T19:12:42Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6210459-1",
+  "discussion_threads": [
+    "77-6210459-1",
+    "77-6210459-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

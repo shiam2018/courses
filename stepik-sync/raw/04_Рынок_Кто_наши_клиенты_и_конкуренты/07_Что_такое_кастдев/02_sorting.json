@@ -1,0 +1,89 @@
+{
+  "id": 6075696,
+  "lesson": 1390335,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "sorting",
+    "text": "<p>Отсортируйте этапы подготовки и проведения кастдева в правильном порядке — от первого (верх) до последнего (низ). Используйте знания, полученные на уроке, чтобы определить правильную последовательность.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_html_enabled": true,
+      "options": [
+        {
+          "text": "Гипотезы для проверки."
+        },
+        {
+          "text": "Подбор участников."
+        },
+        {
+          "text": "Проведение интервью."
+        },
+        {
+          "text": "Анализ данных."
+        },
+        {
+          "text": "Представление отчета."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отлично! Соблюдение правильного порядка — это ключ к успешному исследованию.",
+    "feedback_wrong": "Сначала формулируются гипотезы, потом выбираются участники. После этого можно приступать к интервью, а затем анализировать полученные данные и делать выводы."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6075696",
+  "subscriptions": [
+    "31-77-6075696",
+    "30-77-6075696"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6054789,
+  "create_date": "2024-10-12T05:08:07Z",
+  "update_date": "2024-10-12T05:08:08Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6075696-1",
+  "discussion_threads": [
+    "77-6075696-1",
+    "77-6075696-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

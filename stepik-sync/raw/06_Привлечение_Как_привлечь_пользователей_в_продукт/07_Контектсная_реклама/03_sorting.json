@@ -1,0 +1,89 @@
+{
+  "id": 6202123,
+  "lesson": 1390341,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "sorting",
+    "text": "<p>Расставьте шаги для создания рекламной кампании в правильном порядке: первые действия вверху, последние внизу.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_html_enabled": true,
+      "options": [
+        {
+          "text": "Создание кампании в Яндекс Директ"
+        },
+        {
+          "text": "Настройка бюджета и расписания"
+        },
+        {
+          "text": "Создание групп объявлений"
+        },
+        {
+          "text": "Создание объявлений"
+        },
+        {
+          "text": "Добавление быстрых ссылок и уточнений"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отличная работа! Вы правильно выстроили последовательность. Сначала мы создаем рекламную кампанию в Яндекс Директ, далее настраиваем бюджет и расписание. После этого переходим к созданию групп объявлений, а уже потом к самим объявлениям. Завершаем мы все добавлением быстрых ссылок и уточнений.",
+    "feedback_wrong": "Первым делом необходимо создать кампанию в Яндекс Директ, а уже потом переходить к настройке бюджета, созданию групп объявлений и самим объявлениям."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6202123",
+  "subscriptions": [
+    "31-77-6202123",
+    "30-77-6202123"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6181214,
+  "create_date": "2024-11-06T11:23:03Z",
+  "update_date": "2024-11-06T11:23:04Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6202123-1",
+  "discussion_threads": [
+    "77-6202123-1",
+    "77-6202123-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

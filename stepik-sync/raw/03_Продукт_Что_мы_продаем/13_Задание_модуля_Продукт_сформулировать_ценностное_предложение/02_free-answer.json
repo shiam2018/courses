@@ -1,0 +1,75 @@
+{
+  "id": 5915270,
+  "lesson": 1412876,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "free-answer",
+    "text": "<p>Прикрепите документ с выполненным заданием</p>\n\n<p>Критерии оценивания</p>\n\n<ol>\n\t<li>Сформулировано 3 ценностных предложения по шаблону из урока - от 0 до 3 баллов</li>\n\t<li>Заполнено 3 таблицы ценности продукта - от 0 до 3 баллов</li>\n\t<li>Сформулированы и записаны три гипотезы по увеличению ценности этих продуктов - от 0 до 3 баллов</li>\n</ol>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_attachments_enabled": true,
+      "is_html_enabled": true,
+      "manual_scoring": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Здесь будет шаблон для комментария",
+    "feedback_wrong": "Здесь будет шаблон для комментария"
+  },
+  "actions": {
+    "do_review": "#",
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-5915270",
+  "subscriptions": [
+    "31-77-5915270",
+    "30-77-5915270"
+  ],
+  "instruction": 69536,
+  "session": null,
+  "instruction_type": "instructor",
+  "viewed_by": 2,
+  "passed_by": 1,
+  "correct_ratio": 1.0,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": true,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": "basic_paid",
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 5894364,
+  "create_date": "2024-09-01T20:08:13Z",
+  "update_date": "2024-10-26T12:19:13Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-5915270-1",
+  "discussion_threads": [
+    "77-5915270-1",
+    "77-5915270-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 4
+}

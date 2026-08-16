@@ -1,0 +1,89 @@
+{
+  "id": 6095528,
+  "lesson": 1463451,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "sorting",
+    "text": "<p>Расположите этапы воронки лидогенерации в правильном порядке.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_html_enabled": true,
+      "options": [
+        {
+          "text": "Привлечение трафика."
+        },
+        {
+          "text": "Взаимодействие с сайтом."
+        },
+        {
+          "text": "Целевое действие (лид)."
+        },
+        {
+          "text": "Квалификация лида."
+        },
+        {
+          "text": "Продажа."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отлично! Воронка лидогенерации начинается с привлечения трафика, затем посетители взаимодействуют с сайтом, совершают целевое действие (например, регистрация), после чего лиды квалифицируются, и в конечном итоге происходит продажа.",
+    "feedback_wrong": "Проверьте последовательность. Привлечение трафика всегда идёт первым, за ним взаимодействие с сайтом, а затем идут действия, которые ведут к квалификации лида и продаже."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6095528",
+  "subscriptions": [
+    "31-77-6095528",
+    "30-77-6095528"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6074621,
+  "create_date": "2024-10-16T05:05:14Z",
+  "update_date": "2024-10-16T05:05:14Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6095528-1",
+  "discussion_threads": [
+    "77-6095528-1",
+    "77-6095528-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

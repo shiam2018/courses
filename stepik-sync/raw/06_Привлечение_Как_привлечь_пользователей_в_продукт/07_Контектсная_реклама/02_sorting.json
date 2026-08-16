@@ -1,0 +1,92 @@
+{
+  "id": 6202102,
+  "lesson": 1390341,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "sorting",
+    "text": "<p>Расставьте шаги для сбора ключевых слов в правильном порядке: первые действия вверху, последние внизу.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_html_enabled": true,
+      "options": [
+        {
+          "text": "Генерация ключевых слов через перемножение базовых списков"
+        },
+        {
+          "text": "Сбор ключевых слов через Яндекс Вордстат при анализе релевантных запросов"
+        },
+        {
+          "text": "Изучение похожих запросов и добавление их в список"
+        },
+        {
+          "text": "Проверка поисковых подсказок"
+        },
+        {
+          "text": "Анализ трендов с помощью Google Trends и добавление актуальных запросов"
+        },
+        {
+          "text": "Прогонка списка через KeyCollector, удаление лишних или нерелевантных слов"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отличная работа! Вы правильно выстроили последовательность.",
+    "feedback_wrong": "Первым делом необходимо сгенерировать ключевые слова через перемножение базовых списков, а уже дальше собирать сих с помощью других источников."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6202102",
+  "subscriptions": [
+    "31-77-6202102",
+    "30-77-6202102"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6181193,
+  "create_date": "2024-11-06T11:18:33Z",
+  "update_date": "2024-11-06T11:18:34Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6202102-1",
+  "discussion_threads": [
+    "77-6202102-1",
+    "77-6202102-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

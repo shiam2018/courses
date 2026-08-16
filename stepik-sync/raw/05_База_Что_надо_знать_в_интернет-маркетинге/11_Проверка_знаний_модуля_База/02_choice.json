@@ -1,0 +1,101 @@
+{
+  "id": 6098384,
+  "lesson": 1463963,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что такое лидогенерация?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Создание логотипов для компаний.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Процесс привлечения потенциальных клиентов и сбора их контактных данных.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Метод выращивания лидов на ферме.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Маркетинговый трюк, который привлекает котиков на сайт.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Правильно! Лидогенерация — это важный процесс привлечения потенциальных клиентов и сбора их данных для дальнейшей работы.",
+    "feedback_wrong": "Почти! Но лидогенерация — это не про выращивание или логотипы. Это метод привлечения клиентов в маркетинге."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6098384",
+  "subscriptions": [
+    "31-77-6098384",
+    "30-77-6098384"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6077477,
+  "create_date": "2024-10-16T12:01:42Z",
+  "update_date": "2024-10-16T12:02:16Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6098384-1",
+  "discussion_threads": [
+    "77-6098384-1",
+    "77-6098384-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

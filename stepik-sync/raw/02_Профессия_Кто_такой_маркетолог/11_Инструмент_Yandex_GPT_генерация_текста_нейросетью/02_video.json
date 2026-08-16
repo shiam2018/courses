@@ -1,0 +1,96 @@
+{
+  "id": 6026299,
+  "lesson": 1405542,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "video",
+    "text": "",
+    "video": {
+      "id": 442862,
+      "thumbnail": "https://cdn.stepik.net/video/442862/thumbnail/08445399f7788faf98785340cae50089.jpg",
+      "urls": [
+        {
+          "quality": "1080",
+          "url": "https://cdn.stepik.net/video/442862/1080/757d4f3c0194bb0dd0ceb62536830972.mp4"
+        },
+        {
+          "quality": "720",
+          "url": "https://cdn.stepik.net/video/442862/720/2c63d6330283b283632fa85fdcf03613.mp4"
+        },
+        {
+          "quality": "540",
+          "url": "https://cdn.stepik.net/video/442862/540/a73a313cf46ad0a24bfd846aed5a2886.mp4"
+        },
+        {
+          "quality": "360",
+          "url": "https://cdn.stepik.net/video/442862/360/9966582ad8c23742bc7040f5d42fdbce.mp4"
+        },
+        {
+          "quality": "240",
+          "url": "https://cdn.stepik.net/video/442862/240/57dd3da0bf2ef98a3d659fd868f58598.mp4"
+        }
+      ],
+      "duration": 168,
+      "status": "ready",
+      "upload_date": "2024-10-17T18:49:26Z",
+      "filename": "яндекс облако и gpt.mp4"
+    },
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-6026299",
+  "subscriptions": [
+    "31-77-6026299",
+    "30-77-6026299"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2,
+  "passed_by": 2,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6005392,
+  "create_date": "2024-09-30T08:38:57Z",
+  "update_date": "2024-10-17T19:24:26Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6026299-1",
+  "discussion_threads": [
+    "77-6026299-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

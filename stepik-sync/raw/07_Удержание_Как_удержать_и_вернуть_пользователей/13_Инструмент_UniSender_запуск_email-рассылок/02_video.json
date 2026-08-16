@@ -1,0 +1,96 @@
+{
+  "id": 6075072,
+  "lesson": 1416786,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "video",
+    "text": "",
+    "video": {
+      "id": 440808,
+      "thumbnail": "https://cdn.stepik.net/video/440808/thumbnail/8d266906f51232eb88924deeb6a91b35.jpg",
+      "urls": [
+        {
+          "quality": "1080",
+          "url": "https://cdn.stepik.net/video/440808/1080/43a90ba78efd8dea597fc1a26d2938c1.mp4"
+        },
+        {
+          "quality": "720",
+          "url": "https://cdn.stepik.net/video/440808/720/9343c1309e206747e70f28b2542cd9f9.mp4"
+        },
+        {
+          "quality": "540",
+          "url": "https://cdn.stepik.net/video/440808/540/53ac49a9d20864648d07de2f0b2ce010.mp4"
+        },
+        {
+          "quality": "360",
+          "url": "https://cdn.stepik.net/video/440808/360/1a399a0c75c85b8c96c9aa4e370f97d6.mp4"
+        },
+        {
+          "quality": "240",
+          "url": "https://cdn.stepik.net/video/440808/240/b0f6c8bc0a593b6a52e85996c8c4dacc.mp4"
+        }
+      ],
+      "duration": 147,
+      "status": "ready",
+      "upload_date": "2024-10-11T21:46:06Z",
+      "filename": "unisender.mp4"
+    },
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-6075072",
+  "subscriptions": [
+    "31-77-6075072",
+    "30-77-6075072"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2,
+  "passed_by": 2,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6054165,
+  "create_date": "2024-10-11T21:46:54Z",
+  "update_date": "2024-10-11T21:46:54Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6075072-1",
+  "discussion_threads": [
+    "77-6075072-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,101 @@
+{
+  "id": 6098388,
+  "lesson": 1463963,
+  "position": 5,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Для чего используется прототип сайта?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Чтобы тестировать, как сайт будет выглядеть и работать.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Чтобы показать, как будет танцевать кот на сайте.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Для определения, сколько мороженого нужно на разработку.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Это черновик для расписания завтраков разработчика.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Точно! Прототип сайта помогает увидеть, как будет выглядеть и работать сайт до его разработки.",
+    "feedback_wrong": "Прототипирование — это не про завтраки и мороженое, а про функциональность и структуру будущего сайта."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6098388",
+  "subscriptions": [
+    "31-77-6098388",
+    "30-77-6098388"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6077481,
+  "create_date": "2024-10-16T12:01:42Z",
+  "update_date": "2024-10-16T12:02:17Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6098388-1",
+  "discussion_threads": [
+    "77-6098388-1",
+    "77-6098388-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

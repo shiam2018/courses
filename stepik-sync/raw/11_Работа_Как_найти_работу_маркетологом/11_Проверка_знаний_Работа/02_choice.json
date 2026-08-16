@@ -1,0 +1,101 @@
+{
+  "id": 6168247,
+  "lesson": 1390387,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Какой этап собеседований обычно первым проходит кандидат?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": " Финальное собеседование с генеральным директором.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Скрининг с HR-менеджером.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Собеседование с нанимающим менеджером за чашкой кофе.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Пробный рабочий день без оплаты.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отлично! Скрининг — это первичный этап, на котором HR-менеджер оценивает, насколько кандидат соответствует основным требованиям вакансии.",
+    "feedback_wrong": "Подумайте, с кого начинается процесс знакомства — прежде чем попасть к руководителю, кандидаты чаще проходят скрининг с HR для первичной оценки."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6168247",
+  "subscriptions": [
+    "31-77-6168247",
+    "30-77-6168247"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6147338,
+  "create_date": "2024-10-31T05:34:57Z",
+  "update_date": "2024-10-31T05:36:26Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6168247-1",
+  "discussion_threads": [
+    "77-6168247-1",
+    "77-6168247-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

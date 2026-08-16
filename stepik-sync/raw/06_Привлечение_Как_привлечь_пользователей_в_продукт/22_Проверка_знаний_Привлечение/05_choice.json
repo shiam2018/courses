@@ -1,0 +1,101 @@
+{
+  "id": 6109287,
+  "lesson": 1390354,
+  "position": 5,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Какой фактор НЕ влияет на SEO-продвижение сайта?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Качество контента на сайте.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Количество фотографий котов на рабочем столе вашего компьютера.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Ключевые слова в мета-тегах.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Время загрузки страниц.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Количество фотографий котов не влияет на продвижение сайта, хотя они, точно, сделают ваш день лучше.",
+    "feedback_wrong": "Все, кроме фоток котов, влияет на результат: Качество контента, ключевые слова и время загрузки страниц важны для SEO и ранжирования."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6109287",
+  "subscriptions": [
+    "31-77-6109287",
+    "30-77-6109287"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.75,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6088378,
+  "create_date": "2024-10-19T04:37:10Z",
+  "update_date": "2024-10-19T04:43:12Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6109287-1",
+  "discussion_threads": [
+    "77-6109287-1",
+    "77-6109287-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

@@ -1,0 +1,188 @@
+{
+  "id": 6075924,
+  "lesson": 1419548,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "fill-blanks",
+    "text": "<p>Заполните пропуски в следующих утверждениях, выбрав правильный вариант из предложенных:</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "components": [
+        {
+          "type": "text",
+          "text": "SWOT-анализ помогает оценить сильные и слабые стороны компании, а также внешние \n",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "возможности",
+              "is_correct": true
+            },
+            {
+              "text": "проблемы",
+              "is_correct": false
+            },
+            {
+              "text": "препятствия",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "и угрозы. <br>\n",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": "Сильные стороны (Strengths) компании — это те аспекты, в которых компания\n\n",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "проигрывает",
+              "is_correct": false
+            },
+            {
+              "text": "превосходит",
+              "is_correct": true
+            },
+            {
+              "text": "равна",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "своих конкурентов. <br>",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": "SWOT-анализ часто используется для",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "тактического",
+              "is_correct": false
+            },
+            {
+              "text": "финансового",
+              "is_correct": false
+            },
+            {
+              "text": "стратегического",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "планирования и принятия управленческих решений. <br>\n\n",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": "Внешние угрозы (Threats) — это факторы, которые могут \n",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "положительно повлиять",
+              "is_correct": false
+            },
+            {
+              "text": "нейтрально повлиять",
+              "is_correct": false
+            },
+            {
+              "text": "негативно повлиять",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "на бизнес и его прибыль.\n",
+          "options": []
+        }
+      ],
+      "is_case_sensitive": false,
+      "is_detailed_feedback": false,
+      "is_partially_correct": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отлично! Вы правильно заполнили все пропуски. SWOT-анализ действительно помогает оценить как внутренние, так и внешние факторы, что делает его важным инструментом стратегического планирования.",
+    "feedback_wrong": "Возможности — это положительные внешние факторы, а угрозы — это негативные. Сильные стороны отражают превосходство компании над конкурентами. Также SWOT-анализ помогает в стратегическом планировании. Попробуйте снова!"
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6075924",
+  "subscriptions": [
+    "31-77-6075924",
+    "30-77-6075924"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6055017,
+  "create_date": "2024-10-12T06:36:20Z",
+  "update_date": "2024-10-12T06:36:20Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6075924-1",
+  "discussion_threads": [
+    "77-6075924-1",
+    "77-6075924-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

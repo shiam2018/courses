@@ -1,0 +1,155 @@
+{
+  "id": 6075654,
+  "lesson": 1373181,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "table",
+    "text": "<p>Отметьте галочками утверждения, которые подходят к определениям «Целевая аудитория» или «Ожидания клиента».</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "rows": [
+        {
+          "name": "Группа людей, которые могут купить ваш продукт.",
+          "columns": [
+            {
+              "choice": true
+            },
+            {
+              "choice": false
+            }
+          ]
+        },
+        {
+          "name": "Формируются на основе предыдущего опыта, рекламы и отзывов.",
+          "columns": [
+            {
+              "choice": false
+            },
+            {
+              "choice": true
+            }
+          ]
+        },
+        {
+          "name": "Определяет, каким должен быть продукт для клиента.",
+          "columns": [
+            {
+              "choice": false
+            },
+            {
+              "choice": true
+            }
+          ]
+        },
+        {
+          "name": "Люди, которые заинтересованы в вашем продукте или услуге.",
+          "columns": [
+            {
+              "choice": true
+            },
+            {
+              "choice": false
+            }
+          ]
+        },
+        {
+          "name": "Зависит от цены, качества и функциональности продукта.",
+          "columns": [
+            {
+              "choice": false
+            },
+            {
+              "choice": true
+            }
+          ]
+        },
+        {
+          "name": "Изучение этой группы помогает адаптировать продукт под их потребности.",
+          "columns": [
+            {
+              "choice": true
+            },
+            {
+              "choice": false
+            }
+          ]
+        }
+      ],
+      "options": {
+        "is_checkbox": false,
+        "is_randomize_rows": false,
+        "is_randomize_columns": false,
+        "sample_size": -1
+      },
+      "columns": [
+        {
+          "name": "Целевая аудитория"
+        },
+        {
+          "name": "Ожидания клиента"
+        }
+      ],
+      "description": "Утверждения",
+      "is_always_correct": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Поздравляем! Вы правильно распределили утверждения, что говорит о вашем понимании ключевых аспектов изучения целевой аудитории и ожиданий клиентов.",
+    "feedback_wrong": "Некоторые утверждения отмечены неверно. Помните, что целевая аудитория — это группа людей, заинтересованных в продукте, а ожидания клиента формируются на основе опыта и того, что они ожидают от продукта."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6075654",
+  "subscriptions": [
+    "31-77-6075654",
+    "30-77-6075654"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6054747,
+  "create_date": "2024-10-12T04:02:51Z",
+  "update_date": "2024-10-12T04:30:48Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6075654-1",
+  "discussion_threads": [
+    "77-6075654-1",
+    "77-6075654-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

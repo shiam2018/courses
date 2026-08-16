@@ -1,0 +1,67 @@
+{
+  "id": 6171071,
+  "lesson": 1491802,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>На уровне «Мидл» задания включают комплексные исследования и требуют уверенного владения инструментами аналитики, SEO, рекламы и контент-стратегии. Этот проект идеально подходит для тех, кто хочет продемонстрировать высокий уровень знаний и умений, приближенных к реальной профессиональной деятельности.</p>\n\n<p><strong>Задания:</strong></p>\n\n<ol>\n\t<li>Краткое описание проекта, включая детализированные цели и задачи.</li>\n\t<li>Исследование целевой аудитории с созданием портретов и описанием юзер-кейсов (сценариев использования продукта).</li>\n\t<li>Проведение SEO-аудита конкурентов, чтобы выявить ключевые области для улучшения.</li>\n\t<li>Разработка семантического ядра из 100 ключевых запросов для SEO.</li>\n\t<li>Сравнительный анализ конкурентов и SWOT-анализ с подробными выводами.</li>\n\t<li>Создание веб-сайта на платформе Тильда с настройкой разметки для отслеживания конверсий.</li>\n\t<li>Связка Яндекс Метрики с Яндекс Директ для сквозной аналитики.</li>\n\t<li>Запуск рекламной кампании в Яндекс Директ с подбором 100 ключевых запросов.</li>\n\t<li>Создание и управление группой в VK, включая публикацию 10 постов, которые соответствуют стратегии продвижения.</li>\n</ol>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-6171071",
+  "subscriptions": [
+    "31-77-6171071",
+    "30-77-6171071"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6150162,
+  "create_date": "2024-10-31T13:08:42Z",
+  "update_date": "2024-11-01T04:48:28Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6171071-1",
+  "discussion_threads": [
+    "77-6171071-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

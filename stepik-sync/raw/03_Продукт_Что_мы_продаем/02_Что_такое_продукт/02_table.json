@@ -1,0 +1,133 @@
+{
+  "id": 6069865,
+  "lesson": 1373173,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "table",
+    "text": "<p>Отметьте галочками то, что важно для потребителей, когда они оценивают качество.</p>\n\n<h3> </h3>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "rows": [
+        {
+          "name": "Отзывы",
+          "columns": [
+            {
+              "choice": true
+            },
+            {
+              "choice": false
+            }
+          ]
+        },
+        {
+          "name": "Рейтинг",
+          "columns": [
+            {
+              "choice": true
+            },
+            {
+              "choice": false
+            }
+          ]
+        },
+        {
+          "name": "Цена",
+          "columns": [
+            {
+              "choice": true
+            },
+            {
+              "choice": false
+            }
+          ]
+        },
+        {
+          "name": "Дизайн",
+          "columns": [
+            {
+              "choice": true
+            },
+            {
+              "choice": false
+            }
+          ]
+        }
+      ],
+      "options": {
+        "is_checkbox": false,
+        "is_randomize_rows": false,
+        "is_randomize_columns": false,
+        "sample_size": -1
+      },
+      "columns": [
+        {
+          "name": "Важно"
+        },
+        {
+          "name": "Не важно"
+        }
+      ],
+      "description": "Важно ли для оценики качества?",
+      "is_always_correct": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Вы отметили все важные составляющие оценки качества для потребителей. Отзывы и рейтинги предоставляют социальное доказательство и помогают создать доверие к продукту. Дизайн также играет роль в восприятии качества, а цена часто соотносится с ожиданиями потребителей относительно качества. Важно учитывать, что для потребителей большое занчение имеет субъективное соотношение цена-качество.",
+    "feedback_wrong": "Если вы не отметили какие-либо из предложенных пунктов, обратите внимание, что все перечисленные факторы важны для потребителей. Соотношение цена-качество и социальное доказательство являются ключевыми аспектами при оценке качества. Отзывы и рейтинги помогают клиентам принимать обоснованные решения, а цена напрямую влияет на восприятие ценности продукта."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6069865",
+  "subscriptions": [
+    "31-77-6069865",
+    "30-77-6069865"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6048958,
+  "create_date": "2024-10-11T06:42:50Z",
+  "update_date": "2024-10-11T06:42:50Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6069865-1",
+  "discussion_threads": [
+    "77-6069865-1",
+    "77-6069865-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

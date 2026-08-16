@@ -1,0 +1,67 @@
+{
+  "id": 5892610,
+  "lesson": 1416786,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h3>Введение</h3>\n\n<p><strong>UniSender </strong>- это сервис для email-рассылок на русском языке, предлагающий широкий функционал даже на бесплатном тарифе, но с ограничениями по размеру аудитории. В нём доступно множество готовых шаблонов, письма адаптивны, а интерфейс интуитивно понятен.</p>\n\n<p>Для курса вам будет достаточно тарифа Фри.</p>\n\n<h3><strong>Шаги по регистрации в UniSender</strong></h3>\n\n<ol>\n\t<li>\n\t<p>Перейдите по адресу <a href=\"https://www.unisender.com/\" rel=\"noopener noreferrer nofollow\">https://www.unisender.com/</a>.</p>\n\t</li>\n\t<li>\n\t<p>Пройдите регистрацию в сервисе.</p>\n\t</li>\n</ol>\n\n<p><img alt=\"\" height=\"191\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/85815dac-0cf7-45d2-b35d-26722575f762/\" width=\"2188\"></p>\n\n<p>3. Введите ваш e-mail, не забудьте поставить галочку, что вы принимаете правила пользования и политику конфиденциальности.</p>\n\n<p><img alt=\"\" height=\"304\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/1ffd2d33-36ea-4f13-afd7-dca72ddc9fae/\" width=\"334\"></p>\n\n<p>4. Придумайте пароль и нажмите Зарегистрироваться.</p>\n\n<p><img alt=\"\" height=\"299\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/9c227d36-bff6-4591-9f8b-b9b6cc447a36/\" width=\"325\"></p>\n\n<p>5. На указанный вами email придет письмо со ссылкой для подтверждения регистрации.</p>\n\n<h3>Функции и возможности <strong>UniSender</strong></h3>\n\n<ol>\n\t<li>Email-рассылки.</li>\n\t<li>SMS- и Viber-рассылки.</li>\n\t<li>UniOne — сервис по настройке транзакционных писем.</li>\n\t<li>Автоматизация — создание автоматических цепочек.</li>\n\t<li>Всплывающие формы (pop-апы).</li>\n\t<li>Бесплатные шаблоны — раздел стандартных видов писем.</li>\n\t<li>Адаптивный блочный редактор — адаптация письма для мобильного интерфейса.</li>\n\t<li>Сводная статистика — все данные о ваших рассылках.</li>\n\t<li>UniSMM — сервис автопостинга в соцсетях (тестовая версия).</li>\n</ol>\n\n<h3>Загрузка базы для email рассылки</h3>\n\n<p>Прежде чем запустить email-рассылку, вам необходимо добавить базу контактов в UniSender. Это можно сделать автоматически, когда у вас есть база данных ваших клиентов или в ручную, как мы сейчас с вами потренируемся делать.</p>\n\n<p>1. Нажмите контакты, далее - Добавить контакты.</p>\n\n<p><img alt=\"\" height=\"480\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/4ea60de6-4f4a-4d77-9ce3-fb0fa635dc1e/\" width=\"2547\"></p>\n\n<p>2. Выберите необходимый способ добавления, например, Добавить контакты</p>\n\n<p><img alt=\"\" height=\"381\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/c76062c1-be41-401d-a609-123fc19d0cac/\" width=\"539\"></p>\n\n<p>3. Введите контакты ваших клиентов, которым вы будете отправлять email-рассылку, по шаблону. Для тренировки добавьте свои данные. Нажмите продолжить.</p>\n\n<p><img alt=\"\" height=\"213\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/2522392b-5df1-4070-a752-14adbb484713/\" width=\"724\"></p>\n\n<p>4. Данные добавлены. Теперь можно настроить рассылку.</p>\n\n<p> </p>\n\n<h3>Создание первой email-рассылки</h3>\n\n<p>Теперь переходим к настройке рассылки.</p>\n\n<p>1. Нажимаем Рассылки и Создать рассылку</p>\n\n<p><img alt=\"\" height=\"378\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/7e294059-c581-4ac1-aab6-28fa186b039e/\" width=\"754\"></p>\n\n<p>2. В версии UniSender на сентябрь 2024 года есть две версии рассылки, мы выберем новую бета версию.</p>\n\n<p><img alt=\"\" height=\"335\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/5b20756e-6080-4a87-a520-f6837c6c8b6f/\" width=\"625\"></p>\n\n<p>3. Теперь можно создавать письмо. Вы можете выбрать один из шаблонов или же создать свой.</p>\n\n<p><img alt=\"\" height=\"454\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/c834d3db-8d19-4863-bef6-f741120d09d7/\" width=\"662\"></p>\n\n<p>Шаблон редактируется интуитивно: нажимайте на нужный элемент, чтобы его отредактировать. Если вам не хватает функционала, вы можете просто взять и перетащить нужный элемент с боковой панели.</p>\n\n<p><img alt=\"\" height=\"885\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/1d28b7b4-f26c-40fb-8d04-3d4f69c6ba5f/\" width=\"477\"></p>\n\n<p>4. Когда завершите редактуру, нажимайте Продолжить и настройте тему и отправителя. Тему можно персонализировать, добавив имя.</p>\n\n<p><img alt=\"\" height=\"340\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/be4036ae-de11-4612-9a0b-f6558d1f04d9/\" width=\"724\"></p>\n\n<p>5. После заполнения необходимых полей, нажмите продолжить. Теперь вам необходимо выбрать получателей и нажать продолжить.</p>\n\n<p><img alt=\"\" height=\"234\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/42e3428f-5fa3-46bc-87dd-8e37f09d763e/\" width=\"715\"></p>\n\n<p>6. Теперь можно отправлять рассылку! Нажмите Отправить рассылку.</p>\n\n<p><img alt=\"\" height=\"127\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/de4710e9-1413-4cb4-9e8a-60fe8ad09018/\" width=\"716\"></p>\n\n<p>Ваша первая рассылка готова!</p>\n\n<p><img alt=\"\" height=\"419\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/17e0e505-3a6a-4e8d-b12a-2e86eff606c5/\" width=\"434\"></p>\n\n<p>Если вы все сделали верно, то на почту, которую вы указали при вводе данных будет отправлено ваше письмо. </p>\n\n<h3>Задание</h3>\n\n<p>Отправьте вашу первую рассылку. Текст для рассылки вы можете сгенерировать, используя Яндекс GPT.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-5892610",
+  "subscriptions": [
+    "31-77-5892610",
+    "30-77-5892610"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3,
+  "passed_by": 3,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 5871704,
+  "create_date": "2024-08-29T14:49:11Z",
+  "update_date": "2024-09-23T19:25:32Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-5892610-1",
+  "discussion_threads": [
+    "77-5892610-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

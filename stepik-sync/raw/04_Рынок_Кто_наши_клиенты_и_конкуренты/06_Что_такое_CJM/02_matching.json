@@ -1,0 +1,87 @@
+{
+  "id": 6075734,
+  "lesson": 1373183,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>Сопоставьте утверждения с правильными описаниями. Выберите, к какому элементу относится каждое из описаний.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Customer Journey Map (CJM).",
+          "second": "Это карта, которая помогает понять, как клиент взаимодействует с бизнесом на всех этапах, начиная от осознания потребности до совершения покупки."
+        },
+        {
+          "first": "Цель создания CJM.",
+          "second": "Помогает улучшить взаимодействие с клиентом, что в итоге ведет к увеличению продаж."
+        },
+        {
+          "first": "Customer Story.",
+          "second": "Это история о том, как клиент нашел компанию и пришел к решению о покупке."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отлично! Вы правильно сопоставили элементы.",
+    "feedback_wrong": "Помните, CJM помогает понять путь клиента, а Customer Story — это конкретная история о взаимодействии клиента с компанией."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6075734",
+  "subscriptions": [
+    "31-77-6075734",
+    "30-77-6075734"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6054827,
+  "create_date": "2024-10-12T05:27:06Z",
+  "update_date": "2024-10-12T05:27:06Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6075734-1",
+  "discussion_threads": [
+    "77-6075734-1",
+    "77-6075734-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

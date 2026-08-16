@@ -1,0 +1,133 @@
+{
+  "id": 6202207,
+  "lesson": 1390342,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "fill-blanks",
+    "text": "Вы можете изменить условие задания в этом поле и указать настройки ниже.",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "components": [
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "Таргетированная реклама",
+              "is_correct": true
+            },
+            {
+              "text": "Контекстная реклама",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "показывается пользователям, которые соответствуют определённым критериям, таким как возраст, пол, география, интересы, поведение и другое. В ",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "таргетированной рекламе",
+              "is_correct": false
+            },
+            {
+              "text": "контекстной рекламе",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "конкуренция идёт за каждый клик, а в ",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "таргетированной рекламе",
+              "is_correct": true
+            },
+            {
+              "text": "контекстной рекламе",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "— за показы.",
+          "options": []
+        }
+      ],
+      "is_case_sensitive": false,
+      "is_detailed_feedback": false,
+      "is_partially_correct": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6202207",
+  "subscriptions": [
+    "31-77-6202207",
+    "30-77-6202207"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6181298,
+  "create_date": "2024-11-06T11:34:09Z",
+  "update_date": "2024-11-06T11:34:09Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6202207-1",
+  "discussion_threads": [
+    "77-6202207-1",
+    "77-6202207-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

@@ -1,0 +1,67 @@
+{
+  "id": 5765246,
+  "lesson": 1390387,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p style=\"text-align: center;\"><img alt=\"\" height=\"540\" name=\"3.8 Проверка знаний урока «Клиенты».png\" src=\"https://ucarecdn.stepik.net/0bc66df6-0b19-4a48-bba6-00c14ea8ebdb/\" width=\"960\"></p>\n\n<p>Вас ждут пять вопросов с четырьмя вариантами ответов, среди которых только один правильный. Вопросы составлены с юмором и содержат несерьёзные варианты ответов, чтобы немного облегчить повторения материала. Внимательно читайте вопросы и выбирайте тот ответ, который соответствует знаниям по пройденному материалу.</p>\n\n<p>Для ответа нв вопросы, нажмите кнопку «Следующий шаг».</p>\n\n<p>Удачи!</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-5765246",
+  "subscriptions": [
+    "31-77-5765246",
+    "30-77-5765246"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 5744340,
+  "create_date": "2024-07-27T08:59:47Z",
+  "update_date": "2024-10-20T17:06:08Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-5765246-1",
+  "discussion_threads": [
+    "77-5765246-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

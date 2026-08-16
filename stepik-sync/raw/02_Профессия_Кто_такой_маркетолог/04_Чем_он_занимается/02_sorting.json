@@ -1,0 +1,86 @@
+{
+  "id": 6059762,
+  "lesson": 1390328,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "sorting",
+    "text": "<p>Расположите ежедневные задачи интернет-маркетолога в порядке убывания их значимости для компании и специалиста. Правильный порядок может показаться субъективным, и так оно и есть — авторы задания руководствуются понятиями эффективности и максимального экономического результата.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_html_enabled": true,
+      "options": [
+        {
+          "text": "Анализ результатов рекламных кампаний и веб-аналитики, оптимизация результатов на основе этих данных."
+        },
+        {
+          "text": "Встреча с командой продукта для обсуждения предстоящих акций и задач."
+        },
+        {
+          "text": "Настройка на рабочий лад, проверка новостей."
+        },
+        {
+          "text": "Чистка электронной почты от спама."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Правильно! Самое важное — это анализ результатов и оптимизация, затем коммуникация с командой продукта, далее настройка на рабочий лад, и, наконец, чистка электронной почты.",
+    "feedback_wrong": "Важно понимать, что задачи, напрямую влияющие на прибыль и стратегию компании, имеют больший приоритет. Например, анализ данных и встречи с командой продукта важнее, чем чистка почты или проверка новостей."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6059762",
+  "subscriptions": [
+    "31-77-6059762",
+    "30-77-6059762"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.6666666666666666,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6038855,
+  "create_date": "2024-10-09T04:40:31Z",
+  "update_date": "2024-10-09T04:40:31Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6059762-1",
+  "discussion_threads": [
+    "77-6059762-1",
+    "77-6059762-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

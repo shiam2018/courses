@@ -1,0 +1,99 @@
+{
+  "id": 6089275,
+  "lesson": 1463449,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>Вам нужно сопоставить тип сайта с его назначением. Перетащите каждый тип сайта к соответствующему назначению.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Лендинг (Landing page).",
+          "second": "Одностраничный сайт, направленный на продажу одного продукта или услуги либо сбор контактов."
+        },
+        {
+          "first": "Корпоративный сайт.",
+          "second": "Представляет компанию и её услуги, содержит информацию о компании, новости и контакты."
+        },
+        {
+          "first": "Интернет-магазин.",
+          "second": "Сайт, где можно покупать товары или услуги онлайн."
+        },
+        {
+          "first": "Блог.",
+          "second": " Сайт для публикации контента, полезного для целевой аудитории, с целью привлечения посетителей через SEO и социальные сети."
+        },
+        {
+          "first": "Промо-сайт.",
+          "second": "Временный сайт, который используется для рекламных кампаний или презентаций новых продуктов."
+        },
+        {
+          "first": "Портфолио.",
+          "second": "Сайт для демонстрации проектов, работ или услуг, часто используется фрилансерами и агентствами."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отличная работа! Вы правильно сопоставили типы сайтов с их назначениями.",
+    "feedback_wrong": "Важно помнить, что каждый сайт имеет своё назначение — будь то продажа, демонстрация проектов или привлечение аудитории."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6089275",
+  "subscriptions": [
+    "31-77-6089275",
+    "30-77-6089275"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6068368,
+  "create_date": "2024-10-15T07:57:59Z",
+  "update_date": "2024-10-15T07:58:20Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6089275-1",
+  "discussion_threads": [
+    "77-6089275-1",
+    "77-6089275-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

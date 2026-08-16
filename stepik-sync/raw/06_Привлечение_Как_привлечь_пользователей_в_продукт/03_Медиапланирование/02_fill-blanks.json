@@ -1,0 +1,173 @@
+{
+  "id": 6172782,
+  "lesson": 1390352,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "fill-blanks",
+    "text": "Вы можете изменить условие задания в этом поле и указать настройки ниже.",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "components": [
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "Медиаплан",
+              "is_correct": true
+            },
+            {
+              "text": "Видеоплан",
+              "is_correct": false
+            },
+            {
+              "text": "Медиакит",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- это форма планирования, которая включает конкретные источники трафика, места размещения и рекламные площадки. <br>",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": "Формула расчёта стоимости одного клиента",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "CPС",
+              "is_correct": false
+            },
+            {
+              "text": "CPL",
+              "is_correct": true
+            },
+            {
+              "text": "CPM",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "= Общие затраты рекламной кампании / Количество привлеченных лидов <br>",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "Маркетинговый микс",
+              "is_correct": true
+            },
+            {
+              "text": "Маркетинговый фикс",
+              "is_correct": false
+            },
+            {
+              "text": "Маркетинговый кокс",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- это концепция, впервые описанная Эдмундом Джеромом Маккарти в 1960 году, которая помогает бизнесу принимать обоснованные решения. <br>",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": "Классическая модель маркетинг-микса называется",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "4 :P",
+              "is_correct": false
+            },
+            {
+              "text": "4 кита",
+              "is_correct": false
+            },
+            {
+              "text": "4P",
+              "is_correct": true
+            }
+          ]
+        }
+      ],
+      "is_case_sensitive": false,
+      "is_detailed_feedback": true,
+      "is_partially_correct": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отличная работа! Вы правильно выбрали все ключевые термины.",
+    "feedback_wrong": "Обратите внимание, что планирование, включающее источники трафика, площадки - это медиаплан. Аббревиатура CPL обозначает стоимость одного клиента. Концепция, позволяющая принимать бизнесу обоснованные решения и в которую входят входят все элементы, необходимые для создания, продвижения и продажи продукта или услуги: цена, место, продвижение, реклама, связи с общественностью (PR), дизайн упаковки и каналы дистрибуции, называется маркетинговый микс. 4P - это классическая модель концепции."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6172782",
+  "subscriptions": [
+    "31-77-6172782",
+    "30-77-6172782"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6151873,
+  "create_date": "2024-10-31T18:57:03Z",
+  "update_date": "2024-11-01T07:34:33Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6172782-1",
+  "discussion_threads": [
+    "77-6172782-1",
+    "77-6172782-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

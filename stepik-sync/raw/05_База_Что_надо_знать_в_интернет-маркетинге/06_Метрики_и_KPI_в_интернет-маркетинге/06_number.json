@@ -1,0 +1,89 @@
+{
+  "id": 6082327,
+  "lesson": 1463447,
+  "position": 6,
+  "status": "ready",
+  "block": {
+    "name": "number",
+    "text": "<h3>Расчёт ROAS (Return On Advertising Spend)</h3>\n\n<p>Ваша рекламная кампания принесла 150 000 рублей дохода при затратах на рекламу 30 000 рублей. Рассчитайте <strong>ROAS</strong> — возврат на рекламные расходы.</p>\n\n<p>Ответ приведите без процентов, просто укажите число. </p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "options": [
+        {
+          "answer": "5",
+          "max_error": "0"
+        },
+        {
+          "answer": "500",
+          "max_error": "0"
+        },
+        {
+          "answer": "4",
+          "max_error": "0"
+        },
+        {
+          "answer": "400",
+          "max_error": "0"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отлично! В зависимости от формулы, которую вы выбрали, ваш ROAS равен 5 (расчёт по доходу) или 4 (расчёт по прибыли). Это означает, что на каждый рубль, потраченный на рекламу, вы заработали 5 рублей дохода или 4 рубля прибыли.\n\nОтветы 500 и 400 также верны, так как они показывают эффективность затрат в процентах.",
+    "feedback_wrong": "Убедитесь, что вы делите доход от рекламы (или, как вариант, прибыль) на расходы. Это поможет вам понять, насколько эффективно ваши инвестиции в рекламу окупаются. Задание построено таким образом, что ответы будут верны как при расчёте по доходу, так и по прибыли."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6082327",
+  "subscriptions": [
+    "31-77-6082327",
+    "30-77-6082327"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6061420,
+  "create_date": "2024-10-14T05:29:34Z",
+  "update_date": "2024-10-14T05:35:53Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6082327-1",
+  "discussion_threads": [
+    "77-6082327-1",
+    "77-6082327-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

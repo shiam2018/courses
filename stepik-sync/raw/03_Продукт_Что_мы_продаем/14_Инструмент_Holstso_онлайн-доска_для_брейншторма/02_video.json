@@ -1,0 +1,96 @@
+{
+  "id": 6029192,
+  "lesson": 1412877,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "video",
+    "text": "",
+    "video": {
+      "id": 442877,
+      "thumbnail": "https://cdn.stepik.net/video/442877/thumbnail/bf9eaf9a6875f0f9936a1a3bfdddf4e8.jpg",
+      "urls": [
+        {
+          "quality": "1080",
+          "url": "https://cdn.stepik.net/video/442877/1080/995db3b0268e52253b910b1a05ce15ba.mp4"
+        },
+        {
+          "quality": "720",
+          "url": "https://cdn.stepik.net/video/442877/720/750462b1ae16913175a3e803f8156d86.mp4"
+        },
+        {
+          "quality": "540",
+          "url": "https://cdn.stepik.net/video/442877/540/3f23a0b842dde201dea4bf2b4dd81141.mp4"
+        },
+        {
+          "quality": "360",
+          "url": "https://cdn.stepik.net/video/442877/360/5575586cc7f622172fe29ee31a6e2063.mp4"
+        },
+        {
+          "quality": "240",
+          "url": "https://cdn.stepik.net/video/442877/240/20f7bf336d3e1bb42e28b27814e0cc81.mp4"
+        }
+      ],
+      "duration": 499,
+      "status": "ready",
+      "upload_date": "2024-10-17T19:26:26Z",
+      "filename": "holst.mp4"
+    },
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-6029192",
+  "subscriptions": [
+    "31-77-6029192",
+    "30-77-6029192"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2,
+  "passed_by": 2,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6008285,
+  "create_date": "2024-09-30T20:51:30Z",
+  "update_date": "2024-10-17T19:33:20Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6029192-1",
+  "discussion_threads": [
+    "77-6029192-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

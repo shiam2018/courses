@@ -1,0 +1,67 @@
+{
+  "id": 5920594,
+  "lesson": 1422927,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2>Вопрос-ответ</h2>\n\n<ul>\n\t<li>Если у вас остались вопросы по изученному материалу, вы можете написать их в комментариях к этому уроку.</li>\n\t<li>Если у вас есть ответ на вопрос от вашего сокурсника, то вы можете оставить ему комментарий.</li>\n</ul>\n\n<h2><span style=\"color: #ff4363;\">!Доработать!</span></h2>\n\n<ul>\n\t<li>Добавить хэдер и иконку</li>\n</ul>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-5920594",
+  "subscriptions": [
+    "31-77-5920594",
+    "30-77-5920594"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2,
+  "passed_by": 2,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 5899688,
+  "create_date": "2024-09-03T11:15:48Z",
+  "update_date": "2024-10-18T21:10:57Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-5920594-1",
+  "discussion_threads": [
+    "77-5920594-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

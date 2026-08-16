@@ -1,0 +1,101 @@
+{
+  "id": 6109283,
+  "lesson": 1390354,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Какой из показателей определяет успешность контекстной кампании?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Количество раз, когда пользователь обновил страницу.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "CTR (Click-Through Rate), CPC и CPA.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Количество попугаев, купленных в рекламируемом зоомагазине.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Длина текста объявления.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Все верно! CTR, CPC и CPA — это основные показатели эффективности контекстной рекламы.",
+    "feedback_wrong": "Обновление страниц и общие продажи в зоомагазине, так же как и длина объявления, не так важны, как кликабельность, стоимость клика и цена целевого действия."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6109283",
+  "subscriptions": [
+    "31-77-6109283",
+    "30-77-6109283"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6088374,
+  "create_date": "2024-10-19T04:28:35Z",
+  "update_date": "2024-10-19T04:38:10Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6109283-1",
+  "discussion_threads": [
+    "77-6109283-1",
+    "77-6109283-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

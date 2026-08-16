@@ -1,0 +1,67 @@
+{
+  "id": 5892534,
+  "lesson": 1416778,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h3>Введение</h3>\n\n<p>Уметь работать с таблицам также важно, как и работать с презентациями. С помощью таблиц вы можете</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" height=\"310\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/cf1df441-067a-4944-b894-864707a777a7/\" width=\"759\"></p>\n\n<p style=\"text-align: center;\">Источник: <a href=\"https://100urokov.ru/predmety/elektronnye-tablicy\" rel=\"noopener noreferrer nofollow\">https://100urokov.ru/predmety/elektronnye-tablicy</a></p>\n\n<ol>\n\t<li>Структурировать и организовать информацию и улучшить взаимодействие между различными отделами.</li>\n\t<li>Автоматизировать задач с использованием формул, функций и макросов.</li>\n\t<li>Находить закономерности в данных через сводные таблицы, вычислительные функции и визуализацию графиками.</li>\n</ol>\n\n<p>Сегодня мы рассмотрим инструмент для создания онлайн-таблиц в наборе <strong>Яндекс Документы</strong>.</p>\n\n<h3>Шаги по созданию онлайн-таблиц в Яндекс Документах:</h3>\n\n<p>1. Перейдите на сайт <a href=\"https://docs.yandex.ru/\" rel=\"noopener noreferrer nofollow\">Яндекс.Докумены</a>.</p>\n\n<p>2. Войдите в свой аккаунт Яндекса или зарегистрируйтесь, если у вас еще нет аккаунта.</p>\n\n<p>3. На главной странице Яндекс.Документов нажмите на иконку «Таблица», чтобы создать новый проект.</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" height=\"190\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/81bbafb6-75c5-4b5e-af69-8a5338272adf/\" width=\"469\"></p>\n\n<p>4. Дайте название вашей таблице и нажмите «Создать».</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" height=\"194\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/cb288667-9611-4528-846c-4699db517e63/\" width=\"408\"></p>\n\n<p> </p>\n\n<h3>Элементы Яндекс таблиц</h3>\n\n<p>Любая таблица состоит из трех основных элементов<span style=\"font-size: inherit; font-weight: inherit;\"><img alt=\"\" height=\"377\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/0b46e0d9-dca9-413d-bd5d-bf7492997414/\" width=\"611\"><span style=\"background: rgba(220, 220, 220, 0.5);\"><img height=\"15\" title=\"Click and drag to move\" width=\"15\"></span></span></p>\n\n<ol>\n\t<li>Строка - это горизонтальная последовательность ячеек. Строки нумеруются цифрами.</li>\n\t<li>Столбец - это вертикальная последовательность ячеек. Столбцы нумеруются буквами.</li>\n\t<li>Ячейка - это наименьшая единица таблицы, которая образуется на пересечении столбца и строки. Ячейка нумеруется буквой столбца и цифрой строки, которые пересекаются. В ячейку записывается информация.</li>\n</ol>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-5892534",
+  "subscriptions": [
+    "31-77-5892534",
+    "30-77-5892534"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 3,
+  "passed_by": 3,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 5871628,
+  "create_date": "2024-08-29T14:29:58Z",
+  "update_date": "2024-09-23T20:18:26Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-5892534-1",
+  "discussion_threads": [
+    "77-5892534-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

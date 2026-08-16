@@ -1,0 +1,95 @@
+{
+  "id": 6082305,
+  "lesson": 1463447,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>Вам нужно сопоставить 5 метрик интернет-маркетинга с их правильными определениями. Вот список метрик и определений:</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "CPC (Cost Per Click).",
+          "second": " Стоимость за один клик по рекламе."
+        },
+        {
+          "first": "CPM (Cost Per Mille).",
+          "second": "Стоимость за тысячу показов."
+        },
+        {
+          "first": "CTR (Click-Through Rate).",
+          "second": "Показатель кликабельности, отношение числа кликов к числу показов."
+        },
+        {
+          "first": "ROAS (Return On Advertising Spend).",
+          "second": " Возврат на рекламные расходы, отношение доходов к затратам на рекламу."
+        },
+        {
+          "first": "CPL (Cost Per Lead).",
+          "second": "Стоимость за лид, то есть за контактные данные потенциального клиента."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отличная работа! Метрики, такие как CPC, CPM, и ROAS, помогают отслеживать эффективность рекламных кампаний и дают возможность управлять затратами, чтобы повысить рентабельность и привлечь больше клиентов.",
+    "feedback_wrong": "Обратите внимание на ключевые слова в определениях, такие как «клик», «показы» и «доходы». Это поможет вам сопоставить метрику с её определением. Например, CPC всегда связан с кликами, а CPM — с показами. Попробуйте ещё раз!"
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6082305",
+  "subscriptions": [
+    "31-77-6082305",
+    "30-77-6082305"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6061398,
+  "create_date": "2024-10-14T05:20:01Z",
+  "update_date": "2024-10-14T05:20:16Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6082305-1",
+  "discussion_threads": [
+    "77-6082305-1",
+    "77-6082305-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

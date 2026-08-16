@@ -1,0 +1,178 @@
+{
+  "id": 6075765,
+  "lesson": 1374797,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "fill-blanks",
+    "text": "<p>Заполните пропуски, выбрав правильный вариант из предложенных:</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "components": [
+        {
+          "type": "text",
+          "text": "Индекс удовлетворенности клиентов (CSI) — это метрика, которая помогает измерить \n",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "удовлетворенность",
+              "is_correct": true
+            },
+            {
+              "text": "количество",
+              "is_correct": false
+            },
+            {
+              "text": "возмущение",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "клиентов. <br>\n",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": "Формы для сбора мнений и отзывов от клиентов называются \n\n",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "листами.",
+              "is_correct": false
+            },
+            {
+              "text": "формами обратной связи.",
+              "is_correct": true
+            },
+            {
+              "text": "квизами.",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "<br>Лояльность клиентов — это показатель того, насколько клиенты\n",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "привязаны",
+              "is_correct": true
+            },
+            {
+              "text": "безразличны",
+              "is_correct": false
+            },
+            {
+              "text": "недовольны",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "вашему бизнесу. <br>",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "CSI",
+              "is_correct": false
+            },
+            {
+              "text": "WOT",
+              "is_correct": true
+            },
+            {
+              "text": "SEO",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " — это сервис, который помогает отслеживать отзывы о сайтах и их репутацию.\n\n",
+          "options": []
+        }
+      ],
+      "is_case_sensitive": false,
+      "is_detailed_feedback": false,
+      "is_partially_correct": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отлично! Вы правильно выбрали все ключевые термины. Теперь у вас есть понимание важности обратной связи и ключевых инструментов для работы с клиентами.",
+    "feedback_wrong": "CSI измеряет удовлетворенность, а WOT — это сервис для мониторинга отзывов и репутации сайтов. Попробуйте снова!"
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6075765",
+  "subscriptions": [
+    "31-77-6075765",
+    "30-77-6075765"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6054858,
+  "create_date": "2024-10-12T05:41:08Z",
+  "update_date": "2024-10-12T05:42:33Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6075765-1",
+  "discussion_threads": [
+    "77-6075765-1",
+    "77-6075765-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

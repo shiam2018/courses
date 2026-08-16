@@ -1,0 +1,67 @@
+{
+  "id": 5892531,
+  "lesson": 1416775,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Для выполнения этого задания вам необходимо провести исследование целевой аудитории одного из предложенных бизнесов. Основные шаги:</p>\n\n<ol>\n\t<li>\n\t<p><strong>Составление общего описания целевой аудитории:</strong></p>\n\n\t<ul>\n\t\t<li>Определите социально-демографические характеристики (возраст, пол, доход, образование и т.д.).</li>\n\t\t<li>Опишите профессии и жизненные интересы целевой аудитории.</li>\n\t\t<li>Укажите, как аудитория взаимодействует с продуктом или услугой бизнеса.</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<p><strong>Сегментация целевой аудитории:</strong></p>\n\n\t<ul>\n\t\t<li>Разделите целевую аудиторию на сегменты по возрастным группам, профессиональной деятельности и гендерному признаку.</li>\n\t\t<li>Каждый сегмент должен быть подробно описан.</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<p><strong>Создание портретов целевой аудитории:</strong></p>\n\n\t<ul>\n\t\t<li>Составьте детализированные портреты целевой аудитории на основе сегментов.</li>\n\t\t<li>Используйте шаблоны онлайн-таблиц, которые приложены к уроку, для структурирования данных.</li>\n\t\t<li>Подберите изображения для каждого портрета с помощью нейросети или найдите подходящие изображения в интернете.</li>\n\t</ul>\n\t</li>\n</ol>\n\n<p>Все результаты оформите в виде таблиц и визуальных портретов, используя приложенные к уроку шаблоны.</p>\n\n<p> </p>\n\n<h2><span style=\"color: #ff4363;\">!Что доделать!</span></h2>\n\n<ul>\n\t<li>Добавить иконку</li>\n\t<li>Добавить хэдер</li>\n\t<li>Добавить ссылки на шаблоны и примеры результатов</li>\n</ul>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-5892531",
+  "subscriptions": [
+    "31-77-5892531",
+    "30-77-5892531"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2,
+  "passed_by": 2,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 5871625,
+  "create_date": "2024-08-29T14:29:48Z",
+  "update_date": "2024-10-30T12:20:48Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-5892531-1",
+  "discussion_threads": [
+    "77-5892531-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

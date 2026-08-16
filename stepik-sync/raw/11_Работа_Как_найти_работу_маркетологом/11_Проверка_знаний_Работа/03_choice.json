@@ -1,0 +1,101 @@
+{
+  "id": 6168248,
+  "lesson": 1390387,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Какую реакцию следует ожидать от нанимающего менеджера на высокие зарплатные ожидания кандидата?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Аплодисменты за уверенность.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Предложение сократить ожидания до минимума.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Сдержанная реакция, если ожидания попадают в диапазон зарплатной вилки.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Вызов к бухгалтеру для перерасчета бюджета.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Верно! Если ваши ожидания соответствуют рыночным и возможностям компании, это воспринимается спокойно, без лишних эмоций.",
+    "feedback_wrong": "Подумайте, какую реакцию вызовет ответ, вписывающийся в запланированный бюджет. Обычно менеджер проявляет профессионализм и оценивает соответствие рыночной ситуации."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6168248",
+  "subscriptions": [
+    "31-77-6168248",
+    "30-77-6168248"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6147339,
+  "create_date": "2024-10-31T05:34:57Z",
+  "update_date": "2024-10-31T05:36:26Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6168248-1",
+  "discussion_threads": [
+    "77-6168248-1",
+    "77-6168248-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

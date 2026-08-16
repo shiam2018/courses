@@ -1,0 +1,101 @@
+{
+  "id": 6116732,
+  "lesson": 1390365,
+  "position": 5,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Какие уведомления помогают повышать Retention Rate в мобильных приложениях?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Пуш-уведомления с фотографиями котов.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Пуш-уведомления с актуальными и полезными для пользователя сообщениями.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Пуш-уведомления, которые требуют сразу подписаться на 10 рассылок.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Пуш-уведомления с предложением пройти курс по нейрофизиологии.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Верно! Пуш-уведомления — это эффективный инструмент для взаимодействия с пользователями, но они должны быть уместными и полезными.",
+    "feedback_wrong": "Уведомления должны приносить пользу, а не раздражать."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6116732",
+  "subscriptions": [
+    "31-77-6116732",
+    "30-77-6116732"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.3333333333333333,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6095823,
+  "create_date": "2024-10-20T17:04:11Z",
+  "update_date": "2024-10-20T17:04:11Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6116732-1",
+  "discussion_threads": [
+    "77-6116732-1",
+    "77-6116732-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

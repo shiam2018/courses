@@ -1,0 +1,107 @@
+{
+  "id": 6064627,
+  "lesson": 1374786,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>Сопоставьте команды с их краткими обязанностями. Укажите правильные пары.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Разработка и QA",
+          "second": "Исправляют баги, внедряют новые функции и оптимизируют работу продукта."
+        },
+        {
+          "first": "Продукт и Дизайн",
+          "second": "Создают продукт, отвечающий потребностям пользователей, и разрабатывают визуальные элементы."
+        },
+        {
+          "first": "Продажи",
+          "second": "Общаются с клиентами и занимаются непосредственными продажами."
+        },
+        {
+          "first": "Маркетинг",
+          "second": "Управляют рекламными кампаниями, социальными сетями и тестами для увеличения конверсии."
+        },
+        {
+          "first": "Аналитика",
+          "second": "Сбор и анализ данных для выявления проблем и улучшения показателей."
+        },
+        {
+          "first": "Поддержка",
+          "second": " Работают с пользователями, решают их проблемы и оценивают удовлетворённость клиентов."
+        },
+        {
+          "first": "Финансы и юристы",
+          "second": "Управляют финансовыми потоками и проверяют договоры."
+        },
+        {
+          "first": "HR",
+          "second": "Ищут новых сотрудников и занимаются развитием корпоративной культуры."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Правильно! Каждая команда выполняет свои уникальные обязанности, и понимание их ролей поможет вам лучше ориентироваться в структуре компании и взаимодействовать с коллегами.",
+    "feedback_wrong": "Скорее всего, вы не учли все аспекты обязанностей каждой команды. Попробуйте ещё раз сопоставить команды с их обязанностями, учитывая, что каждая команда имеет свою роль в компании."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6064627",
+  "subscriptions": [
+    "31-77-6064627",
+    "30-77-6064627"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6043720,
+  "create_date": "2024-10-10T04:45:58Z",
+  "update_date": "2024-10-10T04:45:58Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6064627-1",
+  "discussion_threads": [
+    "77-6064627-1",
+    "77-6064627-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

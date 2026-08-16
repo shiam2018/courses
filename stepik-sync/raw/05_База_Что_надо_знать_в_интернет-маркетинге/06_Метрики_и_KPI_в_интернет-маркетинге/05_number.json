@@ -1,0 +1,77 @@
+{
+  "id": 6082326,
+  "lesson": 1463447,
+  "position": 5,
+  "status": "ready",
+  "block": {
+    "name": "number",
+    "text": "<h3>Расчёт CPL (Cost Per Lead)</h3>\n\n<p>Ваши рекламные расходы составили 50 000 рублей, и вы получили 250 лидов (потенциальных клиентов). Рассчитайте CPL — стоимость за лид.</p>\n\n<p>Ответ приведите без рублей, просто укажите число.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "options": [
+        {
+          "answer": "200",
+          "max_error": "10"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Хорошо сделано! Ваш CPL составляет 200 рублей за каждого привлечённого лида, что позволяет оценить эффективность рекламы.",
+    "feedback_wrong": "Убедитесь, что вы делите общие расходы на количество лидов. Это поможет вам правильно оценить, сколько стоит привлечение одного потенциального клиента."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6082326",
+  "subscriptions": [
+    "31-77-6082326",
+    "30-77-6082326"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6061419,
+  "create_date": "2024-10-14T05:29:34Z",
+  "update_date": "2024-10-14T05:35:53Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6082326-1",
+  "discussion_threads": [
+    "77-6082326-1",
+    "77-6082326-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

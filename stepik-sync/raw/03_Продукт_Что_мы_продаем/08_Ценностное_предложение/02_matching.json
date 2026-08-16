@@ -1,0 +1,87 @@
+{
+  "id": 6071603,
+  "lesson": 1413755,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>На основе урока о ценностном предложении, сопоставьте элементы, которые относятся к «Профилю потребителя» и «Карте ценности». Соедините правильные пары.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Задачи потребителя.",
+          "second": " Товары и услуги (что вы предлагаете клиентам)."
+        },
+        {
+          "first": "Выгоды потребителя.",
+          "second": "Создатели выгоды (что делает продукт привлекательным)."
+        },
+        {
+          "first": "Боли потребителя.",
+          "second": "Утолители боли (что устраняет проблемы клиентов)."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Правильно! Для успешного создания ценностного предложения необходимо точно определить задачи, выгоды и боли клиента и сопоставить их с товарами, которые вы предлагаете, а также с функциями, которые помогают решить проблемы клиента и принести дополнительные выгоды.",
+    "feedback_wrong": "Вспомните, что профиль потребителя отражает задачи, выгоды и боли клиента, а карта ценности должна отвечать на эти потребности с помощью продуктов и решений, которые вы предлагаете."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6071603",
+  "subscriptions": [
+    "31-77-6071603",
+    "30-77-6071603"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6050696,
+  "create_date": "2024-10-11T13:51:16Z",
+  "update_date": "2024-10-11T13:51:16Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6071603-1",
+  "discussion_threads": [
+    "77-6071603-1",
+    "77-6071603-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

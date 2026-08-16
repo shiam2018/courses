@@ -1,0 +1,95 @@
+{
+  "id": 6078930,
+  "lesson": 1463429,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>Сопоставьте следующие термины с их определениями</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Лидогенерация.",
+          "second": "Привлечение потенциальных клиентов."
+        },
+        {
+          "first": "Воронка продаж.",
+          "second": "Путь клиента от первого контакта с бизнесом до покупки."
+        },
+        {
+          "first": "Лендинг пейдж.",
+          "second": "Страница сайта, созданная для выполнения конкретного целевого действия."
+        },
+        {
+          "first": "CPC.",
+          "second": "Показатель, отражающий стоимость клика на рекламное объявление."
+        },
+        {
+          "first": "CPA.",
+          "second": "Стоимость выполнения целевого действия, например, регистрации или покупки."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отличная работа! Вы правильно сопоставили термины с их определениями.",
+    "feedback_wrong": "Обратите внимание: CPC относится к стоимости клика, а CPA — к стоимости целевого действия, как регистрация или покупка. Также, воронка продаж — это модель, которая отображает путь клиента от первого контакта до покупки."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6078930",
+  "subscriptions": [
+    "31-77-6078930",
+    "30-77-6078930"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6058023,
+  "create_date": "2024-10-13T05:10:34Z",
+  "update_date": "2024-10-13T05:10:34Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6078930-1",
+  "discussion_threads": [
+    "77-6078930-1",
+    "77-6078930-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

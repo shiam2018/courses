@@ -1,0 +1,95 @@
+{
+  "id": 6202290,
+  "lesson": 1390346,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>Сопоставьте составляющий элемент CPA с его характеристикой.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Оффер",
+          "second": "Это предложение рекламодателя, с которым работает арбитражник."
+        },
+        {
+          "first": "Партнерская система",
+          "second": "Это CPA-сеть, в которой публикуются офферы, такие как Admitad."
+        },
+        {
+          "first": "Рекламодатель",
+          "second": "Это компания или бизнес, который владеет продуктом, на который арбитражники привлекают трафик через партнерские ссылки. "
+        },
+        {
+          "first": "Партнерская ссылка",
+          "second": "Это уникальная ссылка, через которую действия пользователя приписываются конкретному арбитражнику в системе партнерки."
+        },
+        {
+          "first": "Выплата",
+          "second": "Это сумма, которую платят за целевое действие по офферу в партнерской сети."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6202290",
+  "subscriptions": [
+    "31-77-6202290",
+    "30-77-6202290"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6181381,
+  "create_date": "2024-11-06T11:43:35Z",
+  "update_date": "2024-11-06T11:43:35Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6202290-1",
+  "discussion_threads": [
+    "77-6202290-1",
+    "77-6202290-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

@@ -1,0 +1,144 @@
+{
+  "id": 6071535,
+  "lesson": 1373174,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "table",
+    "text": "<p>У разных продуктов разные целевые аудитории, и разное типичное поведение. Для одних продуктов лучше работает низкая цена, а для других важнее ценность.</p>\n\n<p>В этом задании вам нужно отметить правильные варианты в пересечении столбцов и строк. Просмотрите поведение целевой аудитории и отметьте галочкой, что для них важнее: «Цена» или «Ценность».</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "rows": [
+        {
+          "name": "Покупают товар только при наличии скидки.",
+          "columns": [
+            {
+              "choice": true
+            },
+            {
+              "choice": false
+            }
+          ]
+        },
+        {
+          "name": "Готовы заплатить больше за дополнительные услуги.",
+          "columns": [
+            {
+              "choice": false
+            },
+            {
+              "choice": true
+            }
+          ]
+        },
+        {
+          "name": "Ищут товар по минимальной стоимости.",
+          "columns": [
+            {
+              "choice": true
+            },
+            {
+              "choice": false
+            }
+          ]
+        },
+        {
+          "name": "Оценивают качество и престиж бренда.",
+          "columns": [
+            {
+              "choice": false
+            },
+            {
+              "choice": true
+            }
+          ]
+        },
+        {
+          "name": "Отдают предпочтение товарам с лучшей репутацией.",
+          "columns": [
+            {
+              "choice": false
+            },
+            {
+              "choice": true
+            }
+          ]
+        }
+      ],
+      "options": {
+        "is_checkbox": false,
+        "is_randomize_rows": false,
+        "is_randomize_columns": false,
+        "sample_size": -1
+      },
+      "columns": [
+        {
+          "name": "Цена"
+        },
+        {
+          "name": "Ценность"
+        }
+      ],
+      "description": "Клиентам важнее",
+      "is_always_correct": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Правильно! Поведение клиентов, ориентированных на цену, связано с поиском минимальных предложений и скидок. В то же время, покупатели, ориентированные на ценность, готовы платить больше за качество, престиж и дополнительные услуги.",
+    "feedback_wrong": "Обратите внимание, что цена напрямую связана с минимальной стоимостью и скидками, а ценность — это восприятие качества, репутации и дополнительной пользы, которую продукт приносит покупателю."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6071535",
+  "subscriptions": [
+    "31-77-6071535",
+    "30-77-6071535"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6050628,
+  "create_date": "2024-10-11T13:18:55Z",
+  "update_date": "2024-10-11T13:18:55Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6071535-1",
+  "discussion_threads": [
+    "77-6071535-1",
+    "77-6071535-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

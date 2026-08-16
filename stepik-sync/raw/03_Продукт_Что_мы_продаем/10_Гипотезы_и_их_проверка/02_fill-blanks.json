@@ -1,0 +1,216 @@
+{
+  "id": 6071707,
+  "lesson": 1409691,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "fill-blanks",
+    "text": "<p>Заполните пропуски, выбрав правильный вариант ответа:</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "components": [
+        {
+          "type": "text",
+          "text": "Гипотеза в маркетинге — это ",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "утверждение",
+              "is_correct": true
+            },
+            {
+              "text": "метрика",
+              "is_correct": false
+            },
+            {
+              "text": "догадка",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", которая предполагает, что определённые действия приведут к ожидаемым изменениям. <br>\n\n",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": "Чтобы гипотеза была проверяемой, она должна быть",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "реалистичной",
+              "is_correct": true
+            },
+            {
+              "text": "конкретной",
+              "is_correct": true
+            },
+            {
+              "text": "измеримой",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", то есть результаты её проверки должны быть измеримы. <br>\n\n",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": "Хорошая гипотеза всегда имеет чёткие",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "метрики",
+              "is_correct": false
+            },
+            {
+              "text": "временные рамки",
+              "is_correct": true
+            },
+            {
+              "text": "цели",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", в которые можно проверить ожидаемые результаты. <br>",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": "Если выдвинутая гипотеза",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "проверяемая",
+              "is_correct": true
+            },
+            {
+              "text": "измеримая",
+              "is_correct": true
+            },
+            {
+              "text": "достижимая",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", это значит, что её можно подтвердить или опровергнуть с помощью экспериментов или тестов. <br>",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": "Одним из ключевых критериев хорошей гипотезы является её ",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "конкретность",
+              "is_correct": false
+            },
+            {
+              "text": "проверяемость",
+              "is_correct": false
+            },
+            {
+              "text": "реалистичность",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", то есть она должна быть выполнима с учётом текущих ресурсов компании.\n\n",
+          "options": []
+        }
+      ],
+      "is_case_sensitive": false,
+      "is_detailed_feedback": false,
+      "is_partially_correct": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Все правильно!  Гипотеза — это утверждение о том, что определённые действия приведут к изменению показателей, которые можно проверить и измерить.",
+    "feedback_wrong": "Если вы выбрали неправильные варианты, обратите внимание на точность формулировок гипотезы и ключевые критерии её проверки. Например, гипотеза — это догадка, которую можно проверить. Также важно, чтобы гипотеза была конкретной и измеримой, что делает её реалистичной для применения в реальных условиях бизнеса."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6071707",
+  "subscriptions": [
+    "31-77-6071707",
+    "30-77-6071707"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6050800,
+  "create_date": "2024-10-11T14:29:41Z",
+  "update_date": "2024-10-11T14:35:55Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6071707-1",
+  "discussion_threads": [
+    "77-6071707-1",
+    "77-6071707-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

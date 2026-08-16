@@ -1,0 +1,77 @@
+{
+  "id": 6082324,
+  "lesson": 1463447,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "number",
+    "text": "<h3>Расчёт CPC (Cost Per Click)</h3>\n\n<p>Вы потратили 20 000 рублей на рекламу, и ваша кампания привлекла 500 кликов. Рассчитайте <strong>CPC</strong> — стоимость за клик.</p>\n\n<p>Ответ приведите без рублей, просто укажите число. </p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "options": [
+        {
+          "answer": "40",
+          "max_error": "10"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Отлично! Стоимость каждого клика составляет 40 рублей.",
+    "feedback_wrong": "Убедитесь, что вы делите общие расходы на количество кликов. Это поможет вам точно рассчитать стоимость одного клика."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6082324",
+  "subscriptions": [
+    "31-77-6082324",
+    "30-77-6082324"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6061417,
+  "create_date": "2024-10-14T05:29:33Z",
+  "update_date": "2024-10-14T05:29:34Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6082324-1",
+  "discussion_threads": [
+    "77-6082324-1",
+    "77-6082324-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

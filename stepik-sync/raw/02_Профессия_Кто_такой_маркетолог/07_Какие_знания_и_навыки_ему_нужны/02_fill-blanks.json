@@ -1,0 +1,160 @@
+{
+  "id": 6064653,
+  "lesson": 1373175,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "fill-blanks",
+    "text": "<p>Выберите правильные значения для заполнения пропусков в предложениях о знаниях и умениях интернет-маркетолога.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "components": [
+        {
+          "type": "text",
+          "text": "Интернет-маркетолог должен уметь \n\n",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "игнорировать",
+              "is_correct": false
+            },
+            {
+              "text": "анализировать",
+              "is_correct": true
+            },
+            {
+              "text": "скрывать",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "трафик и оптимизировать его для достижения лучших результатов. <br>",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": "Основными инструментами, с которыми работает интернет-маркетолог, являются:\n\n",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "Excel и Word",
+              "is_correct": false
+            },
+            {
+              "text": "Микрофон и камера",
+              "is_correct": false
+            },
+            {
+              "text": "Рекламные системы",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". <br> ",
+          "options": []
+        },
+        {
+          "type": "text",
+          "text": "Одной из ключевых задач интернет-маркетолога является",
+          "options": []
+        },
+        {
+          "type": "select",
+          "text": "",
+          "options": [
+            {
+              "text": "привлечение",
+              "is_correct": true
+            },
+            {
+              "text": "развлечение",
+              "is_correct": false
+            },
+            {
+              "text": "отвлечение",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " клиентов в бизнес.",
+          "options": []
+        }
+      ],
+      "is_case_sensitive": false,
+      "is_detailed_feedback": false,
+      "is_partially_correct": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "Правильно! Все выбранные вами варианты показывают навыки и инструменты, необходимые интернет-маркетологу для успешной работы.",
+    "feedback_wrong": "Подумайте о том, какие навыки и инструменты действительно важны для интернет-маркетолога. Проверьте правильные варианты ответов и обратите внимание на основные обязанности и требования к этой профессии."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-6064653",
+  "subscriptions": [
+    "31-77-6064653",
+    "30-77-6064653"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.3333333333333333,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6043746,
+  "create_date": "2024-10-10T05:03:01Z",
+  "update_date": "2024-10-10T05:11:53Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6064653-1",
+  "discussion_threads": [
+    "77-6064653-1",
+    "77-6064653-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

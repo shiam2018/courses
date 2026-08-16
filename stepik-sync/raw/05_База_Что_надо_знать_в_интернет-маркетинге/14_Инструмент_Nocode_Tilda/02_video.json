@@ -1,0 +1,96 @@
+{
+  "id": 6103612,
+  "lesson": 1463966,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "video",
+    "text": "",
+    "video": {
+      "id": 442878,
+      "thumbnail": "https://cdn.stepik.net/video/442878/thumbnail/0e6456130eb62cfab31361b5af1f01f3.jpg",
+      "urls": [
+        {
+          "quality": "1080",
+          "url": "https://cdn.stepik.net/video/442878/1080/2f3a4d3ae9b111e380a42fb29a5b71c2.mp4"
+        },
+        {
+          "quality": "720",
+          "url": "https://cdn.stepik.net/video/442878/720/93094a8f988d8748efad317c10007f24.mp4"
+        },
+        {
+          "quality": "540",
+          "url": "https://cdn.stepik.net/video/442878/540/c56664dad361778f94c66de86d983fd9.mp4"
+        },
+        {
+          "quality": "360",
+          "url": "https://cdn.stepik.net/video/442878/360/69f6fa2d375fe3168cbdbf6ed65e9de2.mp4"
+        },
+        {
+          "quality": "240",
+          "url": "https://cdn.stepik.net/video/442878/240/fc6ab82b868234aa094985e548dbcfcd.mp4"
+        }
+      ],
+      "duration": 120,
+      "status": "ready",
+      "upload_date": "2024-10-17T19:34:00Z",
+      "filename": "тильда.mp4"
+    },
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-6103612",
+  "subscriptions": [
+    "31-77-6103612",
+    "30-77-6103612"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 6082703,
+  "create_date": "2024-10-17T19:35:01Z",
+  "update_date": "2024-10-17T19:35:01Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-6103612-1",
+  "discussion_threads": [
+    "77-6103612-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
