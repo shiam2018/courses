@@ -1,0 +1,77 @@
+{
+  "id": 3916695,
+  "lesson": 939407,
+  "position": 4,
+  "status": "ready",
+  "block": {
+    "name": "number",
+    "text": "<p>Вы запустили рекламную кампанию на поиске Яндекса, в которой используете 3 объявления. Первое объявление показалось 150 раз, получило 10 кликов, второе - 150 раз, получило 17 кликов, третье - 100 раз, получило 13 кликов.</p>\n\n<p>Какой средний CTR (кликабельность) ваших объявлений в этой кампании?</p>\n\n<p>Укажите ответ без значка %, только число.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "options": [
+        {
+          "answer": "10",
+          "max_error": "0"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": "CTR = Клики / Показы * 100%\nКлики = Сумма кликов всех объявлений\nПоказы = Сумма показов всех объявлений"
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-3916695",
+  "subscriptions": [
+    "31-77-3916695",
+    "30-77-3916695"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 306,
+  "passed_by": 262,
+  "correct_ratio": 0.5439672801635992,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3895793,
+  "create_date": "2023-03-31T04:10:03Z",
+  "update_date": "2023-03-31T12:15:52Z",
+  "discussions_count": 2,
+  "discussion_proxy": "77-3916695-1",
+  "discussion_threads": [
+    "77-3916695-1",
+    "77-3916695-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 2
+}

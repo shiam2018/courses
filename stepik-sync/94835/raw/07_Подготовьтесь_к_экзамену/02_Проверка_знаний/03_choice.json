@@ -1,0 +1,101 @@
+{
+  "id": 3914644,
+  "lesson": 939190,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что такое контекстная реклама?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Продвижение продукта в социальных сетях.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": " Реклама на основе запросов пользователей, в основном в поисковых системах.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": " Общение с потенциальными и действующими клиентам через email.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Раздача листовок на улицах.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-3914644",
+  "subscriptions": [
+    "31-77-3914644",
+    "30-77-3914644"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 419,
+  "passed_by": 408,
+  "correct_ratio": 0.964622641509434,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3893741,
+  "create_date": "2023-03-30T04:15:27Z",
+  "update_date": "2023-03-30T04:15:27Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3914644-1",
+  "discussion_threads": [
+    "77-3914644-1",
+    "77-3914644-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

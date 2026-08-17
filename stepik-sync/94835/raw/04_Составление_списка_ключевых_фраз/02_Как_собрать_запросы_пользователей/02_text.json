@@ -1,0 +1,67 @@
+{
+  "id": 3915157,
+  "lesson": 939393,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>При первичной разработке семантики часто используется техника генерации ключевых фраз. Это составление всех возможных сочетаний из нескольких списков ключевых слов.</p>\n\n<p>Генерация позволяет расширить список ключевых фраз и получить список из сотен или тысяч запросов. Таким образом можно создавать комбинации из 3, 4 и 5 слов. Но стоит учитывать, что часть из них будет иметь низкую частотность и мало поможет в рекламе.</p>\n\n<p>Комбинации фраз могут быть использованы как дополнение к основной семантике или в качестве отдельного списка, который может быть использован для настройки отдельных кампаний, например, для информационного трафика с низкими ставками.</p>\n\n<h3>Пример</h3>\n\n<p>Перемножение двух списков</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>мотоцикл</td>\n\t\t\t<td>купить</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>мопед</td>\n\t\t\t<td>сколько стоит</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>байк</td>\n\t\t\t<td>заказать</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Даст результат из 9 запросов</p>\n\n<ul>\n\t<li>мотоцикл купить </li>\n\t<li>мотоцикл сколько стоит </li>\n\t<li>мотоцикл заказать </li>\n\t<li>мопед купить </li>\n\t<li>мопед сколько стоит </li>\n\t<li>мопед заказать </li>\n\t<li>байк купить </li>\n\t<li>байк сколько стоит </li>\n\t<li>байк заказать </li>\n</ul>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3915157",
+  "subscriptions": [
+    "31-77-3915157",
+    "30-77-3915157"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 617,
+  "passed_by": 617,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3894254,
+  "create_date": "2023-03-30T08:05:17Z",
+  "update_date": "2023-03-30T08:05:17Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3915157-1",
+  "discussion_threads": [
+    "77-3915157-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

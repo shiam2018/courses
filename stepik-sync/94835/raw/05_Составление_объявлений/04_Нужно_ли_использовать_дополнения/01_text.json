@@ -1,0 +1,67 @@
+{
+  "id": 3915120,
+  "lesson": 939431,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Дополнения в контекстной рекламе – это важные элементы объявлений, которые значительно повышают эффективность рекламной кампании.</p>\n\n<p>Они позволяют рассказать пользователю о дополнительных преимуществах нашего продукта, а также увеличивают площадь объявления, повышая кликабельность.</p>\n\n<figure class=\"image\"><img alt=\"\" height=\"219\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/b6038a98-d768-4a25-86a2-dac1196a26a6/\" width=\"877\">\n<figcaption>Желтым выделено дополнение \"Уточнение\"​​​</figcaption>\n</figure>\n\n<p>Также рекламная система получает больше гибкости в оставлении объявлений и может подстраивать их внешний вид в зависимости от запроса пользователя и места показа.</p>\n\n<p>Доступные дополнения для Яндекс.Директ и Google Ads могут незначительно различаться, но обычно включают следующие:</p>\n\n<ul>\n\t<li>Отображаемая ссылка</li>\n\t<li>Быстрые ссылки</li>\n\t<li>Контакты</li>\n\t<li>Уточнения</li>\n\t<li>Цена</li>\n\t<li>Промоакция</li>\n\t<li>Кнопка в объявлениях</li>\n\t<li>Данные из внешних источников (например, рейтинг магазина на Маркете в Яндекс.Директ)</li>\n</ul>\n\n<p>Некоторые дополнения могут быть доступны только для определенных типов кампаний.</p>\n\n<p>Рекомендуется заполнять все доступные дополнения.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3915120",
+  "subscriptions": [
+    "31-77-3915120",
+    "30-77-3915120"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 490,
+  "passed_by": 490,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    2
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3894217,
+  "create_date": "2023-03-30T07:30:05Z",
+  "update_date": "2023-03-30T10:32:03Z",
+  "discussions_count": 1,
+  "discussion_proxy": "77-3915120-1",
+  "discussion_threads": [
+    "77-3915120-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,77 @@
+{
+  "id": 3914333,
+  "lesson": 939188,
+  "position": 4,
+  "status": "ready",
+  "block": {
+    "name": "number",
+    "text": "<p>Ваша рекламная кампания:</p>\n\n<ul>\n\t<li>Получила 150 кликов,</li>\n\t<li>Потратила $300,</li>\n\t<li>Вы получили 30 конверсий (целевых действий).</li>\n</ul>\n\n<p>Рассчитайте CR и укажите его в процентах (без значка процентов, просто число).</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "options": [
+        {
+          "answer": "20",
+          "max_error": "0"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": "Нужно разделить конверсии на клики и умножить на 100%, расход для отвлечения внимания.\nCR (Conversion Rate) = (Конверсии / Клики) * 100%."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-3914333",
+  "subscriptions": [
+    "31-77-3914333",
+    "30-77-3914333"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 908,
+  "passed_by": 763,
+  "correct_ratio": 0.7165575304022451,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3893430,
+  "create_date": "2023-03-29T20:21:38Z",
+  "update_date": "2023-03-31T12:58:05Z",
+  "discussions_count": 2,
+  "discussion_proxy": "77-3914333-1",
+  "discussion_threads": [
+    "77-3914333-1",
+    "77-3914333-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

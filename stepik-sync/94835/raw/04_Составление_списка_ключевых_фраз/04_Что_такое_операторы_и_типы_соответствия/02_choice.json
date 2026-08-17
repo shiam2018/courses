@@ -1,0 +1,101 @@
+{
+  "id": 3916371,
+  "lesson": 939394,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что такое тип соответствия?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Когда вы смотрите фильмы, которые соответствуют вашему настроению и эмоциональному состоянию.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Параметр в контекстной рекламе, который определяет, насколько точно запрос пользователя должен соответствовать ключевым словам в рекламной кампании, чтобы реклама была показана.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Когда ваше имя и фамилия звучат гармонично вместе и создают положительное впечатление.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Когда один игрок должен точно передать мяч другому игроку, чтобы они могли сработаться и забить гол.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-3916371",
+  "subscriptions": [
+    "31-77-3916371",
+    "30-77-3916371"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 558,
+  "passed_by": 521,
+  "correct_ratio": 0.9867674858223062,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3895468,
+  "create_date": "2023-03-30T20:13:37Z",
+  "update_date": "2023-03-30T20:13:37Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3916371-1",
+  "discussion_threads": [
+    "77-3916371-1",
+    "77-3916371-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

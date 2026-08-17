@@ -1,0 +1,96 @@
+{
+  "id": 3916740,
+  "lesson": 939407,
+  "position": 7,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Компания, занимающаяся продажей металлочерепицы, запустила три рекламные кампании с одинаковым расходом.</p>\n\n<p>Первая кампания содержала ключевые слова \"металлочерепица\", \"профнастил\", \"металлопрофиль\", вторая - \"кровельные материалы\", \"профиль\", \"профлист\", а третья - \"дом\", \"строительство\", \"ремонт\".</p>\n\n<p>По истечении месяца работы кампаний, были получены данные о стоимости клика (CPC) и количестве конверсий.</p>\n\n<p>Используя формулу CR, необходимо определить, какая кампания оказалась наиболее эффективной в плане показателя конверсии.</p>\n\n<ol>\n\t<li>Первая кампания. CPC = $5, Конверсий = 12,</li>\n\t<li>Вторая кампания. CPC = $7, Конверсий = 20,</li>\n\t<li>Третья кампания. CPC = $8, Конверсий = 19.</li>\n</ol>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 3,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Первая кампания.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Вторая кампания.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Третья кампания.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": "Так как расход одинаковый, то наибольший показатель конверсии будет у кампании, у которой произведение CPC на Количество конверсий будет максимальной.\nПотому что:\n\nКлики = Расход / CPC,\nCR = Конверсии / Клики * 100% = Конверсии * CPC / Расход * 100%"
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-3916740",
+  "subscriptions": [
+    "31-77-3916740",
+    "30-77-3916740"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 285,
+  "passed_by": 258,
+  "correct_ratio": 0.4879852125693161,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3895837,
+  "create_date": "2023-03-31T05:48:58Z",
+  "update_date": "2023-03-31T12:22:22Z",
+  "discussions_count": 2,
+  "discussion_proxy": "77-3916740-1",
+  "discussion_threads": [
+    "77-3916740-1",
+    "77-3916740-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 2
+}

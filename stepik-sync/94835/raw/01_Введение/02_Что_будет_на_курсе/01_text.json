@@ -1,0 +1,67 @@
+{
+  "id": 3916185,
+  "lesson": 939634,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align: center;\"><img alt=\"\" height=\"360\" name=\"Введение в контекстную рекламу (2).png\" src=\"https://ucarecdn.stepik.net/eebbadb0-28b8-428e-894b-d494f9d204b7/\" style=\"float: right;\" width=\"360\">Что будет на курсе?</h2>\n\n<p>Этот курс с помощью простых слов даёт начальные знания контекстной рекламы.</p>\n\n<p><strong>Темы, которые мы рассмотрим</strong></p>\n\n<ul>\n\t<li>Основы работы контекстной рекламы.</li>\n\t<li>Определения и принципы работы.</li>\n\t<li>Модели оплаты и ценообразование.</li>\n\t<li>Работа с ключевыми фразами и объявлениями.</li>\n\t<li>Описание работы в рекламной системе Яндекс.Директ.</li>\n</ul>\n\n<p>Курс будет состоять из теоретических занятий и простых заданий, проверяющих усвоение материала. </p>\n\n<p><strong>Что вы получите?</strong></p>\n\n<p>После прохождения курса вы будете знать, как создавать и оптимизировать контекстную рекламу, как собирать ключевые фразы и группировать минус-слова, как эффективно настраивать стратегии назначения ставок и составлять кликабельные объявления.</p>\n\n<p><strong>Что делать после курса?</strong></p>\n\n<p>После окончания курса я рекомендую продолжить обучение и начать практиковаться на учебных проектах. Это нужно, чтобы получить реальные навыки и подготовиться к собеседованиям или применить полученные знания при работе с собственным бизнесом. </p>\n\n<p>Повторю, этот курс <strong>для новичков в контекстной рекламе</strong>, поэтому мы рассматриваем базовые знания и понятия. Для того, чтобы получить продвинутые знания, вы можете подписаться на <a href=\"https://www.youtube.com/@shenshinigor\" rel=\"noopener noreferrer nofollow\">мой YouTube канал</a>.</p>\n\n<p>На нём я провожу бесплатные вебинары по маркетингу и выкладываю записи с полезными материалами.</p>\n\n<p>Знания разделены на теоретические материалы и задания, которые проверяют понимание теории. В заданиях встречаются как выбор определения, так и решение простых задач на расчет KPI.</p>\n\n<p>Удачи)</p>\n\n<p>Для продолжения, нажмите \"<strong>Следующий шаг</strong>\".</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3916185",
+  "subscriptions": [
+    "31-77-3916185",
+    "30-77-3916185"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1807,
+  "passed_by": 1807,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3895282,
+  "create_date": "2023-03-30T18:25:40Z",
+  "update_date": "2023-03-31T09:50:44Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3916185-1",
+  "discussion_threads": [
+    "77-3916185-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

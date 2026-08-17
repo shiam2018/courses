@@ -1,0 +1,101 @@
+{
+  "id": 3916660,
+  "lesson": 939190,
+  "position": 9,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что такое список ключевых фраз?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Список всех слов, которые пользователь вводит в поисковой системе.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Список слов и фраз, основанных на запросах пользователей и используемых в рекламной кампании для отображения рекламных объявлений.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Список фраз, которые можно использовать в чат-боте для поддержания беседы.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Список фраз, которые используются в литературе для описания настроения и эмоций героев.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-3916660",
+  "subscriptions": [
+    "31-77-3916660",
+    "30-77-3916660"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 396,
+  "passed_by": 387,
+  "correct_ratio": 0.9532019704433498,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3895757,
+  "create_date": "2023-03-31T02:59:15Z",
+  "update_date": "2023-03-31T03:19:59Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3916660-1",
+  "discussion_threads": [
+    "77-3916660-1",
+    "77-3916660-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

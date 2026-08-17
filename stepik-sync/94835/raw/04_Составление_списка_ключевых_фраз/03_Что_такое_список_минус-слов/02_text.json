@@ -1,0 +1,67 @@
+{
+  "id": 3915179,
+  "lesson": 939427,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Один из способов составления списка минус слов - это <strong>лемматизация</strong>.</p>\n\n<p>Лемматизация - это процесс приведения слова к его базовой форме, т.е. лемме. Например, леммой слова \"бегут\", \"бегущий\" и \"бегали\" будет слово \"бегать\". Пример лемматизации слова \"пошли\" - его леммой будет слово \"пойти\". Лемматизация помогает упростить анализ запросов, поскольку позволяет рассматривать все формы слова как одно и то же слово.</p>\n\n<p>Для лемматизации все фразы разделяются на слова, удаляются дубликаты и сводятся в один столбец в Excel. Затем список прогоняется через <a href=\"https://iksweb.ru/tools/lemma/\" rel=\"noopener noreferrer nofollow\">лемматизатор</a>.</p>\n\n<p>Лемматизация помогает также при удалении неявных дублей - ситуации, когда одна ключевая фраза повторяется в разных группах объявлений, но в другой форме или порядке слов. Например, фраза “купить новостройку Москва” то же самое, что “новостройки что купить в Москве”. “Что” и “в” это стоп-слова, которые не учитываются рекламной системой, также как и склонение слова “новостройка”.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3915179",
+  "subscriptions": [
+    "31-77-3915179",
+    "30-77-3915179"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 590,
+  "passed_by": 590,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3894276,
+  "create_date": "2023-03-30T08:24:15Z",
+  "update_date": "2023-03-31T12:40:01Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3915179-1",
+  "discussion_threads": [
+    "77-3915179-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 3916184,
+  "lesson": 939633,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align: center;\"><img alt=\"\" height=\"360\" name=\"main-png-2.png\" src=\"https://ucarecdn.stepik.net/3dde593b-d665-472c-9dff-efeb15963482/\" style=\"float: right;\" width=\"360\">Приветствую!</h2>\n\n<p>Меня зовут Игорь Шеньшин, я <strong>Head of User Acquisition</strong> и уже больше 12 лет закупаю трафик. Веду платное привлечение в Google Ads, Meta*, TikTok, Apple Search Ads и других каналах, руковожу маркетинговыми командами и сам же нанимаю специалистов в свою команду, поэтому пишу именно о том, что реально работает в user acquisition и трафик-арбитраже. Подробнее обо мне и моём опыте я рассказал в <a href=\"https://www.linkedin.com/in/shenshin/\" rel=\"noopener noreferrer nofollow\">LinkedIn</a>.</p>\n\n<p>Если тема актуальна, подписывайтесь на мой Telegram-канал <a href=\"https://t.me/shenshin_co\" rel=\"noopener noreferrer nofollow\">shenshin.co</a>, там я пишу о карьере в маркетинге, и на <a href=\"https://www.youtube.com/@shenshinigor\" rel=\"noopener noreferrer nofollow\">YouTube-канал</a>, где выкладываю вебинары и разборы.</p>\n\n<p>Если у вас есть предложение о сотрудничестве или вы хотите записаться на индивидуальное обучение и коучинг для достижения конкретных целей (подробности на <a href=\"https://shenshin.co/ru/\" rel=\"noopener noreferrer nofollow\">моём сайте</a>), напишите мне в <a href=\"https://t.me/shenshinigor\" rel=\"noopener noreferrer nofollow\">Telegram</a>.</p>\n\n<p>Буду рад видеть вас среди тех, кто завершит этот курс. Он простой, но тем не менее полезный. Здесь собраны базовые понятия контекстной рекламы, которые будут полезны при поиске работы младшего специалиста по контекстной рекламе и интернет-маркетолога. </p>\n\n<p>PS: Продвинутые знания по контекстной рекламе я разберу в платных курсах, которые сейчас готовлю.</p>\n\n<p>Для продолжения, нажмите \"<strong>Следующий шаг</strong>\".</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3916184",
+  "subscriptions": [
+    "31-77-3916184",
+    "30-77-3916184"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2672,
+  "passed_by": 2672,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3895281,
+  "create_date": "2023-03-30T18:25:38Z",
+  "update_date": "2023-04-03T14:59:11Z",
+  "discussions_count": 2,
+  "discussion_proxy": "77-3916184-1",
+  "discussion_threads": [
+    "77-3916184-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

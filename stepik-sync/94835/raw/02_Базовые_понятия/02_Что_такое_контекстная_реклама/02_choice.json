@@ -1,0 +1,101 @@
+{
+  "id": 3914091,
+  "lesson": 939185,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что такое лидогенерация?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Техника кулинарии, при которой повара готовят блюда, содержащие лиственницу и генерируют необычные вкусы.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Процесс привлечения потенциальных клиентов (лидов) для последующего конвертирования их в покупателей.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Секретный ритуал маркетологов, который включает в себя танцы вокруг бубна и призывание духов потребительских желаний.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Процесс создания свинцовых скульптур для декорирования офисов маркетологов.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-3914091",
+  "subscriptions": [
+    "31-77-3914091",
+    "30-77-3914091"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1378,
+  "passed_by": 1275,
+  "correct_ratio": 0.9763899466869764,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3893188,
+  "create_date": "2023-03-29T19:00:58Z",
+  "update_date": "2023-03-29T19:00:59Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3914091-1",
+  "discussion_threads": [
+    "77-3914091-1",
+    "77-3914091-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

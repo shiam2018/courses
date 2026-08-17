@@ -1,0 +1,101 @@
+{
+  "id": 3917020,
+  "lesson": 939407,
+  "position": 11,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>У нас есть интернет-магазин зоотоваров, который рекламируется через Яндекс.Директ и Google Ads. Мы хотим выяснить, какая рекламная кампания более рентабельна. Для этого мы собрали следующие данные:</p>\n\n<ul>\n\t<li>Кампания в Яндекс.Директ:\n\t<ul>\n\t\t<li>CTR - 3%</li>\n\t\t<li>CPC - $0.5</li>\n\t\t<li>CR - 7%</li>\n\t\t<li>AOV - $40</li>\n\t</ul>\n\t</li>\n\t<li>Кампания в Google Ads:\n\t<ul>\n\t\t<li>CTR - 4%</li>\n\t\t<li>CPC - $0.4</li>\n\t\t<li>CR - 5%</li>\n\t\t<li>AOV - $50</li>\n\t</ul>\n\t</li>\n</ul>\n\n<ul>\n\t<li>Кампания в Яндекс.Директ:\n\t<ul>\n\t\t<li>CTR - 3%</li>\n\t\t<li>CPC - $0.5</li>\n\t\t<li>CR - 7%</li>\n\t\t<li>AOV - $40</li>\n\t</ul>\n\t</li>\n\t<li>Кампания в Google Ads:\n\t<ul>\n\t\t<li>CTR - 4%</li>\n\t\t<li>CPC - $0.4</li>\n\t\t<li>CR - 5%</li>\n\t\t<li>AOV - $50</li>\n\t</ul>\n\t</li>\n</ul>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Рентабельность выше у кампании Яндекс.Директ.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Рентабельность выше у кампании Google Ads.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Рентабельность одинакова.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Данных недостаточно.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": "Для сравнения рентабельности нам нужны доходы и расходы в абсолютных или относительных значениях. Пропорции могут использоваться, если имеются дополнительные данные для их составления. \nНапример, если расходы на две рекламные кампании были одинаковыми, то можно было бы сравнить их CPA и AOV и определить более рентабельную кампанию."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-3917020",
+  "subscriptions": [
+    "31-77-3917020",
+    "30-77-3917020"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 277,
+  "passed_by": 239,
+  "correct_ratio": 0.3562043795620438,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3896117,
+  "create_date": "2023-03-31T08:11:53Z",
+  "update_date": "2023-03-31T12:17:11Z",
+  "discussions_count": 3,
+  "discussion_proxy": "77-3917020-1",
+  "discussion_threads": [
+    "77-3917020-1",
+    "77-3917020-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 2
+}

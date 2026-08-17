@@ -1,0 +1,67 @@
+{
+  "id": 3915012,
+  "lesson": 939407,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Дальше будут представлены 10 задач на расчет метрик. Иногда подобные задачи могут попросить решить прямо на собеседовании. С целью проверки знаний, а также оценки способности кандидата справляться со стрессовыми ситуациями.</p>\n\n<p>Задачи в тесте будут простыми, проще, чем пример ниже.</p>\n\n<p>Но все равно, рекомендуется прочитать этот пример решения, поскольку он относительно сложен и показывает взаимосвязь метрик интернет-маркетинга:</p>\n\n<p>Задача:</p>\n\n<p>У нас есть рекламная кампания в Яндекс.Директ, которую мы используем для продвижения нашей франшизы быстрого питания. Нужно рассчитать CPA, стоимость за конверсию, по следующим данным:</p>\n\n<ul>\n\t<li>ROAS = 50%</li>\n\t<li>CR = 5%</li>\n\t<li>CPC = $50</li>\n\t<li>Клики = 2500</li>\n\t<li>Доход от одной конверсии (eCPA) = $750</li>\n</ul>\n\n<p><strong>Решение</strong></p>\n\n<p><u>Первый вариант расчета:</u></p>\n\n<p>Чтобы найти CPA рассчитаем Расход, Прибыль, Доход и Конверсии, а затем поделим Расход на Конверсии:</p>\n\n<ol>\n\t<li>ROAS = Прибыль / Расход * 100% </li>\n\t<li>Расход = CPC * клики = 50 * 2500 = 125 000</li>\n\t<li>Прибыль = Расход * ROAS / 100% = 125 000 * 50% = 62 500</li>\n\t<li>Прибыль = Доход - Расход</li>\n\t<li>Доход = Прибыль + Расход =  125 000 + 62 500 = 187 500</li>\n\t<li>Доход = Конверсии * eCPA </li>\n\t<li>Конверсии = Доход / eCPA = 250</li>\n\t<li>CPA = Расход / Конверсии =<strong> 500</strong></li>\n</ol>\n\n<p><u>Или можно посчитать по-другому:</u></p>\n\n<p>Так как Доход = eCPA * Конверсии, а Расход = CPA * Конверсии то  в формуле ROAS можно сократить Конверсии и найти CPA через eCPA и ROAS:</p>\n\n<ol>\n\t<li>ROAS = (eCPA - CPA) / CPA * 100% Умножаем обе части уравнения на CPA и делим на 100%  </li>\n\t<li>ROAS / 100% * CPA = eCPA - CPA Переносим все что содержит CPA в левую сторону уравнения</li>\n\t<li>ROAS / 100% * CPA + CPA = eCPA Выносим CPA за скобки</li>\n\t<li>CPA (ROAS / 100% + 1) = eCPA  Делим обе части уравнения на (ROAS / 100% + 1)</li>\n\t<li>CPA = eCPA / (ROAS / 100% + 1) = 750 / (0.5 + 1) = 750 / 1.5 = <strong>500 </strong>Находим значение CPA</li>\n</ol>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3915012",
+  "subscriptions": [
+    "31-77-3915012",
+    "30-77-3915012"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 435,
+  "passed_by": 435,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3894109,
+  "create_date": "2023-03-30T07:06:03Z",
+  "update_date": "2023-03-31T12:04:13Z",
+  "discussions_count": 3,
+  "discussion_proxy": "77-3915012-1",
+  "discussion_threads": [
+    "77-3915012-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

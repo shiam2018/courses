@@ -1,0 +1,101 @@
+{
+  "id": 3914196,
+  "lesson": 939187,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что такое аукцион в контекстной рекламе?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Вечеринка для рекламодателей, на которой они торгуются за право размещать свои объявления на лучших местах.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Механизм, определяющий порядок показа объявлений и стоимость клика, основанный на ставках рекламодателей.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Соревнование между рекламодателями, кто быстрее преодолеет 100 метров с барьерами, чтобы получить лучшую позицию в результатах поиска.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Тайный клуб, в котором рекламодатели соревнуются в том, кто больше сможет съесть пончиков за одну минуту, чтобы определить, чьи объявления покажутся первыми.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-3914196",
+  "subscriptions": [
+    "31-77-3914196",
+    "30-77-3914196"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1182,
+  "passed_by": 1104,
+  "correct_ratio": 0.9479077711357814,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3893293,
+  "create_date": "2023-03-29T19:53:45Z",
+  "update_date": "2023-03-29T19:53:45Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3914196-1",
+  "discussion_threads": [
+    "77-3914196-1",
+    "77-3914196-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

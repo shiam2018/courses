@@ -1,0 +1,77 @@
+{
+  "id": 3916696,
+  "lesson": 939407,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "number",
+    "text": "<p>Вы запускаете рекламную кампанию в Яндекс.Директ, чтобы продвигать свой интернет-магазин.</p>\n\n<p>Средняя стоимость клика (CPC) на ваши объявления составляет $2.</p>\n\n<p>Ваша воронка выглядит следующим образом: из каждых 100 человек перешедших на сайт, 25 добавляют товар в корзину, а 10 совершают покупку.</p>\n\n<p>Cредняя прибыль с одной продажи - $30.</p>\n\n<p>Какую рентабельность вы получите, если расход будет равен $2 000</p>\n\n<p>Укажите ответ без значка %, только число. </p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "options": [
+        {
+          "answer": "150",
+          "max_error": "0"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": "Прибыль = Расход - Доход или Прибыль = Прибыль с каждой продажи * Продажи;\nПродажи = Клики * CR  (CR = 10%);\nКлики = Расход  / CPC;\nROI = Прибыль / Расход * 100%"
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-3916696",
+  "subscriptions": [
+    "31-77-3916696",
+    "30-77-3916696"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 377,
+  "passed_by": 238,
+  "correct_ratio": 0.17074877536738978,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3895790,
+  "create_date": "2023-03-31T04:10:03Z",
+  "update_date": "2023-03-31T12:15:28Z",
+  "discussions_count": 2,
+  "discussion_proxy": "77-3916696-1",
+  "discussion_threads": [
+    "77-3916696-1",
+    "77-3916696-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 2
+}

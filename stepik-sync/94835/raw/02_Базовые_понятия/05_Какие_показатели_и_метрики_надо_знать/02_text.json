@@ -1,0 +1,67 @@
+{
+  "id": 3917346,
+  "lesson": 939188,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Также есть дополнительные метрики, которые позволяют быстрее оценить эффективность кампании, не проводя полного расчета рентабельности.</p>\n\n<p>Наряду с метриками, которые показывают отношение расхода к результату, таких как CPM (расход на тысячу показов объявлений), CPC (расход на клик), CPA (расход на конверсию), мы можем рассчитать отношение дохода к результату. То есть посчитать eCPM (доход на тысячу показов), eCPC (доход на клик), eCPA (доход на конверсию).</p>\n\n<p><code>eCPM  = Доход / Показы в тысячах</code></p>\n\n<p><code>eCPC = Доход / Клики</code></p>\n\n<p><code>eCPA = Доход / Конверсии</code></p>\n\n<p>Такие метрики показывают \"эффективное значение\" показов, кликов и конверсий и позволяют быстро оценить прибыльность объявлений. С их помощью можно быстрее рассчитать ROAS, если мы считаем его по Доходу. </p>\n\n<p><code>ROAS = Доход / Расход * 100% = eCPM / CPM * 100% = eCPC / CPC * 100% = eCPA / CPA * 100%</code></p>\n\n<p>Потому что:</p>\n\n<p><code>Доход = eCPM * Показы в тысячах = eCPC * Клики = eCPA * Конверсии</code></p>\n\n<p><code>Расход = CPM * Показы в тысячах = CPC * Клики = CPA * Конверсии</code></p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3917346",
+  "subscriptions": [
+    "31-77-3917346",
+    "30-77-3917346"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1068,
+  "passed_by": 1068,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3896443,
+  "create_date": "2023-03-31T08:29:16Z",
+  "update_date": "2023-03-31T08:31:21Z",
+  "discussions_count": 1,
+  "discussion_proxy": "77-3917346-1",
+  "discussion_threads": [
+    "77-3917346-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

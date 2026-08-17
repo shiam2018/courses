@@ -1,0 +1,67 @@
+{
+  "id": 3914047,
+  "lesson": 939190,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Этот этап включает в себя 15 простых вопросов, с 4 вариантами ответа, которые помогут вам убедиться, что вы хорошо усвоили материал курса.</p>\n\n<p>За правильное решение задачи вы получите 2 балла.</p>\n\n<p>Чтобы закончить курс нужно набрать все 60 баллов, вместе с проверочными вопросами после каждой главы.</p>\n\n<p>На следующем уроке мы проведём проверку с помощью 10 простых задач на расчет KPI, за решение которых дается 3 балла.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3914047",
+  "subscriptions": [
+    "31-77-3914047",
+    "30-77-3914047"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 444,
+  "passed_by": 444,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3893144,
+  "create_date": "2023-03-29T18:44:16Z",
+  "update_date": "2023-03-31T13:20:06Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3914047-1",
+  "discussion_threads": [
+    "77-3914047-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

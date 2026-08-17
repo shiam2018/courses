@@ -1,0 +1,67 @@
+{
+  "id": 3915014,
+  "lesson": 939409,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Буду рад видеть вас на моих бесплатных курсах, включая \"<a href=\"https://stepik.org/course/52116/promo\" rel=\"noopener noreferrer nofollow\">Введение в арбитраж трафика и CPA маркетинг</a>\", где я рассказываю о необходимых знаниях для начала работы в арбитраже трафика.</p>\n\n<p>Если вы хотите записаться на индивидуальное обучение и коучинг для достижения конкретных целей, напишите мне в <a href=\"https://t.me/shenshinigor/\" rel=\"noopener noreferrer nofollow\">Telegram</a>.</p>\n\n<p>Сейчас я готовлю более глубокий платный курс о том, как покупать трафик и устроиться на работу в маркетинге, с ранним доступом и стартовой скидкой для тех, кто запишется в лист ожидания. Подробности, новости и бесплатные материалы, на моём сайте <a href=\"https://shenshin.co/ru/\" rel=\"noopener noreferrer nofollow\">shenshin.co</a>. Оставайтесь на связи!</p>\n\n<p>Мир маркетинга постоянно развивается, каждый год появляются новые возможности. Я надеюсь, что вы будете их отслеживать и сможете извлечь из перемен большую выгоду.</p>\n\n<p>Я желаю вам успеха на вашем пути маркетолога!</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3915014",
+  "subscriptions": [
+    "31-77-3915014",
+    "30-77-3915014"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 397,
+  "passed_by": 397,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3894111,
+  "create_date": "2023-03-30T07:06:08Z",
+  "update_date": "2023-03-31T08:54:31Z",
+  "discussions_count": 9,
+  "discussion_proxy": "77-3915014-1",
+  "discussion_threads": [
+    "77-3915014-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

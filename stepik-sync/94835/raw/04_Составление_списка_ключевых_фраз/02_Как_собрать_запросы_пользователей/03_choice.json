@@ -1,0 +1,101 @@
+{
+  "id": 3916365,
+  "lesson": 939393,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что такое поисковые подсказки?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Способность гадать, что вы ищете, еще до того, как вы начнете это искать.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Функция поисковых систем, которая автоматически предлагает пользователю варианты запросов, основанные на начально введенном тексте.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Советы от поисковых систем, которые никогда не соответствуют тому, что вы ищете.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Волшебная функция поисковых систем, которая предлагает вам искать вещи, которые вы никогда не задавались целью найти.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-3916365",
+  "subscriptions": [
+    "31-77-3916365",
+    "30-77-3916365"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 608,
+  "passed_by": 571,
+  "correct_ratio": 0.955,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3895462,
+  "create_date": "2023-03-30T20:08:23Z",
+  "update_date": "2023-03-30T20:08:23Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3916365-1",
+  "discussion_threads": [
+    "77-3916365-1",
+    "77-3916365-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}
