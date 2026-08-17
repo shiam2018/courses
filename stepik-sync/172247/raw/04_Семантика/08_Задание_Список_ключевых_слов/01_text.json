@@ -1,0 +1,67 @@
+{
+  "id": 4535367,
+  "lesson": 1090843,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2><img alt=\"\" height=\"400\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/a9d32194-bcca-4f09-8539-a46f845a3292/\" width=\"1200\"></h2>\n\n<h2>🧩 Задание: Подбор ключевых слов и кластеризация семантики для своего блога</h2>\n\n<p>Вы прошли модуль <strong>«Семантика»</strong>, научились собирать ключевые слова и группировать их. Пришло время применить эти знания на практике и собрать <strong>собственное мини-семантическое ядро для блога</strong>.</p>\n\n<h3>🛠 Шаг 1. Выбор тематики блога</h3>\n\n<p>Выберите тему, на которую вы хотите вести блог. Это может быть:</p>\n\n<ul>\n\t<li>то, чем вы увлекаетесь (еда, путешествия, спорт)</li>\n\t<li>ваша профессия (дизайн, маркетинг, юриспруденция)</li>\n\t<li>или тема, в которой вы хотите прокачаться</li>\n</ul>\n\n<p>✏️ <strong>Запишите 5 идей</strong> ключевых запросов по этой теме (например: \"домашняя пицца\", \"видеомонтаж на айфоне\", \"как выбрать хостинг\").</p>\n\n<h3>🔎 Шаг 2. Сбор ключевых слов</h3>\n\n<ol>\n\t<li>Перейдите на <a href=\"https://wordstat.yandex.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Яндекс Вордстат</a></li>\n\t<li>Введите по очереди все 5 своих идей-запросов</li>\n\t<li>Посмотрите, какие дополнительные варианты и уточнения предлагает система</li>\n\t<li>Добавляйте <strong>информационные и транзакционные добавки</strong>: \"купить\", \"сделать самому\", \"обзор\", \"инструкция\", \"пошагово\", \"для начинающих\", \"недорого\" и т.д.</li>\n\t<li>Соберите не менее <strong>100 ключевых фраз</strong></li>\n\t<li>Укажите для каждой примерную <strong>частотность</strong> (можно округлённо, чтобы не тратить много времени)</li>\n</ol>\n\n<p>🔧 Используйте Google Таблицу или Excel. Можно воспользоваться <a href=\"https://docs.google.com/spreadsheets/d/1KmJeBd4_wdY9fxRxr_6W8XVepX5YoHxiCn-5zTgiM08/edit?gid=1419347470#gid=1419347470\" rel=\"noopener noreferrer nofollow\">этим шаблоном таблицы </a>— просто нажмите «Создать копию».</p>\n\n<h3>🗂 Шаг 3. Кластеризация</h3>\n\n<p>Теперь ваша задача — <strong>разбить ключевые слова на 2–3 крупных кластера</strong>, каждый из которых включает <strong>несколько групп</strong> запросов.</p>\n\n<p><strong>Пример:</strong></p>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Кластер</th>\n\t\t\t<th>Группа</th>\n\t\t\t<th>Примеры ключевых фраз</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Рецепты</td>\n\t\t\t<td>Завтраки</td>\n\t\t\t<td>быстрый завтрак, омлет за 5 минут</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Рецепты</td>\n\t\t\t<td>Ужины</td>\n\t\t\t<td>ужин на скорую руку, что приготовить вечером</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Обзоры техники</td>\n\t\t\t<td>Микроволновки</td>\n\t\t\t<td>рейтинг микроволновок 2024, какую СВЧ выбрать</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Обзоры техники</td>\n\t\t\t<td>Блендеры</td>\n\t\t\t<td>лучший блендер до 3000, отзывы о блендерах</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<blockquote>\n<p>🔹 <strong><em>Группы</em></strong> — это более широкие запросы, в которые входят конкретные (обычно длинные) ключевые фразы.<br>\n🔸 <strong><em>Кластеры</em></strong> — это крупные темы, объединяющие несколько групп по смыслу, направлению или цели пользователя.</p>\n</blockquote>\n\n<h3>📈 Шаг 4. Анализ</h3>\n\n<p>Подумайте над вашим выбором. Ответьте на следующие вопросы:</p>\n\n<ul>\n\t<li>Почему вы выбрали эти ключевые слова?</li>\n\t<li>Какие цели вы хотите достичь, используя их?</li>\n\t<li>Как вы планируете использовать эти ключи (например, в заголовках, в текстах, в структуре сайта)?</li>\n</ul>\n\n<h3>💬 Шаг 5. Подготовка к контенту</h3>\n\n<p>Из всех собранных слов выберите <strong>3 ключевых фразы</strong>, на которые вы планируете написать посты. Желательно, чтобы у них была <strong>частотность от 200 до 300+ запросов в месяц</strong>.</p>\n\n<p>Вы можете выбрать как высокочастотный запрос, так и более узкий информационный запрос, если он вам ближе. Главное — чтобы тема была вам интересна и понятна.</p>\n\n<h2>Памятка</h2>\n\n<p>Помните, что реальная семантика сайта может включать тысячи и даже десятки тысяч ключевых запросов. Но большое количество запросов не всегда означает высокое качество трафика. Самые привлекательные и популярные запросы обычно высококонкурентны и требуют больших усилий для выхода в топ.</p>\n\n<p>Поэтому некоторые SEO-специалисты выбирают другую стратегию: создают много контента под менее популярные, низкочастотные запросы. Это позволяет собирать много «холодного» трафика и постепенно прогревать этих посетителей, предлагая им рекламу своих услуг или товаров.</p>\n\n<p>Яркий пример такой стратегии — сайт <strong>«<a href=\"https://spravochnick.ru/\" rel=\"noopener noreferrer nofollow\">Справочник</a>»</strong>, который собирает много школьного и студенческого трафика за счет низкочастотных запросов и конвертирует их в клиентов сервиса по написанию учебных работ.</p>\n\n<p>При желании вы можете продолжить работу над семантикой, расширяя и обрабатывая ее. Этот навык ценится высоко, и вы можете продемонстрировать его на собеседованиях или <a href=\"https://www.fl.ru/freelancers/?action=search&amp;show=all&amp;search_string=%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D1%8F%D0%B4%D1%80%D0%BE%20seo\" rel=\"noopener noreferrer nofollow\">предоставлять услуги по сбору и обработке ключевых слов в качестве фрилансера</a>.</p>\n\n<h2>Инструменты</h2>\n\n<ol>\n\t<li><a href=\"https://www.key-collector.ru/\" target=\"_new\" rel=\"noopener noreferrer nofollow\"><strong>Кейколлектор</strong></a>&nbsp;–&nbsp;помогает собирать и анализировать ключевые слова, предоставляя информацию о конкуренции и объеме поисковых запросов.</li>\n\t<li><a href=\"https://wordstat.yandex.ru/\" target=\"_new\" rel=\"noopener noreferrer nofollow\"><strong>Яндекс Вордстат</strong></a>&nbsp;– официальный инструмент Яндекса для анализа ключевых слов и оценки их популярности.</li>\n\t<li><a href=\"https://www.semrush.com/\" target=\"_new\" rel=\"noopener noreferrer nofollow\"><strong>SEMrush</strong></a> – популярный инструмент для исследования ключевых слов, анализа конкурентов и мониторинга позиций в поисковых результатах.</li>\n\t<li><a href=\"https://semantica.in/tools/yandex-wordstat-assistant\" target=\"_new\" rel=\"noopener noreferrer nofollow\"><strong>Yandex Wordstat Assistant от Sematica</strong></a> – расширение для браузера с с расширенным&nbsp;доступом к данным Яндекс Вордстата.</li>\n\t<li><a href=\"https://ads.google.com/intl/ru_ru/home/tools/keyword-planner/\" target=\"_new\" rel=\"noopener noreferrer nofollow\"><strong>Google Keywords Planner</strong></a>&nbsp;–&nbsp;исследование&nbsp;ключевых слов и планирования рекламных кампаний от Google.</li>\n</ol>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-4535367",
+  "subscriptions": [
+    "31-77-4535367",
+    "30-77-4535367"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 230,
+  "passed_by": 230,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 4514464,
+  "create_date": "2023-09-22T07:35:19Z",
+  "update_date": "2025-03-30T13:49:59Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-4535367-1",
+  "discussion_threads": [
+    "77-4535367-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

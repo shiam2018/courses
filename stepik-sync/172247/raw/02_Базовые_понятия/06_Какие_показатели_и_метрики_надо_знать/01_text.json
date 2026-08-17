@@ -1,0 +1,67 @@
+{
+  "id": 3918645,
+  "lesson": 940136,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2><img alt=\"\" height=\"1024\" name=\"ChatGPT Image Mar 30, 2025, 04_26_35 PM.png\" src=\"https://ucarecdn.stepik.net/42d9fdc4-809b-4fb3-9cb5-1415cafd7411/\" width=\"1536\"></h2>\n\n<h2>Основные метрики и KPI в SEO</h2>\n\n<p>Чтобы понять, эффективны ли ваши вложения в SEO, важно регулярно измерять результаты. Для этого существуют специальные показатели — метрики (или KPI, Key Performance Indicators).</p>\n\n<p>Вот основные метрики, которые должен знать начинающий SEO-специалист:</p>\n\n<ol>\n\t<li><strong>Количество уникальных посетителей (посетители или уники)</strong>.<br>\n\tКоличество отдельных пользователей, посетивших сайт за выбранный период.</li>\n\t<li><strong>Количество посещений (визиты)</strong>.<br>\n\tСколько раз пользователи заходили на сайт. Один пользователь может зайти несколько раз.</li>\n\t<li><strong>Среднее время на сайте.</strong><br>\n\tСреднее количество времени, проведённого пользователями на сайте. Чем выше показатель, тем лучше.</li>\n\t<li><strong>Глубина просмотра (среднее число страниц). </strong><br>\n\tСреднее количество страниц, просмотренных одним пользователем за визит.</li>\n\t<li><strong>Коэффициент отказов. </strong><br>\n\tПроцент пользователей, покинувших сайт после просмотра только одной страницы (Google) или менее 15 секунд (Яндекс).</li>\n\t<li><strong>Позиция сайта в выдаче по ключевым словам.&nbsp;</strong><br>\n\tМесто сайта в результатах поиска по заданным ключевым словам. Отслеживается с помощью инструментов (например, SEMrush, Ahrefs).</li>\n\t<li><strong>Количество внешних ссылок</strong>.&nbsp;<br>\n\tСколько ссылок ведёт на ваш сайт с других ресурсов. Проверяется через Google Search Console или Яндекс Вебмастер.</li>\n\t<li><strong>Коэффициент конверсии или CR (от англ. Conversion Rate)</strong>.<br>\n\tПроцент пользователей, совершивших целевое действие (покупку, регистрацию).<br>\n\t<span class=\"math-tex\">\\[CR = Конверсии / Клики * 100\\%\\]</span></li>\n\t<li><strong>Расходы (затраты)</strong><br>\n\tСколько денег потрачено на продвижение сайта и его оптимизацию.</li>\n\t<li><strong>Доход (Revenue)</strong><br>\n\tДеньги, заработанные благодаря SEO-продвижению (например, от продаж).</li>\n\t<li><strong>Прибыль (Profit)</strong><br>\n\tРазница между доходом и расходами на продвижение.</li>\n\t<li><strong>Стоимость целевого действия (CPA, Cost Per Action)</strong><br>\n\tСтоимость одной конверсии.<br>\n\t<span class=\"math-tex\">\\[CPA = Расходы / Конверсии\\]</span></li>\n\t<li><strong>Рентабельность инвестиций (ROI, Return On Investment)</strong><br>\n\tПоказывает, насколько эффективно расходуются средства на продвижение.<br>\n\t<span class=\"math-tex\">\\[ROI = Прибыль / Расходы * 100 \\%\\]</span></li>\n</ol>\n\n<h2><strong>🧠 Простые упражнения на расчёт метрик</strong></h2>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:900px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align:center;\"><samp>1️⃣ <strong>Коэффициент конверсии (CR)</strong></samp></p>\n\n\t\t\t<p style=\"text-align:center;\"><samp>Если на сайт пришло <strong>200 человек</strong>, а <strong>10 из них совершили покупку</strong></samp></p>\n\n\t\t\t<p style=\"text-align:center;\"><samp>✍️ CR = ?</samp></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align:center;\"><samp>2️⃣ <strong>Цена целевого действия (CPA)</strong></samp></p>\n\n\t\t\t<p style=\"text-align:center;\"><samp>Если рекламные затраты составили <strong>💶5000</strong>, а целевых действий&nbsp;<strong>25</strong></samp></p>\n\n\t\t\t<p style=\"text-align:center;\"><samp>✍️ CPA = ? 💶</samp></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align:center;\"><samp>3️⃣ <strong>Рентабельность&nbsp;(ROI)</strong></samp></p>\n\n\t\t\t<p style=\"text-align:center;\"><samp>Если доход составил&nbsp;<strong>10000</strong>, а расходы —&nbsp;<strong>4000</strong>,</samp></p>\n\n\t\t\t<p style=\"text-align:center;\"><samp>✍️ ROI = ? %</samp></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>👉 Знание метрик помогает вам <strong>контролировать эффективность SEO</strong>, <strong>грамотно распределять усилия</strong> и <strong>принимать взвешенные решения</strong>.</p>\n\n<p>🧩 А ещё — это отличная база для практики: простые и понятные задания на расчёт метрик отлично «разгоняют» начинающих специалистов.</p>\n\n<p>Вы учитесь быстро считать, анализировать и мыслить как маркетолог — всё по простым формулам.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3918645",
+  "subscriptions": [
+    "31-77-3918645",
+    "30-77-3918645"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 618,
+  "passed_by": 618,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3897742,
+  "create_date": "2023-03-31T18:01:45Z",
+  "update_date": "2025-03-30T13:27:02Z",
+  "discussions_count": 1,
+  "discussion_proxy": "77-3918645-1",
+  "discussion_threads": [
+    "77-3918645-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

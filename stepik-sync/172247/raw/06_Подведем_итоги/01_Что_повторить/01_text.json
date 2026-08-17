@@ -1,0 +1,67 @@
+{
+  "id": 3918697,
+  "lesson": 940160,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" height=\"400\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/76f6618e-e3c6-44e8-acf2-92518f4bcc95/\" width=\"1200\"></p>\n\n<p>Впереди — финальная проверка знаний! 🎓<br>\nЭто простой тест с вопросами на ключевые понятия, которые мы проходили в курсе. Все задания с выбором одного из <strong>четырёх вариантов ответа</strong>. Ничего сложного, обещаю 😊</p>\n\n<p>Чтобы освежить память перед финальным шагом, рекомендую повторить:</p>\n\n<p>📚 <strong>Что такое SEO и как работает поисковая система</strong></p>\n\n<p>🔑 <strong>Запросы, ключевые слова и семантическое ядро</strong></p>\n\n<p>🧠 <strong>Как работает Яндекс: ранжирование и инструменты</strong></p>\n\n<p>✍️ <strong>Как писать SEO-статьи и составлять ТЗ</strong></p>\n\n<p>📊 <strong>Метрики, поведенческие факторы и контент-план</strong></p>\n\n<p>🤖 <strong>AI-инструменты и их роль в работе SEO-специалиста</strong></p>\n\n<p>Наглядно и кратко всё собрано в ваших уроках с заголовками «Главные определения» и «Проверка знаний» в каждом модуле. Можешь открыть их прямо сейчас — это самый быстрый способ подготовиться.</p>\n\n<p>Готов(а)? Тогда двигаемся дальше! 🚀</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3918697",
+  "subscriptions": [
+    "31-77-3918697",
+    "30-77-3918697"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 210,
+  "passed_by": 210,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3897794,
+  "create_date": "2023-03-31T18:02:03Z",
+  "update_date": "2025-03-30T13:51:56Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3918697-1",
+  "discussion_threads": [
+    "77-3918697-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

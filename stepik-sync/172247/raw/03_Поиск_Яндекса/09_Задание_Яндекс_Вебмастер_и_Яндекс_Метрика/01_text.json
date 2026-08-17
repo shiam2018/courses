@@ -1,0 +1,67 @@
+{
+  "id": 4531905,
+  "lesson": 1090003,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" height=\"400\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/9175b363-febc-41d5-9d39-8f6068a4c85b/\" width=\"1200\"></p>\n\n<p>Я рад, что вы дошли до конца этого модуля!</p>\n\n<p>На этом задании я предлагаю установить инструменты Яндекса, которые помогают оптимизировать и продвигать блог, который мы создали в первом задании.</p>\n\n<p>Для установки инструментов <a href=\"https://webmaster.yandex.ru/\" rel=\"noopener noreferrer nofollow\">Яндекс Вебмастер</a> и <a href=\"https://metrika.yandex.ru/\" rel=\"noopener noreferrer nofollow\">Яндекс Метрика</a> на блоге на платформе <a href=\"https://www.blogger.com/about/?hl=ru\" rel=\"noopener noreferrer nofollow\">Blogger</a>, следуйте этой инструкции:</p>\n\n<h3><strong>Установите код Яндекс Метрики на ваш блог</strong></h3>\n\n<ul>\n\t<li>\n\t<p><a href=\"https://yandex.ru/support/metrica/general/creating-counter.html\" rel=\"noopener noreferrer nofollow\">Зарегистрируйте Метрику</a> и добавьте адрес и название вашего сайта, чтобы получить код счетчика. Рекомендую сразу включить настройку Вебвизор, карту скроллинга, аналитику форм, чтобы получить возможность просмотривать записи сессий пользователей на сайте.<br>\n\t<img alt=\"\" height=\"1388\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/39279a37-de74-4f23-bc84-337f639bb828/\" width=\"1478\"></p>\n\t</li>\n\t<li>\n\t<p>Получите код счетчика на следующем этапе, включив настройку Контентная аналитика и Тип разметки Open Graph.&nbsp;<br>\n\t<img alt=\"\" height=\"1386\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/3f7ed48e-b568-44bf-83d8-2161e4621dde/\" width=\"1094\"></p>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>Нажмите кнопку \"Скопировать код\" и перейдите в настройку \"Дизайна\" (Layout) вашего блога. Далее нажимаем \"Add a gadget\" в настройках \"Sidebar (Top)\".<br>\n\t<img alt=\"\" height=\"1268\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/07eb0404-bf82-41a2-9e79-6f0c2fb266c9/\" width=\"2384\"></li>\n\t<li>Дальше нажимаем \"HTML/JavaScript\".<br>\n\t<img alt=\"\" height=\"1376\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/d976d4e2-479a-46d9-b8c4-a6313e7ee2b6/\" width=\"1986\"></li>\n\t<li>Затем вставляем скопированный код счетчика Метрики, после названия оставляем пустым (иначе в блоге будет отображаться это название в сайдбаре) и нажимаем \"Сохранить\" (Save).\n\t<p><img alt=\"\" height=\"1348\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/90fff1b9-6717-4e49-9028-3907b81d24f3/\" width=\"2322\"></p>\n\t</li>\n\t<li>\n\t<p>После этого нажмите \"Сохранить\" в разделе, чтобы опубликовать виджет.<img alt=\"\" height=\"1054\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/b4e72c21-babc-4cf9-a935-6bf0dd4242c2/\" width=\"2246\"></p>\n\t</li>\n\t<li>\n\t<p>Поздравляю! Вы установили счетчик веб-аналитики на блог. Осталось только проверить корректность его установки, видит ли его Яндекс Метрика. Для этого перейдите в Метрику и перейдите в раздел \"Настройки\", затем нажмите на кнопку \"Проверить\".&nbsp;<br>\n\t<img alt=\"\" height=\"1320\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/30c323fb-8ea1-478f-9483-7a1467ee00bd/\" width=\"1362\"></p>\n\t</li>\n\t<li>\n\t<p>Если код не появляется, проверьте:</p>\n\n\t<ul>\n\t\t<li>\n\t\t<p>Правильно ли вы скопировали код Метрики, нет ли в нем ошибок или пропущенных частей кода?</p>\n\t\t</li>\n\t\t<li>\n\t\t<p>Сохранили и опубликовали ли вы виджет в Blogger?</p>\n\t\t</li>\n\t</ul>\n\t</li>\n</ul>\n\n<h3><strong>Добавьте блог в Яндекс Вебмастер</strong></h3>\n\n<ul>\n\t<li>Перейдите на главную страницу Яндекс Вебмастер и нажмите \"Добавить сайт\".<br>\n\t<img alt=\"\" height=\"1186\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/ecc3aa3c-05f8-414a-8add-03b582019a0c/\" width=\"2572\"></li>\n\t<li>Введите адрес блога и нажмите \"Добавить\".<br>\n\t<img alt=\"\" height=\"538\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/e4d526c5-0d7a-4755-ad3c-aca706949b6d/\" width=\"2080\"></li>\n\t<li>После добавления сайта в Вебмастер необходимо подтвердить права на его владение, для этого на следующем экране выберите опцию \"Метатег\" и скопируйте текст тега.<br>\n\t<img alt=\"\" height=\"1216\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/d98c0dcf-2005-4f2b-9e9f-be5c500926f1/\" width=\"2868\"></li>\n\t<li>Затем перейдите в Blogger, вам нужно попасть в раздел \"Шаблон\" (Themes) и выбрать кнопку \"Настроить\" (Customize), а затем \"Изменить HTML\" (Edit HTML).<br>\n\t<img alt=\"\" height=\"1344\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/8cb99193-bbf9-4a70-8598-cbec04ca3aca/\" width=\"2062\"><br>\n\t<img alt=\"\" height=\"860\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/f7a87ebb-b472-4dc3-b0f5-5098a1b9ff2d/\" width=\"1594\"></li>\n\t<li>В открывшемся окне редакторе кода сайта нужно вставить код проверки из Вебмастера внутри тега head и нажать \"Сохранить\" (Save).<br>\n\t<img alt=\"\" height=\"830\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/6953c635-9eae-453b-840c-c36569ccd172/\" width=\"2868\"></li>\n\t<li>Вернитесь в Яндекс Вебмастер и нажмите \"Проверить\". Яндекс проверит наличие метатега на вашем блоге и подтвердит права на сайт. Если все хорошо, то вы увидите такой экран:<br>\n\t<img alt=\"\" height=\"1028\" name=\"image (16).png\" src=\"https://ucarecdn.stepik.net/81ec6d80-9033-476f-9124-2d6571271da9/\" width=\"2870\"></li>\n\t<li>Сайт – это контент, который приобретает форму благодаря специальным командам для браузера, обычно HTML разметке. Здесь вы можете прочитать <a href=\"https://yoksel.github.io/easy-markup/first-steps/\" rel=\"noopener noreferrer nofollow\">введение в основные понятия HTM</a>L. Нужно понимать, что ошибки в разметке могут \"поломать\" сайт. Если это случилось, нужно вернуться к более ранней и рабочей версии сайта и попробовать снова. Чтобы сделать это в Blogger, нужно нажать \"Вернуть виджет к оригиналу\" (Revert widget to Default) в редакторе кода Blogger и сохранить появившийся код.<img alt=\"\" height=\"828\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/81d30c28-045b-4003-aba9-d21fdf2dc32c/\" width=\"2862\"></li>\n</ul>\n\n<p>После выполнения этих шагов, инструменты Яндекс Вебмастер и Яндекс Метрика должны быть успешно установлены и работать на вашем блоге. Вам также может потребоваться немного времени и посетителей, чтобы увидеть данные в Яндекс Метрике.</p>\n\n<h3 style=\"text-align:center;\">🎉 Готово!</h3>\n\n<p>Теперь ваш блог подключён и к <strong>Яндекс.Метрике</strong>, и к <strong>Яндекс.Вебмастеру</strong> — это основа для дальнейшей работы с SEO.</p>\n\n<h4>🧭 Что даёт Яндекс.Метрика:</h4>\n\n<ul>\n\t<li>📊 <strong>Смотреть статистику по посетителям</strong> — сколько людей зашло, откуда они пришли, как долго были на сайте.</li>\n\t<li>🖱 <strong>Анализировать поведение</strong> — карта кликов, скроллов, вебвизор (запись действий пользователей).</li>\n\t<li>🌍 <strong>Отслеживать источники трафика</strong> — реклама, поисковики, соцсети и другие.</li>\n</ul>\n\n<h4>🛠 Что даёт Яндекс.Вебмастер:</h4>\n\n<ul>\n\t<li>🔍 <strong>Проверка индексации</strong> — какие страницы попали в поиск, а какие — нет.</li>\n\t<li>🧵 <strong>Анализ запросов</strong> — по каким ключевым словам ваш сайт показывается в Яндексе.</li>\n\t<li>🚫 <strong>Ошибки и рекомендации</strong> — технические проблемы, дубли, отсутствие мобильной версии и т.д.</li>\n\t<li>⚙️ <strong>Настройки отображения в поиске</strong> — можно задать региональность, уточнить название сайта, удалить лишние страницы из поиска и другое.</li>\n</ul>\n\n<p>💬 Если вы всерьёз занимаетесь SEO, эти два инструмента станут вашими главными помощниками. Со временем вы будете использовать их ежедневно — и видеть, как шаг за шагом сайт растёт в выдаче.</p>\n\n<h3>Ссылки на справку</h3>\n\n<ul>\n\t<li><a href=\"https://support.google.com/blogger/answer/176245?hl=ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Справка по добавлению метатега на Blogger</a></li>\n\t<li><a href=\"https://yandex.ru/support/metrika/data/ga-id.xml\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Справка по установке Яндекс Метрики</a></li>\n\t<li><a href=\"https://yandex.ru/support/webmaster/service/rights.xml\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Справка по установке Яндекс Вебмастера</a></li>\n</ul>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-4531905",
+  "subscriptions": [
+    "31-77-4531905",
+    "30-77-4531905"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 290,
+  "passed_by": 290,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 4511002,
+  "create_date": "2023-09-21T09:26:56Z",
+  "update_date": "2025-03-30T13:49:49Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-4531905-1",
+  "discussion_threads": [
+    "77-4531905-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

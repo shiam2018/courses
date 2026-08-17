@@ -1,0 +1,67 @@
+{
+  "id": 3918685,
+  "lesson": 940153,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><strong>AI-сервисы</strong> — это инструменты, которые используют <strong>искусственный интеллект</strong> для автоматизации задач. В SEO они особенно полезны: помогают создавать тексты, оптимизировать страницы, генерировать изображения и даже видео.</p>\n\n<blockquote>\n<p>🧠 Использовать нейросети в SEO <strong>можно и нужно</strong>, если они помогают создавать <strong>полезный и интересный контент</strong> для пользователей.</p>\n</blockquote>\n\n<p>Отвечая на вопрос \"Можно ли использовать AI инструменты в SEO?\" — да, даже нужно. Использование <a href=\"https://chat.openai.com/\" rel=\"noopener noreferrer nofollow\">ChatGPT</a> для генерации текста и <a href=\"https://openai.com/dall-e-2\" rel=\"noopener noreferrer nofollow\">DALL·E 2</a> для создания изображений принесёт пользу и ускорит работу в SEO.</p>\n\n<h2>Преимущества и особенности</h2>\n\n<p>⚡ <strong>Скорость и автоматизация</strong> — за несколько минут можно получить черновик статьи, план, структуру или даже иллюстрации.</p>\n\n<p>💡 <strong>Идеи и вариативность</strong> — нейросеть подскажет нестандартные подходы и поможет «разогнать» мысль.</p>\n\n<p>🧑‍💻 <strong>Техническая помощь</strong> — перевод, исправление ошибок, редактирование текста, подсветка структуры.</p>\n\n<p>🔍 <strong>SEO-анализ</strong> — подсказки по ключевым словам, мета-тегам, структуре статьи.</p>\n\n<h2>Осторожность и рекомендации</h2>\n\n<p>📝 <strong>Уникальность</strong> — не публикуйте без проверки. Используйте <a href=\"https://text.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Text.ru</a>, <a href=\"https://advego.com\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Advego</a> или <a href=\"https://www.etxt.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">ETXT</a>.</p>\n\n<p>👀 <strong>Читаемость и стиль</strong> — многие тексты «из коробки» сухие и шаблонные. Лучше их редактировать.</p>\n\n<p>🛠 <strong>Ручная доработка</strong> — особенно если вы пишете экспертный или коммерческий контент.</p>\n\n<p>🎯 <strong>Промтинг — это скилл.</strong> Чем лучше ваш запрос, тем качественнее результат. Этот навык уже ценится в вакансиях SEO и контент-маркетинга.</p>\n\n<p>Использование таких инструментов требует навыка создания запросов (промтов). Развив его, стоит указать в резюме, так как он уже ценится в мире SEO.</p>\n\n<h2>Таблица AI-инструментов для SEO и контента</h2>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>🔧 Инструмент</th>\n\t\t\t<th>📋 Назначение</th>\n\t\t\t<th>🔗 Ссылка</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>🟨 Яндекс GPT</strong></td>\n\t\t\t<td>Генерация и редактирование текстов, идеи, структура, SEO</td>\n\t\t\t<td><a href=\"https://ya.ru/ai/gpt\" rel=\"noopener noreferrer nofollow\">ya.ru/ai/gpt</a></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>🎨 Сбер&nbsp;Kandinsky</strong></td>\n\t\t\t<td>Создание изображений по описанию, логотипы, арты</td>\n\t\t\t<td><a href=\"https://www.sberbank.com/promo/kandinsky/\" rel=\"noopener noreferrer nofollow\">sberbank.com/promo/kandinsky/</a></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>💬 ChatGPT (OpenAI)</strong></td>\n\t\t\t<td>Универсальный помощник для текста, кода, SEO и оформления</td>\n\t\t\t<td><a href=\"https://chat.openai.com\" target=\"_new\" rel=\"noopener noreferrer nofollow\">chat.openai.com</a></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>🧠 Claude (Anthropic)</strong></td>\n\t\t\t<td>Глубокая работа с текстами, объяснение, длинные форматы</td>\n\t\t\t<td><a href=\"https://claude.ai\" target=\"_new\" rel=\"noopener noreferrer nofollow\">claude.ai</a></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>🔍 Gemini (ex-Bard)</strong></td>\n\t\t\t<td>Интеграция с Google-поиском, реалтайм подсказки</td>\n\t\t\t<td><a href=\"https://gemini.google.com\" target=\"_new\" rel=\"noopener noreferrer nofollow\">gemini.google.com</a></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>🔗 OpenRouter.ai</strong></td>\n\t\t\t<td>Доступ к множеству нейросетей через один API-интерфейс</td>\n\t\t\t<td><a href=\"https://openrouter.ai\" target=\"_new\" rel=\"noopener noreferrer nofollow\">openrouter.ai</a></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>🖼 DALL·E 3 (OpenAI)</strong></td>\n\t\t\t<td>Генерация изображений в GPT-4 (встроен в ChatGPT Plus)</td>\n\t\t\t<td><a href=\"https://chat.openai.com\" target=\"_new\" rel=\"noopener noreferrer nofollow\">chat.openai.com</a></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>🎥 Heygen</strong></td>\n\t\t\t<td>Генерация видео с AI-аватарами и дикторами</td>\n\t\t\t<td><a href=\"https://www.heygen.com\" target=\"_new\" rel=\"noopener noreferrer nofollow\">heygen.com</a></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>🎙 ElevenLabs</strong></td>\n\t\t\t<td>Озвучка текста голосами нейросетей (русский и др.)</td>\n\t\t\t<td><a href=\"https://www.elevenlabs.io\" target=\"_new\" rel=\"noopener noreferrer nofollow\">elevenlabs.io</a></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>🎵 Soundraw</strong></td>\n\t\t\t<td>Генерация музыки по жанру, темпу и настроению</td>\n\t\t\t<td><a href=\"https://soundraw.io\" target=\"_new\" rel=\"noopener noreferrer nofollow\">soundraw.io</a></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Так называемый искусственный интеллект <strong>не заменяет SEO-специалиста</strong>, но делает его работу <strong>быстрее и продуктивнее</strong>.<br>\nГлавное — использовать AI <strong>осознанно и по назначению</strong>, чтобы создавать <strong>ценный контент для людей</strong>, а не просто «набивать символы для поисковиков».</p>\n\n<h2>✍️ Упражнение: попробуйте нейросеть вместо копирайтера</h2>\n\n<p>Чтобы понять, <strong>как работают современные нейросети в роли текстового помощника</strong>, и почему они <strong>не заменяют, а дополняют</strong> настоящего копирайтера — выполните это упражнение.</p>\n\n<h3>📌 Что нужно сделать:</h3>\n\n<ol>\n\t<li>\n\t<p><strong>Выберите любую AI-модель для генерации текста:</strong></p>\n\t</li>\n</ol>\n\n<ul>\n\t<li><a href=\"https://ya.ru/ai/gpt\" rel=\"noopener noreferrer nofollow\">🟨 Яндекс GPT (бесплатно)</a></li>\n\t<li><a href=\"https://chat.openai.com\" target=\"_new\" rel=\"noopener noreferrer nofollow\">💬 ChatGPT (бесплатная версия GPT-3.5)</a></li>\n\t<li><a href=\"https://claude.ai\" target=\"_new\" rel=\"noopener noreferrer nofollow\">🧠 Claude (Anthropic, требует регистрацию)</a></li>\n</ul>\n\n<ol>\n\t<li>\n\t<p><strong>Возьмите один из примеров ТЗ из курса</strong> — например:</p>\n\t</li>\n</ol>\n\n<ul>\n\t<li>Тема: <em>Как выбрать блендер для дома</em></li>\n\t<li>Объём: ~3000–4000 знаков</li>\n\t<li>Ключевые слова: блендер, купить блендер, выбор блендера</li>\n\t<li>Структура: Введение, виды блендеров, на что обратить внимание, топ моделей, заключение</li>\n</ul>\n\n<ol>\n\t<li>\n\t<p><strong>Сформулируйте промт для нейросети.</strong> Пример:</p>\n\n\t<p><samp>Напиши SEO-статью на тему \"Как выбрать блендер для дома\", объёмом около 3500 знаков, с подзаголовками и логичной структурой. Используй ключевые слова: блендер, купить блендер, выбор блендера. Раздели текст на блоки: Введение, виды блендеров, на что обратить внимание при выборе, заключение.</samp></p>\n\t</li>\n\t<li>\n\t<p><strong>Получите результат и оцените:</strong></p>\n\t</li>\n</ol>\n\n<ul>\n\t<li>Читается ли текст?</li>\n\t<li>Насколько хорошо раскрыта тема?</li>\n\t<li>Есть ли структура?</li>\n\t<li>Есть ли \"вода\" и повторения?</li>\n\t<li>Что нужно доработать вручную?</li>\n</ul>\n\n<h3>🤓 Что вы узнаете:</h3>\n\n<ul>\n\t<li>Насколько <strong>быстро и качественно</strong> AI может помочь с написанием черновика</li>\n\t<li>Почему результат <strong>почти всегда нужно дорабатывать руками</strong></li>\n\t<li>Как AI может <strong>сэкономить время</strong>: предложить структуру, начать текст, подсказать формулировки</li>\n\t<li>Почему навык <strong>постановки задачи (ТЗ) и промта</strong> — критически важен</li>\n</ul>\n\n<p>✅ <strong>Спойлер:</strong> нейросети не волшебники. Они работают <strong>в паре с человеком</strong> — как быстрый ассистент, но не как полноценный автор. Это <strong>инструмент</strong>, а не замена. По крайне мере пока.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3918685",
+  "subscriptions": [
+    "31-77-3918685",
+    "30-77-3918685"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 235,
+  "passed_by": 235,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3897782,
+  "create_date": "2023-03-31T18:01:58Z",
+  "update_date": "2025-03-30T11:51:28Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3918685-1",
+  "discussion_threads": [
+    "77-3918685-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

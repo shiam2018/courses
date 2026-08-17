@@ -1,0 +1,67 @@
+{
+  "id": 3927868,
+  "lesson": 942562,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Когда пользователь вводит запрос в Яндекс, поисковая система должна <strong>решить, какие сайты показать в первую очередь</strong>. Для этого она использует <strong>факторы ранжирования</strong> — критерии, по которым оцениваются веб-страницы.</p>\n\n<p>Как SEO-специалист, ты не можешь управлять всеми этими факторами напрямую, но ты <strong>должен понимать</strong>, что именно влияет на позиции в поиске и какие из этих факторов ты можешь <strong>улучшить</strong>: на уровне контента, структуры сайта, технической оптимизации или поведенческих метрик.</p>\n\n<p>Важно помнить: <strong>точный список и вес факторов — коммерческая тайна Яндекса</strong>. Но по опыту специалистов, исследованиям, экспериментам и обсуждениям в профессиональном сообществе, мы можем выделить ряд факторов, которые действительно работают на практике.</p>\n\n<p>💡 <strong>Важно:</strong><br>\nВ SEO нет абсолютных истин. У каждого специалиста со временем формируется <strong>собственный взгляд</strong> на то, какие подходы работают. Чтобы развиваться, нужно <strong>уметь критически осмыслять информацию</strong>, сравнивать подходы из <strong>разных источников</strong> и <strong>экспериментировать</strong>.</p>\n\n<p>Я приложил ссылки для самостоятельного изучения — <strong>используй их как отправную точку для формирования своей профессиональной позиции.</strong></p>\n\n<h2>Основные факторы ранжирования, которые стоит знать</h2>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>🔍 Фактор</th>\n\t\t\t<th>📌 Как влияет</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><a href=\"https://yandex.ru/adv/edu/materials/kak-podobrat-klyuchevye-frazy\" rel=\"noopener noreferrer nofollow\"><strong>Ключевые слова</strong></a></td>\n\t\t\t<td>Яндекс проверяет, встречаются ли слова из запроса в тексте, заголовках, мета-тегах и других элементах страницы.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong><a href=\"https://sustainability.yandex.ru/ethics-integrity/quality-content\" rel=\"noopener noreferrer nofollow\">Качество контента</a></strong></td>\n\t\t\t<td>Уникальный, полезный и хорошо структурированный контент получает больше шансов на топ.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong><a href=\"https://yandex.ru/adv/news/uchet-povedencheskikh-faktorov-na-poiske\" rel=\"noopener noreferrer nofollow\">Поведенческие факторы</a></strong></td>\n\t\t\t<td>Если пользователь зашёл, остался надолго, кликнул — это хороший сигнал. Быстрый уход — тревожный.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong><a href=\"https://yandex.ru/support/webmaster/site-indexing/external-links.html\" rel=\"noopener noreferrer nofollow\">Внешние ссылки</a></strong></td>\n\t\t\t<td>Чем больше хороших сайтов ссылаются на вашу страницу — тем выше её авторитет.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><a href=\"https://yandex.ru/support/webmaster/site-indexing/links-to-website.html\" rel=\"noopener noreferrer nofollow\"><strong>Внутренние ссылки</strong></a></td>\n\t\t\t<td>Умная перелинковка помогает роботу понять структуру и важность страниц.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><a href=\"https://yandex.ru/company/rules/optimization/\" rel=\"noopener noreferrer nofollow\"><strong>Техническая оптимизация</strong></a></td>\n\t\t\t<td>Скорость загрузки, мобильная версия, валидный HTML, безопасность (https).</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong><a href=\"https://yandex.ru/adv/edu/materials/kak-poisk-uchityvaet-geografiyu-saytov\" rel=\"noopener noreferrer nofollow\">Геолокация</a></strong></td>\n\t\t\t<td>Регион сайта, указанный в Яндекс.Вебмастере, влияет на локальную выдачу.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><a href=\"https://vc.ru/seo/782015-seo-i-socialnye-seti-kak-socialnye-platformy-vliyayut-na-poiskovyi-trafik\" rel=\"noopener noreferrer nofollow\"><strong>Социальные сигналы</strong></a></td>\n\t\t\t<td>Упоминания в соцсетях — косвенный признак популярности, иногда учитываются.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><a href=\"https://vc.ru/seo/1446330-chto-takoe-pokazatel-dr-i-mozhno-li-na-nego-povliyat\" rel=\"noopener noreferrer nofollow\"><strong>Авторитет домена</strong></a></td>\n\t\t\t<td>Старые, надёжные домены вызывают больше доверия.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><a href=\"https://yandex.ru/support/webmaster/indexing-options/description.html?lang=ru\" rel=\"noopener noreferrer nofollow\"><strong>Заголовки и мета-описания</strong></a></td>\n\t\t\t<td>Они не только влияют на CTR в выдаче, но и сигнализируют, о чём страница.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong><a href=\"https://webmaster.yandex.ru/blog/optimizatsiya-dlya-mobilnykh-teper-faktor-ranzhirovaniya\" rel=\"noopener noreferrer nofollow\">Оптимизация для мобильных устройств</a></strong></td>\n\t\t\t<td>Сегодня мобильная версия — это must-have.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><a href=\"https://dzen.ru/a/Zo5ZzVGeh12vjYb3\" rel=\"noopener noreferrer nofollow\"><strong>Отзывы и контекстная реклама</strong></a></td>\n\t\t\t<td>Спорный момент. Кто-то считает, что активность в Яндекс.Директ поднимает SEO, кто-то — что нет.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h2>Мифы и реальность в SEO</h2>\n\n<p>Хочу честно предупредить: <strong>в SEO много мифов</strong>. Иногда создаётся ощущение, что никто точно не знает, какие факторы влияют на позиции в поиске. Особенно это заметно, когда нужно спрогнозировать рост трафика или понять, почему сайт не продвигается.</p>\n\n<p>При этом многие специалисты склонны «застревать» в своих подходах. Если что-то сработало у них однажды, они продолжают повторять это снова и снова — даже когда контекст поменялся.</p>\n\n<p>💬 Мой совет — <strong>не зацикливаться на чужих кейсах</strong>, а учиться думать своей головой. Нужно <strong>разговаривать с другими SEO-специалистами</strong>, <strong>читать дискуссии на форумах</strong>, <strong>анализировать сайты конкурентов</strong> и обязательно <strong>экспериментировать</strong> на собственных проектах. Это и формирует ваш профессиональный вкус.</p>\n\n<p>📌 Полезные ресурсы для самостоятельного изучения:</p>\n\n<ul>\n\t<li><a href=\"https://searchengines.guru/ru/forum/1049796\" rel=\"noopener noreferrer nofollow\">Мифы и легенды SEO на SearchEngines.guru</a></li>\n\t<li><a href=\"https://vc.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Сравнение факторов ранжирования Яндекс и Google на vc.ru</a></li>\n\t<li><a href=\"https://vc.ru/marketing/947913-seo-chaty-v-telegramme-top-7-soobshestv-dlya-seo-specialistov\" rel=\"noopener noreferrer nofollow\">Telegram-чаты </a>и обсуждения на форумах — не стесняйтесь спрашивать, SEO-сообщество обычно доброжелательное</li>\n</ul>\n\n<h2>Как использовать факторы ранжирования в стратегии</h2>\n\n<p>Когда вы уже составили базовую SEO-стратегию (например, в первом модуле), следующий шаг — <strong>разложить её на конкретные действия</strong>. Здесь и пригодятся факторы ранжирования.</p>\n\n<p>Каждый фактор — это как <strong>направление работы</strong>:</p>\n\n<ul>\n\t<li>Нужно улучшить тексты? Значит, работаем с ключевыми словами и качеством контента.</li>\n\t<li>Медленно загружается сайт? Займитесь технической оптимизацией.</li>\n\t<li>Люди уходят быстро? Проверьте поведенческие факторы.</li>\n</ul>\n\n<p>Со временем вы сможете превратить свою стратегию в <strong>рабочий документ</strong> с задачами, сроками и точками контроля. Например:</p>\n\n<ul>\n\t<li>«До 15 мая переписать заголовки H1 на всех категориях»</li>\n\t<li>«Увеличить глубину просмотра до 2,5 страниц за месяц»</li>\n\t<li>«Оптимизировать скорость загрузки на мобильных»</li>\n</ul>\n\n<p>Такой подход помогает:</p>\n\n<ul>\n\t<li>Действовать структурированно;</li>\n\t<li>Видеть прогресс;</li>\n\t<li>Убедительно объяснять, <strong>что именно вы делаете и зачем</strong> — директору по маркетингу, заказчику или команде.</li>\n</ul>\n\n<p>👉 В итоге SEO-стратегия перестаёт быть просто списком идей — и становится <strong>понятным, реалистичным планом с прогнозируемыми результатами</strong>.</p>\n\n<h2>🧪 Упражнения: как почувствовать влияние факторов ранжирования</h2>\n\n<p>Эти задания помогут вам увидеть, как разные факторы влияют на поисковую выдачу Яндекса. Делайте вживую — просто откройте Яндекс и поработайте с запросами 👇</p>\n\n<h3>1. <strong>Сравнение контента и позиций</strong></h3>\n\n<p>🔍 Задание:</p>\n\n<ul>\n\t<li>Введите запрос: <code>лучшие смартфоны 2025</code></li>\n\t<li>Посмотрите сайты в топ-5: какие заголовки? какой формат? есть ли таблицы, сравнения, видео?</li>\n\t<li>Перейдите на пару сайтов и оцените:\n\t<ul>\n\t\t<li>Насколько контент подробный?</li>\n\t\t<li>Понятно ли написано?</li>\n\t\t<li>Есть ли ключевые слова в заголовке и тексте?</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>📌 Что понять: <strong>контент влияет</strong>. Хорошо оформленные и полезные страницы часто выше в выдаче.</p>\n\n<h3>2. <strong>Проверка поведенческих факторов</strong></h3>\n\n<p>🔍 Задание:</p>\n\n<ul>\n\t<li>Введите запрос: <code>как выбрать ноутбук для работы</code></li>\n\t<li>Посмотрите на сниппеты: кто из сайтов получил много текста или рейтинг?</li>\n\t<li>Кликните на одну из страниц. Оцените:\n\t<ul>\n\t\t<li>Удобен ли сайт?</li>\n\t\t<li>Хотите ли остаться и читать дальше?</li>\n\t\t<li>Есть ли быстрые ответы?</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>📌 Что понять: если <strong>страница цепляет пользователя</strong>, он не возвращается обратно в поиск — это хороший сигнал для Яндекса.</p>\n\n<h3>3. <strong>Анализ технических факторов</strong></h3>\n\n<p>🔍 Задание:</p>\n\n<ul>\n\t<li>Зайдите на<a href=\"https://pagespeed.web.dev/\" rel=\"noopener noreferrer nofollow\"> PageSpeed Insights</a></li>\n\t<li>Проверьте любую страницу из топа по запросу <code>купить робот-пылесос</code></li>\n\t<li>Посмотрите:\n\t<ul>\n\t\t<li>Скорость загрузки на мобильных</li>\n\t\t<li>Основные ошибки или рекомендации</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>📌 Что понять: <strong>технические проблемы</strong> могут тормозить даже хороший сайт. Но Яндекс учитывает скорость и удобство в ранжировании.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3927868",
+  "subscriptions": [
+    "31-77-3927868",
+    "30-77-3927868"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 370,
+  "passed_by": 370,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3906965,
+  "create_date": "2023-04-04T07:10:42Z",
+  "update_date": "2025-03-29T11:59:59Z",
+  "discussions_count": 3,
+  "discussion_proxy": "77-3927868-1",
+  "discussion_threads": [
+    "77-3927868-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 3927869,
+  "lesson": 942563,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2>Инструменты Яндекса для SEO</h2>\n\n<p>SEO-специалист — это не только про «ключевые слова» и «поисковую выдачу». Это ещё и про <strong>инструменты</strong>, которые помогают следить за сайтом, находить ошибки, собирать аналитику и проверять гипотезы.</p>\n\n<p>У Яндекса есть целый набор полезных сервисов, которые можно (и нужно!) использовать в работе. Это ваш <strong>рабочий арсенал</strong>: как у повара нож и сковородка, так у SEO — Метрика и Вебмастер. Некоторые инструменты — обязательны для всех, другие — пригодятся по мере роста вашей экспертизы.</p>\n\n<ul>\n\t<li>\n\t<p><strong>Яндекс.Вебмастер</strong><br>\n\t<a href=\"https://webmaster.yandex.ru/\" rel=\"noopener noreferrer nofollow\">https://webmaster.yandex.ru/</a><br>\n\tГлавный инструмент. Показывает, как Яндекс видит ваш сайт: какие страницы в индексе, какие ошибки, по каким запросам выдает. Обязательно подключать каждому сайту.</p>\n\t</li>\n\t<li>\n\t<p><strong>Яндекс.Метрика</strong><br>\n\t<a href=\"https://metrika.yandex.ru/\" rel=\"noopener noreferrer nofollow\">https://metrika.yandex.ru/</a><br>\n\tАналитика. Сколько людей заходит на сайт, откуда, что делают, сколько времени проводят. Помогает понимать поведение пользователей.</p>\n\t</li>\n\t<li>\n\t<p><strong>Яндекс.Справочник</strong><br>\n\t<a href=\"https://yandex.ru/sprav/companies\" rel=\"noopener noreferrer nofollow\">https://yandex.ru/sprav/companies</a><br>\n\tНужен бизнесам с физическим адресом — помогает появляться в локальной выдаче и на Яндекс.Картах.</p>\n\t</li>\n\t<li>\n\t<p><strong>Яндекс.Директ</strong><br>\n\t<a href=\"https://direct.yandex.ru/\" rel=\"noopener noreferrer nofollow\">https://direct.yandex.ru/</a><br>\n\tПлатная реклама. Даже если вы не запускаете рекламу, тут можно смотреть популярные запросы, тестировать заголовки и изучать конкурентов.</p>\n\t</li>\n\t<li>\n\t<p><strong>Яндекс.Вордстат</strong><br>\n\t<a href=\"https://wordstat.yandex.ru/\" rel=\"noopener noreferrer nofollow\">https://wordstat.yandex.ru/</a><br>\n\tИнструмент подбора ключевых слов. Показывает, сколько людей ищут ту или иную фразу, в каком регионе и как часто.</p>\n\t</li>\n\t<li>\n\t<p><strong>Яндекс.XML</strong><br>\n\t<a href=\"https://xml.yandex.ru/\" rel=\"noopener noreferrer nofollow\">https://xml.yandex.ru/</a><br>\n\tДля тех, кто автоматизирует сбор данных: делает запросы в Яндекс через API. Полезно для продвинутой аналитики.</p>\n\t</li>\n\t<li>\n\t<p><strong>Яндекс.Радар</strong><br>\n\t<a href=\"https://radar.yandex.ru/\" rel=\"noopener noreferrer nofollow\">https://radar.yandex.ru/</a><br>\n\tСтатистика по мобильным приложениям — если работаете с сайтами, у которых есть мобильные версии или приложения.</p>\n\t</li>\n\t<li>\n\t<p><strong>Яндекс GPT</strong><br>\n\t<a href=\"https://cloud.yandex.ru/services/yandexgpt\" rel=\"noopener noreferrer nofollow\">https://cloud.yandex.ru/services/yandexgpt</a><br>\n\tНовый инструмент на базе нейросети. Пока в тестах, но уже можно использовать для генерации текстов и идей.</p>\n\t</li>\n</ul>\n\n<h2>📝 Что важно знать новичку</h2>\n\n<p>Если вы только начинаете — <strong>достаточно освоить Яндекс.Вебмастер, Яндекс.Метрику и Вордстат</strong>. Это базовый набор. Остальное — как дополнение по мере развития.</p>\n\n<p>💬 А ещё у Яндекса есть <a href=\"https://yandex.ru/adv/edu/all-events\" rel=\"noopener noreferrer nofollow\">обучающие вебинары</a> и <a href=\"https://yandex.ru/all\" rel=\"noopener noreferrer nofollow\">страница со всеми сервисами</a> — заглядывайте туда, чтобы быть в курсе новых возможностей.</p>\n\n<h2>🧪 Упражнение: зарегистрируйтесь в Яндексе, Вебмастере и Метрике</h2>\n\n<p>📌 <strong>Цель:</strong> научиться подключать сайт к ключевым инструментам Яндекса. Это основа любой SEO-работы.</p>\n\n<p>Мы подробно разберём, как добавить сайт в Вебмастер и установить счётчик Метрики в последнем уроке этого модуля.<br>\nА пока — подготовьтесь:</p>\n\n<h3>Что нужно сделать:</h3>\n\n<ol>\n\t<li>\n\t<p>Перейдите на <a href=\"https://passport.yandex.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">passport.yandex.ru</a> и создайте аккаунт Яндекса (если его ещё нет).</p>\n\t</li>\n\t<li>\n\t<p>Зайдите в <a href=\"https://webmaster.yandex.ru/\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Яндекс.Вебмастер</a> и авторизуйтесь.</p>\n\t</li>\n\t<li>\n\t<p>Перейдите в <a href=\"https://metrika.yandex.ru/\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Яндекс.Метрику</a> и также войдите в аккаунт.</p>\n\t</li>\n</ol>\n\n<p>🟢 Всё! Теперь вы готовы к практической работе с инструментами — в следующем уроке добавим ваш сайт и начнём собирать данные.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3927869",
+  "subscriptions": [
+    "31-77-3927869",
+    "30-77-3927869"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 332,
+  "passed_by": 332,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3906966,
+  "create_date": "2023-04-04T07:10:44Z",
+  "update_date": "2025-03-29T16:17:17Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3927869-1",
+  "discussion_threads": [
+    "77-3927869-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

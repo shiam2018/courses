@@ -1,0 +1,101 @@
+{
+  "id": 4526377,
+  "lesson": 1088645,
+  "position": 6,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что включает в себя SEO стратегия?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Постоянно менять URL-адреса страниц сайта, чтобы затруднить индексацию поисковыми системами.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Исследование ключевых слов и конкурентов, оптимизация сайта, поиск качественных ссылок и анализ результатов.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Увеличить размер шрифта на сайте для привлечения внимания поисковых систем.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Создать массовые рассылки спама с ссылками на свой сайт.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-4526377",
+  "subscriptions": [
+    "31-77-4526377",
+    "30-77-4526377"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 483,
+  "passed_by": 462,
+  "correct_ratio": 0.9467213114754098,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 4505474,
+  "create_date": "2023-09-19T08:35:26Z",
+  "update_date": "2023-09-19T08:35:27Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-4526377-1",
+  "discussion_threads": [
+    "77-4526377-1",
+    "77-4526377-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

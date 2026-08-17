@@ -1,0 +1,67 @@
+{
+  "id": 3927870,
+  "lesson": 942564,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Чтобы сайт <strong>поднимался в поисковой выдаче</strong> и оставался на высоких позициях, важно не только написать хороший SEO-текст, но и <strong>регулярно публиковать новый контент</strong>. Поисковые системы (особенно Яндекс) <strong>учитывают свежесть обновлений</strong> и любят сайты, которые активно живут: наполняются, растут и регулярно пополняются полезными материалами.</p>\n\n<p>Сайты, где публикации появляются стабильно, получают <strong>дополнительные очки в ранжировании</strong> — и, как следствие, <strong>больше шансов попасть в топ</strong>.</p>\n\n<p>Однако на практике <strong>редко когда статьи пишутся и публикуются разом</strong> — по нескольким причинам:</p>\n\n<ul>\n\t<li>Ограниченный бюджет на контент</li>\n\t<li>Загруженность копирайтеров и редакторов</li>\n\t<li>Необходимость растянуть контент на месяц-два вперёд</li>\n</ul>\n\n<p>🔑 Поэтому хорошей практикой является составление <strong>контент-плана</strong> — заранее спланированного графика выхода материалов с указанием тем, форматов и ключевых слов. Это особенно полезно, если вы работаете с подрядчиками или делегируете задачи в команде.</p>\n\n<h2>📋 Что такое контент-план?</h2>\n\n<p><strong>Контент-план</strong> — это таблица или календарь, в котором расписаны:</p>\n\n<ul>\n\t<li>темы будущих публикаций,</li>\n\t<li>даты написания и публикации,</li>\n\t<li>ключевые слова,</li>\n\t<li>типы контента (статья, видео, инфографика),</li>\n\t<li>ответственные исполнители (если есть),</li>\n\t<li>ссылки на технические задания (ТЗ).</li>\n</ul>\n\n<p>Такой план помогает:</p>\n\n<ul>\n\t<li>📆 организовать регулярный выход контента,</li>\n\t<li>🔍 продвигать нужные ключевые слова,</li>\n\t<li>✅ контролировать сроки и готовность материалов,</li>\n\t<li>📈 отслеживать эффективность и планировать бюджет.</li>\n</ul>\n\n<p>Хороший план включает в себя:&nbsp;</p>\n\n<ul>\n\t<li><strong>Выбор ключевых слов:</strong> на основе семантического ядра или текущих приоритетов.</li>\n\t<li><strong>Определение форматов:</strong> тексты, видео, изображения, инструкции, подборки.</li>\n\t<li><strong>Частота публикаций:</strong> 1–3 раза в неделю, в зависимости от ресурсов и целей.</li>\n\t<li><strong>План по SEO и продвижению:</strong> что и когда отправляем в индексацию, что постим в соцсети.</li>\n\t<li><strong>Ссылки на ТЗ:</strong> чтобы авторы знали, что писать, а редакторы могли быстро проверить.</li>\n</ul>\n\n<h2>Инструменты для контент-планирования</h2>\n\n<p>Контент-план можно вести даже в простом Excel-файле, <strong>но в современном мире важно, чтобы с ним могли работать сразу несколько человек</strong>: SEO-специалист, копирайтер, дизайнер или менеджер проекта. Совместный доступ, возможность одновременной работы и интеграции (например, с календарём или email-уведомлениями) — всё это <strong>сильно ускоряет процесс</strong> и помогает избежать хаоса.</p>\n\n<p>📌 <strong>Наиболее популярный способ</strong> — это <strong>Google Таблицы</strong>. Они бесплатны, просты, доступны с любого устройства, и позволяют настроить общие права доступа.<br>\nМинусы — ограниченный функционал и отсутствие продвинутой автоматизации «из коробки». Но для большинства задач этого вполне достаточно.</p>\n\n<ul>\n\t<li><a href=\"https://www.google.com/sheets/about/\" rel=\"noopener noreferrer nofollow\"><strong>Google Таблицы</strong></a>: удобно, бесплатно, можно делиться с командой</li>\n\t<li><a href=\"https://calendar.google.com\" target=\"_new\" rel=\"noopener noreferrer nofollow\"><strong>Google Календарь</strong></a>: удобно планировать по дням</li>\n\t<li><a href=\"https://trello.com/\" target=\"_new\" rel=\"noopener noreferrer nofollow\"><strong>Trello</strong></a>, <a href=\"https://asana.com\" target=\"_new\" rel=\"noopener noreferrer nofollow\"><strong>Asana</strong></a>: таск-трекеры с гибкими досками и сроками</li>\n\t<li><a href=\"https://smmplanner.com\" target=\"_new\" rel=\"noopener noreferrer nofollow\"><strong>SMMplanner</strong></a> или <a href=\"https://smmbox.com\" target=\"_new\" rel=\"noopener noreferrer nofollow\"><strong>SMMbox</strong></a>: если вы совмещаете контент и соцсети</li>\n</ul>\n\n<p><strong>Пример короткого контент-плана можно посмотреть <a href=\"https://docs.google.com/spreadsheets/d/19UD6d2ZWG7Ok49MHTP6mXCNOtf1mMQcYJ-4kBkqyzQk/edit?usp=sharing\" rel=\"noopener noreferrer nofollow\">по этой ссылке</a>.&nbsp;</strong></p>\n\n<h2>✏️ Упражнение: Заполните контент-план для своего блога</h2>\n\n<p>Контент-план — это ваш главный инструмент в управлении публикациями. Чтобы освоить его структуру и научиться правильно им пользоваться, выполните простое тренировочное упражнение.</p>\n\n<h3>Что нужно сделать:</h3>\n\n<ol>\n\t<li>\n\t<p>Откройте этот шаблон 👉 <a href=\"https://docs.google.com/spreadsheets/d/19UD6d2ZWG7Ok49MHTP6mXCNOtf1mMQcYJ-4kBkqyzQk/edit?usp=sharing\" target=\"_new\" rel=\"noopener noreferrer nofollow\"><strong>Контент-план (Google Sheets)</strong></a></p>\n\t</li>\n\t<li>\n\t<p>Создайте свою копию: <strong>Файл → Создать копию</strong></p>\n\t</li>\n\t<li>\n\t<p>Придумайте и заполните 5 строк контент-плана:</p>\n\t</li>\n</ol>\n\n<ul>\n\t<li>Укажите <strong>случайные названия статей</strong> — темы, которые вам просто интересны (можно даже не по вашей нише)</li>\n\t<li>Придумайте <strong>ключевые слова</strong> для каждой статьи (на основе здравого смысла)</li>\n\t<li>Проставьте <strong>примерные даты публикации</strong> и <strong>дедлайны</strong></li>\n\t<li>Отметьте <strong>стадию</strong> выполнения (например: «В задумке», «В работе», «Готово к публикации»)</li>\n\t<li>Заполните <strong>комментарии</strong> — добавьте заметки по статье, уточнения, кому отправить, что проверить и т.д.</li>\n</ul>\n\n<h3>💡 Цель упражнения</h3>\n\n<ul>\n\t<li>Отработать <strong>структуру контент-плана</strong></li>\n\t<li>Понять, какие поля важны</li>\n\t<li>Научиться <strong>мыслить наперёд</strong> — планировать темы, сроки и загрузку</li>\n</ul>\n\n<p>📎 <strong>Это тренировка — не обязательно писать реальные статьи.</strong> Главное — понять принципы и почувствовать, как работает инструмент.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3927870",
+  "subscriptions": [
+    "31-77-3927870",
+    "30-77-3927870"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 216,
+  "passed_by": 216,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3906967,
+  "create_date": "2023-04-04T07:10:47Z",
+  "update_date": "2025-03-30T11:37:12Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3927870-1",
+  "discussion_threads": [
+    "77-3927870-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

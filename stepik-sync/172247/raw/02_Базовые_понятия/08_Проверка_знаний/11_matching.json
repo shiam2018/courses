@@ -1,0 +1,87 @@
+{
+  "id": 4526414,
+  "lesson": 1088645,
+  "position": 11,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<p>Пожалуйста, соедините понятия с правильными определениями.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Показатель отказов (Bounce Rate)",
+          "second": "Процент посетителей, покинувших сайт, не переходя на другие страницы."
+        },
+        {
+          "first": "Показатель конверсии (CR) ",
+          "second": "Отражает процент пользователей, которые совершили желаемое действие на сайте (например, покупку)."
+        },
+        {
+          "first": "Органический трафик",
+          "second": "Количество бесплатных посетителей, приходящих на ваш сайт из поисковых систем."
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-4526414",
+  "subscriptions": [
+    "31-77-4526414",
+    "30-77-4526414"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 459,
+  "passed_by": 419,
+  "correct_ratio": 0.7958412098298677,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 4505511,
+  "create_date": "2023-09-19T08:41:28Z",
+  "update_date": "2023-09-19T08:49:05Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-4526414-1",
+  "discussion_threads": [
+    "77-4526414-1",
+    "77-4526414-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

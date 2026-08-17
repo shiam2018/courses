@@ -1,0 +1,67 @@
+{
+  "id": 3918636,
+  "lesson": 940131,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align:center;\"><img alt=\"\" height=\"360\" name=\"Add a heading (5).png\" src=\"https://ucarecdn.stepik.net/268ebf7e-70a5-43c3-8b98-30f1879d68f2/\" style=\"float:right;\" width=\"360\">Что будет на курсе?</h2>\n\n<p>Этот курс — отличный старт для всех, кто хочет разобраться в основах SEO и сделать первые шаги в продвижении сайтов.<br>\nМы будем говорить <strong>простыми словами</strong>, без перегруза терминами и «сухой теорией».</p>\n\n<h2>🎯 Что изучим</h2>\n\n<p>🔍 Что такое SEO и как работают поисковые системы<br>\n🔑 Как находить и подбирать ключевые слова<br>\n🏠 Внутреннюю оптимизацию сайта: заголовки, тексты, мета-теги<br>\n🌐 Внешнюю оптимизацию: ссылки, соцсигналы и другие off-page факторы<br>\n🧱 Техническую оптимизацию: скорость загрузки, индексация, ошибки<br>\n📊 Как анализировать результаты: метрики, Вебмастер, поведение пользователей</p>\n\n<h2>🧪 Что попрактикуемся делать</h2>\n\n<p>✍️ Писать SEO-оптимизированные статьи<br>\n📋 Составлять ТЗ для копирайтеров<br>\n🧠 Кластеризовать ключевые слова<br>\n📈 Создавать и заполнять контент-план<br>\n🛠 Устанавливать Яндекс.Метрику и Яндекс.Вебмастер<br>\n🧩 Собрать мини-проект SEO-блога на Blogger (или любой другой платформе)</p>\n\n<h2>📚 Как устроен курс</h2>\n\n<p>📖 Теория — короткие и понятные уроки с примерами<br>\n🧠 Практика — простые задания, чтобы закрепить знания<br>\n✅ Мини-проект — в конце курса вы соберёте свой блог и настроите аналитику</p>\n\n<h2>🎁 Что вы получите</h2>\n\n<ul>\n\t<li>Понимание, как устроен SEO</li>\n\t<li>Навык работы с ключевыми словами и текстами</li>\n\t<li>Умение оценивать и улучшать сайт</li>\n\t<li>Свой первый SEO-проект для портфолио</li>\n\t<li>Осознанность в выборе специализации в digital</li>\n</ul>\n\n<h2>Что делать после курса?</h2>\n\n<ul>\n\t<li>Создайте и оптимизируйте свой сайт или блог</li>\n\t<li>Примените знания в pet-проекте или фриланс-заказе</li>\n\t<li>Подготовьтесь к собеседованию на позицию junior SEO</li>\n\t<li>Продолжайте обучение — смотрите мой <a href=\"https://www.youtube.com/@shenshinigor\" target=\"_new\" rel=\"noopener noreferrer nofollow\">YouTube-канал</a> и Telegram — я делюсь кейсами, вакансиями и новыми курсами</li>\n</ul>\n\n<p>📌 У меня также есть отдельные бесплатные курсы:</p>\n\n<ul>\n\t<li><a href=\"https://stepik.org/course/94835/promo/\" rel=\"noopener noreferrer nofollow\">Контекстная реклама</a></li>\n\t<li><a href=\"https://stepik.org/course/92471/promo/\" rel=\"noopener noreferrer nofollow\">Арбитраж трафика и CPA маркетинг</a></li>\n</ul>\n\n<p>Буду рад, если вы продолжите путь маркетолога дальше вместе со мной 🚀</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3918636",
+  "subscriptions": [
+    "31-77-3918636",
+    "30-77-3918636"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1109,
+  "passed_by": 1109,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3897733,
+  "create_date": "2023-03-31T18:01:41Z",
+  "update_date": "2025-03-30T13:16:17Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3918636-1",
+  "discussion_threads": [
+    "77-3918636-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 3918635,
+  "lesson": 940130,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align: center;\"><img alt=\"\" height=\"360\" name=\"main-png-2.png\" src=\"https://ucarecdn.stepik.net/3dde593b-d665-472c-9dff-efeb15963482/\" style=\"float: right;\" width=\"360\">Приветствую на SEO курсе для начинающих!</h2>\n\n<p>Меня зовут <a href=\"https://linkedin.com/in/shenshinigor\" rel=\"nofollow noopener noreferrer\">Игорь Шеньшин</a>, и я занимаюсь маркетингом уже более 10 лет. При работе над различными проектами я получил экспертизу в арбитраже трафика, контекстной и таргетированной рекламе, SEO продвижении. Моя специализация — это платный трафик, но у меня также большой опыт работы с SEO, которым я хочу поделиться с вами в виде этого быстрого, и бесплатного курса.</p>\n\n<p>Про свой профессиональный опыт и навыки я рассказал более подробно в <a href=\"https://www.linkedin.com/in/shenshinigor/\" rel=\"noopener noreferrer nofollow\">моем LinkedIn</a>.</p>\n\n<p>Буду рад видеть вас среди тех, кто завершит этот курс. Он простой, но тем не менее полезный. Здесь собраны базовые понятия SEO продвижения, которые будут полезны при поиске работы младшего специалиста и интернет-маркетолога. </p>\n\n<p>PS: Продвинутые знания я расскажу в будущих курсах. Подписывайтесь на мои социальные сети и оставайтесь в курсе новостей.</p>\n\n<p>Для продолжения, нажмите \"<strong>Следующий шаг</strong>\".</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3918635",
+  "subscriptions": [
+    "31-77-3918635",
+    "30-77-3918635"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1638,
+  "passed_by": 1638,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3897732,
+  "create_date": "2023-03-31T18:01:40Z",
+  "update_date": "2023-09-19T09:19:13Z",
+  "discussions_count": 1,
+  "discussion_proxy": "77-3918635-1",
+  "discussion_threads": [
+    "77-3918635-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

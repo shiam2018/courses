@@ -1,0 +1,67 @@
+{
+  "id": 3918678,
+  "lesson": 940150,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Хорошая SEO-статья — это не просто текст для сайта. Это инструмент, который <strong>привлекает бесплатный трафик из Яндекса и Google</strong>. Статья должна быть полезной <strong>для людей</strong> и одновременно понятной <strong>для поисковых роботов</strong>.</p>\n\n<p>В этом уроке разберем, что такое SEO-текст, как его писать и чего точно не стоит делать.</p>\n\n<h2>Что такое SEO-статья?</h2>\n\n<p><strong>SEO-статья</strong> — это текст, написанный так, чтобы:</p>\n\n<ul>\n\t<li>отвечать на запрос пользователя (например, «как сделать лендинг»),</li>\n\t<li>содержать <strong>ключевые слова</strong>, по которым вас найдут,</li>\n\t<li>быть удобной для чтения (структура, подзаголовки, списки),</li>\n\t<li>помогать сайту <strong>подниматься в результатах поиска</strong>.</li>\n</ul>\n\n<p>Такие статьи — это основа <strong>контент-маркетинга</strong> и <strong>SEO-продвижения</strong>. Чем лучше статья, тем больше людей на неё придёт и, возможно, что-то купит, подпишется или поделится.</p>\n\n<h2>Как написать SEO-статью?</h2>\n\n<h3>🔍 Шаг 1. Соберите ключевые слова</h3>\n\n<p>Перед тем как писать текст, нужно понять, <strong>по каким запросам люди ищут вашу тему</strong>. Для этого:</p>\n\n<ul>\n\t<li>Определите тему (например, \"рецепты на ужин\").</li>\n\t<li>Зайдите на <a href=\"https://wordstat.yandex.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Яндекс Вордстат</a> или Google Keyword Planner.</li>\n\t<li>Посмотрите, какие фразы вводят пользователи.</li>\n\t<li>Выберите <strong>основные ключевые слова</strong> и 5–10 дополнительных.</li>\n</ul>\n\n<p>📌 Используйте также LSI-слова — это <strong>вспомогательные фразы</strong>, которые часто встречаются у конкурентов. Например, если вы пишете про «питание для похудения», то LSI могут быть: «калории», «белки», «рацион», «диета».</p>\n\n<p>Полезные инструменты:</p>\n\n<ul>\n\t<li><a href=\"https://spywords.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">SpyWords</a> — анализ конкурентов</li>\n\t<li><a href=\"https://text.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Text.ru</a> — проверка уникальности и тошноты</li>\n\t<li><a href=\"https://glvrd.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Главред</a> — избавление от воды</li>\n</ul>\n\n<h3>🧱 Шаг 2. Составьте план статьи</h3>\n\n<p>Хаотичный текст никто не любит — ни поисковик, ни читатель.</p>\n\n<p>Типовая структура SEO-статьи:</p>\n\n<ol>\n\t<li><strong>Заголовок (H1)</strong> — содержит основной ключ</li>\n\t<li><strong>Введение</strong> — коротко и по делу: о чём статья, кому и зачем</li>\n\t<li><strong>Основные разделы (H2)</strong> — каждый раскрывает отдельную мысль или вопрос</li>\n\t<li><strong>Списки, таблицы, картинки</strong> — для наглядности</li>\n\t<li><strong>Заключение</strong> — краткий итог, совет, вывод, ссылка</li>\n</ol>\n\n<h3>✍️ Шаг 3. Напишите текст</h3>\n\n<p>Когда план готов — пишите. Помните:</p>\n\n<ul>\n\t<li><strong>Ключевые слова</strong> используйте в естественном виде. Можно склонять и немного разбавлять.</li>\n\t<li><strong>Поделите текст на абзацы по 3–5 строк</strong>.</li>\n\t<li>Добавьте <strong>заголовки H2 и H3</strong>, чтобы текст было легко сканировать глазами.</li>\n\t<li>Используйте <strong>списки</strong> — они улучшают восприятие и SEO.</li>\n\t<li>Добавьте <strong>внутренние ссылки</strong> — на другие статьи или разделы вашего сайта.</li>\n</ul>\n\n<p>🔎 Пример:</p>\n\n<p><code>&lt;h2&gt;Что приготовить на ужин быстро и вкусно?&lt;/h2&gt; &lt;p&gt;Если вы пришли домой уставшими, но хотите поесть вкусно — вот три простых рецепта...&lt;/p&gt; </code></p>\n\n<h3>✅ Шаг 4. Проверьте и опубликуйте</h3>\n\n<p>Перед публикацией проверьте:</p>\n\n<ul>\n\t<li><strong>Грамотность</strong>: <a href=\"https://orfogrammka.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Орфограммка</a> или <a href=\"https://www.orfo.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">ОРФО</a></li>\n\t<li><strong>Уникальность</strong>: <a href=\"https://text.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Text.ru</a>, <a href=\"https://advego.com\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Advego</a></li>\n\t<li><strong>Тошноту и воду</strong>: Advego или <a href=\"https://glvrd.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Главред</a></li>\n</ul>\n\n<p>Советы:</p>\n\n<ul>\n\t<li>Уникальность — выше 90%</li>\n\t<li>Вода — до 15%</li>\n\t<li>Переспам — не более 1 ключа на 500–700 символов</li>\n</ul>\n\n<p>💡 После публикации страница появится в поиске <strong>не сразу</strong> — иногда это занимает от нескольких дней до 2–3 недель. Чтобы ускорить индексацию:</p>\n\n<ul>\n\t<li><strong>Добавьте сайт в Яндекс Вебмастер</strong>: <a href=\"https://webmaster.yandex.ru\" target=\"_new\" rel=\"noopener noreferrer nofollow\">https://webmaster.yandex.ru</a></li>\n\t<li><strong>Убедитесь, что ваш сайт имеет файл Sitemap</strong> (он автоматически создается в большинстве CMS — например, WordPress или Tilda).</li>\n\t<li><strong>Добавьте Sitemap в Вебмастер</strong> в разделе <em>Индексирование → Файлы Sitemap</em></li>\n\t<li>Чтобы сообщить Яндексу о новом контенте сайта, используйте&nbsp;<a href=\"https://yandex.ru/support/webmaster/robot-workings/site-reindex.html#site-reindex\" rel=\"noopener noreferrer nofollow\">Переобход страниц</a>&nbsp;или&nbsp;<a href=\"https://yandex.ru/support/webmaster/indexing-options/link-metrica.html#link-metrica\" rel=\"noopener noreferrer nofollow\">Обход по счетчикам Метрики</a>.</li>\n</ul>\n\n<p>Главное — продолжайте писать и оптимизировать. Поисковые системы любят <strong>регулярное обновление сайта</strong> и <strong>полезный контент</strong> — это всегда работает в долгую.</p>\n\n<h2>🚫 Ошибки, которых стоит избегать</h2>\n\n<p>❌ <strong>Слишком много ключевых слов</strong> — поисковики наказывают за переспам.<br>\n❌ <strong>Сплошной текст без подзаголовков</strong> — тяжело читать, пользователи уходят.<br>\n❌ <strong>Ошибки в орфографии и пунктуации</strong> — теряется доверие.<br>\n❌ <strong>Текст для робота, не для человека</strong> — плохо читается, не работает.</p>\n\n<h2>✏️ Упражнение: Составьте план SEO-статьи</h2>\n\n<p><strong>Цель:</strong><br>\nНаучиться структурировать SEO-статью до написания текста — это поможет вам не потеряться в процессе и сделать материал полезным, логичным и подходящим для продвижения.</p>\n\n<h3>🔍 Задание:</h3>\n\n<ol>\n\t<li>Выберите ключевую фразу из своей семантики (например, «как выбрать блендер»).</li>\n\t<li>Придумайте <strong>рабочее название статьи</strong>.</li>\n\t<li>Составьте план будущей статьи:</li>\n</ol>\n\n<ul>\n\t<li>Введение</li>\n\t<li>Основные разделы (3–5 блоков с подзаголовками H2)</li>\n\t<li>Заключение</li>\n\t<li>Ключевые слова для каждого раздела</li>\n\t<li>Примерные подсказки для контента (что включить, какие блоки, списки, примеры и т.д.)</li>\n</ul>\n\n<p>👉 <strong>Скопируйте<a href=\"https://docs.google.com/spreadsheets/d/11hTb5uVFZlxChbj23WY4HWXVA-QpA2RZI8vK0C0Wz6c/edit?usp=sharing\" rel=\"noopener noreferrer nofollow\"> шаблон плана SEO статьи</a> и работайте в нём.</strong></p>\n\n<h2>🧠 Структурные приёмы, которые можно использовать</h2>\n\n<p>Текст можно написать по-разному, но <strong>все структуры статей условно сводятся к базовой формуле:</strong><br>\n<strong>введение → основная часть (тело) → вывод.</strong></p>\n\n<p>Однако внутри этой схемы можно применять <strong>мнемонические структуры</strong> (в названиях которых используются аббревиатуры для лёгкого запоминания), чтобы сделать статью более интересной, структурированной и удерживающей внимание:</p>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>🧱 Структура</th>\n\t\t\t<th>Описание</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Хук – Боди – Оффер</strong></td>\n\t\t\t<td>Хук (зацепка), Боди (основная часть), Оффер (призыв или предложение)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>АИДА (AIDA)</strong></td>\n\t\t\t<td>Attention (внимание), Interest (интерес), Desire (желание), Action (действие)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>PAS</strong></td>\n\t\t\t<td>Problem – Agitate – Solution: обозначаем проблему, усиливаем тревожность, даём решение</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>4U</strong></td>\n\t\t\t<td>Useful – Urgent – Unique – Ultra-specific: полезный, срочный, уникальный, точный</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Before–After–Bridge</strong></td>\n\t\t\t<td>До – После – Мост: опиши проблему, покажи идеальный результат, предложи, как туда прийти</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3918678",
+  "subscriptions": [
+    "31-77-3918678",
+    "30-77-3918678"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 237,
+  "passed_by": 237,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3897775,
+  "create_date": "2023-03-31T18:01:57Z",
+  "update_date": "2025-03-30T08:27:23Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-3918678-1",
+  "discussion_threads": [
+    "77-3918678-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

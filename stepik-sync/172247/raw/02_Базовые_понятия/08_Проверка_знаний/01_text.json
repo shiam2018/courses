@@ -1,0 +1,67 @@
+{
+  "id": 4526266,
+  "lesson": 1088645,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" height=\"400\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/26715b10-16a6-49a7-a007-4e77640dca64/\" width=\"1200\"></p>\n\n<p><strong>Поздравляю с успешным завершением теории первого модуля! 🎉</strong></p>\n\n<p>Впереди еще три модуля. Они будут немного сложнее и гораздо практичнее.</p>\n\n<p>Прежде чем перейти к ним, давайте проверим, насколько хорошо вы усвоили материал.</p>\n\n<p>📝 <strong>Вас ждёт мини-тест из 10 вопросов:</strong></p>\n\n<ul>\n\t<li>5 теоретических вопросов с лёгким юмором 😉</li>\n\t<li>3 задачи на расчёт KPI в SEO</li>\n\t<li>2 задания на сопоставление — нужно будет соединить подходящие понятия</li>\n</ul>\n\n<p>💪 Я уверен, что у вас всё получится! Вперёд! 🌟</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-4526266",
+  "subscriptions": [
+    "31-77-4526266",
+    "30-77-4526266"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 530,
+  "passed_by": 530,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 4505363,
+  "create_date": "2023-09-19T07:35:44Z",
+  "update_date": "2025-03-30T13:45:13Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-4526266-1",
+  "discussion_threads": [
+    "77-4526266-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

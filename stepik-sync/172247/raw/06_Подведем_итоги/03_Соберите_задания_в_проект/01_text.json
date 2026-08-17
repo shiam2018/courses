@@ -1,0 +1,67 @@
+{
+  "id": 4518739,
+  "lesson": 1086866,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2><img alt=\"\" height=\"400\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/b5ff57ec-40c0-430f-aae7-8c621c98bce7/\" width=\"1200\"></h2>\n\n<h2>🎯 Соберите задания в проект</h2>\n\n<p>Поздравляю — вы подошли к финальному этапу практической части курса! 🏁<br>\nВы уже прошли путь от семантики до контент-плана, научились создавать ТЗ и писать статьи. Осталось объединить всё это в единый <strong>мини-проект</strong>, который можно использовать как часть портфолио SEO-специалиста.</p>\n\n<p>Такой проект станет отличным доказательством того, что вы умеете не просто говорить о SEO, но и <strong>действительно умеете работать с сайтом, семантикой, текстами и аналитикой</strong>.</p>\n\n<h2>📦 Что нужно собрать в проект</h2>\n\n<ol>\n\t<li><strong>Ссылку на блог</strong>, созданный вами на Blogger (или другой платформе)</li>\n\t<li><strong>Ссылку на посты в блоге</strong> (минимум 3 статьи, написанные по вашему ТЗ)</li>\n\t<li><strong>Файл с семантикой</strong> — Google Таблица с ключевыми словами и кластеризацией (можно использовать шаблон)</li>\n\t<li><strong>Контент-план</strong> — Google Таблица, куда вы вписали темы статей, даты и статусы публикаций</li>\n\t<li><strong>Файл с ТЗ</strong> — можно оформить в Google Docs или таблице</li>\n\t<li><strong>Подключённая Яндекс.Метрика и Яндекс.Вебмастер</strong> — можно просто указать, что подключено (добавлять скриншоты не обязательно)</li>\n</ol>\n\n<h2>📝 Инструкция по оформлению</h2>\n\n<ul>\n\t<li>Сделайте Google Документ или Google Таблицу, в котором собраны все ссылки, документы и краткое описание проекта</li>\n\t<li>Назовите его, например: <code>SEO-проект_ИмяФамилия</code></li>\n\t<li>Добавьте туда:\n\t<ul>\n\t\t<li>Ссылку на блог</li>\n\t\t<li>Ссылки на статьи</li>\n\t\t<li>Ссылку на семантику</li>\n\t\t<li>Ссылку на контент-план</li>\n\t\t<li>Ссылку на файл с ТЗ</li>\n\t\t<li>Уточнение, что Метрика и Вебмастер установлены</li>\n\t</ul>\n\t</li>\n</ul>\n\n<h2>🎁 Что вы получаете в итоге?</h2>\n\n<ul>\n\t<li>Готовый SEO-проект для портфолио</li>\n\t<li>Возможность показать этот проект при отклике на вакансию</li>\n\t<li>Базовые навыки, которые требуются на стартовой позиции в SEO</li>\n</ul>\n\n<h2>💬 Пример, как это может выглядеть:</h2>\n\n<p><code>Мой SEO-проект:<br>\n— Блог: https://yourblog.blogspot.com/<br>\n— Посты: 1. Как выбрать хостинг 2. ТОП-5 дешёвых хостингов в 2024 3. Инструкция по подключению Яндекс Метрики<br>\n— Семантика: [ссылка на таблицу]<br>\n— Контент-план: [ссылка на таблицу]<br>\n— ТЗ: [ссылка на Google Docs]<br>\n— Метрика и Вебмастер: подключены </code></p>\n\n<h2>🚀 Финальный шаг</h2>\n\n<p style=\"text-align:center;\">Когда проект будет собран — <strong>похвалите себя</strong>. Вы сделали то, на что большинство только подписывается, но не доводит до конца!</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-4518739",
+  "subscriptions": [
+    "31-77-4518739",
+    "30-77-4518739"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 206,
+  "passed_by": 206,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 4497836,
+  "create_date": "2023-09-17T08:23:58Z",
+  "update_date": "2025-03-30T13:52:16Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-4518739-1",
+  "discussion_threads": [
+    "77-4518739-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,101 @@
+{
+  "id": 4531956,
+  "lesson": 1090002,
+  "position": 6,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что из перечисленного является реальным фактором ранжирования в поисковой системе Яндекс?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Количество упоминаний сайта в твитах о котиках",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Качество и релевантность контента",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Цвет фона сайта (только фиолетовый!)",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Количество смайликов на главной странице",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-4531956",
+  "subscriptions": [
+    "31-77-4531956",
+    "30-77-4531956"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 262,
+  "passed_by": 250,
+  "correct_ratio": 0.9090909090909091,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 4511053,
+  "create_date": "2023-09-21T09:42:25Z",
+  "update_date": "2023-09-21T09:42:25Z",
+  "discussions_count": 1,
+  "discussion_proxy": "77-4531956-1",
+  "discussion_threads": [
+    "77-4531956-1",
+    "77-4531956-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

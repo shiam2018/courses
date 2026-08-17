@@ -1,0 +1,101 @@
+{
+  "id": 4531954,
+  "lesson": 1090002,
+  "position": 4,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что такое фильтры Яндекса?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Алгоритмы, которые позволяют улучшить качество поисковых результатов.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Специальный режим работы Яндекса для выдачи нерелевантных результатов.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": " Название игры про очистку зубов.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Методы продвижения сайта, не нарушающие правила Яндекса.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-4531954",
+  "subscriptions": [
+    "31-77-4531954",
+    "30-77-4531954"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 262,
+  "passed_by": 253,
+  "correct_ratio": 0.679144385026738,
+  "worth": 1,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 4511051,
+  "create_date": "2023-09-21T09:42:25Z",
+  "update_date": "2023-09-21T09:42:25Z",
+  "discussions_count": 1,
+  "discussion_proxy": "77-4531954-1",
+  "discussion_threads": [
+    "77-4531954-1",
+    "77-4531954-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

@@ -1,0 +1,67 @@
+{
+  "id": 3918651,
+  "lesson": 940138,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" height=\"400\" name=\"Шапки для глав курса (1).png\" src=\"https://ucarecdn.stepik.net/c3610975-a19a-4f86-97c2-510c16521bbc/\" width=\"1200\"></p>\n\n<p>Привет! В этом модуле поговорим о <strong>Яндексе</strong> — крупнейшей поисковой системе в СНГ, и рассмотрим её особенности для эффективного SEO-продвижения.</p>\n\n<p>Яндекс занимает значительную долю поискового и рекламного рынка в СНГ, поэтому одна из главных целей SEO — быстрое индексирование контента (текстов, изображений, видео) и попадание сайта в ТОП-выдачи по целевым запросам.</p>\n\n<p>Для успешного продвижения в Яндексе важно учитывать его алгоритмы, которые в отличие от Google больше ориентированы на смысловую нагрузку текстов, а не только на наличие ключевых слов.</p>\n\n<h2>Особенности SEO в Яндексе</h2>\n\n<ul>\n\t<li>Яндекс индексирует страницы сайта неравномерно: некоторые материалы могут попасть в индекс за день, другие — спустя несколько недель.</li>\n\t<li>Система учитывает региональный контекст и определяет, к какому городу относится сайт.</li>\n\t<li>Яндекс эффективно распознаёт и работает с кириллической семантикой, ориентируясь преимущественно на русскоговорящую аудиторию.</li>\n\t<li>Яндекс владеет популярными ресурсами, такими как <a href=\"https://zen.yandex.ru/\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Дзен</a>, <a href=\"https://market.yandex.ru/\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Маркет</a>, <a href=\"https://www.kinopoisk.ru/\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Кинопоиск</a>, которые имеют высокий авторитет и регулярно занимают верхние позиции в выдаче (их можно использовать в стратегии продвижения).</li>\n\t<li>Для помощи в SEO-оптимизации Яндекс предоставляет мощные инструменты: <a href=\"https://metrika.yandex.ru/\" rel=\"noopener noreferrer nofollow\">Яндекс.Метрика</a> и <a href=\"https://webmaster.yandex.ru/\" target=\"_new\" rel=\"noopener noreferrer nofollow\">Яндекс.Вебмастер</a>.</li>\n</ul>\n\n<h2>Интересные факты</h2>\n\n<ul>\n\t<li>У Яндекса есть <a href=\"https://yandex.ru/museum/\" rel=\"noopener noreferrer nofollow\">несколько музеев</a>, где можно познакомиться с историей компании и приобрести фирменный мерч.</li>\n\t<li>Письма от техподдержки Яндекса приходят от имени Платона Щукина — вымышленного персонажа, у которого даже <a href=\"https://yandex.ru/blog/platon\" rel=\"noopener noreferrer nofollow\">есть собственный&nbsp;блог</a>.</li>\n</ul>\n\n<h2><strong>Практическое упражнение: знакомимся с Яндекс.Wordstat</strong></h2>\n\n<p>Давайте на практике разберёмся, как работает <strong>Яндекс.Wordstat</strong>, и научимся подбирать ключевые фразы для продвижения товаров и услуг.</p>\n\n<p><strong>Задание:</strong></p>\n\n<p>1. Зайдите на <a href=\"https://wordstat.yandex.ru/\" rel=\"noopener noreferrer nofollow\">wordstat.yandex.ru</a> и авторизуйтесь под своим аккаунтом Яндекса.</p>\n\n<p>2. Введите в строку поиска запрос: <strong>«металлочерепица недорого купить»</strong> и нажмите «Подобрать».</p>\n\n<p>3. Заполните таблицу, проанализировав полученные результаты:</p>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>\n\t\t\t<p><strong>Транзакционные запросы (которые ведут к покупке)</strong></p>\n\t\t\t</th>\n\t\t\t<th>\n\t\t\t<p><strong>Минус-слова (запросы, которые точно не ведут к покупке)</strong></p>\n\t\t\t</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>1.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>1.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>2.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>2.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>3.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>3.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>4.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>4.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>5.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>5.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<h3><strong>Как понять, что запрос транзакционный</strong></h3>\n\n<p>Ищите запросы, содержащие слова: <strong>«купить», «заказать», «цена», «с доставкой», «от производителя», «акция», «скидка»</strong> и другие подобные коммерческие маркеры.</p>\n\n<h3><strong>Как определить минус-слова</strong></h3>\n\n<p>Исключайте запросы, которые не относятся к покупке: <strong>«своими руками», «фото», «что это», «форум», «отзывы», «инструкция», «бесплатно»</strong> и похожие слова.</p>\n\n<p>Это упражнение поможет вам сформировать набросок семантического ядра, а также познакомит с инструментом Яндекс.Вордстат.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-3918651",
+  "subscriptions": [
+    "31-77-3918651",
+    "30-77-3918651"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 461,
+  "passed_by": 461,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 3897748,
+  "create_date": "2023-03-31T18:01:47Z",
+  "update_date": "2025-03-29T17:05:35Z",
+  "discussions_count": 2,
+  "discussion_proxy": "77-3918651-1",
+  "discussion_threads": [
+    "77-3918651-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

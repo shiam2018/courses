@@ -1,0 +1,67 @@
+{
+  "id": 4535366,
+  "lesson": 1090842,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" height=\"400\" name=\"image.png\" src=\"https://ucarecdn.stepik.net/7c205aad-2cae-4f19-a430-60d78ef52935/\" width=\"1200\"></p>\n\n<p>Поздравляю с успешным завершением ещё одного модуля! 🎉</p>\n\n<p>Теперь вы знаете не только особенности оптимизации в Яндексе, но и как собирать ключевые слова.</p>\n\n<p>Самое время приступить к практике, которая описана в самостоятельном задании.</p>\n\n<p>Но до этого проверьте полученные знания с помощью этих 5 серьёзных вопросов с несерьёзными вариантами ответов (правильный — только 1).</p>\n\n<p>За каждый правильный ответ вы получаете 1 балл. До перехода к следующему модулю&nbsp;<strong>я рекомендую набрать не меньше 4 баллов</strong>.</p>\n\n<p>Если застрянете, просто перечитайте материал модуля.</p>\n\n<p>У вас всё получится! 🌟</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-4535366",
+  "subscriptions": [
+    "31-77-4535366",
+    "30-77-4535366"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 230,
+  "passed_by": 230,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 4514463,
+  "create_date": "2023-09-22T07:35:12Z",
+  "update_date": "2025-03-30T13:29:24Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-4535366-1",
+  "discussion_threads": [
+    "77-4535366-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
