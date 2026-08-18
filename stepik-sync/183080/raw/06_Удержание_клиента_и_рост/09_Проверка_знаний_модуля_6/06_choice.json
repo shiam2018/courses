@@ -1,0 +1,99 @@
+{
+  "id": 11033994,
+  "lesson": 2537462,
+  "position": 6,
+  "status": "preparing",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Как понять, что вы недостаточно часто выходите на связь с клиентом между покупками?</h2>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Клиент вспоминает о вас только в момент продления или проблемы",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Прошло больше одного дня с последнего сообщения",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Клиент не открывает каждое ваше письмо",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Вы не написали клиенту хотя бы раз в неделю",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11033994",
+  "subscriptions": [
+    "31-77-11033994",
+    "30-77-11033994"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11013085,
+  "create_date": "2026-08-18T16:50:06.803Z",
+  "update_date": "2026-08-18T16:50:06.935Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11033994-1",
+  "discussion_threads": [
+    "77-11033994-1",
+    "77-11033994-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

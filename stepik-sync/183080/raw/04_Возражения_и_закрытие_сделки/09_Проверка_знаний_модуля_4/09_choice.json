@@ -1,0 +1,99 @@
+{
+  "id": 11033975,
+  "lesson": 2537483,
+  "position": 9,
+  "status": "preparing",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Клиент явно готов покупать, но колеблется между двумя способами оплаты. Какой тип вопроса для закрытия сделки подойдёт лучше всего?</h2>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Альтернативный вопрос: «Вам удобнее оплата картой или по счёту?»",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Прямой вопрос: «Оформляем?», без уточнения деталей",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Резюмирующее закрытие с перечислением всех договорённостей заново",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Лучше вообще не задавать вопрос и подождать, пока клиент сам предложит оформить",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11033975",
+  "subscriptions": [
+    "31-77-11033975",
+    "30-77-11033975"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11013066,
+  "create_date": "2026-08-18T16:48:19.368Z",
+  "update_date": "2026-08-18T16:48:19.737Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11033975-1",
+  "discussion_threads": [
+    "77-11033975-1",
+    "77-11033975-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

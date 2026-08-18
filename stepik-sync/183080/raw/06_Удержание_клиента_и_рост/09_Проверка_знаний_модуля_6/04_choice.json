@@ -2,7 +2,7 @@
   "id": 11030323,
   "lesson": 2537462,
   "position": 4,
-  "status": "ready",
+  "status": "preparing",
   "block": {
     "name": "choice",
     "text": "<h2>Зачем менеджеру по продажам отслеживать метрики вроде конверсии и retention?</h2>",
@@ -37,7 +37,7 @@
         },
         {
           "is_correct": false,
-          "text": "Метрики нужны только для очень крупных компаний",
+          "text": "Метрики нужны только очень крупным компаниям",
           "feedback": ""
         }
       ]
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009414,
   "create_date": "2026-08-18T09:22:50Z",
-  "update_date": "2026-08-18T09:22:50Z",
+  "update_date": "2026-08-18T16:50:05.373Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030323-1",
   "discussion_threads": [

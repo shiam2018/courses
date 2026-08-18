@@ -2,10 +2,10 @@
   "id": 11030281,
   "lesson": 2537443,
   "position": 1,
-  "status": "ready",
+  "status": "preparing",
   "block": {
     "name": "choice",
-    "text": "<h2>Что относится к явным потребностям клиента?</h2>",
+    "text": "<h2>Клиент на созвоне прямо говорит: «Система должна стоить не дороже 50 тысяч в месяц». К какому типу потребности это относится?</h2>",
     "video": null,
     "options": {
       "is_multiple_choice": false
@@ -22,22 +22,22 @@
       "options": [
         {
           "is_correct": true,
-          "text": "То, что клиент сам называет, если его спросить напрямую",
+          "text": "Явная, клиент сам её назвал",
           "feedback": ""
         },
         {
           "is_correct": false,
-          "text": "То, что клиент не осознаёт, но что влияет на решение",
+          "text": "Скрытая, клиент не осознаёт её сам",
           "feedback": ""
         },
         {
           "is_correct": false,
-          "text": "Требования конкурентов к продукту",
+          "text": "Организационная, а не явная",
           "feedback": ""
         },
         {
           "is_correct": false,
-          "text": "Внутренние KPI отдела продаж",
+          "text": "Экономический уровень пирамиды, поэтому не может быть явной",
           "feedback": ""
         }
       ]
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009372,
   "create_date": "2026-08-18T09:17:51Z",
-  "update_date": "2026-08-18T09:17:52Z",
+  "update_date": "2026-08-18T16:45:06.477Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030281-1",
   "discussion_threads": [

@@ -1,0 +1,99 @@
+{
+  "id": 11033985,
+  "lesson": 2537473,
+  "position": 8,
+  "status": "preparing",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Почему перед звонком советуют улыбнуться, даже если клиент вас не видит?</h2>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Улыбка физически меняет тон голоса, и клиент слышит это по телефону",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Это помогает продавцу выглядеть увереннее на видео",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Это требование делового этикета в переговорах",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Это не имеет значения по телефону, только на встречах",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11033985",
+  "subscriptions": [
+    "31-77-11033985",
+    "30-77-11033985"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11013076,
+  "create_date": "2026-08-18T16:49:13.316Z",
+  "update_date": "2026-08-18T16:49:13.549Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11033985-1",
+  "discussion_threads": [
+    "77-11033985-1",
+    "77-11033985-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

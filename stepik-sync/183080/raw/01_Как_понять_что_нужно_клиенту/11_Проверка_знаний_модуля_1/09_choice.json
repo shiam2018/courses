@@ -1,0 +1,99 @@
+{
+  "id": 11033954,
+  "lesson": 2537443,
+  "position": 9,
+  "status": "preparing",
+  "block": {
+    "name": "choice",
+    "text": "<h2>В чём заключается подход «продажа от проблемы»?</h2>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Сначала обсудить сложность клиента и её последствия, и только потом предлагать решение",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Сразу перечислить все проблемы, которые решает продукт",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Указать клиенту на проблемы в его нынешнем поставщике",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Начать разговор с презентации характеристик продукта",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11033954",
+  "subscriptions": [
+    "31-77-11033954",
+    "30-77-11033954"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11013045,
+  "create_date": "2026-08-18T16:45:15.545Z",
+  "update_date": "2026-08-18T16:45:15.777Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11033954-1",
+  "discussion_threads": [
+    "77-11033954-1",
+    "77-11033954-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
