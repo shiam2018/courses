@@ -1,0 +1,67 @@
+{
+  "id": 11030279,
+  "lesson": 2537441,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<h3>Практика модуля 1</h3>\n<p>Теория без практики не превращается в навык. Возьмите одного реального (или гипотетического) клиента и пройдите с ним весь путь, который мы разобрали в модуле.</p>\n<h4>Задание</h4>\n<ol>\n<li>Опишите продукт или услугу, которую вы продаёте.</li>\n<li>Сформулируйте явную потребность клиента — то, что он назовёт сам, если спросить напрямую.</li>\n<li>Предположите одну скрытую потребность — то, что клиент не проговаривает, но что влияет на решение.</li>\n<li>Опишите, кто ещё конкурирует за внимание этого клиента (не обязательно прямой конкурент — это может быть «ничего не делать» или отложить решение).</li>\n<li>Напишите 2-3 предложения о том, как вы покажете продукт именно как решение выявленной потребности, а не как список функций.</li>\n</ol>\n<p>Сохраните этот разбор — он пригодится в следующих модулях, когда мы перейдём к первому контакту и презентации.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11030279",
+  "subscriptions": [
+    "31-77-11030279",
+    "30-77-11030279"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11009370,
+  "create_date": "2026-08-18T09:17:37Z",
+  "update_date": "2026-08-18T09:17:37Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11030279-1",
+  "discussion_threads": [
+    "77-11030279-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

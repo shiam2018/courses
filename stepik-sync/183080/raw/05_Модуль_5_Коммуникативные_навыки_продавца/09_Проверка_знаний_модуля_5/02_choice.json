@@ -1,0 +1,101 @@
+{
+  "id": 11030345,
+  "lesson": 2537473,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Чем открытый вопрос отличается от закрытого?</h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Открытый вопрос даёт клиенту рассказать своими словами, закрытый предполагает «да/нет»",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Открытый вопрос длиннее по формулировке",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Закрытые вопросы вообще нельзя использовать в продажах",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Разницы нет, это два названия одного и того же приёма",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11030345",
+  "subscriptions": [
+    "31-77-11030345",
+    "30-77-11030345"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11009436,
+  "create_date": "2026-08-18T09:23:57Z",
+  "update_date": "2026-08-18T09:23:58Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11030345-1",
+  "discussion_threads": [
+    "77-11030345-1",
+    "77-11030345-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

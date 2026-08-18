@@ -1,0 +1,67 @@
+{
+  "id": 11030338,
+  "lesson": 2537476,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<h3>Практика модуля 3</h3>\n<p>Соберите свою презентацию для одного реального клиента, используя всё, что разобрали в модуле.</p>\n<h4>Задание</h4>\n<ol>\n<li>Выберите одного реального (или гипотетического) клиента, с которым планируете разговор в ближайшее время.</li>\n<li>Пройдите короткую квалификацию: сформулируйте, в чём его реальная потребность, кто принимает решение и какие сроки его поджимают.</li>\n<li>Составьте 3 ключевые выгоды продукта именно для этого человека — по формуле «Характеристика — Значит — Выгода» из урока 2. Не используйте больше трёх, даже если хочется рассказать всё.</li>\n<li>Определите момент, когда прозвучит цена — после какой именно фразы или демонстрации выгоды вы её назовёте.</li>\n<li>Подготовьте одну цифру и одну историю похожего клиента, которые усилят воспринимаемую ценность (компонент из урока 4).</li>\n<li>Проговорите вслух всю презентацию целиком, от квалификации до называния цены — засеките время, уложитесь в 3-5 минут.</li>\n</ol>\n<p>Если есть возможность — запишите себя на диктофон и прослушайте: звучит ли цена уверенно, не тонет ли выгода в перечислении характеристик.</p>\n</div>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11030338",
+  "subscriptions": [
+    "31-77-11030338",
+    "30-77-11030338"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11009429,
+  "create_date": "2026-08-18T09:23:50Z",
+  "update_date": "2026-08-18T09:23:50Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11030338-1",
+  "discussion_threads": [
+    "77-11030338-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

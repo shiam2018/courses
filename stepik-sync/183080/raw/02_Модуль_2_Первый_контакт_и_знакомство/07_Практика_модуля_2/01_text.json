@@ -1,0 +1,67 @@
+{
+  "id": 11030302,
+  "lesson": 2537449,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<h3>Практика модуля 2</h3>\n<p>Возьмите один реальный звонок или встречу — свою прошлую или предстоящую — и разберите её открытие по шагам, которые мы прошли в этом модуле.</p>\n<h4>Задание</h4>\n<ol>\n<li>Опишите клиента: кто он, откуда обращение, что вы уже знаете о его ситуации.</li>\n<li>Напишите 3-4 вопроса, которые вы подготовите заранее для этого конкретного разговора.</li>\n<li>Составьте своё открытие звонка по формуле из урока: приветствие → имя и компания → причина звонка → проверка времени.</li>\n<li>Найдите в своём обычном скрипте фразы, которые звучат как «предложение» или спугивают клиента, и перепишите их.</li>\n<li>Опишите одну ситуацию, где клиент может попытаться перехватить инициативу (например, сразу спросить цену), и напишите свой ответ, который вернёт разговор в нужное русло.</li>\n</ol>\n<p>Сохраните этот разбор — на нём будет удобно тренироваться перед реальными звонками, пока формулы из этого модуля не станут привычкой.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11030302",
+  "subscriptions": [
+    "31-77-11030302",
+    "30-77-11030302"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11009393,
+  "create_date": "2026-08-18T09:21:53Z",
+  "update_date": "2026-08-18T09:21:53Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11030302-1",
+  "discussion_threads": [
+    "77-11030302-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

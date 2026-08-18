@@ -1,0 +1,101 @@
+{
+  "id": 11030323,
+  "lesson": 2537462,
+  "position": 4,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Зачем менеджеру по продажам отслеживать метрики вроде конверсии и retention?</h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Чтобы видеть реальный прогресс и находить, где именно стоит приложить усилия",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Это формальное требование, не влияющее на работу",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Чтобы красиво оформить отчёт для руководителя",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Метрики нужны только для очень крупных компаний",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11030323",
+  "subscriptions": [
+    "31-77-11030323",
+    "30-77-11030323"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11009414,
+  "create_date": "2026-08-18T09:22:50Z",
+  "update_date": "2026-08-18T09:22:50Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11030323-1",
+  "discussion_threads": [
+    "77-11030323-1",
+    "77-11030323-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

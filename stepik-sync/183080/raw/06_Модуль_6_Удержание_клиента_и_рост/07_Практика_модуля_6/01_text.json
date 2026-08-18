@@ -1,0 +1,67 @@
+{
+  "id": 11030318,
+  "lesson": 2537460,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<h3>Практика модуля 6</h3>\n<p>Соберите всё из этого модуля в одно упражнение на реальном клиенте.</p>\n<h4>Задание</h4>\n<ol>\n<li>Выберите одного текущего клиента (или последнего, с кем закрыли сделку).</li>\n<li>Составьте для него простой план онбординга на первые 30 дней по образцу из первого урока — что и когда вы сделаете, чтобы клиент получил первый результат.</li>\n<li>Заведите таблицу с 3-4 метриками для этого клиента: например дата следующего контакта, статус (активен/под риском ухода), заметка о его целях, дата последнего разговора не о продаже.</li>\n<li>Если у вас уже есть отказавшие клиенты — выберите одного и запишите настоящую причину отказа и дату, когда стоит вернуться к разговору.</li>\n</ol>\n<p>Эта таблица не разовое упражнение — держите её в работе и возвращайтесь к ней каждую неделю.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11030318",
+  "subscriptions": [
+    "31-77-11030318",
+    "30-77-11030318"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11009409,
+  "create_date": "2026-08-18T09:22:42Z",
+  "update_date": "2026-08-18T09:22:42Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11030318-1",
+  "discussion_threads": [
+    "77-11030318-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

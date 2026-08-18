@@ -1,0 +1,67 @@
+{
+  "id": 11030365,
+  "lesson": 2537486,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<p>Все техники продаж бессмысленны, если разговор закончился в первые тридцать секунд. Модуль 2 — про этот критический момент: первый контакт с клиентом.</p>\n<p>Вы разберётесь, как готовиться к звонку или встрече, как открыть разговор так, чтобы клиент не закрылся, как вызвать доверие с первых слов и почему инициативу в беседе должен держать именно продавец.</p>\n<p>Дальше в модуле — «Что будет в модуле» с картой уроков, затем сами уроки, практика на реальном диалоге и проверка знаний.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11030365",
+  "subscriptions": [
+    "31-77-11030365",
+    "30-77-11030365"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11009456,
+  "create_date": "2026-08-18T09:26:15Z",
+  "update_date": "2026-08-18T09:26:15Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11030365-1",
+  "discussion_threads": [
+    "77-11030365-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
