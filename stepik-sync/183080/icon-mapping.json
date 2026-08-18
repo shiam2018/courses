@@ -320,5 +320,27 @@
         "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
       }
     ]
+  },
+  {
+    "section_id": 743823,
+    "section_title": "Что дальше",
+    "section_description": "Короткое напутствие после курса, проверенные источники для дальнейшего развития и советы, которые приходят только с опытом.",
+    "lessons": [
+      {
+        "lesson_id": 2538168,
+        "title": "Итоги и что дальше",
+        "cover_url": "https://ucarecdn.com/10862364-4b10-458a-abb6-b3a96d8f044b/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2538169,
+        "title": "Источники и инструменты для дальнейшего развития",
+        "cover_url": "https://ucarecdn.com/33c2ed9f-d718-4e03-963f-ed82cd8bb0f3/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2538170,
+        "title": "Советы продвинутого уровня",
+        "cover_url": "https://ucarecdn.com/c0bba9f2-6f7c-4410-9534-060d62b81c68/-/scale_crop/180x180/center/"
+      }
+    ]
   }
 ]
