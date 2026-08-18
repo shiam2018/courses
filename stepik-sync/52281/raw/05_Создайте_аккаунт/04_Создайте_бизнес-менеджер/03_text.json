@@ -1,0 +1,67 @@
+{
+  "id": 651684,
+  "lesson": 210191,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align: center;\">Загрузите фото и обложку</h2>\n\n<p>Загрузите главное фото и обложку бизнес-менеджера, используя случайные изображения из интернета.</p>\n\n<p> </p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://ucarecdn.stepik.net/9dd9e3ac-db87-493c-9ec5-312e00537278/\"></p>\n\n<p> </p>\n\n<p><strong>Например:</strong></p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://ucarecdn.stepik.net/785def20-0ec3-4f61-8709-ebc56171d0df/\"></p>\n\n<h2 style=\"text-align: center;\">Создайте страницу</h2>\n\n<p>В блоке \"Настройки Business Manager\" нажмите \"Добавить Страницу\", затем \"Создать Страницу\"</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://ucarecdn.stepik.net/46d39361-2fab-4f54-819e-2c5fdb06a19b/\"></p>\n\n<p> </p>\n\n<p>Выберете категорию \"<strong>Марка или продукт</strong>\"</p>\n\n<p> </p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://ucarecdn.stepik.net/6f78f848-55bb-472c-9c4b-308221fc1df9/\"></p>\n\n<p> </p>\n\n<p>Далее, выбирайте подкатегорию \"Страница приложения\" и введите \"Агентство\" + случайное слово, например \"Агентство Ромашка\"</p>\n\n<p> </p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://ucarecdn.stepik.net/0facf472-ebce-45fa-8b88-aca79b8889d4/\"></p>\n\n<h2 style=\"text-align: center;\"> </h2>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://ucarecdn.stepik.net/af0da443-f434-4eb8-b864-f6a6d575a2c0/\"></p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-651684",
+  "subscriptions": [
+    "31-77-651684",
+    "30-77-651684"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 21,
+  "passed_by": 21,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 630774,
+  "create_date": "2019-03-19T15:05:41Z",
+  "update_date": "2019-03-19T15:05:41Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-651684-1",
+  "discussion_threads": [
+    "77-651684-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

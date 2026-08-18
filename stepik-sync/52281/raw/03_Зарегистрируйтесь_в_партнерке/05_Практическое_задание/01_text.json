@@ -1,0 +1,67 @@
+{
+  "id": 640014,
+  "lesson": 213487,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Для того, чтобы продолжить обучение вам необходимо зарегистрироваться в партнерской сети Admitad по нашей <strong><a href=\"https://www.admitad.com/ru/promo/?ref=bf434fa4dc\" rel=\"noopener noreferrer nofollow\">реферальной ссылке</a></strong>, выбрать несколько офферов для работы и<strong> </strong>заполнить копию брифа:</p>\n\n<ol>\n\t<li>Зарегистрируйтесь партнерской системе Admitad <strong><a href=\"https://www.admitad.com/ru/promo/?ref=bf434fa4dc\" rel=\"nofollow noopener noreferrer\">по этой ссылке</a></strong></li>\n\t<li>Изучите список офферов в Программы --&gt; Каталог программ</li>\n\t<li>Выберите <strong>3-4 оффера и подайте заявки на работу с ними</strong></li>\n\t<li><strong>Обязательно подключите оффер, который не требует модерации</strong><img alt=\"\" src=\"https://ucarecdn.stepik.net/3925831a-2170-458b-b10f-1a063356659b/\"></li>\n\t<li>Погуглите как рекламируют офферы данной вертикали и найдите кейсы по рекламе похожих офферов</li>\n\t<li>Опишите как вы будете рекламировать этот оффер в Meta Ads*, заполнив бриф на оффер по <strong><a href=\"https://docs.google.com/document/d/13H6gpkrQEDfqR-9CkHTf3PmidTrCe6wmK5oxjZd4jQc/edit?usp=sharing\" rel=\"noopener noreferrer nofollow\">шаблону</a> (<a href=\"https://docs.google.com/document/d/13H6gpkrQEDfqR-9CkHTf3PmidTrCe6wmK5oxjZd4jQc/edit?usp=sharing\" rel=\"noopener noreferrer nofollow\">https://docs.google.com/document/d/13H6gpkrQEDfqR-9CkHTf3PmidTrCe6wmK5oxjZd4jQc/</a>) </strong></li>\n</ol>\n\n<p>В конце курса для получения сертификата необходимо провести закупку трафика на один из выбранных офферов по вашей трекинговой ссылке (заработанные деньги в партнерской системе будут принадлежать вам), бриф поможет подойти к рекламе более обдуманно. </p>\n\n<p>Вы сможете получить доступ к тестовой закупке, а также сертификат о прохождении курса, только если зарегистрировались в Admitad по нашей <strong><a href=\"https://www.admitad.com/ru/promo/?ref=bf434fa4dc\" rel=\"noopener noreferrer nofollow\">реферальной ссылке</a></strong>.</p>\n\n<p>На следующем шаге, нужно будет ввести выплату в рублях по условию \"Активный игрок 1\" по офферу \"War Thunder\" (ID оффера в Admitad – 6448).</p>\n\n<ol>\n</ol>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-640014",
+  "subscriptions": [
+    "31-77-640014",
+    "30-77-640014"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 57,
+  "passed_by": 57,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 619105,
+  "create_date": "2019-03-09T10:50:52Z",
+  "update_date": "2019-03-14T15:31:39Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-640014-1",
+  "discussion_threads": [
+    "77-640014-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

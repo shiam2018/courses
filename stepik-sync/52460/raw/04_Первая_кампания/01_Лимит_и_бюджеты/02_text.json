@@ -1,0 +1,67 @@
+{
+  "id": 633423,
+  "lesson": 212009,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2><strong>Лимит аккаунта</strong></h2>\n\n<p><strong>Самый важный лимит</strong>, который настравивается в каждом рекламном аккаунте отдельно и останавливает все кампании, когда их общий расход (спент) доходит до заданного ограничения.</p>\n\n<h3>Переходим в рекламный аккаунт</h3>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/21ff64da-0bc0-4a1b-8ea5-58d4bb08a15d/\"></p>\n\n<h3>Переходим в \"Настройки\" рекламного аккаунта</h3>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/0636b3f5-c6a6-44f7-9dfa-02793d0f91be/\"></p>\n\n<h3>Выбираем \"Настройки платежей\" и нажимаем \"Изменить\"</h3>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/6cdd8649-141d-40b9-9faa-193b13e0b46d/\"></p>\n\n<h3>Вводим значение и нажимаем \"Обновить лимит\"</h3>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/7acc4ce1-c9f8-4b0a-b87f-1a6982807f2a/\"></p>\n\n<h3>После этого появится сообщение о том, что лимит изменится через 15 минут</h3>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/dee172ba-795c-44c9-b962-2905957c821e/\"></p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-633423",
+  "subscriptions": [
+    "31-77-633423",
+    "30-77-633423"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 30,
+  "passed_by": 30,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 612514,
+  "create_date": "2019-03-01T14:10:11Z",
+  "update_date": "2019-03-01T14:28:43Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-633423-1",
+  "discussion_threads": [
+    "77-633423-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

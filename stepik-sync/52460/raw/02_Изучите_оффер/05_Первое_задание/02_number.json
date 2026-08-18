@@ -1,0 +1,77 @@
+{
+  "id": 631952,
+  "lesson": 211635,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "number",
+    "text": "<h2 style=\"text-align: center;\">Введите 4-х значный код от наставника</h2>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "options": [
+        {
+          "answer": "2525",
+          "max_error": "0"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-631952",
+  "subscriptions": [
+    "31-77-631952",
+    "30-77-631952"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 44,
+  "passed_by": 37,
+  "correct_ratio": 0.7872340425531915,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 611043,
+  "create_date": "2019-02-27T17:58:36Z",
+  "update_date": "2019-02-27T17:58:37Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-631952-1",
+  "discussion_threads": [
+    "77-631952-1",
+    "77-631952-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

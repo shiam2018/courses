@@ -1,0 +1,67 @@
+{
+  "id": 623331,
+  "lesson": 209653,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>В арбитраже трафика платят за<strong> целевые действия</strong>, которые совершают <strong>посетители</strong>, перешедшие по <strong>трекинговым ссылкам</strong>. После выбора вертикали и изучения кейсов, определите как вы будете привлекать пользователей, чтобы они совершили целевые действия.</p>\n\n<h2>Виды трафика</h2>\n\n<ul>\n\t<li><strong>Бесплатный </strong>– трафик за который не нужно платить. Например, размещение ссылки на своих или чужих сайтах,  форумах, досках объявлений, социальных сетях, рассылка по почте или в личных сообщениях. Крайними видами бесплатного трафика является <strong>спам</strong>, <strong>ботоводство </strong>(создание множества аккаунтов ненастоящих людей) и <strong>генерация дорвеев</strong> (множества сайтов низкого качества для получения трафика из поисковых систем)</li>\n\t<li><strong>Платный </strong>– за переходы пользователей придется заплатить. Такой трафик покупается у рекламных систем, площадок или блогеров (каналов, групп, сообществ в социальных сетях и т.д.)</li>\n</ul>\n\n<p>Неоспоримым преимуществом платного трафика является <strong>объем</strong>, то есть количество посетителей и целевых действий. Чтобы заработать серьезные деньги нужно использовать рекламные системы.</p>\n\n<p>Изучить как работает арбитраж можно бесплатно, прорекламировав оффер на своей странице социальной сети и получив первые две-три конверсии.</p>\n\n<h2>Источники платного трафика</h2>\n\n<ol>\n\t<li><strong>Контекстная реклама</strong> – реклама в результах поиска Google и Яндекс, а также на сайтах их партнеров в КМС и РСЯ</li>\n\t<li><strong>Таргетированная реклама</strong> – реклама в социальных сетях, включая зарубежные, Одноклассники и ВК, с помощью таргетингов</li>\n\t<li><strong>Покупка постов</strong> – размещение рекламы в пабликах, группах, каналах ВК, Телеграма, Инстаграма и т.д.</li>\n\t<li><strong>Email рассылка </strong>– покупка места в электронном письме у владельцев рассылки</li>\n\t<li><strong>Медийная реклама</strong> – размещение баннеров, направленных на усиление бренда и имиджа. Похожа на рекламу на ТВ и практически не работает в арбитраже, хотя есть единичные сообщения об эффективности в pay per call направлении</li>\n</ol>\n\n<p>Наш курс посвящен таргетированной рекламе <strong>Meta Ads*</strong>, но ничто не мешает тестировать другие <strong>источники трафика</strong>.</p>\n\n<p> </p>\n\n<blockquote>\n<p><span style=\"color: #000000;\"><strong>Подумайте где и кому будете рекламировать оффер</strong> из выбранной вертикали, что покажете на баннерах или видео, прикиньте какую стоимость клика можете себе позволить.</span></p>\n\n<p><span style=\"color: #000000;\">Опишите как будете рекламировать оффер в Meta Ads*, создав и заполнив <strong><a href=\"https://docs.google.com/document/d/13H6gpkrQEDfqR-9CkHTf3PmidTrCe6wmK5oxjZd4jQc/\" rel=\"noopener noreferrer nofollow\">копию брифа</a></strong> у себя на Google Диск или скачав себе на компьютер (<a href=\"https://docs.google.com/document/d/13H6gpkrQEDfqR-9CkHTf3PmidTrCe6wmK5oxjZd4jQc/\" rel=\"noopener noreferrer nofollow\">https://docs.google.com/document/d/13H6gpkrQEDfqR-9CkHTf3PmidTrCe6wmK5oxjZd4jQc/</a>) </span></p>\n</blockquote>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-623331",
+  "subscriptions": [
+    "31-77-623331",
+    "30-77-623331"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 164,
+  "passed_by": 164,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 602422,
+  "create_date": "2019-02-17T06:06:26Z",
+  "update_date": "2019-03-10T05:56:29Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-623331-1",
+  "discussion_threads": [
+    "77-623331-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

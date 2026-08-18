@@ -1,0 +1,67 @@
+{
+  "id": 633414,
+  "lesson": 212010,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Для начала работы необходимо выбрать и подключить приложение к рекламному аккаунту.</p>\n\n<p>На обучении нужно использовать то приложение, которое укажет наставник в задании.</p>\n\n<h3>Перейдите в \"Настройки компании\"</h3>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/b4cfae4c-6c3b-41fb-a33f-8e23bd6373cf/\"></p>\n\n<h3>Затем в Приложения</h3>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/e0103598-72a6-4661-81c3-be24a615b19b/\"></p>\n\n<h3>Выберите нужное приложение</h3>\n\n<h3><img alt=\"\" src=\"https://ucarecdn.stepik.net/beaea2e9-5ea8-4fb8-9bb7-9cf5444f99e1/\"></h3>\n\n<h3>Добавьте к нему рекламный аккаунт и нажмите \"Сохранить изменения\"</h3>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/b4822325-0e63-4042-b7ed-60777b46df90/\"></p>\n\n<p> </p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-633414",
+  "subscriptions": [
+    "31-77-633414",
+    "30-77-633414"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 32,
+  "passed_by": 32,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 612505,
+  "create_date": "2019-03-01T14:01:16Z",
+  "update_date": "2019-03-01T15:30:58Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-633414-1",
+  "discussion_threads": [
+    "77-633414-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

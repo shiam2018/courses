@@ -1,0 +1,67 @@
+{
+  "id": 626548,
+  "lesson": 210362,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><strong>Траст </strong>(от англ. trust – доверять) – условнаямера доверия рекламной системы к ее пользователям. При низком трасте, рекламная система блокирует рекламные и личные аккаунты, удаляет страницы и бизнес-менеджеры.</p>\n\n<h2>Трастом в Meta* обладают</h2>\n\n<ul>\n\t<li>Рекламный аккаунт</li>\n\t<li>Страница от имени которой ведется реклама</li>\n\t<li>Сам пользователь (его личный аккаунт)</li>\n\t<li>Метод оплаты</li>\n\t<li>Бизнес-менеджер</li>\n</ul>\n\n<p>Реклама <strong>не должна нарушать <a href=\"https://www.facebook.com/policies/ads/\" rel=\"noopener noreferrer nofollow\">правила Meta*</a></strong>, иначе она не пройдет модерацию и получит статус \"<strong>Не одобрено</strong>\" или \"<strong>Not Approved</strong>\". В такой ситуации следует понять, почему рекламу отклонили, заменить креатив и отправить на повторную модерацию. Если объявление не пройдет повторную модерацию, то его следет удалить. </p>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/beeec577-4bc0-4285-85c0-81c74487703f/\"></p>\n\n<h2 style=\"text-align: center;\">Креативы не должны содержать</h2>\n\n<ul>\n\t<li><strong>Изображения раздетых людей</strong> (даже нарисованных), глубоких декольте, сексуальных поз. Например, нельзя показывать девушек в бикини или парней в шортах/плавках с голым торсом. Meta* придерживается пуританских взглядов в этом плане, потому что его реклама демонстрируется людям разного возраста, религии и убеждений</li>\n\t<li><strong>Логотипы брендов </strong>– представители брендов, обычно, не дают разрешение арбитрадникам использовать их логотипы, поэтому для Meta* это является нарушением интеллектуальной собственности. Это касается любых брендов, таких как Adidas, Reebok, Sony, Facebook* и т.д. Следует замазывать лого на креативах.<br>\n\tИсключением являются плашки Get it on Google Play или Downloadat App Store при рекламе мобильных приложений. </li>\n\t<li><strong>Имитация функций известных прогамм</strong> (особенно интерфейса Facebook* и Instagram*) – глобально Meta* борется с мисслидом, введением пользователей в заблуждение</li>\n</ul>\n\n<p><strong>Когда пользователь </strong></p>\n\n<ul>\n\t<li><strong>Нарушает правила</strong> Meta*, его траст <strong>автоматически понижается</strong></li>\n\t<li><strong>Тратит деньги</strong> на рекламу, его траст<strong> автоматически растет</strong><br>\n\t </li>\n</ul>\n\n<blockquote>\n<p><span style=\"color: #000000;\">Для работы в Meta* необходимо изучить<strong> </strong><strong><a href=\"https://www.facebook.com/policies/ads/\" rel=\"noopener noreferrer nofollow\">правила Meta* относительно рекламы</a></strong></span></p>\n</blockquote>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-626548",
+  "subscriptions": [
+    "31-77-626548",
+    "30-77-626548"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 75,
+  "passed_by": 75,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 605639,
+  "create_date": "2019-02-21T04:25:21Z",
+  "update_date": "2019-03-15T11:28:31Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-626548-1",
+  "discussion_threads": [
+    "77-626548-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

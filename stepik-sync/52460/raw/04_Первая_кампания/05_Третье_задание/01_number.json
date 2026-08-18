@@ -1,0 +1,77 @@
+{
+  "id": 633498,
+  "lesson": 212013,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "number",
+    "text": "<h2>Запустите рекламу оффера Women</h2>\n\n<p>И получите код от наставника</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "options": [
+        {
+          "answer": "3535",
+          "max_error": "0"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-633498",
+  "subscriptions": [
+    "31-77-633498",
+    "30-77-633498"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 32,
+  "passed_by": 30,
+  "correct_ratio": 0.8333333333333334,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 612589,
+  "create_date": "2019-03-01T16:08:24Z",
+  "update_date": "2019-03-01T16:08:38Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-633498-1",
+  "discussion_threads": [
+    "77-633498-1",
+    "77-633498-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

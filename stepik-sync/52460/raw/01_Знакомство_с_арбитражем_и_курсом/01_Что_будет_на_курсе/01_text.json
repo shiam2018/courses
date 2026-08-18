@@ -1,0 +1,67 @@
+{
+  "id": 720054,
+  "lesson": 230717,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Приветствую! Меня зовут Игорь Шеньшин, на этом курсе я научу тебя:</p>\n\n<ol>\n\t<li>Разбираться в мобильном арбитраже в Facebook</li>\n\t<li>Создавать и вести рекламные кампании для привлечения трафика, установок, продвижения постов и просмотра видео</li>\n\t<li> </li>\n</ol>\n\n<p> </p>\n\n<p>На этом курсе мы приступим к непосредственному арбитражу трафика в Facebook.</p>\n\n<p>После курса ты сможешь:</p>\n\n<ol>\n\t<li>Искать креативы</li>\n\t<li>Запускать тестирование</li>\n\t<li>Оптимизировать закупку</li>\n\t<li>Автоматизировать управление кампаниями</li>\n\t<li>Масштабировать результат</li>\n\t<li>Отчитываться о работе</li>\n</ol>\n\n<p>Мы последовательно пройдем все темы, а в конце каждого урока тебя будет ждать задание для закрепления знаний и выработки  требуемых навыков. Каждую неделю мы проводим открытые вебинары, на которых рассказываем об одной из тем в арбитраже и отвечаем на вопросы студентов.</p>\n\n<p>Также есть возможность общения в нашем арбитражном телеграм чате и форуме.</p>\n\n<p>При возникновении технических сложностей нужнописать в телеграм @mstar_support</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-720054",
+  "subscriptions": [
+    "31-77-720054",
+    "30-77-720054"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 699145,
+  "create_date": "2019-05-19T14:40:08Z",
+  "update_date": "2019-05-20T16:00:31Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-720054-1",
+  "discussion_threads": [
+    "77-720054-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

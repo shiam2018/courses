@@ -1,0 +1,67 @@
+{
+  "id": 639693,
+  "lesson": 213443,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><strong>Трекинговая ссылка</strong> – специальная ссылка, кликнув по которой посетитель попадает на целевую страницу оффера, а арбитражнику засчитывается переход и вознаграждение, если привлеченный пользователь совершит целевое действие (конверсию).</p>\n\n<p><strong>Трекинговая ссылка</strong> – один из главных элементов подготовки, если в ней сделать ошибку хотя бы в <strong>одном символе</strong>, то трафик <strong>пройдет мимо, </strong>и арбитражник не заработает <strong>ничего</strong>.</p>\n\n<p>На одном и том же оффере у разных арбитражников<strong> разные трекинговые ссылки</strong> – благодаря различиям, партнерская система понимает какому специалисту засчитать переход и начислить выплату.</p>\n\n<p>Также с помощью ссылки можно передавать параметры, благодоря которым отслеживать какие баннеры или кампании работают лучше остальных, например с помощью <a href=\"https://yandex.ru/support/direct/statistics/url-tags.html\" rel=\"nofollow noopener noreferrer\">utm разметки</a>. Мы рассмотрим работу с разметкой в уроке \"<strong>Разметье ссылку</strong>\"</p>\n\n<h2 style=\"text-align: center;\">Как получить?</h2>\n\n<p>Чтобы получить трекинговую ссылку, необходимо отправить заявку на подключение к офферу и пройти модерацию, то есть получить согласие партнерской системы на вашу работу с оффером.</p>\n\n<p>После отправки заявки, есть несколько вариантов действий:</p>\n\n<ol>\n\t<li><strong>Не делать ничего</strong> – заявку рассматривают в порядке живой очереди, это занимает <strong>2-3 дня</strong>, не считая выходных</li>\n\t<li><strong>Создать тикет в поддержку </strong>– специальное обращение в службу поддержки с вашей просьбой подключить вас к работе с оффером быстрее</li>\n\t<li><strong>Связаться с менеджером</strong> – при обеспечении достаточных объемов, вы становитесь более ценным партнером, ваш уровень в системе растет и вам назначают личного менеджера. Связаться с ним по скайпу - самый быстрый способ получить апрувы (англ. approve – одобрять) на ваши заявки</li>\n</ol>\n\n<h2 style=\"text-align: center;\">Где найти?</h2>\n\n<p>Трекинговая ссылка в <strong><a href=\"https://www.admitad.com/ru/promo/?ref=ys1sjlon4n\" rel=\"noopener noreferrer nofollow\">Admitad</a> </strong>доступна после подключения к программе (офферу), в разделе рекламные материалы:</p>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/913bb3e8-8de5-4243-aaf9-d487795e64c4/\"></p>\n\n<p> </p>\n\n<blockquote>\n<p><span style=\"color: #000000;\">После получения ссылки необходимо перейти по ней и убедится, что открывается <strong>целевая страница оффера</strong>.</span></p>\n\n<p><span style=\"color: #000000;\"><strong>Запрещается самостоятельно делать целевые действия</strong>, это является грубым нарушением правил партнерок и ведет к отключению аккаунта и анулированию выплаты (особенно актуально для новичков). Исключение составляет единичное действие для тестирование меток/постбеков по согласованию со своим аккаунт-менеджером.</span></p>\n</blockquote>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-639693",
+  "subscriptions": [
+    "31-77-639693",
+    "30-77-639693"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 61,
+  "passed_by": 61,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 618784,
+  "create_date": "2019-03-09T06:31:29Z",
+  "update_date": "2019-03-14T15:33:03Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-639693-1",
+  "discussion_threads": [
+    "77-639693-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

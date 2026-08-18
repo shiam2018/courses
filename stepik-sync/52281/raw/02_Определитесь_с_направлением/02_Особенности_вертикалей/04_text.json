@@ -1,0 +1,67 @@
+{
+  "id": 635548,
+  "lesson": 212301,
+  "position": 4,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h1>Товарка</h1>\n\n<p>Реклама WOW товаров, копий дорогих часов, смартфонов, чудодейственных товаров для экономии газа, топлива, воды; светящиеся наушники или наборы накладных реснц. \"Серая\" вертикаль – объявления часто собирают много негативной реакции от пользователей, поэтому баннеры с трудом проходят модерацию, В Meta* часто блокируют рекламные аккаунты с товаркой. Рекламодатели очень свободно относятся к кретивам и источникам, для них главное – совершить продажу.</p>\n\n<table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 800px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Пример 1</td>\n\t\t\t<td><strong><u><a href=\"https://luckybest.ru/click/go/42d414fc-09bf-4084-805b-29332cc90ead.html\" rel=\"noopener noreferrer nofollow\">АМУЛЕТ – удача и деньги в вашей жизни</a></u></strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Пример 2</td>\n\t\t\t<td><u><strong><a href=\"https://luckybest.ru/click/go/68ab63f5-c61e-4877-b3c6-8310ad443203.html\" rel=\"noopener noreferrer nofollow\">KITCHEN MASTER – слайсер, терка, мясорубка 3 в 1</a></strong></u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Вертикаль</td>\n\t\t\t<td>Товарка</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Цвет</td>\n\t\t\t<td>Серый</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Продукт</td>\n\t\t\t<td>Чудо-товары</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>За что платят</td>\n\t\t\t<td>Подтвержденный заказ, выкуп на почте</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Выплаты, руб</td>\n\t\t\t<td>300–1000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Целевая аудитория</td>\n\t\t\t<td>универсальный, завист от специфики товара (часы - мужчины, одежда - женщины)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Источники трафика</td>\n\t\t\t<td>Facebook*, myTarget, VK, Google Ads, Яндекс.Директ, Тизерные сети, Пуши</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Подходы</td>\n\t\t\t<td>– Крутой товар + низкая цена<br>\n\t\t\t– Красивая модель + крутой товар<br>\n\t\t\t– До/после</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Пример креатива 1</td>\n\t\t\t<td><img alt=\"\" src=\"https://ucarecdn.stepik.net/3263ce9b-9c91-4e5a-b124-387ff10e90bd/\"></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Пример креатива 2</td>\n\t\t\t<td><img alt=\"\" src=\"https://ucarecdn.stepik.net/d666b0e8-9119-4578-a427-29daee85cfc1/\"></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Conversion flow</td>\n\t\t\t<td>Показ - Клик - Лендинг арбитражника - Лендинг рекламодателя - Заполнение формы заказа - Подтверждение по звоку из коллцентра - Выкуп посылки на почте по наложенному платежу</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Источник прибыли рекламодателя</td>\n\t\t\t<td>Перепродажа китайских товаров по завышенной цене</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Требования</td>\n\t\t\t<td>Запрет мотива</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>KPI</td>\n\t\t\t<td>% выкупа на почте</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Особенности</td>\n\t\t\t<td>Часто используют прелендинги, хорошо работает ремаркетинг</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p> </p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-635548",
+  "subscriptions": [
+    "31-77-635548",
+    "30-77-635548"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 115,
+  "passed_by": 115,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 614639,
+  "create_date": "2019-03-03T18:33:58Z",
+  "update_date": "2019-03-03T18:59:38Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-635548-1",
+  "discussion_threads": [
+    "77-635548-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

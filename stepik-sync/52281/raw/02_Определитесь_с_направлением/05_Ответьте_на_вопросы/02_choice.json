@@ -1,0 +1,96 @@
+{
+  "id": 635643,
+  "lesson": 209655,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Что такое трекинговые ссылки в арбитраже трафика?</h2>\n",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 3,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Определение местоположения движущихся объектов во времени",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Специальная ссылка, перейдя по которой посетитель попадет на страницу оффера или целевую страницу",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Ссылка в пешую прогулку",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-635643",
+  "subscriptions": [
+    "31-77-635643",
+    "30-77-635643"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 84,
+  "passed_by": 79,
+  "correct_ratio": 0.9879518072289156,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 614734,
+  "create_date": "2019-03-03T19:46:16Z",
+  "update_date": "2019-03-09T10:52:47Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-635643-1",
+  "discussion_threads": [
+    "77-635643-1",
+    "77-635643-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

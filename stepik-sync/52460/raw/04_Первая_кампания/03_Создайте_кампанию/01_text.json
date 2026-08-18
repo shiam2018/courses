@@ -1,0 +1,67 @@
+{
+  "id": 633415,
+  "lesson": 212011,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h3>Удалите старую кампанию (Выбрать в Ads Manager и нажать на иконку с корзиной, затем подтвердить удаление)</h3>\n\n<h3><img alt=\"\" src=\"https://ucarecdn.stepik.net/9e4c1b6d-cd6d-4ddd-9640-46cc904b7d5a/\"></h3>\n\n<h2>Создаете новую кампанию на установку приложений (App Installs) согласно настройкам</h2>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/427dd72b-65a4-4c12-ad83-0cd691709373/\"></p>\n\n<h2>Название согласно правилу</h2>\n\n<p><strong>ARAB CAMPAIGN NAMING:</strong></p>\n\n<p><strong>MobileArts_fBHuPYco77ixvp2boOsl2b2f3hgOBQ37PdTi32BcSu2b3zsY95uSLai468R5yhmj33kS_*инициалы*_*GEO*_*OS*_*APP*_*M/F*_*PAYOUT*</strong></p>\n\n<p><strong>EXAMPLE:</strong></p>\n\n<p><strong>MobileArts_fBHuPYco77ixvp2boOsl2b2f3hgOBQ37PdTi32BcSu2b3zsY95uSLai468R5yhmj33kS_AMG_AE_AND_Fitness24_M_1.6</strong></p>\n\n<p><strong>То есть, если вас зовут Сибиряков Иван Петрович, вы льете Women на Бахрейн, то получится:</strong></p>\n\n<p><strong>MobileArts_fBHuPYco77ixvp2boOsl2b2f3hgOBQ37PdTi32BcSu2b3zsY95uSLai468R5yhmj33kS_SIP_BH_AND_Women_F_1.6</strong></p>\n\n<h2><strong>Выбирайте приложение</strong></h2>\n\n<h4><img alt=\"\" src=\"https://ucarecdn.stepik.net/3bf2bc1e-0ae5-4d9e-b8b1-7769e786c2b9/\"></h4>\n\n<h2>Настраивайте аудиторию – женщины 13-65 Бахрейн</h2>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/a32754b4-ba03-4d63-b64f-3bb9d3a43cd5/\"></p>\n\n<h2>Исключайте тех, кто уже установил Women</h2>\n\n<h2><img alt=\"\" src=\"https://ucarecdn.stepik.net/36ad3c07-e36b-4ca5-a73f-1d6ae5422ebf/\">Оставляйте автоматические места размещения</h2>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/c8a83ad1-5ff5-432c-a543-74bbd009b8c0/\"></p>\n\n<h2>Ограничивайте версию Андройда 4.1 и Устанавливайте оптимизацию по событию \"Add Payment Info\"</h2>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/f7535634-96ef-45fb-a8ba-d524a0446063/\"></p>\n\n<h2> </h2>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-633415",
+  "subscriptions": [
+    "31-77-633415",
+    "30-77-633415"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 32,
+  "passed_by": 32,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 612506,
+  "create_date": "2019-03-01T14:01:28Z",
+  "update_date": "2019-03-01T15:54:18Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-633415-1",
+  "discussion_threads": [
+    "77-633415-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

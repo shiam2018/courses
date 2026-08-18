@@ -1,0 +1,67 @@
+{
+  "id": 623329,
+  "lesson": 209652,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Чтобы сэкономить время и улучшить результат, <strong>изучите кейсы по той вертикали</strong>, в которой начнете первые тесты. Читая кейсы вы поймете, с чем вам придется работать ежедневно – аудиторию, баннеры, рекламные системы. Однако, не стоит воспринимать специализацию того или иного источника кейсов, как единственное верное направление – арбитраж есть не только в товарке и гемблинге. Мы активно и успешно работаем в CPI и ecommerce, много команд специализируется на играх – товарка легче всего в начале, поэтому много \"гуру\" выкладывают кейсы по ней.</p>\n\n<h2 style=\"text-align: center;\">На первых шагах помогает</h2>\n\n<ul>\n\t<li><strong>Изучение чужого опыта</strong> – <a href=\"https://yandex.ru/search/?text=кейсы%20по%20арбитражу\" rel=\"noopener noreferrer nofollow\">гуглите и читайте кейсы</a>, например, на <a href=\"https://partnerkin.com/blog/kejsy?utm_source=stepik&amp;utm_medium=mstar&amp;utm_campaign=course&amp;utm_content=podgotovka\" rel=\"noopener noreferrer nofollow\">Партнеркине</a> или <a href=\"https://trafa.net/forums/kejsy-arbitrazha-trafika.20/?utm_source=stepik&amp;utm_medium=mstar&amp;utm_campaign=course&amp;utm_content=podgotovka\" rel=\"noopener noreferrer nofollow\">Trafa.net</a></li>\n\t<li><strong>Работа в команде</strong> –  ищите единомышленников на арбитражных форумах и курсах. Вы сможете разделить тестирование и поделится опытом и знаниями друг с другом, значительно сократив время обучения. Агентства с удовольствием работают с командами, из-за большего объема и стабильности результата</li>\n\t<li><strong>Сфокусированность </strong>– не хватайтесь за все подряд, выберите направление, поставьте цель и последовательно двигайтесь к ней</li>\n\t<li><strong>Анализ информации </strong>– каждый тест должен принести вам информацию для анализа и проверку той или иной <strong>гипотезы</strong>. Вы должны четко понимать на что вы потратите деньги и какие знания за них купите</li>\n\t<li><strong>Практика лучше теории</strong> – часто встречаются начинающие специалисты, которые погружаются в теорию, исследуют всевозможные источники и выстраивают идеальные модели рекламных кампаний. Обычно, это не приводит к результату – по нашим наблюдениям, если за несколько недель человек не получает первого результата, то перегорает и бросает дело. Намного лучше <strong>делать и параллельно учится</strong>, чем концентрироваться на идеальном <strong>процессе</strong>.</li>\n</ul>\n\n<h2 style=\"text-align: center;\">Главная сложность</h2>\n\n<p>Работать в плюс, то есть получать прибыль в арбитраже – <strong>непростая задача</strong>. Для того, чтобы заработать необходимо получить опыт, следовательно потратить достаточно денег в минус. К этому надо быть психологически готовым. Хорошим вариантом в начале, является работа на арбитражное агентство, и трата чужие деньги на тестирование. </p>\n\n<p>С каждым днем работы вы будете получать информацию:</p>\n\n<ul>\n\t<li><strong>Узнавать что работает, а что нет</strong></li>\n\t<li><strong>Анализировать результаты</strong></li>\n\t<li><strong>Видеть прогресс</strong></li>\n</ul>\n\n<p>Обычно, период обучения занимает <strong>две-четыре недели</strong> – нужно получить первые положительные результаты и уверенность в своих силах.</p>\n\n<p> </p>\n\n<blockquote>\n<p><span style=\"color: #000000;\"><strong>Не останавливайтесь</strong> при первой неудаче – даже опытные специалисты сливают деньги в минус и относятся к этому как к сопутствующим и необходимым потерям, без которых не получишь прибыли</span></p>\n</blockquote>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-623329",
+  "subscriptions": [
+    "31-77-623329",
+    "30-77-623329"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 165,
+  "passed_by": 165,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 602420,
+  "create_date": "2019-02-17T06:04:51Z",
+  "update_date": "2019-03-09T16:25:37Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-623329-1",
+  "discussion_threads": [
+    "77-623329-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

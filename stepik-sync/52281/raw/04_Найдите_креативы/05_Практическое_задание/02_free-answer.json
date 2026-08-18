@@ -1,0 +1,74 @@
+{
+  "id": 635646,
+  "lesson": 210075,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "free-answer",
+    "text": "<h2>Введите ссылку на 3 ваших креатива или прикрепите архив с ними</h2>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_attachments_enabled": false,
+      "is_html_enabled": true,
+      "manual_scoring": false
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-635646",
+  "subscriptions": [
+    "31-77-635646",
+    "30-77-635646"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 59,
+  "passed_by": 34,
+  "correct_ratio": 0.9722222222222222,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 614737,
+  "create_date": "2019-03-03T19:56:49Z",
+  "update_date": "2019-03-10T08:36:58Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-635646-1",
+  "discussion_threads": [
+    "77-635646-1",
+    "77-635646-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

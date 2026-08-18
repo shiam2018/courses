@@ -1,0 +1,67 @@
+{
+  "id": 631806,
+  "lesson": 211635,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Для начала практики:</p>\n\n<ol>\n\t<li>Выполните последнее задание из курса «Подготовка к арбитражу трафика в Facebook»</li>\n\t<li>Переименуйте бизнес менеджер в \"Practice + ваш логин в телеграме\", например \"Practice mstar_mentor\"</li>\n\t<li>Изучите список приложений из второго урока, подумайте как бы вы их рекламировали в Facebook</li>\n\t<li>Изучите сервис adspy.com, выберите 5 креативов которые будут хорошо работать при рекламе приложений из второго урока. В курсе мы подготовим мастер-класс по использованию adspy и выбору креативов, но сейчас постарайтесь сделать это самостоятельно</li>\n</ol>\n\n<p>Данные для доступа в adspy:</p>\n\n<p>https://app.adspy.com/ads<br>\nLogin:  evi1s3agu11@gmail.com<br>\nPassword:  A95OhtPzqLXq</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-631806",
+  "subscriptions": [
+    "31-77-631806",
+    "30-77-631806"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 44,
+  "passed_by": 44,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 610897,
+  "create_date": "2019-02-27T15:49:10Z",
+  "update_date": "2019-03-05T14:34:55Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-631806-1",
+  "discussion_threads": [
+    "77-631806-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

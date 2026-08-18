@@ -1,0 +1,67 @@
+{
+  "id": 625077,
+  "lesson": 210073,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Специальные сервисы, которые <strong>сканируют новостные ленты</strong> социальных сетей и сохраняют все рекламные объявления, которые встретят. По сути являются <strong>базой данных рекламных материалов</strong> с показателем как часто они показываются, а также с возможностью поиска.</p>\n\n<h2 style=\"text-align: center;\">Наиболее популярные сервисы:</h2>\n\n<ul>\n\t<li>Adspy.com</li>\n\t<li><strong><a href=\"https://publer.pro/p/yoo0Sxm\" rel=\"noopener noreferrer nofollow\">Publer.pro</a></strong></li>\n\t<li>Admobispy.com</li>\n\t<li>Whatrunswhere.com</li>\n</ul>\n\n<p>Они отличаются местами сканирования и удобством скачивания креативов. Например, в <strong><a href=\"https://publer.pro/p/yoo0Sxm\" rel=\"noopener noreferrer nofollow\">Паблере</a> </strong>есть метрика, продолжительность, которая показывает сколько дней креатив появлялся в ленте соцсетей.</p>\n\n<h2 style=\"text-align: center;\">Алгоритм поиска в <a href=\"https://publer.pro/p/yoo0Sxm\" rel=\"noopener noreferrer nofollow\">publer.pro</a></h2>\n\n<p> </p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://ucarecdn.stepik.net/e72b59c7-4a2e-4ad6-8629-441fecb6ccda/\"></p>\n\n<p> </p>\n\n<p>Поиск кретивов по <strong>ключевым словам</strong>: названием бренда, определения оффера (шутер, магазин, опционы, казино) или ссылки используемых в объявлениях:</p>\n\n<ol>\n\t<li>Подбираете слово, которые точно используется в объявлении других арбитражников. Например, если вы выбрали оффер Warface, то это \"шутер\"</li>\n\t<li>Выбираете категорию \"Таргет Instagram*\"</li>\n\t<li>Выбираете сортировку \"<strong>Лайки</strong>\" и вбиваете слово в поиск</li>\n\t<li>Сохраняете <strong>3-4 лучших</strong> на ваш взгляд креативов</li>\n\t<li>Проводите поиск по этому слову во вкладке \"mytarget\"</li>\n\t<li>Выбирайте между теми, которые <strong>дольше показываются</strong>, значит у других арбитражников они долго приносили доход</li>\n\t<li>Сохраняете все креативы (кнопка скачать в правом нижнем углу креатива) в <strong>отдельную папку с названием оффера</strong></li>\n\t<li>Загружаете на тестирование <strong>3-4 лучших</strong></li>\n\t<li>Заказываете у дизайнера креативы или делаете сами, на основе лучших по <strong>CTR и CVR</strong></li>\n</ol>\n\n<p> </p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://ucarecdn.stepik.net/d0115150-1f71-4c69-ae5f-44e9817dff78/\"></p>\n\n<p> </p>\n\n<blockquote>\n<p><span style=\"color: #000000;\"><strong>Найдите и сохраните креативы</strong> для рекламы ваших офферов, используя бесплатную версию сервиса </span><strong><a href=\"https://publer.pro/p/yoo0Sxm\" rel=\"noopener noreferrer nofollow\">Publer.pro</a></strong></p>\n</blockquote>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-625077",
+  "subscriptions": [
+    "31-77-625077",
+    "30-77-625077"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 128,
+  "passed_by": 128,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 604168,
+  "create_date": "2019-02-19T10:04:41Z",
+  "update_date": "2019-03-10T08:10:58Z",
+  "discussions_count": 1,
+  "discussion_proxy": "77-625077-1",
+  "discussion_threads": [
+    "77-625077-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,96 @@
+{
+  "id": 628918,
+  "lesson": 210764,
+  "position": 5,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2 style=\"text-align: center;\"><strong>Что такое связка в арбитраже трафика?</strong></h2>\n",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 3,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Совокупность оффера, креатива и таргетингов/настроек рекламной системы",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Несколько одинаковых офферов, связанных вместе",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Группа арбитражников, работающих над одним оффером",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-628918",
+  "subscriptions": [
+    "31-77-628918",
+    "30-77-628918"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 52,
+  "passed_by": 44,
+  "correct_ratio": 0.9777777777777777,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 608008,
+  "create_date": "2019-02-23T16:27:51Z",
+  "update_date": "2019-02-23T16:30:19Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-628918-1",
+  "discussion_threads": [
+    "77-628918-1",
+    "77-628918-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

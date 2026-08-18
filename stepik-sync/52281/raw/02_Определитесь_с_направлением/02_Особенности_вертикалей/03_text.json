@@ -1,0 +1,67 @@
+{
+  "id": 635504,
+  "lesson": 212301,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h1>Интернет магазины</h1>\n\n<p>Реклама различных интернет–магазинов для привлечения новых покупателей. Полностью \"белая\" вертикаль – баннеры легко проходят модерацию, если соблюдать приличия  на баннерах (не испольовать моделей в купальниках, слишком низких цен, писать цены \"от\"). Рекламодатели недовольны, когда рекламируют товары, которых нет в интернет-магазине и несуществующие цены.</p>\n\n<table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 800px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Пример 1</td>\n\t\t\t<td><strong><u><a href=\"http://ali.pub/361ki9\" rel=\"noopener noreferrer nofollow\">ALIEXPRESS – низкие цены и бесплатная доставка</a></u></strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Пример 2</td>\n\t\t\t<td><u><strong><a href=\"https://ad.admitad.com/g/e94d4c65e0039bedbf923658c07967/\" rel=\"noopener noreferrer nofollow\">MAMSY – интернет-магазин для мам</a></strong></u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Вертикаль</td>\n\t\t\t<td>Ecommerce</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Цвет</td>\n\t\t\t<td>Белый</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Продукт</td>\n\t\t\t<td>Интернет-магазины</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>За что платят</td>\n\t\t\t<td>Регистрация, Установка, Revshare (% от покупок)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Выплаты, %</td>\n\t\t\t<td>3 – 15</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Целевая аудитория</td>\n\t\t\t<td>Универсальная, лучше работает на девушек от 20 до 45 лет</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Источники трафика</td>\n\t\t\t<td>Facebook*, myTarget, VK, Google Ads, Яндекс.Директ</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Подходы</td>\n\t\t\t<td>– Демонстрация распаковки полученного товара (анпакинг)<br>\n\t\t\t– Крутой товар и низкая цена<br>\n\t\t\t– Скидки и специпредложения на категории товаров</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Пример креатива 1</td>\n\t\t\t<td><img alt=\"\" src=\"https://ucarecdn.stepik.net/e69b0aa7-082b-465f-838b-fee2f66840dd/\"></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Пример креатива 2</td>\n\t\t\t<td><strong><a href=\"https://drive.google.com/file/d/1sT37e4zCN9qkxEMW9maCcWlK7azIIktx/\" rel=\"noopener noreferrer nofollow\">Видео анпакинга для Joom</a></strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Conversion flow</td>\n\t\t\t<td>Показ - Клик - Интернет-магазин - Добавление товара в корзину - Регистрация - Покупка - Доставка<br>\n\t\t\tПоказ - Клик - Страница стора - Инсталл - Регистрация - Добавление товара в корзину - Покупка - Доставка</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Источник прибыли рекламодателя</td>\n\t\t\t<td>Прибыль от продажи товаров в магазине</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Требования</td>\n\t\t\t<td>Запрет мотива, мислида, фрода; согласование рекламных материалов и источников</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>KPI</td>\n\t\t\t<td>Конверсия в покупку (CR) при CPI/CPL, отсутствие требований при Revshare</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Особенности</td>\n\t\t\t<td>Средний жизненный цикл (lifetime) покупателя, запрет рекламы на бренд магазина, хорошо работают связки \"Товар - цена\", запрещено использовать логотипы брендов (Adidas, Reebok, Nike и т.д.) в кретивах</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p> </p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-635504",
+  "subscriptions": [
+    "31-77-635504",
+    "30-77-635504"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 88,
+  "passed_by": 88,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 614595,
+  "create_date": "2019-03-03T16:02:37Z",
+  "update_date": "2019-03-03T18:33:58Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-635504-1",
+  "discussion_threads": [
+    "77-635504-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 623989,
+  "lesson": 209784,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align: center;\"><strong>Зарплата и карьера арбитражника</strong></h2>\n\n<p>Доход арбитражника при работе в агентстве складывается из <strong>оклада и % от прибыли</strong>.</p>\n\n<p>При работе в офисе арбитражник уровня <strong>мидл </strong>(middle - средний) помогает коллегам и выполняет поручения руководителя, поэтому получает оклад от <strong>30 до 60 тысяч руб/мес</strong> плюс проценты от прибыли. При удаленной работе оклад снижается, так как арбитражник работает только для личной прибыли.</p>\n\n<p>Проценты зависят от прибыльности и вида оффера, а также источника денег, которые тратятся на рекламу и составляют от <strong>3% до 15% от прибыли</strong>.</p>\n\n<p>В среднем арбитражники уровня <strong>мидл </strong>получают <strong>70-90 тысяч руб/мес</strong>, старшие арбитражники или <strong>сеньоры/тим-лиды </strong>(senior - старший, team lead - руководитель группы) – <strong>150-200 тысяч руб/мес</strong>.</p>\n\n<p>Арбитражники, которые работают на себя в теории имеют неограниченный доход. На практике новички зарабатывают в месяц несколько десятков тысяч рублей, \"топы\" несколько сотен тысяч.</p>\n\n<p>Наш курс готовит <strong>младших специалистов или джуниоров</strong> (junior - младший) по арбитражу трафика, с доходом <strong>30-40 тысяч руб/мес</strong>, которые после 3 месяцев работы могут стать полноценными мидл арбитражниками.</p>\n\n<p>После года-двух (зависит от способностей специалиста) выпускники смогут стать сеньорами и/или тимлидами с соответствующим доходом.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-623989",
+  "subscriptions": [
+    "31-77-623989",
+    "30-77-623989"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 192,
+  "passed_by": 192,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 603080,
+  "create_date": "2019-02-18T07:52:14Z",
+  "update_date": "2019-06-24T12:15:31Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-623989-1",
+  "discussion_threads": [
+    "77-623989-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

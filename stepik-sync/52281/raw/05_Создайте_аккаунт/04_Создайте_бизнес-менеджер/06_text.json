@@ -1,0 +1,67 @@
+{
+  "id": 626195,
+  "lesson": 210191,
+  "position": 6,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align: center;\">Подравляем вы создали и настроили ваш новый бизнес-менеджер!</h2>\n\n<p style=\"text-align: center;\">Изучите его настройки, прочитав <strong><a href=\"https://www.facebook.com/business/help/113163272211510\" rel=\"nofollow noopener noreferrer\">статью Meta*</a></strong></p>\n\n<p style=\"text-align: center;\"><strong>Не забудьте пригласить в него support@marketingstar.info и прислать ссылку-инвайт в Telegram @mstar_support</strong></p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-626195",
+  "subscriptions": [
+    "31-77-626195",
+    "30-77-626195"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 91,
+  "passed_by": 91,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 605286,
+  "create_date": "2019-02-20T12:53:31Z",
+  "update_date": "2019-03-19T15:05:41Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-626195-1",
+  "discussion_threads": [
+    "77-626195-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

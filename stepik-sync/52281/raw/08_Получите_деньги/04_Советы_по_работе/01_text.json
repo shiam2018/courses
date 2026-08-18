@@ -1,0 +1,67 @@
+{
+  "id": 640125,
+  "lesson": 213523,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "Урок сгенерирован роботом ;)",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-640125",
+  "subscriptions": [
+    "31-77-640125",
+    "30-77-640125"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 6,
+  "passed_by": 6,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 619216,
+  "create_date": "2019-03-09T12:13:18Z",
+  "update_date": "2019-03-09T12:13:18Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-640125-1",
+  "discussion_threads": [
+    "77-640125-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

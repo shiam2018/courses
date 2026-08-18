@@ -1,0 +1,67 @@
+{
+  "id": 640437,
+  "lesson": 213444,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<ol>\n\t<li>Добавьте и подтвердите номер телефона по ссылке <a href=\"https://www.admitad.com/ru/webmaster/account/settings/verify_phone/\" rel=\"noopener noreferrer nofollow\">https://www.admitad.com/ru/webmaster/account/settings/verify_phone/</a><br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/ec69eac4-320c-4d41-8370-5feb691e32c5/\"></li>\n\t<li>Перейдите в настройки профиля, укажите и сохраните ваш скайп<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/e2ffff4a-7cfc-4b7f-b0a9-9ac48c36da0d/\"></li>\n\t<li>Перейдите в каталог офферов, вырав в меню <strong>Программы </strong>--&gt; <strong>Каталог программ</strong><br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/80226f0b-d43d-43af-8cbf-050f477fe712/\"></li>\n\t<li>Настройте фильтр программ, указав Регион \"<strong>Россия</strong>\", поставив галочку в разделе Фильтр по категориям на \"<strong>Подходящие площадке</strong>\", поставив галочку в разделе Фильтр по виду трафика \"<strong>Реклама в социальных сетях</strong>\" и нажав \"<strong>Сохранить</strong>\"<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/676e006d-e125-4619-8628-3d34a7d30b75/\"></li>\n\t<li>Самостоятельно изучите офферы, особенное внимание уделите категориям \"<strong>Онлайн игры</strong>\" и \"<strong>Интернет-магазины</strong>\"</li>\n\t<li>Переходя в оффер, изучайте выплату, гео, процент подтверждения. Выбирете<strong> 3-4 наиболее интересных оффера</strong> и отправьте заявку на работу с ними, нажав кнопку \"<strong>Подключиться</strong>\"<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/5fd8b81b-ec64-4d15-9b83-2046d2e545ba/\"></li>\n\t<li>Согласитесь с правилами работы с оффером и <strong>опишите как будете его рекламировать</strong>, при отсутствии фантазии, можете воспользоваться заготовкой: \"Я буду рекламировать оффер Warface в системе таргетированной рекламы Meta Ads* по CPC модели напрямую на целевую страницу, указанную в партнерской системе. Гарантирую соблюдение правил оффера и привлечение платежеспособных игроков, 70% мужчин из России в возрасте 25-45 лет.\"<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/3d1d8312-1aeb-4fe8-b865-fb8dbe904ac7/\"></li>\n\t<li>Нажмите \"<strong>Подключится</strong>\" и вы увидете сообщение об успешной подаче заявки<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/de31010c-8902-494e-978b-4cbd56b9a011/\"></li>\n</ol>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-640437",
+  "subscriptions": [
+    "31-77-640437",
+    "30-77-640437"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 58,
+  "passed_by": 58,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 619528,
+  "create_date": "2019-03-09T20:19:33Z",
+  "update_date": "2019-03-09T20:47:06Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-640437-1",
+  "discussion_threads": [
+    "77-640437-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 631777,
+  "lesson": 211628,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Мы выплачиваем зарплату арбитражникам в долларах, переводом на счет в <a href=\"https://www.epayments.com/\" rel=\"nofollow noopener noreferrer\">epayments </a>или <a href=\"https://www.payoneer.com/main/\" rel=\"nofollow noopener noreferrer\">payoneer</a>.</p>\n\n<p>В каждой из этих систем возможно выпустить <strong>пластиковую карту</strong> для того, чтобы без проблем тратить заработанные средства.</p>\n\n<p>Зарплата арбитражника составляет от <strong>8 до 14 процентов</strong> от прибыли в зависимости от объема (размера ежемесячного расхода/дохода).</p>\n\n<p>На первый месяц предусмотрен оклад, чтобы подстраховать начинающих специалистов.</p>\n\n<p>Средний дохода мидл арбитражников колеблятся в размере <strong>50-100 долларов в день</strong> или <strong>1000-3000 долларов в месяц</strong>.</p>\n\n<p>Все что необходимо для работы, предоставляем мы.</p>\n\n<p>В начале будет получаться хуже, но с опытом вы сможете выйти на эти показатели.</p>\n\n<h2 style=\"text-align: center;\">Пример расчета</h2>\n\n<blockquote>\n<p>При выплатах BH : 1.6 USD , OM : 1.2 USD , QA : 0.5 USD</p>\n\n<p>За день  все кампании арбитражника потратили <strong>510 долларов</strong></p>\n\n<p>При этом было привлечено 230 триалов из Бахрейна, 275 из Омана, 482 из Катара</p>\n\n<p>Доход расчитывается перемножением ставок по странам:</p>\n\n<p><strong>Доход </strong>= 230 x 1.6 + 275 x 1.2  + 482 x 0.5 = 368 + 330 + 241 = <strong>939 доллара</strong></p>\n\n<p><strong>Прибыль </strong>= Доход - Расход = 939 - 510 = <strong>429 долларов</strong></p>\n\n<p>При % равном 10, зарплата арбитражника за этот день составит<strong> 42.9 доллара</strong></p>\n</blockquote>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-631777",
+  "subscriptions": [
+    "31-77-631777",
+    "30-77-631777"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 44,
+  "passed_by": 44,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 610868,
+  "create_date": "2019-02-27T15:25:29Z",
+  "update_date": "2019-02-28T10:40:15Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-631777-1",
+  "discussion_threads": [
+    "77-631777-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

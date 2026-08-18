@@ -1,0 +1,67 @@
+{
+  "id": 639690,
+  "lesson": 213440,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><strong>Партнерская система или партнерка</strong> – место, где рекламодатели публикуют офферы, а арбитражники получают трекинговые ссылки, следят за статистикой и получают выплаты.</p>\n\n<p><strong>Трекинговые ссылки</strong> – специальные ссылки, перейдя по котором посетитель попадает на страницу оффера или <strong>целевую страницу</strong>. Перенаправления, которые осуществлятся в браузере во время загрузки целевой страницы называются <strong>редиректы</strong>.</p>\n\n<p>Партнерки различаются по вертикали, команде, странах в которых они привлекают рекламодателей и арбитражников.</p>\n\n<p>Страны из которых разрешают привлекать трафик на оффер называется гео. По гео различают партнерки на</p>\n\n<ul>\n\t<li><strong>Россию и СНГ</strong> – можно привлекать трафик из стран бывшего СССР</li>\n\t<li><strong>Бурж </strong>– все остальные страны, обычно подразумевается Европа и США</li>\n</ul>\n\n<p>Чтобы зарегистрироваться в партнерской системе необходимо выполнить следующие шаги:</p>\n\n<ol>\n\t<li>Зарегистрироваться на сайте партнерки</li>\n\t<li>Во время регистрации указать вертикали, источники трафика и гео</li>\n\t<li>Подтвердить регистрацию по email</li>\n\t<li>Связаться с аккаунт-менеджером партнерки для активации аккаунта</li>\n\t<li>Настроить партнерку: указать куда перечислять заработок, заполнить профиль, настроить постбеки</li>\n</ol>\n\n<p>На данный момент мы сотрудничаем с <strong><a href=\"http://www.admitad.com/ru/promo/?ref=bf434fa4dc\" rel=\"noopener noreferrer nofollow\">Admitad</a> </strong>– одной из первых партнерок в рунете, специализируется на интернет-магазинах, онлайн-играх и активно развивая мобильное направление.</p>\n\n<p style=\"text-align: center;\"><strong style=\"font-size: 1.5em;\">Зарегистрируйтесь в партнерке</strong></p>\n\n<p>Для получения доступа к практической части, в которой вы потратите <strong>наши $5</strong> на рекламу <strong>вашего оффера</strong> необходимо зарегистрироваться по нашей реферальной ссылке в партнерской системе <strong><a href=\"http://www.admitad.com/ru/promo/?ref=bf434fa4dc\" rel=\"noopener noreferrer nofollow\">Admitad</a></strong></p>\n\n<p>Подробная инструкция с картинками по регистрации представлена в последнем уроке этого модуля.</p>\n\n<p> </p>\n\n<blockquote>\n<p><span style=\"color: #000000;\">Зарегистрируйтесь </span><span style=\"color: #000000;\">в партнерской системе <strong><a href=\"https://www.admitad.com/ru/promo/?ref=bf434fa4dc\" rel=\"noopener noreferrer nofollow\">Admitad</a> </strong></span><span style=\"color: #000000;\">по нашей <strong><a href=\"https://www.admitad.com/ru/promo/?ref=bf434fa4dc\" rel=\"noopener noreferrer nofollow\">партнерской ссылке для Admitad</a></strong> и подтвердите регистрацию по email</span></p>\n</blockquote>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-639690",
+  "subscriptions": [
+    "31-77-639690",
+    "30-77-639690"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 217,
+  "passed_by": 217,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 618781,
+  "create_date": "2019-03-09T06:24:38Z",
+  "update_date": "2022-01-20T12:51:36Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-639690-1",
+  "discussion_threads": [
+    "77-639690-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

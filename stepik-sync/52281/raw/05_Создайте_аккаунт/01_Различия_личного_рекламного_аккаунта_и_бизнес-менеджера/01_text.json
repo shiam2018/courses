@@ -1,0 +1,67 @@
+{
+  "id": 625697,
+  "lesson": 210190,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align: center;\">Типы аккаунтов</h2>\n\n<ul>\n\t<li><strong><a href=\"https://www.facebook.com/adsmanager/\" rel=\"nofollow noopener noreferrer\">Личный рекламный аккаунт</a> </strong>–<strong> </strong><a href=\"https://www.facebook.com/adsmanager/\" rel=\"noopener noreferrer nofollow\">https://www.facebook.com/adsmanager/</a>, есть у каждого пользователя Meta*, предназначен для небольших рекламных кампаний, например, продвижения страниц или получения лайков на посты</li>\n\t<li><strong><a href=\"https://business.facebook.com/\" rel=\"nofollow noopener noreferrer\">Бизнеc-менеджер</a> </strong>– <a href=\"https://business.facebook.com/\" rel=\"noopener noreferrer nofollow\">https://business.facebook.com/</a>, создается отдельно, дает возможность управлять несколькими рекламными аккаунтами, назначать и менять руководителя, открывает доступ к продвинутым инструментам</li>\n</ul>\n\n<p><strong>Личный аккаунт</strong> используется для личных нужд, его управление нежелательно передавать, хотя и есть такая возможность.</p>\n\n<p><strong>Бизнес-менеджер или БМ</strong> представляет компанию, один человек может сделать <strong>несколько бизнес-менеджеров</strong>, при условии, что он покинет предыдущий. В рамках курса вы создадите новый БМ, в котором проведете тестовую закупку на наши средства.</p>\n\n<p>Ключевыми отличиями БМ-а от личного аккаунта являются:</p>\n\n<ol>\n\t<li><strong>Общий метод оплаты </strong>–<strong> </strong>добавление карты, кредитной линии или онлайн-банка (только для США), который можно использовать для нескольких аккаунтов</li>\n\t<li><strong>Управление ролями пользователей</strong> – назначение администратора, рекламодателя, аналитика или финансового менеджера, которые обладают разными возможностями</li>\n\t<li><strong>Совместная работа с партнерами</strong> – можно передавать аккаунты в управление другим бизнес-менеджерам</li>\n\t<li><strong>Создание бизнес-страниц</strong> – такие страницы используются при рекламе и полностью принадлежат бизнес-менеджеру</li>\n\t<li><strong>Организация рекламы в проекты и линии </strong>– возможность создать группы рекламных аккаунтов, приложений, страниц для легкого управления ими</li>\n</ol>\n\n<p> </p>\n\n<blockquote>\n<p><span style=\"color: #000000;\">В рамках курса мы будем работать только с БМ-ами и <strong>нашими методами оплаты</strong> – ваш личный рекламный аккаунт, логин или пароль от него <strong>не потребуется</strong>.</span></p>\n</blockquote>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-625697",
+  "subscriptions": [
+    "31-77-625697",
+    "30-77-625697"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 95,
+  "passed_by": 95,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 604788,
+  "create_date": "2019-02-20T04:12:21Z",
+  "update_date": "2019-03-10T09:29:27Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-625697-1",
+  "discussion_threads": [
+    "77-625697-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

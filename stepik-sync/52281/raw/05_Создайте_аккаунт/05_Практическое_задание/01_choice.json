@@ -1,0 +1,91 @@
+{
+  "id": 664274,
+  "lesson": 210196,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Пригласите support@marketingstar.info в новый бизнес-менеджер в качестве администратора и пришлите в Telegram @mstar_support ссылку-инвайт в бизнес-менеджер</h2>\n\n<ol>\n\t<li>Мы присоединим к бизнес-менеджеру <strong>наш метод оплаты</strong> </li>\n\t<li>В целях безопасности, изменим вашу роль на <strong>рекламодателя </strong>и установим лимит трат в <strong>$5</strong></li>\n\t<li>После этого, пришлем вам код от этого задания и дальнейшие руководства</li>\n\t<li>Вы запустите рекламу оффера <strong>по вашей трекинговой ссылке в Admitad</strong> и <strong>потратите на рекламу наши $5</strong></li>\n\t<li>Все заработанные деньги, полученные от целевых действий, которые выполнили привлеченные пользователи, будут <strong>принадлежать вам</strong></li>\n\t<li>После завершения закупки необходимо заполнить <strong>простой отчет</strong></li>\n\t<li>Изучив отчет, мы пришлем <strong>электронный сертификат</strong>, подтверждающий навыки в арбитраже трафика и <u><strong>исключим вас из бизнес-менеджера</strong></u>, так как к нему будет присоединен наш метод оплаты</li>\n</ol>\n\n<p>Успешно проведших тестовую закупку, пригласим на курс \"<strong>Тестирование в арбитраже трафика</strong>\", где изучим продвинутую оптимизацию, автоматизацию, массовый импорт и другие профессиональные техники арбитража.<br>\nКурс Тестирование <strong>сугубо практический</strong> и заключается в работе на нашем БМ-е, над офферами с авторизацией и нашими методами оплаты. Мы предоставим все что необходимо, от вас потребуется <strong>только время и старание</strong>. <br>\nВсе студенты работают в небольших командах, под <strong>руководством опытного наставника</strong>, с еженедельными созвонами и личными консультациями. </p>\n\n<p>Прошедшим курс \"Тестирование\" мы предложим <strong>удаленную работу </strong>специалистом по арбитражу трафика.</p>\n\n<p>Лучшие студенты получат доход уже на курсе, а также личные рекомендации руководителей MSTAR.</p>\n",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 2,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Я создал бизнес-менеджер и отправил инвайт",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Я не создал БМ",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-664274",
+  "subscriptions": [
+    "31-77-664274",
+    "30-77-664274"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 13,
+  "passed_by": 9,
+  "correct_ratio": 1.0,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 643365,
+  "create_date": "2019-03-29T08:48:42Z",
+  "update_date": "2019-03-29T08:48:42Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-664274-1",
+  "discussion_threads": [
+    "77-664274-1",
+    "77-664274-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

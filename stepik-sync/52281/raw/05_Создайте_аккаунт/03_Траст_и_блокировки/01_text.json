@@ -1,0 +1,67 @@
+{
+  "id": 625702,
+  "lesson": 210195,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align: center;\">Как прогреть аккаунт?</h2>\n\n<p>Перед запуском любой рекламы необходимо:</p>\n\n<ol>\n\t<li>Привязать метод оплаты</li>\n\t<li>Запустить рекламу</li>\n\t<li>Сделать первое списание средств или чардж с карты или paypal</li>\n</ol>\n\n<p>При запуске рекламы, обычно, аккаунт уходит на блокировку по необычной активности (unusual activity) – необходимо заполнить форму аппила в Meta*, указав что аккаунт ваш, вы рекламируете игру с авторизацией и приложить скан документа, подтверждающего личность.</p>\n\n<h2 style=\"text-align: center;\">Трастом в Meta* обладают</h2>\n\n<ul>\n\t<li>Рекламный аккаунт</li>\n\t<li>Страница от имени которой ведется реклама</li>\n\t<li>Сам пользователь</li>\n</ul>\n\n<p>Старайтесь использовать разрешенные креативы, без излишнего открытого тела (Meta* придерживается пуританских взглядов в этом плане), не менять IP с которого пользуетесь Meta*, не рекламировать нутру, адалт, ICO с личных аккаунтов.</p>\n\n<p>При работе с несколькими личными аккаунтами необходимо использовать специальный софт, типа <strong>Multilogin </strong>или <strong>Сфера </strong>и трастовые прокси.</p>\n\n<h2 style=\"text-align: center;\">Почему Meta* блокирует аккаунты?</h2>\n\n<p>Meta* стремится оградить пользователей от рекламы, нарушающей правила, и автоматически и очень легко блокирует аккаунты, которые попадают под <strong>паттерн подозрительного поведения</strong>.</p>\n\n<p>Под подозрительным поведением он понимает действия, которые выполняют специалисты, стремящиеся <strong>обойти модерацию и потратить максимальный объем средств</strong> за кратчайшее время.</p>\n\n<p>Эта модель поведения заключается:</p>\n\n<ul>\n\t<li>Подвязывании нескольких аккаунтов к одной карте</li>\n\t<li>Большое количество эдсетов и кампаний</li>\n\t<li>Максимально быстрое масштабирование</li>\n\t<li>Вход в аккаунт с разных IP</li>\n\t<li>Редиректы/клоакинг в ссылке</li>\n\t<li>Использование в объявлениях ранее заблокированных ссылок/страниц/изображений</li>\n\t<li>Необычно негативная реакция пользователей на рекламу</li>\n\t<li>Большое количество не прошедших модерацию объявлений</li>\n</ul>\n\n<p>Большая часть рекламы в Meta* оплачивается по <strong>постоплате</strong>, при этом существует вероятность, что Meta* не сможет списать средства и <strong>понесет двойные потери</strong> — будет бесплатно показана запрещенная реклама.</p>\n\n<h2 style=\"text-align: center;\"><strong>Типы блокировки и порядок действий</strong></h2>\n\n<h3>Нарушение рекламной политики или Policy violation</h3>\n\n<p>Сообщение “Your ad account has been flagged for policy violations. Any ads that you're running have been turned off. If you believe that this is a mistake, please contact us.”</p>\n\n<p>Причины:</p>\n\n<ol>\n\t<li><strong>Объявления нарушили правила Meta*</strong> и/или получили много негативной реакции (negative feedback), жалоб от пользователей. В совокупности с небольшим спентом и низким трастом аккаунта этого достаточно для блокировки. В тексте и заголовке (как и на лендинге) нельзя использовать ключевые слова, характеризующие запрещенные вещи (adult dating, ICO, sweepstakes, gambling), а также названия брендов(!), которые вам не принадлежат (Nike, Samsung, Yahoo)</li>\n\t<li><strong>В объявлении использован ранее заблокированный элемент</strong>. Объявление состоит из ссылки, текста, изображения/видео, группы от чьего имени ведется реклама. Если до этого на других аккаунтах были использованы те же домены для ссылки, точные формулировки текста/заголовка, изображения, группа и объявления были отклонены или аккаунт заблокирован, то новый аккаунт автоматически заблокируют еще до того, как вы получит первый показ/клик, так как он автоматически свяжет вас с нарушителями</li>\n\t<li>Рекламу запускает человек, с <strong>очень низким или отрицательным трастом или кармой</strong> – уровнем доверия Meta*. Он понижается, если пользователь нарушал правила в прошлом на других аккаунтах</li>\n</ol>\n\n<p>Для разблокировки нужно написать аппил в форме <a href=\"https://business.facebook.com/help/contact/2026068680760273\" rel=\"nofollow noopener noreferrer\">https://business.facebook.com/help/contact/2026068680760273</a>:</p>\n\n<blockquote>\n<p><span style=\"color: #000000;\">Dear Facebook* team,</span></p>\n\n<p><span style=\"color: #000000;\">I believe that my ad account (Ad account ID) has been disabled by mistake.</span></p>\n\n<p><span style=\"color: #000000;\">I had advertise official store/app/game with authorisation and did not use nothing that can violate your rules.</span></p>\n\n<p><span style=\"color: #000000;\">I hope that you will reconsider the decision and activate my account</span></p>\n\n<p><span style=\"color: #000000;\">Sincerely yours, Name of Advertiser</span></p>\n</blockquote>\n\n<h3>Подозрительная активность или Unusual activity</h3>\n\n<p>Сообщение \"There was some unusual activity on your ad account, so we're protecting it by stopping your ads. We'll start your ads again using your current balance once you verify your account with us.\"</p>\n\n<p> </p>\n\n<p>Появляется при входе в БМ или аккаунта<strong> с разных IP</strong> или если система заподозрит неправомерное использование <strong>банковских карт</strong>. Блокировка по подозрительной активности – <strong>обычная ситуация</strong>, особенно для новых аккаунтов, заполните форму и разблокируют через 12-24 часа</p>\n\n<p>Действия: заполнить аппил <a href=\"https://www.facebook.com/help/contact/531795380173090\" rel=\"nofollow noopener noreferrer\">https://www.facebook.com/help/contact/531795380173090</a> выбирая следубщие ответы:</p>\n\n<blockquote>\n<p><span style=\"color: #000000;\">Да, Кредитная карта, Да, Я, ваше имя и email, пусто в поле \"Вкратце опишите, почему вы используете его/ее...\", Да, Mobile app install campaign, Нет, Нет, Россия, Россия</span></p>\n</blockquote>\n\n<p><span style=\"color: #000000;\">Обычно используют неименные карты, поэтому нет разницы от чьего имени заполнять аппилы.</span></p>\n\n<h3>Неработающий метод оплаты</h3>\n\n<p>Сообщение “We were unable to charge your ad account using MasterCard *ХХХХ. Please add a new payment method to your account.”</p>\n\n<p>Действия: заполнить аппил <a href=\"https://www.facebook.com/help/contact/649167531904667/\" rel=\"nofollow noopener noreferrer\">https://www.facebook.com/help/contact/649167531904667/</a></p>\n\n<h2 style=\"text-align: center;\">Советы</h2>\n\n<ol>\n\t<li>Заполняйте аппилы на английском языке, при использовании русского время ответа увеличивается в разы</li>\n\t<li>Если получили негативный ответ, то можно нажать “Read more” и ответить в окошке комментария (Your response). Тогда тикет открывается заново и поддержка может изменить решение</li>\n\t<li>Легче всего решить вопрос через личного менеджера, но его можно получить при белом бизнесе и спенте от $30К/мес</li>\n\t<li>Еще один способ связаться с Meta* – заполнить форму email поддержки <a href=\"https://www.facebook.com/business/support/contact-us\" rel=\"nofollow noopener noreferrer\">https://www.facebook.com/business/support/contact-us</a> (недоступно для аккаунтов с небольшим спентом)</li>\n\t<li>Если не помогло, то написать сюда <a href=\"https://www.facebook.com/business/clientsupport\" rel=\"nofollow noopener noreferrer\">https://www.facebook.com/business/clientsupport</a></li>\n\t<li>Также есть возможность обратиться в чат на <a href=\"https://www.facebook.com/business/resources/\" rel=\"nofollow noopener noreferrer\">https://www.facebook.com/business/resources/</a> </li>\n\t<li>Тикеты в саппорт и ответы на них можно найти в <a href=\"https://www.facebook.com/support\" rel=\"nofollow noopener noreferrer\">https://www.facebook.com/support</a></li>\n</ol>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-625702",
+  "subscriptions": [
+    "31-77-625702",
+    "30-77-625702"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 96,
+  "passed_by": 96,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 604793,
+  "create_date": "2019-02-20T04:47:34Z",
+  "update_date": "2019-03-10T10:23:23Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-625702-1",
+  "discussion_threads": [
+    "77-625702-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 635402,
+  "lesson": 212301,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Вертикали обладают несколькими <strong>особенностями</strong>, которые необходимо понимать:</p>\n\n<h2 style=\"text-align: center;\">Целевая аудитория</h2>\n\n<p>Подростки более охотно устанавливают мобильные игры, молодые девушки часто покупают в интернет-магазинах, а одинокие мужчины с удовольствием используют приложения для знакомств.</p>\n\n<p>Хотя <strong>молодая мама</strong> может начать играть в<strong> онлайн-стратегию</strong>, но соотношения всех мам, кому мы покажем рекламу к тем, кто начнет играть будет <strong>очень мало</strong>. Это сотношение по другому называется <strong>конверсией </strong>и чем она выше, тем выше прибыль, которую можно получить.</p>\n\n<h2 style=\"text-align: center;\">Рекламная система</h2>\n\n<p>Разные группы людей пользуются различными сайтами и приложениями, поэтому соотношение целевых аудиторий в разных рекламных системах разное. </p>\n\n<p>Также крупные рекламные системы (Facebook*, Google, Яндекс) запрещают рекламу ICO, гемблинга, адалта; подозрительно относятся к дейтингу и товарке. Если выбрать одну из этих специализаций, то нужно использовать другие источники или обходить запреты с помощь клоакинга, редиректов или контейнеров.</p>\n\n<h2 style=\"text-align: center;\">Промо материалы</h2>\n\n<p>Игры, дейтинг, казино рекламируют по разному, соответственно в каждой вертикали есть свои шаблоны баннеров и рекламных видео, которые показывают лучшие результаты.</p>\n\n<p>С опытом арбитражник создает архив с баннерами и заготовками, которые помогают запустить оффер в работу за несколько часов, а также в несколько раз сократить тестирование.</p>\n\n<p> </p>\n\n<blockquote>\n<p><span style=\"color: #000000;\">Изучите особенности различных вертикалей и офферов, нажимая \"<strong>Следующий шаг</strong>\" или \"<strong>Продолжить</strong>\"</span></p>\n</blockquote>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-635402",
+  "subscriptions": [
+    "31-77-635402",
+    "30-77-635402"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 113,
+  "passed_by": 113,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 614493,
+  "create_date": "2019-03-03T13:17:58Z",
+  "update_date": "2019-03-09T16:24:36Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-635402-1",
+  "discussion_threads": [
+    "77-635402-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

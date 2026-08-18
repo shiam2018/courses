@@ -1,0 +1,67 @@
+{
+  "id": 632169,
+  "lesson": 211688,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align: center;\">Критерии креатива</h2>\n\n<ul>\n\t<li><strong>Крутой </strong>– вызывает вау-эффект, притягивает внимание</li>\n\t<li><strong>Простой </strong>– сразу понятно какую функцию рекламирует</li>\n\t<li><strong>Цепляет </strong>– хочется перейти и установить приложение</li>\n</ul>\n\n<h2 style=\"text-align: center;\">Реальные показатели</h2>\n\n<p>На практике мы будем рекламировать это приложение: <a href=\"http://https://play.google.com/store/apps/details?id=com.allfor.wooman\" rel=\"nofollow noopener noreferrer\">https://play.google.com/store/apps/details?id=com.allfor.wooman</a></p>\n\n<p>Со ставками: <strong>BH 1.6 OM 1.3</strong></p>\n\n<p>Хорошие креативы показывают следующие результаты:</p>\n\n<ul>\n\t<li><strong>CTR </strong>2-4%</li>\n\t<li><strong>CPC </strong>0.1 доллара (10 центов)</li>\n\t<li><strong>CPI </strong>0.4 доллара (40 центов)</li>\n\t<li><strong>CPA </strong>1 доллар</li>\n</ul>\n\n<p>За один инсталл мы получаем:</p>\n\n<p>Прибыль с одной подписки <strong>Profit = 1.6 - 1 = 0.6 доллара</strong></p>\n\n<p>И рентабельность <strong>ROI = Profit / Spent = 0.6 / 1 = 60 %</strong></p>\n\n<p>Креативы, которые обеспечивают такие показатели</p>\n\n<p><a href=\"https://drive.google.com/open?id=1v0_AoGzwCl14tBVfJOP-QlURiUmMQPhW\" rel=\"nofollow noopener noreferrer\">https://drive.google.com/open?id=1v0_AoGzwCl14tBVfJOP-QlURiUmMQPhW</a></p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-632169",
+  "subscriptions": [
+    "31-77-632169",
+    "30-77-632169"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 38,
+  "passed_by": 38,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 611260,
+  "create_date": "2019-02-28T04:35:52Z",
+  "update_date": "2019-03-01T13:18:15Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-632169-1",
+  "discussion_threads": [
+    "77-632169-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

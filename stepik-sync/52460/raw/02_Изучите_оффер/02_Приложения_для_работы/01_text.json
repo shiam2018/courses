@@ -1,0 +1,67 @@
+{
+  "id": 629106,
+  "lesson": 211003,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>В работе мы <strong>рекламируем приложения</strong>, похожие на эти:</p>\n\n<ul>\n\t<li><a href=\"https://play.google.com/store/apps/details?id=com.barq.scratchwin\" rel=\"nofollow noopener noreferrer\">https://play.google.com/store/apps/details?id=com.barq.scratchwin</a></li>\n\t<li><a href=\"https://play.google.com/store/apps/details?id=com.box.boxcomboplus\" rel=\"nofollow noopener noreferrer\">https://play.google.com/store/apps/details?id=com.box.boxcomboplus</a></li>\n\t<li><a href=\"https://play.google.com/store/apps/details?id=com.cinema.miniplex\" rel=\"nofollow noopener noreferrer\">https://play.google.com/store/apps/details?id=com.cinema.miniplex</a></li>\n\t<li><a href=\"https://play.google.com/store/apps/details?id=com.club.bongoclub\" rel=\"nofollow noopener noreferrer\">https://play.google.com/store/apps/details?id=com.club.bongoclub</a></li>\n\t<li><a href=\"https://play.google.com/store/apps/details?id=com.mobileartsme.amazingvideos\" rel=\"nofollow noopener noreferrer\">https://play.google.com/store/apps/details?id=com.mobileartsme.amazingvideos</a></li>\n</ul>\n\n<p>Целью рекламы является привлечение установок, которые <strong>конвертируются в подписки</strong> внутри приложения.</p>\n\n<p>Для того, чтобы получить доступ к контенту, пользователю необходимо ввести код, пришедший по смс, после этого с его счета списывается несколько долларов, в зависимости от страны.</p>\n\n<p>При успешной подписке в Facebook приходит событие \"<strong>Add of payment info</strong>\", прочитайте об оптимизации по событиям внутри приложения <strong><a href=\"https://www.facebook.com/business/help/235457266642587\" rel=\"nofollow noopener noreferrer\">здесь</a>.</strong></p>\n\n<p>За каждое событие рекламодатель платит определенную сумму (<strong>выплату</strong>), которая обозначается как сумма в долларах и двухбуквенный код страны.</p>\n\n<p><strong>Примеры выплат</strong>:<strong> </strong>   BH : 1.6 USD , OM : 1.2 USD , QA : 0.5 USD</p>\n\n<p>За подписку из Бахрейна заплатят 1.6 доллара, из Омана 1.2 доллара, из Катара 0.5 доллара (<strong><a href=\"http://www.borovic.ru/codes.html\" rel=\"nofollow noopener noreferrer\">двухбуквенные коды стран</a></strong>)</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-629106",
+  "subscriptions": [
+    "31-77-629106",
+    "30-77-629106"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 44,
+  "passed_by": 44,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 608197,
+  "create_date": "2019-02-24T06:19:55Z",
+  "update_date": "2019-02-27T17:17:13Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-629106-1",
+  "discussion_threads": [
+    "77-629106-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

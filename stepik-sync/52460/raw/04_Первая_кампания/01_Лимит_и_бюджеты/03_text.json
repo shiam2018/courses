@@ -1,0 +1,67 @@
+{
+  "id": 633464,
+  "lesson": 212009,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2>Дневной бюджет группы объявлений</h2>\n\n<p>Позволяет ограничить траты каждой группы объявлений. В редких случаях Фейсбук может тратить больше, \"перерасходовать\" дневные бюджеты.</p>\n\n<p>Является важной настройкой для управления рекламой. Обычно чем меньше дневной бюджет, тем экономнее Фейсбук расходует средства и показывает рекламу либо недорогой аудитории, либо тем кто сконвертируется вероятнее всего.</p>\n\n<p>На обучении необходимо начинать с<strong> дневного бюджета в 5 $</strong></p>\n\n<p>В скором времени Фейсбук откажется от бюджета эдсета и оставит только бюджет кампании, но бюджет кампании болеесложен в управлении и с ним мы будем работать после обучения.</p>\n\n<p>При настройке дневного бюджета и ставки будьте очень внимательны!</p>\n\n<p>Не рекомендуется менять дневной бюджет больше чем на 20-30% в день, иначе Фейсбук может серьезно ухудшить показатели группы объявлений (CPM, CPC, CPI, CPA)</p>\n\n<h3>Выбираем кампанию</h3>\n\n<h3><img alt=\"\" src=\"https://ucarecdn.stepik.net/761fba3e-a52b-4a66-b32f-1c2552c99d0d/\"></h3>\n\n<h3>Выбираем эдсет и редактируем его</h3>\n\n<h3><img alt=\"\" src=\"https://ucarecdn.stepik.net/cea86ff6-32f1-4b43-8b83-6bc7cadeb3a8/\"></h3>\n\n<h3><strong>Устанавливаем бюджет</strong></h3>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/5e5dd94c-3557-4cd1-b399-09ef236d6556/\"></p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-633464",
+  "subscriptions": [
+    "31-77-633464",
+    "30-77-633464"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 29,
+  "passed_by": 29,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 612555,
+  "create_date": "2019-03-01T15:19:35Z",
+  "update_date": "2019-03-01T15:20:43Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-633464-1",
+  "discussion_threads": [
+    "77-633464-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

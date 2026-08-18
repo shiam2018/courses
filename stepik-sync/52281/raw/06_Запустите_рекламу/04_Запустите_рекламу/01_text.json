@@ -1,0 +1,67 @@
+{
+  "id": 640111,
+  "lesson": 213519,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2><strong>Алгоритм запуска кампании на Meta*</strong></h2>\n\n<ol>\n\t<li>Заходим на <a href=\"https://business.facebook.com/\" rel=\"noopener noreferrer nofollow\">https://business.facebook.com/</a>, выбираем ваш бизнес-менеджер и первый рекламный аккаунт</li>\n\t<li>Нажимаем <strong>Создать / Create Campaign</strong><br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/3e822594-74d5-4cd4-84ac-ea4258ced954/\"></li>\n\t<li>Если загружается режим быстрого создания, то нажимаем \"<strong>Режим создания с подсказками</strong>\"<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/b680e84c-1b16-4c81-8198-93a995183914/\"></li>\n\t<li>Выбираем подходящий тип (у нас Трафик), вводим название кампании согласно неймингу, нажимаем \"<strong>Продолжить</strong>\"<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/4f81acc4-a610-476e-a832-663cbb12b4d1/\"></li>\n\t<li>Вводим название группы объявлений / эдсета (от англ. ad set – набор объявлений) по шаблону <strong>Оффер_Гео_Пол_Возраст_Номер</strong>, оставляем \"<strong>Сайт</strong>\" в качестве выбора назначения трафика<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/5f02ccd0-5982-4168-826b-2c66e7d0f613/\"></li>\n\t<li>Выставляем социально-демографические таргетинги (страну, возраст, пол) и интересы<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/b46f8523-7d05-47e4-a049-ebd64555cdc2/\"></li>\n\t<li>Оставляем \"<strong>Автоматические места размещения</strong>\" и устанавливаем дневной бюджет 2,5 доллара<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/6eb6e846-81ce-4f47-9828-f1c9ba5310c4/\"></li>\n\t<li>Оставляем стандартные настройки и нажимаем \"Продолжить\"<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/af1679aa-9cca-468b-9cd1-5f8bb021ccc1/\"></li>\n\t<li>Называем объявление согласно неймингу, выбираем страницу (которую создали вместе с бизнес-менеджером), оставляем выбор \"Одно изображение или видео\"<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/9f1c09cc-70b5-4400-9e9b-b6d6628c5545/\"></li>\n\t<li>Загрузите ваш первый креатив<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/2de1dc4d-ba8d-400c-8de2-537e987e8571/\"></li>\n\t<li>Придумайте и введите текст и заголовок объявления, вставьте трекинговую ссылку из Admitad<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/e57ed519-99ac-4aff-a034-792d3f80e312/\"></li>\n\t<li>Введите отображаемую ссылку (сайт на который попадет пользователь, перешедший по трекинговой ссылке), описание ссылки (произвольный текст, дополняющий объявление) и метки ссылки (значения subid без знака вопроса) и нажмите \"<strong>Подтвердить</strong>\" внизу страницы<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/c1c26e4b-b418-4287-9407-293749e73894/\"></li>\n\t<li>Ждем прохождения модерации</li>\n</ol>\n\n<p><strong>Поздравляю с вашей первой рекламной кампанией, запущенной на Meta*)</strong></p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-640111",
+  "subscriptions": [
+    "31-77-640111",
+    "30-77-640111"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 28,
+  "passed_by": 28,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 619202,
+  "create_date": "2019-03-09T12:03:02Z",
+  "update_date": "2019-03-20T15:34:26Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-640111-1",
+  "discussion_threads": [
+    "77-640111-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

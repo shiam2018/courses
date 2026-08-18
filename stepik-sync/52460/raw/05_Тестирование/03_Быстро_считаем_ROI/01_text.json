@@ -1,0 +1,67 @@
+{
+  "id": 637125,
+  "lesson": 212815,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><strong>Рентабельность и объем</strong> – главные показатели закупки. Хорошие арбитражники делают <strong>$ 500-1000 прибыли в день</strong>, при <strong>ROI&gt;40%</strong></p>\n\n<p>Напомним, что рентабельность или ROI – это отношение прибыли к расходам и вычислется по следующей формуле:</p>\n\n<p style=\"text-align: center;\"><strong>Прибыль = Доходы – Расходы</strong></p>\n\n<p style=\"text-align: center;\"><strong>ROI = Прибыль / Расходы х 100% = (Доходы – Расходы) / Расходы х 100%</strong></p>\n\n<p>Нам платят за подписки, которые можно назвать целевыми действиями, триалами, конверсиями, Add payment info<br>\nВыплаты разные, в оффере Women – <strong>$ 1.6</strong> за подписку. То есть мы должны покупать события Add payment info (Добавление платежной информации) за <strong>$ 0.8-1.1</strong></p>\n\n<p>Доход – это выплата, в оффере Women это 1.6</p>\n\n<p>Расход – это фактическая стоимость полученной подписки</p>\n\n<h2>Расчитаем рентабельность закупки</h2>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/3d3b67db-c62e-4b5f-b7c8-61726ea4701d/\"></p>\n\n<ul>\n\t<li>Расход = $ 5.54</li>\n\t<li>Доход = $ 1.6</li>\n\t<li>Прибыль = Доход – Расход = 1.6 – 5.54 = – 3.94 То есть закупка наминусила (принесла убыток) на $ 3.94</li>\n</ul>\n\n<p style=\"text-align: center;\"><strong>ROI = Прибыль / Расход х 100% = (Доход – Расход) / Расход  х 100% =  (1.6 – 5.54) / 5.54 х 100% = – 3.94 / 5.54 х 100% = –71%</strong></p>\n\n<h2>Быстрый расчет</h2>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/bb139903-f22d-49da-bdcd-6f5b583a047d/\"></p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-637125",
+  "subscriptions": [
+    "31-77-637125",
+    "30-77-637125"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 29,
+  "passed_by": 29,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 616216,
+  "create_date": "2019-03-05T11:20:27Z",
+  "update_date": "2019-03-05T14:32:15Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-637125-1",
+  "discussion_threads": [
+    "77-637125-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 628920,
+  "lesson": 210916,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align: center;\">Поздравляем с завершением курса!</h2>\n\n<p>Пожалуйста, оставьте <strong><a href=\"https://stepik.org/course/52281/reviews\" rel=\"nofollow noopener noreferrer\">отзыв о нем</a></strong> в <a href=\"https://stepik.org/course/52281/reviews\" rel=\"noopener noreferrer nofollow\">https://stepik.org/course/52281/reviews</a> и пришлите ваше ФИО для сертификата наставнику в телеграме (<strong><a href=\"https://t.me/mstar_mentor\" rel=\"nofollow noopener noreferrer\">@mstar_mentor</a></strong>).</p>\n\n<p>Для того чтобы попасть на следующий курс \"<strong>Тестирование в арбитраже трафика</strong>\" необходимо:</p>\n\n<ol>\n\t<li><strong>Создать еще 4 аккаунта</strong> в учебном бизнес-менеджере (Настройки компании --&gt; Рекламные аккаунты)</li>\n\t<li>Присоединить к каждому новому аккаунту <strong>платежный метод</strong>, который вы получили на курсе</li>\n\t<li>В настройках рекламных аккаунтов <strong>установить лимит</strong> затрат аккаунта на 1$</li>\n\t<li><strong>Добавить приложение</strong> к аккаунтам в Настройках компании --&gt; Приложения</li>\n\t<li>Запустить на каждом аккаунте такую же <strong>рекламную кампанию</strong>, как на курсе</li>\n\t<li><strong>Списать средства </strong>(при недостатке средств обратиться к наставнику)</li>\n</ol>\n\n<h3>Как установить лимит затрат аккаунта:</h3>\n\n<ol>\n\t<li>Сделать себя администратором рекламного аккаунта (Настройки компании --&gt; Люди --&gt; Выбирайте себя, затем установите права администратора на новые рекламные аккаунты)</li>\n\t<li>Перейти в рекламный аккаунт (Настройки компании --&gt; Рекламные аккаунты --&gt; Нажать перейти в Ads Manager или кликнуть по названию аккаунта) или Ads Manager, там где настраивается реклама</li>\n\t<li>Перейти Меню --&gt; Настройки (не Настройки компании)</li>\n\t<li>Затем выбрать слева Настройки платежного метода --&gt; Установить лимит затрат аккаунта</li>\n\t<li>Ввести 1$ и нажать Enter</li>\n</ol>\n\n<h3>На курсе \"<strong>Тестирование в арбитраже трафика</strong>\" мы:</h3>\n\n<ul>\n\t<li>Подробно рассмотрим работу арбитражника</li>\n\t<li>Изучим профессиональный сервис <a href=\"https://adspy.com/\" rel=\"nofollow noopener noreferrer\">Adspy.com</a></li>\n\t<li>Научимся заполнять отчетность</li>\n\t<li>Используем оптимизатор конверсий для Meta*</li>\n\t<li>Начнем работать с нашими офферами в Meta*</li>\n</ul>\n\n<p>Курс будет <strong>закрытым </strong>и доступен только завершившим курс \"<strong><a href=\"https://stepik.org/52281\" rel=\"nofollow noopener noreferrer\">Подготовка в арбитраже трафика</a></strong>\". Для того, чтобы получить приглашение напишите наставнику. Как и на подготовке мы предоставим все что будет необходимо <strong>бесплатно</strong>.</p>\n\n<p>Курс закончится <strong>тестовым заданием</strong> – вывести в плюс кампании по закупке трафика на приложения с авторизацией.</p>\n\n<p>Успешно справившиеся с заданием получат<strong> предложение об удаленной работе</strong> специалистом по арбитражу трафика.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-628920",
+  "subscriptions": [
+    "31-77-628920",
+    "30-77-628920"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 57,
+  "passed_by": 57,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 608011,
+  "create_date": "2019-02-23T16:31:36Z",
+  "update_date": "2019-03-03T20:00:42Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-628920-1",
+  "discussion_threads": [
+    "77-628920-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

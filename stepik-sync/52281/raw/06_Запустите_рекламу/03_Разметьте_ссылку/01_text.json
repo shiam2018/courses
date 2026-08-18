@@ -1,0 +1,67 @@
+{
+  "id": 626550,
+  "lesson": 210363,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Суть оптимизизации в отключении всего приносящего убыток (минусующего) и масштабировании приносящего прибыль (плюсующего).</p>\n\n<p>Чтобы понимать какие объявления или аудитории принесли прибыль необходимо <strong>разметить ссылку </strong>– указать в ссылке специальные параметры, которые отобразятся в статистике партнерской системы.</p>\n\n<h2 style=\"text-align: center;\">Нейминг</h2>\n\n<p>Чем дольше вы работаете, тем больше кампаний, креативов и офферов находятся в одновременной работе. Чтобы легко анализировать эффективность, необходимо называть кампания и объявления по определенному правилу, или придерживаться нейминга (от англ. name - имя).</p>\n\n<p>В работе мы используем следующий нейминг для кампаний <strong>Оффер_Тип_Номер</strong>, где указываем названия в скоращенном виде латинскими буквами. При работе с оффером <strong>Lensmaster </strong>и используя тип кампании \"Привлечение трафика\", название кампании будет \"<strong>LENSM_TRAFFIC_001</strong>\".</p>\n\n<p>Группы объявлений называются в соответствии используемых таргетингов по шаблону <strong>Оффер_Гео_Пол_Возраст_Номер</strong>, например, если  мы рекламируем оффер <strong>Lensmaster </strong>женщинам 20-50 лет из Москвы <strong>LENSM_MSK_W_2050_001</strong>.<br>\nМы повторно указываем оффер в названии эдсета, потому что при просмотре списка всех групп, можно различить группы разных офферов.</p>\n\n<p>Объявления наименовываются так, чтобы было понятно, какой креатив в них использован, например <strong>Video_001</strong> или <strong>PNG_004</strong></p>\n\n<h2 style=\"text-align: center;\">Передача данных в партнерку, Subid</h2>\n\n<p>Чтобы понимать что отключать или масштабировать необходимо передать в партнерку данные о том, какой результат принесли те или иные кампании, группы или объявления. Сделать это можно с помощью <strong>Subid</strong>, специального дополнения к трекинговой ссылке (аналоге utm разметки) в котором \"записывается\" то, что мы хотим передать.</p>\n\n<p>В Admitad возможно сделать 5 Subid, то есть если мы хотим видеть какой источник, кампания, эдсет, объявление и пол конвертируются лучше всего, тогда нам следует добавить в трекинговую ссылку следующее:</p>\n\n<p><code>https://ad.admitad.com/g/e94d4c65e0039bedbf923658c07967/?subid=fb&amp;subid1=lensm_traffic_001&amp;subid2=lensm_msk_w_2050_001&amp;subid3=video_001&amp;subid4=male</code></p>\n\n<p>Все данные, переданные с помощь, subid регистрируются партнерской системой  и отображаются в <strong><a href=\"https://www.admitad.com/ru/webmaster/statistics/campaigns/\" rel=\"noopener noreferrer nofollow\">разделе статиcтики</a></strong>. Специалист, который правильно разметил ссылку будет в курсе того, какие кампании, эдсеты и креативы следует отключить или  масштабировать<img alt=\"\" src=\"https://ucarecdn.stepik.net/df3bc772-514f-4067-a05d-6f48cb718484/\"></p>\n\n<p> </p>\n\n<blockquote>\n<p><span style=\"color: #000000;\">Разметье и сохраните в текстовом редакторе вашу трекинговую ссылку по приведенному примеру</span></p>\n</blockquote>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-626550",
+  "subscriptions": [
+    "31-77-626550",
+    "30-77-626550"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 70,
+  "passed_by": 70,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 605641,
+  "create_date": "2019-02-21T04:25:51Z",
+  "update_date": "2019-03-19T15:08:30Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-626550-1",
+  "discussion_threads": [
+    "77-626550-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

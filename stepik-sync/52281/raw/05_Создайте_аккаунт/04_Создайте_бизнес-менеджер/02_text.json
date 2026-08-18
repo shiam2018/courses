@@ -1,0 +1,67 @@
+{
+  "id": 626181,
+  "lesson": 210191,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2 style=\"text-align: center;\">Заполните название и контакты</h2>\n\n<p>Придумайте название компании, затем введите ваше имя и ваш email-адрес.</p>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/1e6e5d69-3e36-48f0-b0b0-c5d5303f2bbf/\"></p>\n\n<h2 style=\"text-align: center;\">Введите адрес</h2>\n\n<p>Заполните данные об адресе, если не хотите указывать ваш адрес, то заполните случайные знанчения, например:</p>\n\n<ul>\n\t<li>Россия</li>\n\t<li>Ленинский пр., дом 1</li>\n\t<li>Москва, Москва</li>\n\t<li>119049</li>\n\t<li>+7(495)849-52-59</li>\n\t<li>https://mycompany.com</li>\n\t<li>Оказание услуг другим компаниям</li>\n</ul>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/e008b844-2880-46c3-9667-c79836280d2e/\"></p>\n\n<p>После этого, нажмите на кнопку \"<strong>Отправить</strong>\" и вы увидете сообщение, о том, что бизнес-менеджер успешно создан</p>\n\n<p><img alt=\"\" src=\"https://ucarecdn.stepik.net/1bcf1b4a-3932-4b97-8d07-7b36d19cb483/\"></p>\n\n<p>Необходимо перейти в email и подтвердить создание бизнес-менеджера</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-626181",
+  "subscriptions": [
+    "31-77-626181",
+    "30-77-626181"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 93,
+  "passed_by": 93,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 605271,
+  "create_date": "2019-02-20T12:39:01Z",
+  "update_date": "2019-03-19T15:05:41Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-626181-1",
+  "discussion_threads": [
+    "77-626181-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

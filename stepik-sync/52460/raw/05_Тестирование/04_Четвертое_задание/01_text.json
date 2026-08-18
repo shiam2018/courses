@@ -1,0 +1,67 @@
+{
+  "id": 637127,
+  "lesson": 212817,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<ol>\n\t<li>\n\t<p>Найдите 5 новых креативов в <strong><a href=\"http://adspy.com\" rel=\"noopener noreferrer nofollow\">adspy.com</a></strong></p>\n\t</li>\n\t<li>\n\t<p>Залейте <strong>1 кампанию – 5 эдсетов – 3 объявления с одним крео – 1 эдсет на 1 креатив</strong></p>\n\t</li>\n\t<li>\n\t<p>В следующем занятии мы подключим автоматическую оптимизацию рекламных кампаний, зарегистрируйте <strong>бесплатный </strong>аккаунт в сервисе <strong><a href=\"https://reveal.grsm.io/stpk\" rel=\"noopener noreferrer nofollow\">Revealbot</a></strong><br>\n\t </p>\n\n\t<p style=\"text-align: center;\"><img alt=\"\" src=\"https://ucarecdn.stepik.net/b1e41a5d-5bda-4a58-bc9b-4756c4a0114e/\"></p>\n\t</li>\n\t<li>\n\t<p>После тестового задания мы подключим вас к <strong>нашему оплаченному</strong> <strong><a href=\"https://reveal.grsm.io/stpk\" rel=\"noopener noreferrer nofollow\">Revealbot</a></strong></p>\n\t</li>\n\t<li>\n\t<p>Напоминаем, что условие прохождения тестового задания – получить за все время <strong>$ 500 прибыли</strong></p>\n\t</li>\n\t<li>\n\t<p>Мы работаем <strong>с несколькими офферами одновременно</strong> – для того, чтобы начать работу с другими офферами нужно получить <strong>$ 20 прибыли на оффере Women</strong></p>\n\t</li>\n</ol>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-637127",
+  "subscriptions": [
+    "31-77-637127",
+    "30-77-637127"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 29,
+  "passed_by": 29,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 616218,
+  "create_date": "2019-03-05T11:21:02Z",
+  "update_date": "2019-03-05T14:32:59Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-637127-1",
+  "discussion_threads": [
+    "77-637127-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 640420,
+  "lesson": 213440,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2>Инструкция по регистрации в партнерской системе <a href=\"https://www.admitad.com/ru/promo/?ref=bf434fa4dc\" rel=\"noopener noreferrer nofollow\">Admitad</a></h2>\n\n<ol>\n\t<li>Перейдите по этой <strong><a href=\"https://www.admitad.com/ru/promo/?ref=bf434fa4dc\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ссылке на сайт Admitad</a></strong></li>\n\t<li>Нажмите кнопку \"<strong>Присоединится</strong>\"<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/d49347e3-44b8-4acc-9846-dd64b62c1a9c/\"></li>\n\t<li>Укажите ваше имя, статус, страну, уровень и email<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/c29eb37c-7202-41f9-a811-927822a19101/\"></li>\n\t<li>Придумайте логин, пароль, согласитесь с правилами партнерской системы и нажмите \"<strong>Продолжить регистрацию</strong>\"<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/4e173066-dbe5-4b4f-976c-0cbe194e651c/\"></li>\n\t<li>Выберите Тип вашей площадки --&gt; Социальные сети; Тип рекламы в соц. сети --&gt; Реклама в профиле или таргетированная; Социальная сеть --&gt; Facebook*; введите название площадки \"Facebook Ads*\"; добавьте регион \"Россия\"<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/302465e6-a1eb-4421-8fe0-227093be47a4/\"></li>\n\t<li>Добавьте категории \"Интернет-магазины\" и \"Онлайн Игры\", введите в поле: \"Я привлекаю трафик с помощью таргетированной рекламы Facebook Ads*\", нажмите \"<strong>Продолжить регистрацию</strong>\"<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/962234c8-ca74-4f65-a70d-df78a16d0863/\"></li>\n\t<li>Вы перейдете на экран с поздравлением о завершении регистрации<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/ab34b5d6-1c14-484e-ae77-f9962e9a6a4c/\"></li>\n\t<li>Перейдите в почтовый ящик, откройте письмо от Admitad, нажмите на кнопку \"<strong>Активировать</strong>\" или перейдите по ссылке для подтверждения регистрации<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/1d01e290-fcb4-4b62-a4f3-1cd67174ad26/\"></li>\n\t<li>Прочитайте обращение генерального директора Admitad и пройдите обучающий тур по системе, нажав \"<strong>Пройти тур</strong>\"<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/09ef0eec-327a-4b1c-a9dd-f35c5adc096d/\"></li>\n\t<li>Перейдите на главную страницу Admitad, нажмите \"<strong>Начать обучение</strong>\" и пройдите короткий курс по интерфейсу<br>\n\t<img alt=\"\" src=\"https://ucarecdn.stepik.net/868bff36-1278-48f4-838b-ab8eebe1e3c5/\"></li>\n</ol>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-640420",
+  "subscriptions": [
+    "31-77-640420",
+    "30-77-640420"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 148,
+  "passed_by": 148,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 619511,
+  "create_date": "2019-03-09T19:13:49Z",
+  "update_date": "2022-01-20T12:51:37Z",
+  "discussions_count": 1,
+  "discussion_proxy": "77-640420-1",
+  "discussion_threads": [
+    "77-640420-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

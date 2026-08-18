@@ -1,0 +1,77 @@
+{
+  "id": 632661,
+  "lesson": 211689,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "number",
+    "text": "<ol>\n\t<li><strong>Найдите 10 креативов для оффера All for Woman в adspy.com</strong></li>\n\t<li><strong>Загрузите их в папку Google Drive или облако Mail.ru / Яндекс</strong></li>\n\t<li><strong>Пришлите ссылку на папку с креативами наставнику @mstar_mentor</strong></li>\n</ol>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "options": [
+        {
+          "answer": "5353",
+          "max_error": "0"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-632661",
+  "subscriptions": [
+    "31-77-632661",
+    "30-77-632661"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 38,
+  "passed_by": 31,
+  "correct_ratio": 0.775,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 611752,
+  "create_date": "2019-02-28T13:43:40Z",
+  "update_date": "2019-03-01T16:09:00Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-632661-1",
+  "discussion_threads": [
+    "77-632661-1",
+    "77-632661-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

@@ -1,0 +1,96 @@
+{
+  "id": 628917,
+  "lesson": 210764,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2 style=\"text-align: center;\">Что такое RR в арбитраже трафика?</h2>\n",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 3,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Retention Rate, показатель возвратов на N-ый день",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Radiation Rate, интенсивность излучения",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Read & Reply, просьба ответить в электронном письме",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-628917",
+  "subscriptions": [
+    "31-77-628917",
+    "30-77-628917"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 48,
+  "passed_by": 45,
+  "correct_ratio": 0.92,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 608009,
+  "create_date": "2019-02-23T16:27:51Z",
+  "update_date": "2019-02-23T17:11:37Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-628917-1",
+  "discussion_threads": [
+    "77-628917-1",
+    "77-628917-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

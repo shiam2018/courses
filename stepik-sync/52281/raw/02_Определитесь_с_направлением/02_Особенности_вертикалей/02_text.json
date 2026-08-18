@@ -1,0 +1,67 @@
+{
+  "id": 635425,
+  "lesson": 212301,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h1>Онлайн игры</h1>\n\n<p>Реклама игр, различных жанров (стратегии, RPG, три-в-ряд и т.д.) для привлечения платящих игроков. Полностью \"белая\" вертикаль – баннеры легко проходят модерацию, если не вводят пользователей в заблуждение о функционале игры. Рекламодатели щепетильно относятся к используемым рекламным материалам и источникам, потому что высоко ценят бренд игры или студии разработчиков.</p>\n\n<table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 800px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Пример 1</td>\n\t\t\t<td><strong><u><a href=\"https://ad.admitad.com/g/47g4cl3xg4039bedbf92658940d8c2/\" rel=\"noopener noreferrer nofollow\">WARFACE – командый шутер в будущем</a></u></strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Пример 2</td>\n\t\t\t<td><u><strong><a href=\"https://ad.admitad.com/g/185f5612ad039bedbf92084379854e/\" rel=\"noopener noreferrer nofollow\">WAR THUNDER – массовая онлайн игра про авиацию, флот и технику</a></strong></u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Вертикаль</td>\n\t\t\t<td>Игры</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Цвет</td>\n\t\t\t<td>Белый</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Продукт</td>\n\t\t\t<td>Клиентские, браузерные, мобильные игры</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>За что платят</td>\n\t\t\t<td>Регистрация, Установка, Активный игрок, Первый платеж, Revshare</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Выплаты, $</td>\n\t\t\t<td>0.2 – 10</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Целевая аудитория</td>\n\t\t\t<td>70% мужчины 14-45 лет</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Источники трафика</td>\n\t\t\t<td>Facebook*, myTarget, VK, Google Ads, Яндекс.Директ, Тизерные сети, Пуши</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Подходы</td>\n\t\t\t<td>– Демонстрация процесса игры (геймплея)<br>\n\t\t\t– Развитие персонажа от слабого до крутого<br>\n\t\t\t– Показ эротичного персонажа</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Пример креатива 1</td>\n\t\t\t<td><img alt=\"\" src=\"https://ucarecdn.stepik.net/8128898d-82ca-478d-81a5-d13a486d1c68/\"></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Пример креатива 2</td>\n\t\t\t<td><img alt=\"\" src=\"https://ucarecdn.stepik.net/1643dcd0-384e-45c1-9bcf-622d7e0f03e5/\"></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Conversion flow</td>\n\t\t\t<td>Показ - Клик - Лендинг рекламодателя - Регистрация / Инсталл - Активная игра - Покупка внутри игры</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Источник прибыли рекламодателя</td>\n\t\t\t<td>Внутриигровые покупки за жизненный цикл игрока (LTV)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Требования</td>\n\t\t\t<td>Запрет мотива, мислида, фрода; согласование рекламных материалов и источников</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>KPI</td>\n\t\t\t<td>Обозначенный показатель возвратов (RR), конверсия в регистрацию или покупку (CR)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Особенности</td>\n\t\t\t<td>Длинный жизненный цикл (lifetime) игрока, возможность появления сверхплатящих игроков (китов), хорошо работают lookalike</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p> </p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-635425",
+  "subscriptions": [
+    "31-77-635425",
+    "30-77-635425"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 93,
+  "passed_by": 93,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 614516,
+  "create_date": "2019-03-03T14:00:37Z",
+  "update_date": "2019-03-03T15:37:37Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-635425-1",
+  "discussion_threads": [
+    "77-635425-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

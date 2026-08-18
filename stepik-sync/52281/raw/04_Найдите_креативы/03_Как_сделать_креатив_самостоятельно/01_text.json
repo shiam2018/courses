@@ -1,0 +1,67 @@
+{
+  "id": 636613,
+  "lesson": 212661,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p>Опытные арбитражники умеют делать креативы самостоятельно — это быстрее, чем работать с дизайнерами и всегда бесплатно. </p>\n\n<p>Часто сложно объяснить, что именно вы хотите увидеть и проще протестировать идею и реакцию пользователей, сделав крео в простом редакторе за 15 минут.</p>\n\n<h2><strong>Программы для креативов</strong></h2>\n\n<ul>\n\t<li><a href=\"http://paintnet.ru\" rel=\"noopener noreferrer nofollow\"><strong>Paint.net</strong></a> — простой графический редактор, который поддерживает слои и дополнительные плагины, разработанными энтузиастами. Серьезно уступает Фотошопу в плане функционала, что особенно заметно при работе с текстом, зато бесплатен и быстро работает</li>\n\t<li><a href=\"http://www.adobe.com/ru/products/photoshop.html\" rel=\"noopener noreferrer nofollow\"><strong>Adobe Photoshop</strong></a> — профессиональная программа обработки изображений с множеством полезных функций. Официальная версия стоит дорого, программа сложна в освоении и больше подходит для баннермейкеров</li>\n\t<li><a href=\"https://supa.ru/?p=110709\" rel=\"noopener noreferrer nofollow\"><strong>SUPA</strong></a> — простой онлайн видеоредактор, который поможет быстро собрать видео для рекламы и сохранить шаблон. Удобно то, что можно сделать видео для ленты Meta* (прямоугольник 1200х628 и 1920х1080), Инстаграма* (квадрат 1080х1080) и сторис («высокий» прямоугольник 1080х1920)</li>\n\t<li><a href=\"https://www.adobe.com/ru/products/aftereffects.html\" rel=\"noopener noreferrer nofollow\"><strong>Adobe After Effects</strong></a> — Фотошоп для видео: платен, крут, сложен. Много функционала и возможностей, лучше подходит для моушн-дизайнеров</li>\n</ul>\n\n<h2>Принципы хорошего креатива</h2>\n\n<ol>\n\t<li><strong>Простой посыл</strong> — становится ясно, что рекламируют с первых двух (!) секунд ролика или при первом взгляде на баннер. Люди видят крео непосредственно когда листают ленту новостей — он должен привлечь внимание и заинтересовать пользователя настолько, чтобы кликнуть по нему и совершить целевое действие</li>\n\t<li><strong>Выгода </strong>— сразу понятно, какую выгоду, пользу, профит получит пользователь. Напримерю его телефон станет работать быстрее или он получит фоторедакторю автоматически улучшающий селфи</li>\n\t<li><strong>Вау-эффект</strong> — хорошо, когда крео вызывает удивление или интригу, тогды он получает высокий CTR (кликабельность), дешевый клик (низкий CPC) и много показов</li>\n</ol>\n\n<p> </p>\n\n<blockquote>\n<p><span style=\"color: #000000;\">Создайте ваш собственный креатив с помощью бесплатной программы <a href=\"http://paintnet.ru\" rel=\"noopener noreferrer nofollow\">Paint.net</a> и <a href=\"https://bit.ly/2VOfMPH\" rel=\"noopener noreferrer nofollow\">нашей инструкции</a> </span><a href=\"https://bit.ly/2VOfMPH\" rel=\"noopener noreferrer nofollow\">https://bit.ly/2VOfMPH</a></p>\n</blockquote>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-636613",
+  "subscriptions": [
+    "31-77-636613",
+    "30-77-636613"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 163,
+  "passed_by": 163,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 615704,
+  "create_date": "2019-03-05T04:23:52Z",
+  "update_date": "2019-03-10T08:14:52Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-636613-1",
+  "discussion_threads": [
+    "77-636613-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

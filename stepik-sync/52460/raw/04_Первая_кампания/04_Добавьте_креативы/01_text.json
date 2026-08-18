@@ -1,0 +1,67 @@
+{
+  "id": 633416,
+  "lesson": 212012,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h2>Создайте группы объявлений</h2>\n\n<ol>\n\t<li>\n\t<p>Выберите свою страницу</p>\n\t</li>\n\t<li>\n\t<p>Залейте в одну группу 6 лучших, на ваш взгляд видео</p>\n\t</li>\n\t<li>\n\t<p>Укажите в тексте и заголовке текст из adspy типа Install now или Free new app и ОБЯЗАТЕЛЬНО диплинк https://wooman.app.link/ltH3e3McCS?%243p=a_facebook&amp;campaignId=29136&amp;OpenPage=BActivity&amp;serviceId=259&amp;firead=true</p>\n\t</li>\n\t<li>\n\t<p>Прочитав и согласившись с правилами Фейсбука про диплинки</p>\n\t</li>\n\t<li>\n\t<p>Отправляйте на модерацию, нажав \"Проверить\"</p>\n\t</li>\n</ol>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-633416",
+  "subscriptions": [
+    "31-77-633416",
+    "30-77-633416"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 32,
+  "passed_by": 32,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 612507,
+  "create_date": "2019-03-01T14:01:37Z",
+  "update_date": "2019-03-05T10:47:53Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-633416-1",
+  "discussion_threads": [
+    "77-633416-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
