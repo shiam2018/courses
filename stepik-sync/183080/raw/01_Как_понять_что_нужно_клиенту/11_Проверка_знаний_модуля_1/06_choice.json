@@ -1,11 +1,11 @@
 {
-  "id": 11030305,
-  "lesson": 2537451,
-  "position": 1,
+  "id": 11032921,
+  "lesson": 2537443,
+  "position": 6,
   "status": "ready",
   "block": {
     "name": "choice",
-    "text": "<h2>Почему в открытии разговора не стоит использовать слово «предложение»?</h2>",
+    "text": "<h2>В чём суть техники «пять почему» при выявлении потребностей?</h2>",
     "video": null,
     "options": {
       "is_multiple_choice": false
@@ -22,22 +22,22 @@
       "options": [
         {
           "is_correct": true,
-          "text": "Оно включает у клиента защитную реакцию ещё до объяснения сути звонка",
+          "text": "Последовательно спрашивать «почему это важно», пока не дойдёте до настоящей причины",
           "feedback": ""
         },
         {
           "is_correct": false,
-          "text": "Это слово запрещено правилами делового этикета",
+          "text": "Задать клиенту пять вопросов о бюджете и сроках",
           "feedback": ""
         },
         {
           "is_correct": false,
-          "text": "Клиенты не понимают значение этого слова",
+          "text": "Пять раз повторить одно и то же возражение клиента",
           "feedback": ""
         },
         {
           "is_correct": false,
-          "text": "Слово «предложение» слишком длинное для быстрого разговора",
+          "text": "Предложить клиенту пять вариантов продукта на выбор",
           "feedback": ""
         }
       ]
@@ -52,15 +52,15 @@
     "submit": "#",
     "comment": "#"
   },
-  "progress": "77-11030305",
+  "progress": "77-11032921",
   "subscriptions": [
-    "31-77-11030305",
-    "30-77-11030305"
+    "31-77-11032921",
+    "30-77-11032921"
   ],
   "instruction": null,
   "session": null,
   "instruction_type": null,
-  "viewed_by": 1,
+  "viewed_by": 0,
   "passed_by": 0,
   "correct_ratio": null,
   "worth": 0,
@@ -81,14 +81,14 @@
   ],
   "user_step_grade": null,
   "user_step_vote": null,
-  "step_issue": 11009396,
-  "create_date": "2026-08-18T09:21:57Z",
-  "update_date": "2026-08-18T09:21:57Z",
+  "step_issue": 11012012,
+  "create_date": "2026-08-18T15:39:44Z",
+  "update_date": "2026-08-18T15:39:44Z",
   "discussions_count": 0,
-  "discussion_proxy": "77-11030305-1",
+  "discussion_proxy": "77-11032921-1",
   "discussion_threads": [
-    "77-11030305-1",
-    "77-11030305-2"
+    "77-11032921-1",
+    "77-11032921-2"
   ],
   "reason_of_failure": "",
   "error": {
