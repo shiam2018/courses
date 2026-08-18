@@ -1,167 +1,324 @@
 [
   {
-    "lesson_id": "2537440",
-    "title": "Введение в модуль 1",
-    "cover_url": "https://ucarecdn.stepik.net/fea6e173-e6f4-4250-a68b-a75da3c28b6c/-/scale_crop/180x180/center/"
+    "section_id": 526610,
+    "section_title": "Как понять, что нужно клиенту",
+    "section_description": "Как выявлять реальную потребность клиента, а не то, что он говорит буквально. Уровни потребностей, конкурентный контекст и разбор кейса из практики продаж.",
+    "lessons": [
+      {
+        "lesson_id": 2537440,
+        "title": "Введение в модуль 1",
+        "cover_url": "https://ucarecdn.stepik.net/fea6e173-e6f4-4250-a68b-a75da3c28b6c/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 1709185,
+        "title": "Что будет в модуле",
+        "cover_url": "https://ucarecdn.stepik.net/404654cb-d9f5-499a-bd26-f948f0b770a6/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 1709186,
+        "title": "Основы управления продажей",
+        "cover_url": "https://ucarecdn.com/4c2d45e3-b111-4d58-a1ec-b033f6b4b89e/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 1709187,
+        "title": "Разные уровни потребностей",
+        "cover_url": "https://ucarecdn.com/740082cf-e3b4-4357-b4ae-1e976c53eb44/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 1709188,
+        "title": "Потребность клиента и конкуренты",
+        "cover_url": "https://ucarecdn.com/1db5dd72-f4b3-477d-a16d-23ed39314b2a/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 1709189,
+        "title": "Как продавать, опираясь на проблемы клиента",
+        "cover_url": "https://ucarecdn.com/6da93058-c9dd-4d36-8506-be8b32a0c38c/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 1709190,
+        "title": "Примеры из практики (кейсы)",
+        "cover_url": "https://ucarecdn.com/bd42cd6d-3fa6-4fd1-aa8e-f1b90a35668d/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 1709191,
+        "title": "Покажите продукт как решение",
+        "cover_url": "https://ucarecdn.com/d5e18caa-81df-4f51-9b14-e398d13a7223/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537441,
+        "title": "Практика модуля 1",
+        "cover_url": "https://ucarecdn.stepik.net/3effa9f5-df56-4256-92c0-49a3f97f3a4d/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537442,
+        "title": "Итоги модуля 1",
+        "cover_url": "https://ucarecdn.stepik.net/784a2b2e-b6d6-4592-8728-f1e1fd074a56/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537443,
+        "title": "Проверка знаний модуля 1",
+        "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
+      }
+    ]
   },
   {
-    "lesson_id": "2537486",
-    "title": "Введение в модуль 2",
-    "cover_url": "https://ucarecdn.stepik.net/fea6e173-e6f4-4250-a68b-a75da3c28b6c/-/scale_crop/180x180/center/"
+    "section_id": 743654,
+    "section_title": "Первый контакт и знакомство",
+    "section_description": "Как подготовиться к разговору с клиентом, открыть контакт и вызвать доверие в первые секунды. Как удерживать инициативу в разговоре.",
+    "lessons": [
+      {
+        "lesson_id": 2537486,
+        "title": "Введение в модуль 2",
+        "cover_url": "https://ucarecdn.stepik.net/fea6e173-e6f4-4250-a68b-a75da3c28b6c/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537428,
+        "title": "Что будет в модуле",
+        "cover_url": "https://ucarecdn.stepik.net/404654cb-d9f5-499a-bd26-f948f0b770a6/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537445,
+        "title": "Подготовка к разговору",
+        "cover_url": "https://ucarecdn.com/8c246ae9-1235-4340-a1c8-ab736cfcb509/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537446,
+        "title": "Открытие контакта",
+        "cover_url": "https://ucarecdn.stepik.net/cd3f5355-73bf-467b-b0b6-bae5122ee165/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537447,
+        "title": "Знакомство и доверие",
+        "cover_url": "https://ucarecdn.stepik.net/371ca411-702c-402b-8563-505cd408c124/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537448,
+        "title": "Перехват инициативы",
+        "cover_url": "https://ucarecdn.com/09a2bf02-4a2b-4d56-9283-29f333d6f10a/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537449,
+        "title": "Практика модуля 2",
+        "cover_url": "https://ucarecdn.stepik.net/3effa9f5-df56-4256-92c0-49a3f97f3a4d/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537450,
+        "title": "Итоги модуля 2",
+        "cover_url": "https://ucarecdn.stepik.net/784a2b2e-b6d6-4592-8728-f1e1fd074a56/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537451,
+        "title": "Проверка знаний модуля 2",
+        "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
+      }
+    ]
   },
   {
-    "lesson_id": "2537487",
-    "title": "Введение в модуль 3",
-    "cover_url": "https://ucarecdn.stepik.net/fea6e173-e6f4-4250-a68b-a75da3c28b6c/-/scale_crop/180x180/center/"
+    "section_id": 743655,
+    "section_title": "Презентация и ценность",
+    "section_description": "Как быстро понять, подходит ли продукт клиенту, презентовать его через ценность, а не характеристики, и уверенно говорить о цене.",
+    "lessons": [
+      {
+        "lesson_id": 2537487,
+        "title": "Введение в модуль 3",
+        "cover_url": "https://ucarecdn.stepik.net/fea6e173-e6f4-4250-a68b-a75da3c28b6c/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537429,
+        "title": "Что будет в модуле",
+        "cover_url": "https://ucarecdn.stepik.net/404654cb-d9f5-499a-bd26-f948f0b770a6/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537467,
+        "title": "Квалификация клиента",
+        "cover_url": "https://ucarecdn.com/cbf2cc62-f72f-4f3e-884c-f93a56d1b4ab/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537469,
+        "title": "Презентация продукта",
+        "cover_url": "https://ucarecdn.com/1a4f2aea-040f-4fa0-85e4-5bee5c7274a7/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537470,
+        "title": "Разговор о цене",
+        "cover_url": "https://ucarecdn.stepik.net/130c1576-8b5b-4bc9-b949-a793084beffe/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537475,
+        "title": "Формула ценность/стоимость",
+        "cover_url": "https://ucarecdn.com/404d3fad-e88a-4af9-9500-1681e658d4be/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537476,
+        "title": "Практика модуля 3",
+        "cover_url": "https://ucarecdn.stepik.net/3effa9f5-df56-4256-92c0-49a3f97f3a4d/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537478,
+        "title": "Итоги модуля 3",
+        "cover_url": "https://ucarecdn.stepik.net/784a2b2e-b6d6-4592-8728-f1e1fd074a56/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537480,
+        "title": "Проверка знаний модуля 3",
+        "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
+      }
+    ]
   },
   {
-    "lesson_id": "2537488",
-    "title": "Введение в модуль 4",
-    "cover_url": "https://ucarecdn.stepik.net/fea6e173-e6f4-4250-a68b-a75da3c28b6c/-/scale_crop/180x180/center/"
+    "section_id": 743656,
+    "section_title": "Возражения и закрытие сделки",
+    "section_description": "Почему клиенты возражают и как отвечать на «дорого» и «надо подумать» без спора. Как аккуратно предложить допродажу и довести сделку до закрытия.",
+    "lessons": [
+      {
+        "lesson_id": 2537488,
+        "title": "Введение в модуль 4",
+        "cover_url": "https://ucarecdn.stepik.net/fea6e173-e6f4-4250-a68b-a75da3c28b6c/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537430,
+        "title": "Что будет в модуле",
+        "cover_url": "https://ucarecdn.stepik.net/404654cb-d9f5-499a-bd26-f948f0b770a6/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537472,
+        "title": "Природа возражений",
+        "cover_url": "https://ucarecdn.com/d64c9d23-f1f3-4c15-a65d-552cbb127613/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537474,
+        "title": "Техники отработки возражений",
+        "cover_url": "https://ucarecdn.com/3e901072-b52b-43e6-a9e8-00a2f66cee06/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537477,
+        "title": "Допродажа",
+        "cover_url": "https://ucarecdn.com/08d36c2d-5a45-4d3a-9c0c-fe842a88763f/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537479,
+        "title": "Закрытие сделки",
+        "cover_url": "https://ucarecdn.com/4d9c371d-5059-49f7-9d32-ec43b9bae95e/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537481,
+        "title": "Практика модуля 4",
+        "cover_url": "https://ucarecdn.stepik.net/3effa9f5-df56-4256-92c0-49a3f97f3a4d/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537482,
+        "title": "Итоги модуля 4",
+        "cover_url": "https://ucarecdn.stepik.net/784a2b2e-b6d6-4592-8728-f1e1fd074a56/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537483,
+        "title": "Проверка знаний модуля 4",
+        "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
+      }
+    ]
   },
   {
-    "lesson_id": "2537489",
-    "title": "Введение в модуль 5",
-    "cover_url": "https://ucarecdn.stepik.net/fea6e173-e6f4-4250-a68b-a75da3c28b6c/-/scale_crop/180x180/center/"
+    "section_id": 743657,
+    "section_title": "Коммуникативные навыки продавца",
+    "section_description": "Активное слушание, вопросы, которые раскрывают реальную ситуацию клиента, тон и темп речи, и как говорить о сложном продукте простыми словами.",
+    "lessons": [
+      {
+        "lesson_id": 2537489,
+        "title": "Введение в модуль 5",
+        "cover_url": "https://ucarecdn.stepik.net/fea6e173-e6f4-4250-a68b-a75da3c28b6c/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537431,
+        "title": "Что будет в модуле",
+        "cover_url": "https://ucarecdn.stepik.net/404654cb-d9f5-499a-bd26-f948f0b770a6/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537463,
+        "title": "Активное слушание",
+        "cover_url": "https://ucarecdn.com/a863dc89-01b3-412b-bc1f-4d763b312e91/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537464,
+        "title": "Вопросы, которые раскрывают клиента",
+        "cover_url": "https://ucarecdn.com/5b5dfe92-56eb-4484-9542-07484219c3dc/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537465,
+        "title": "Невербальная коммуникация",
+        "cover_url": "https://ucarecdn.com/51445372-084c-4dad-bffe-e59b4d0fde18/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537466,
+        "title": "Ясность и простота речи",
+        "cover_url": "https://ucarecdn.com/85bb42ce-e739-4d2f-b34b-9ace86de2b27/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537468,
+        "title": "Практика модуля 5",
+        "cover_url": "https://ucarecdn.stepik.net/3effa9f5-df56-4256-92c0-49a3f97f3a4d/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537471,
+        "title": "Итоги модуля 5",
+        "cover_url": "https://ucarecdn.stepik.net/784a2b2e-b6d6-4592-8728-f1e1fd074a56/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537473,
+        "title": "Проверка знаний модуля 5",
+        "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
+      }
+    ]
   },
   {
-    "lesson_id": "2537490",
-    "title": "Введение в модуль 6",
-    "cover_url": "https://ucarecdn.stepik.net/fea6e173-e6f4-4250-a68b-a75da3c28b6c/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "1709185",
-    "title": "Что будет в модуле",
-    "cover_url": "https://ucarecdn.stepik.net/404654cb-d9f5-499a-bd26-f948f0b770a6/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537428",
-    "title": "Что будет в модуле",
-    "cover_url": "https://ucarecdn.stepik.net/404654cb-d9f5-499a-bd26-f948f0b770a6/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537429",
-    "title": "Что будет в модуле",
-    "cover_url": "https://ucarecdn.stepik.net/404654cb-d9f5-499a-bd26-f948f0b770a6/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537430",
-    "title": "Что будет в модуле",
-    "cover_url": "https://ucarecdn.stepik.net/404654cb-d9f5-499a-bd26-f948f0b770a6/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537431",
-    "title": "Что будет в модуле",
-    "cover_url": "https://ucarecdn.stepik.net/404654cb-d9f5-499a-bd26-f948f0b770a6/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537432",
-    "title": "Что будет в модуле",
-    "cover_url": "https://ucarecdn.stepik.net/404654cb-d9f5-499a-bd26-f948f0b770a6/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537441",
-    "title": "Практика модуля 1",
-    "cover_url": "https://ucarecdn.stepik.net/3effa9f5-df56-4256-92c0-49a3f97f3a4d/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537449",
-    "title": "Практика модуля 2",
-    "cover_url": "https://ucarecdn.stepik.net/3effa9f5-df56-4256-92c0-49a3f97f3a4d/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537476",
-    "title": "Практика модуля 3",
-    "cover_url": "https://ucarecdn.stepik.net/3effa9f5-df56-4256-92c0-49a3f97f3a4d/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537481",
-    "title": "Практика модуля 4",
-    "cover_url": "https://ucarecdn.stepik.net/3effa9f5-df56-4256-92c0-49a3f97f3a4d/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537468",
-    "title": "Практика модуля 5",
-    "cover_url": "https://ucarecdn.stepik.net/3effa9f5-df56-4256-92c0-49a3f97f3a4d/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537460",
-    "title": "Практика модуля 6",
-    "cover_url": "https://ucarecdn.stepik.net/3effa9f5-df56-4256-92c0-49a3f97f3a4d/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537442",
-    "title": "Итоги модуля 1",
-    "cover_url": "https://ucarecdn.stepik.net/784a2b2e-b6d6-4592-8728-f1e1fd074a56/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537450",
-    "title": "Итоги модуля 2",
-    "cover_url": "https://ucarecdn.stepik.net/784a2b2e-b6d6-4592-8728-f1e1fd074a56/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537478",
-    "title": "Итоги модуля 3",
-    "cover_url": "https://ucarecdn.stepik.net/784a2b2e-b6d6-4592-8728-f1e1fd074a56/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537482",
-    "title": "Итоги модуля 4",
-    "cover_url": "https://ucarecdn.stepik.net/784a2b2e-b6d6-4592-8728-f1e1fd074a56/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537471",
-    "title": "Итоги модуля 5",
-    "cover_url": "https://ucarecdn.stepik.net/784a2b2e-b6d6-4592-8728-f1e1fd074a56/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537461",
-    "title": "Итоги модуля 6",
-    "cover_url": "https://ucarecdn.stepik.net/784a2b2e-b6d6-4592-8728-f1e1fd074a56/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537443",
-    "title": "Проверка знаний модуля 1",
-    "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537451",
-    "title": "Проверка знаний модуля 2",
-    "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537480",
-    "title": "Проверка знаний модуля 3",
-    "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537483",
-    "title": "Проверка знаний модуля 4",
-    "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537473",
-    "title": "Проверка знаний модуля 5",
-    "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537462",
-    "title": "Проверка знаний модуля 6",
-    "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537446",
-    "title": "Открытие контакта",
-    "cover_url": "https://ucarecdn.stepik.net/cd3f5355-73bf-467b-b0b6-bae5122ee165/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537447",
-    "title": "Знакомство и доверие",
-    "cover_url": "https://ucarecdn.stepik.net/371ca411-702c-402b-8563-505cd408c124/-/scale_crop/180x180/center/"
-  },
-  {
-    "lesson_id": "2537457",
-    "title": "Долгосрочные отношения",
-    "cover_url": "https://ucarecdn.stepik.net/371ca411-702c-402b-8563-505cd408c124/-/scale_crop/180x180/center/"
+    "section_id": 743658,
+    "section_title": "Удержание клиента и рост",
+    "section_description": "Что происходит с клиентом после оплаты: онбординг, долгосрочные отношения, работа с отказами и метрики, которые показывают реальный прогресс.",
+    "lessons": [
+      {
+        "lesson_id": 2537490,
+        "title": "Введение в модуль 6",
+        "cover_url": "https://ucarecdn.stepik.net/fea6e173-e6f4-4250-a68b-a75da3c28b6c/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537432,
+        "title": "Что будет в модуле",
+        "cover_url": "https://ucarecdn.stepik.net/404654cb-d9f5-499a-bd26-f948f0b770a6/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537456,
+        "title": "Онбординг клиента",
+        "cover_url": "https://ucarecdn.com/4701d1ec-c7a6-47a4-b6e1-cf6275e5880f/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537457,
+        "title": "Долгосрочные отношения",
+        "cover_url": "https://ucarecdn.stepik.net/371ca411-702c-402b-8563-505cd408c124/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537458,
+        "title": "Работа с отказами",
+        "cover_url": "https://ucarecdn.com/670ad6e2-484d-4b6e-b2dd-8ca514e8ce8f/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537459,
+        "title": "Метрики и рост",
+        "cover_url": "https://ucarecdn.com/e6a56b68-3860-45d2-810e-d4b3c50ad850/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537460,
+        "title": "Практика модуля 6",
+        "cover_url": "https://ucarecdn.stepik.net/3effa9f5-df56-4256-92c0-49a3f97f3a4d/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537461,
+        "title": "Итоги модуля 6",
+        "cover_url": "https://ucarecdn.stepik.net/784a2b2e-b6d6-4592-8728-f1e1fd074a56/-/scale_crop/180x180/center/"
+      },
+      {
+        "lesson_id": 2537462,
+        "title": "Проверка знаний модуля 6",
+        "cover_url": "https://ucarecdn.stepik.net/07aeebee-4771-43aa-9230-3910894a2f16/-/scale_crop/180x180/center/"
+      }
+    ]
   }
 ]
