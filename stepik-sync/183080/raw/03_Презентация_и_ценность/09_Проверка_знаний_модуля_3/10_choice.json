@@ -2,12 +2,14 @@
   "id": 11033969,
   "lesson": 2537480,
   "position": 10,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент говорит «дорого». Что это чаще всего означает на практике?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013060,
-  "create_date": "2026-08-18T16:47:19.814Z",
-  "update_date": "2026-08-18T16:47:19.919Z",
+  "create_date": "2026-08-18T16:47:19Z",
+  "update_date": "2026-08-18T16:47:19Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033969-1",
   "discussion_threads": [

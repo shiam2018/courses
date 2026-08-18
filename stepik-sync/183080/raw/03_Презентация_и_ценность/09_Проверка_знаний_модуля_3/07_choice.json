@@ -2,12 +2,14 @@
   "id": 11033966,
   "lesson": 2537480,
   "position": 7,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>В чём смысл разбивки цены на «10 000 рублей в месяц» вместо «120 000 рублей в год»?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013057,
-  "create_date": "2026-08-18T16:47:16.960Z",
-  "update_date": "2026-08-18T16:47:17.146Z",
+  "create_date": "2026-08-18T16:47:16Z",
+  "update_date": "2026-08-18T16:47:17Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033966-1",
   "discussion_threads": [

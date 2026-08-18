@@ -2,12 +2,14 @@
   "id": 11033960,
   "lesson": 2537451,
   "position": 7,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Зачем в открытии звонка спрашивать «удобно сейчас говорить пару минут?», если это удлиняет разговор?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013051,
-  "create_date": "2026-08-18T16:46:18.090Z",
-  "update_date": "2026-08-18T16:46:18.209Z",
+  "create_date": "2026-08-18T16:46:18Z",
+  "update_date": "2026-08-18T16:46:18Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033960-1",
   "discussion_threads": [

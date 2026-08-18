@@ -2,7 +2,7 @@
   "id": 11030344,
   "lesson": 2537480,
   "position": 2,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Зачем в упрощённом BANT нужен вопрос «Кто ещё участвует в решении?»</h2>",
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009435,
   "create_date": "2026-08-18T09:23:57Z",
-  "update_date": "2026-08-18T16:47:07.809Z",
+  "update_date": "2026-08-18T16:47:07Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030344-1",
   "discussion_threads": [

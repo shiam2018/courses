@@ -2,12 +2,14 @@
   "id": 11033954,
   "lesson": 2537443,
   "position": 9,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>В чём заключается подход «продажа от проблемы»?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013045,
-  "create_date": "2026-08-18T16:45:15.545Z",
-  "update_date": "2026-08-18T16:45:15.777Z",
+  "create_date": "2026-08-18T16:45:15Z",
+  "update_date": "2026-08-18T16:45:15Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033954-1",
   "discussion_threads": [

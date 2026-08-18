@@ -2,12 +2,14 @@
   "id": 11033972,
   "lesson": 2537483,
   "position": 6,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>В середине презентации, ещё до того как клиент на что-либо согласился, продавец предлагает более дорогую комплектацию продукта. Что здесь не так?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013063,
-  "create_date": "2026-08-18T16:48:14.703Z",
-  "update_date": "2026-08-18T16:48:15.109Z",
+  "create_date": "2026-08-18T16:48:14Z",
+  "update_date": "2026-08-18T16:48:15Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033972-1",
   "discussion_threads": [

@@ -2,12 +2,14 @@
   "id": 11033971,
   "lesson": 2537483,
   "position": 5,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент говорит: «Мне нужно посоветоваться с руководителем». Как лучше поступить продавцу?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013062,
-  "create_date": "2026-08-18T16:48:13.832Z",
-  "update_date": "2026-08-18T16:48:14.111Z",
+  "create_date": "2026-08-18T16:48:13Z",
+  "update_date": "2026-08-18T16:48:14Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033971-1",
   "discussion_threads": [

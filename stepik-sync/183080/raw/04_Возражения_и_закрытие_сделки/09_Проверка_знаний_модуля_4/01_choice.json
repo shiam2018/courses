@@ -2,7 +2,7 @@
   "id": 11030352,
   "lesson": 2537483,
   "position": 1,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент говорит: «Дорого, у конкурента дешевле». Что чаще всего стоит за этой фразой?</h2>",
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009443,
   "create_date": "2026-08-18T09:24:07Z",
-  "update_date": "2026-08-18T16:48:09.052Z",
+  "update_date": "2026-08-18T16:48:09Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030352-1",
   "discussion_threads": [

@@ -2,7 +2,7 @@
   "id": 11030346,
   "lesson": 2537480,
   "position": 3,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Продавец говорит клиенту: «У нас 14 встроенных отчётов». Чего не хватает, чтобы это стало выгодой, а не характеристикой?</h2>",
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009437,
   "create_date": "2026-08-18T09:23:58Z",
-  "update_date": "2026-08-18T16:47:12.235Z",
+  "update_date": "2026-08-18T16:47:12Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030346-1",
   "discussion_threads": [

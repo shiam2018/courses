@@ -2,12 +2,14 @@
   "id": 11033963,
   "lesson": 2537451,
   "position": 10,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент дважды прямо просит назвать цену, а продавец дважды уходит от ответа, переводя разговор на потребности. Как это стоит расценивать?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013054,
-  "create_date": "2026-08-18T16:46:20.123Z",
-  "update_date": "2026-08-18T16:46:20.226Z",
+  "create_date": "2026-08-18T16:46:20Z",
+  "update_date": "2026-08-18T16:46:20Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033963-1",
   "discussion_threads": [

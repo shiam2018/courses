@@ -2,12 +2,14 @@
   "id": 11033958,
   "lesson": 2537451,
   "position": 5,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент оставил повторную заявку, но менеджер не посмотрел, что клиент уже сравнивал два похожих продукта в прошлый раз. Какую ошибку подготовки он допустил?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013049,
-  "create_date": "2026-08-18T16:46:16.522Z",
-  "update_date": "2026-08-18T16:46:16.617Z",
+  "create_date": "2026-08-18T16:46:16Z",
+  "update_date": "2026-08-18T16:46:16Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033958-1",
   "discussion_threads": [

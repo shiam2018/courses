@@ -2,7 +2,7 @@
   "id": 11030343,
   "lesson": 2537473,
   "position": 1,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент говорит: «Не уверен, что успеем всё внедрить в этом квартале». Вы отвечаете: «Правильно понимаю, вас беспокоит именно срок, а не сам объём работ?» Что вы сейчас сделали?</h2>",
@@ -60,7 +60,7 @@
   "instruction": null,
   "session": null,
   "instruction_type": null,
-  "viewed_by": 0,
+  "viewed_by": 1,
   "passed_by": 0,
   "correct_ratio": null,
   "worth": 0,
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009434,
   "create_date": "2026-08-18T09:23:56Z",
-  "update_date": "2026-08-18T16:49:07.415Z",
+  "update_date": "2026-08-18T16:49:07Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030343-1",
   "discussion_threads": [

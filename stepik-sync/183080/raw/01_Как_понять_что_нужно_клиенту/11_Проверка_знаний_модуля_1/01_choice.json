@@ -2,7 +2,7 @@
   "id": 11030281,
   "lesson": 2537443,
   "position": 1,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент на созвоне прямо говорит: «Система должна стоить не дороже 50 тысяч в месяц». К какому типу потребности это относится?</h2>",
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009372,
   "create_date": "2026-08-18T09:17:51Z",
-  "update_date": "2026-08-18T16:45:06.477Z",
+  "update_date": "2026-08-18T16:45:06Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030281-1",
   "discussion_threads": [

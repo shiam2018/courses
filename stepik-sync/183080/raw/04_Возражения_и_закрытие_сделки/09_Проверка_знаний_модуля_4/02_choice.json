@@ -2,7 +2,7 @@
   "id": 11030353,
   "lesson": 2537483,
   "position": 2,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент говорит «надо подумать», но не объясняет, над чем именно. Какой вопрос поможет понять, истинное это возражение или за ним скрывается другая причина?</h2>",
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009444,
   "create_date": "2026-08-18T09:24:08Z",
-  "update_date": "2026-08-18T16:48:10.533Z",
+  "update_date": "2026-08-18T16:48:10Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030353-1",
   "discussion_threads": [

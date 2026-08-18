@@ -2,12 +2,14 @@
   "id": 11033961,
   "lesson": 2537451,
   "position": 8,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Продавец в начале звонка пообещал: «Если не подойдёт, просто скажите, и я не буду отнимать время». Через две минуты клиент говорит «мне это не подходит», но продавец продолжает презентацию ещё пять минут. Что произошло?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013052,
-  "create_date": "2026-08-18T16:46:18.849Z",
-  "update_date": "2026-08-18T16:46:18.941Z",
+  "create_date": "2026-08-18T16:46:18Z",
+  "update_date": "2026-08-18T16:46:18Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033961-1",
   "discussion_threads": [

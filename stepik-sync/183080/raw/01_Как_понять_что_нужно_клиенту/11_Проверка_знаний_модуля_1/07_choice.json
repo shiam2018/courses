@@ -2,7 +2,7 @@
   "id": 11032922,
   "lesson": 2537443,
   "position": 7,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Зачем нужна чёткая структура продажи (контакт, потребности, презентация, возражения, закрытие, сопровождение)?</h2>",
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11012013,
   "create_date": "2026-08-18T15:39:44Z",
-  "update_date": "2026-08-18T16:45:13.906Z",
+  "update_date": "2026-08-18T16:45:13Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11032922-1",
   "discussion_threads": [

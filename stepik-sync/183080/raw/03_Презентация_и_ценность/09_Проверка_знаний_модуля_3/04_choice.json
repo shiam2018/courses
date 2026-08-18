@@ -2,7 +2,7 @@
   "id": 11030348,
   "lesson": 2537480,
   "position": 4,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Один и тот же продукт презентуют собственнику бизнеса и рядовому сотруднику. Что должно измениться в презентации?</h2>",
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009439,
   "create_date": "2026-08-18T09:23:58Z",
-  "update_date": "2026-08-18T16:47:13.365Z",
+  "update_date": "2026-08-18T16:47:13Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030348-1",
   "discussion_threads": [

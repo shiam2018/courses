@@ -2,12 +2,14 @@
   "id": 11033998,
   "lesson": 2537462,
   "position": 9,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент на встрече говорит «дорого» ещё до того, как менеджер рассказал о продукте. Судя по логике всего курса, в чём вероятная причина?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013089,
-  "create_date": "2026-08-18T16:50:09.399Z",
-  "update_date": "2026-08-18T16:50:09.605Z",
+  "create_date": "2026-08-18T16:50:09Z",
+  "update_date": "2026-08-18T16:50:09Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033998-1",
   "discussion_threads": [

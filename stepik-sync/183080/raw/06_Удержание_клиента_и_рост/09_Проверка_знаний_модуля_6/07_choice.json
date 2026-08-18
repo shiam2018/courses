@@ -2,12 +2,14 @@
   "id": 11033995,
   "lesson": 2537462,
   "position": 7,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>После отказа клиента менеджер решил, что дело в его слабой презентации. Что стоит сделать в первую очередь по материалам урока?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013086,
-  "create_date": "2026-08-18T16:50:07.505Z",
-  "update_date": "2026-08-18T16:50:07.657Z",
+  "create_date": "2026-08-18T16:50:07Z",
+  "update_date": "2026-08-18T16:50:07Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033995-1",
   "discussion_threads": [

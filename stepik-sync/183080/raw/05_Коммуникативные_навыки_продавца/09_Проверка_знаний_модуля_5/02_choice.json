@@ -2,7 +2,7 @@
   "id": 11030345,
   "lesson": 2537473,
   "position": 2,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Вам нужно понять, что для клиента критично при выборе поставщика. Какой вопрос вероятнее всего даст полезный ответ?</h2>",
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009436,
   "create_date": "2026-08-18T09:23:57Z",
-  "update_date": "2026-08-18T16:49:08.645Z",
+  "update_date": "2026-08-18T16:49:08Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030345-1",
   "discussion_threads": [

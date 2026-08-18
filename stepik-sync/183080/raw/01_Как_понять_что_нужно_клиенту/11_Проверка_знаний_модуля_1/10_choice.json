@@ -2,12 +2,14 @@
   "id": 11033955,
   "lesson": 2537443,
   "position": 10,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>После успешной презентации клиент неожиданно говорит «мне нужно ещё посоветоваться», и сделка зависает на несколько недель, хотя раньше он не возражал. Какая причина из материалов модуля объясняет это чаще всего?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013046,
-  "create_date": "2026-08-18T16:45:16.394Z",
-  "update_date": "2026-08-18T16:45:16.496Z",
+  "create_date": "2026-08-18T16:45:16Z",
+  "update_date": "2026-08-18T16:45:16Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033955-1",
   "discussion_threads": [

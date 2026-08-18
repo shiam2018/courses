@@ -2,12 +2,14 @@
   "id": 11033964,
   "lesson": 2537480,
   "position": 5,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент на первой минуте разговора спрашивает «сколько это стоит?», хотя вы ещё не рассказали о продукте. Как лучше ответить?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013055,
-  "create_date": "2026-08-18T16:47:13.825Z",
-  "update_date": "2026-08-18T16:47:13.925Z",
+  "create_date": "2026-08-18T16:47:13Z",
+  "update_date": "2026-08-18T16:47:13Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033964-1",
   "discussion_threads": [

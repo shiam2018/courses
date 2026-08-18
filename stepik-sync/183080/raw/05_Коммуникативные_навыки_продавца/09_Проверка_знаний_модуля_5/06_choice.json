@@ -2,12 +2,14 @@
   "id": 11033983,
   "lesson": 2537473,
   "position": 6,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Когда закрытые вопросы уместны в разговоре с клиентом?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013074,
-  "create_date": "2026-08-18T16:49:11.954Z",
-  "update_date": "2026-08-18T16:49:12.106Z",
+  "create_date": "2026-08-18T16:49:11Z",
+  "update_date": "2026-08-18T16:49:12Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033983-1",
   "discussion_threads": [

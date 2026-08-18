@@ -2,7 +2,7 @@
   "id": 11030285,
   "lesson": 2537443,
   "position": 3,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Какое из перечисленного, согласно уроку про конкурентов, является устойчивым конкурентным преимуществом, а не тем, что конкурент может быстро скопировать?</h2>",
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009376,
   "create_date": "2026-08-18T09:18:09Z",
-  "update_date": "2026-08-18T16:45:08.863Z",
+  "update_date": "2026-08-18T16:45:08Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030285-1",
   "discussion_threads": [

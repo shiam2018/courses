@@ -2,7 +2,7 @@
   "id": 11032920,
   "lesson": 2537443,
   "position": 5,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Продавец говорит клиенту: «У нашей системы 16 ГБ памяти, и поддержка работает 24 часа в сутки». Чего не хватает в этой презентации?</h2>",
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11012011,
   "create_date": "2026-08-18T15:39:43Z",
-  "update_date": "2026-08-18T16:45:11.326Z",
+  "update_date": "2026-08-18T16:45:11Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11032920-1",
   "discussion_threads": [

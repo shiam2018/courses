@@ -2,12 +2,14 @@
   "id": 11033975,
   "lesson": 2537483,
   "position": 9,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент явно готов покупать, но колеблется между двумя способами оплаты. Какой тип вопроса для закрытия сделки подойдёт лучше всего?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013066,
-  "create_date": "2026-08-18T16:48:19.368Z",
-  "update_date": "2026-08-18T16:48:19.737Z",
+  "create_date": "2026-08-18T16:48:19Z",
+  "update_date": "2026-08-18T16:48:19Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033975-1",
   "discussion_threads": [

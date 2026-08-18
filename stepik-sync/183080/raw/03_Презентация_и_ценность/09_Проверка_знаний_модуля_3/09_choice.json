@@ -2,12 +2,14 @@
   "id": 11033968,
   "lesson": 2537480,
   "position": 9,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Какой из двух рычагов увеличения разницы между ценностью и стоимостью опытные продавцы используют в первую очередь?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013059,
-  "create_date": "2026-08-18T16:47:18.554Z",
-  "update_date": "2026-08-18T16:47:18.738Z",
+  "create_date": "2026-08-18T16:47:18Z",
+  "update_date": "2026-08-18T16:47:18Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033968-1",
   "discussion_threads": [

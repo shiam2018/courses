@@ -2,12 +2,14 @@
   "id": 11033959,
   "lesson": 2537451,
   "position": 6,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Продавец начинает звонок так: «Добрый день, у меня для вас есть интересное предложение по продвижению». Что стоит изменить в первую очередь?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013050,
-  "create_date": "2026-08-18T16:46:17.251Z",
-  "update_date": "2026-08-18T16:46:17.503Z",
+  "create_date": "2026-08-18T16:46:17Z",
+  "update_date": "2026-08-18T16:46:17Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033959-1",
   "discussion_threads": [

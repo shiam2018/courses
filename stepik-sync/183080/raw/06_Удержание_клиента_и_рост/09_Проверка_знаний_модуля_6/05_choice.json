@@ -2,12 +2,14 @@
   "id": 11033993,
   "lesson": 2537462,
   "position": 5,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Один клиент получил искреннее внимание менеджера, но без скидки. Другой получил скидку, но менеджер ни разу не спросил о его успехах. Какой вывод верный по материалам модуля?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013084,
-  "create_date": "2026-08-18T16:50:06.220Z",
-  "update_date": "2026-08-18T16:50:06.317Z",
+  "create_date": "2026-08-18T16:50:06Z",
+  "update_date": "2026-08-18T16:50:06Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033993-1",
   "discussion_threads": [

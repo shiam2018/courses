@@ -2,12 +2,14 @@
   "id": 11033973,
   "lesson": 2537483,
   "position": 7,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент купил CRM для отдела продаж. Продавец предлагает ему отдельный модуль для аналитики, который решает смежную задачу учёта эффективности менеджеров. Какой это формат допродажи?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013064,
-  "create_date": "2026-08-18T16:48:15.654Z",
-  "update_date": "2026-08-18T16:48:15.762Z",
+  "create_date": "2026-08-18T16:48:15Z",
+  "update_date": "2026-08-18T16:48:15Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033973-1",
   "discussion_threads": [

@@ -2,7 +2,7 @@
   "id": 11030322,
   "lesson": 2537462,
   "position": 3,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Три клиента подряд сказали «дорого», но были готовы взять более дешёвый тариф. Что это, скорее всего, значит?</h2>",
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009413,
   "create_date": "2026-08-18T09:22:49Z",
-  "update_date": "2026-08-18T16:50:04.286Z",
+  "update_date": "2026-08-18T16:50:04Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030322-1",
   "discussion_threads": [

@@ -2,7 +2,7 @@
   "id": 11030320,
   "lesson": 2537462,
   "position": 1,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент оплатил доступ два дня назад, но ни разу не заходил в продукт. Что стоит сделать в первую очередь?</h2>",
@@ -60,7 +60,7 @@
   "instruction": null,
   "session": null,
   "instruction_type": null,
-  "viewed_by": 0,
+  "viewed_by": 1,
   "passed_by": 0,
   "correct_ratio": null,
   "worth": 0,
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009411,
   "create_date": "2026-08-18T09:22:47Z",
-  "update_date": "2026-08-18T16:50:02.081Z",
+  "update_date": "2026-08-18T16:50:02Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030320-1",
   "discussion_threads": [

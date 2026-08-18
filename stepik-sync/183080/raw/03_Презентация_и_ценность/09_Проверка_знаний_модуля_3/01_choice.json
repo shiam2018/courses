@@ -2,7 +2,7 @@
   "id": 11030342,
   "lesson": 2537480,
   "position": 1,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент говорит на созвоне: «В целом любопытно, но бюджет мы ещё не защищали, и вообще смотрим не только на ваше решение». К какому уровню готовности его стоит отнести?</h2>",
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11009433,
   "create_date": "2026-08-18T09:23:55Z",
-  "update_date": "2026-08-18T16:47:06.690Z",
+  "update_date": "2026-08-18T16:47:06Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11030342-1",
   "discussion_threads": [

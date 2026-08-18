@@ -2,12 +2,14 @@
   "id": 11033999,
   "lesson": 2537462,
   "position": 10,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент отказался от покупки полгода назад. Какое действие соответствует материалам модуля?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013090,
-  "create_date": "2026-08-18T16:50:10.201Z",
-  "update_date": "2026-08-18T16:50:10.322Z",
+  "create_date": "2026-08-18T16:50:10Z",
+  "update_date": "2026-08-18T16:50:10Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033999-1",
   "discussion_threads": [

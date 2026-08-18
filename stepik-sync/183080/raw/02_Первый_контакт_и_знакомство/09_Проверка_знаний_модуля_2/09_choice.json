@@ -2,12 +2,14 @@
   "id": 11033962,
   "lesson": 2537451,
   "position": 9,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Клиент спрашивает «а сколько стоит?», продавец отвечает «от 30 до 80 тысяч», клиент говорит «дорого, я подумаю» и разговор обрывается. Что стоило сделать иначе?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013053,
-  "create_date": "2026-08-18T16:46:19.366Z",
-  "update_date": "2026-08-18T16:46:19.499Z",
+  "create_date": "2026-08-18T16:46:19Z",
+  "update_date": "2026-08-18T16:46:19Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033962-1",
   "discussion_threads": [

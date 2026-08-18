@@ -2,12 +2,14 @@
   "id": 11033987,
   "lesson": 2537473,
   "position": 10,
-  "status": "preparing",
+  "status": "ready",
   "block": {
     "name": "choice",
     "text": "<h2>Вы назвали цену, и в разговоре повисла пауза. Что делать?</h2>",
     "video": null,
-    "options": {},
+    "options": {
+      "is_multiple_choice": false
+    },
     "subtitle_files": [],
     "is_deprecated": false,
     "source": {
@@ -80,8 +82,8 @@
   "user_step_grade": null,
   "user_step_vote": null,
   "step_issue": 11013078,
-  "create_date": "2026-08-18T16:49:14.764Z",
-  "update_date": "2026-08-18T16:49:14.893Z",
+  "create_date": "2026-08-18T16:49:14Z",
+  "update_date": "2026-08-18T16:49:14Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11033987-1",
   "discussion_threads": [
