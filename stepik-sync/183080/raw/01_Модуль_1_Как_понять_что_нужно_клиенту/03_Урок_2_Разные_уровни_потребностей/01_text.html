@@ -1,0 +1,443 @@
+
+            <div style="margin: -30px -30px 30px -30px;">
+                
+                /* Базовые стили для инициализации */
+                .stepik-slide {
+                    width: 100%;
+                    height: 500px;
+                    background: linear-gradient(135deg, #0a4d8c, #0c71c3);
+                    position: relative;
+                    overflow: hidden;
+                    display: flex;
+                    flex-direction: column;
+                    font-family: 'Roboto', Arial, sans-serif;
+                    color: white;
+                }
+                
+                .stepik-slide-header {
+                    position: relative;
+                    top: 0;
+                    left: 0;
+                    right: 0;
+                    padding: 30px 60px;
+                    background: rgba(255, 255, 255, 0.05);
+                    z-index: 10;
+                }
+                
+                .stepik-slide-title {
+                    font-size: 48px;
+                    color: #ffffff;
+                    font-weight: 700;
+                    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+                }
+                
+                .stepik-slide-content {
+                    padding: 30px 60px;
+                    z-index: 10;
+                    flex-grow: 1;
+                    display: flex;
+                    flex-direction: column;
+                }
+                
+                .stepik-subtitle {
+                    font-size: 30px;
+                    color: rgba(255, 255, 255, 0.85);
+                    margin-bottom: 40px;
+                    font-weight: 300;
+                }
+                
+                /* Стили для иерархии потребностей */
+                .stepik-pyramid-container {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    flex-grow: 1;
+                    position: relative;
+                }
+                
+                .stepik-pyramid {
+                    width: 60%;
+                    position: relative;
+                    height: 300px;
+                }
+                
+                .stepik-pyramid-level {
+                    position: absolute;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    background-color: rgba(255, 255, 255, 0.1);
+                    border-radius: 10px;
+                    backdrop-filter: blur(5px);
+                    border: 1px solid rgba(255, 255, 255, 0.2);
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    text-align: center;
+                    padding: 10px;
+                }
+                
+                .stepik-level-1 {
+                    bottom: 0;
+                    width: 100%;
+                    height: 60px;
+                }
+                
+                .stepik-level-2 {
+                    bottom: 70px;
+                    width: 85%;
+                    height: 60px;
+                }
+                
+                .stepik-level-3 {
+                    bottom: 140px;
+                    width: 70%;
+                    height: 60px;
+                }
+                
+                .stepik-level-4 {
+                    bottom: 210px;
+                    width: 55%;
+                    height: 60px;
+                }
+                
+                .stepik-level-5 {
+                    bottom: 280px;
+                    width: 40%;
+                    height: 60px;
+                }
+                
+                .stepik-level-title {
+                    font-size: 20px;
+                    color: #ffffff;
+                    font-weight: 600;
+                    margin-bottom: 5px;
+                }
+                
+                .stepik-level-description {
+                    font-size: 14px;
+                    color: rgba(255, 255, 255, 0.8);
+                }
+                
+                .stepik-practice-panel {
+                    width: 35%;
+                    background-color: rgba(255, 255, 255, 0.15);
+                    border-radius: 20px;
+                    padding: 20px;
+                    backdrop-filter: blur(10px);
+                    border: 1px solid rgba(255, 255, 255, 0.3);
+                }
+                
+                .stepik-panel-title {
+                    font-size: 24px;
+                    color: #ffffff;
+                    margin-bottom: 15px;
+                    font-weight: 600;
+                }
+                
+                .stepik-practice-item {
+                    margin-bottom: 10px;
+                    display: flex;
+                    align-items: flex-start;
+                }
+                
+                .stepik-item-number {
+                    width: 20px;
+                    margin-right: 10px;
+                    color: rgba(255, 255, 255, 0.9);
+                    font-size: 16px;
+                    font-weight: bold;
+                }
+                
+                .stepik-item-text {
+                    flex-grow: 1;
+                    font-size: 16px;
+                    color: rgba(255, 255, 255, 0.85);
+                    line-height: 1.4;
+                }
+                
+                /* Стили для методов выявления потребностей */
+                .stepik-methods-grid {
+                    display: grid;
+                    grid-template-columns: 1fr 1fr;
+                    gap: 20px;
+                    margin-top: 20px;
+                }
+                
+                .stepik-method {
+                    background-color: rgba(255, 255, 255, 0.1);
+                    border-radius: 15px;
+                    padding: 20px;
+                    backdrop-filter: blur(5px);
+                    border: 1px solid rgba(255, 255, 255, 0.2);
+                    display: flex;
+                    align-items: flex-start;
+                }
+                
+                .stepik-method-content {
+                    flex-grow: 1;
+                }
+                
+                .stepik-method h3 {
+                    font-size: 22px;
+                    color: #ffffff;
+                    margin-bottom: 10px;
+                    font-weight: 600;
+                }
+                
+                .stepik-method p {
+                    font-size: 16px;
+                    color: rgba(255, 255, 255, 0.8);
+                    line-height: 1.5;
+                }
+                
+                .stepik-example {
+                    font-style: italic;
+                    margin-top: 10px;
+                    padding: 8px;
+                    background-color: rgba(255, 255, 255, 0.08);
+                    border-radius: 8px;
+                    border-left: 3px solid rgba(255, 255, 255, 0.3);
+                }
+                
+                .stepik-footer {
+                    text-align: center;
+                    padding-top: 15px;
+                    font-size: 18px;
+                    color: rgba(255, 255, 255, 0.7);
+                    font-weight: 500;
+                }
+                
+                /* Адаптивность для мобильных устройств */
+                @media (max-width: 768px) {
+                    .stepik-slide {
+                        height: 400px;
+                    }
+                    
+                    .stepik-slide-title {
+                        font-size: 32px;
+                    }
+                    
+                    .stepik-subtitle {
+                        font-size: 22px;
+                    }
+                    
+                    .stepik-pyramid-container {
+                        flex-direction: column;
+                    }
+                    
+                    .stepik-pyramid {
+                        width: 90%;
+                        height: 250px;
+                    }
+                    
+                    .stepik-practice-panel {
+                        width: 90%;
+                        margin-top: 20px;
+                    }
+                    
+                    .stepik-methods-grid {
+                        grid-template-columns: 1fr;
+                    }
+                }
+                
+            
+                <div class="stepik-slide">
+                    <div class="stepik-slide-header">
+                        <div class="stepik-slide-title">Иерархия потребностей клиента</div>
+                    </div>
+                    <div class="stepik-slide-content">
+                        <div class="stepik-subtitle">От базовых нужд к высшим ценностям</div>
+                        <div class="stepik-pyramid-container">
+                            <div class="stepik-pyramid">
+                                <div class="stepik-pyramid-level stepik-level-1">
+                                    <div class="stepik-level-title">Функциональные</div>
+                                    <div class="stepik-level-description">Базовые потребности в продукте или услуге</div>
+                                </div>
+                                <div class="stepik-pyramid-level stepik-level-2">
+                                    <div class="stepik-level-title">Финансовые</div>
+                                    <div class="stepik-level-description">Стоимость и экономическая выгода</div>
+                                </div>
+                                <div class="stepik-pyramid-level stepik-level-3">
+                                    <div class="stepik-level-title">Процессные</div>
+                                    <div class="stepik-level-description">Удобство использования и интеграции</div>
+                                </div>
+                                <div class="stepik-pyramid-level stepik-level-4">
+                                    <div class="stepik-level-title">Социальные</div>
+                                    <div class="stepik-level-description">Престиж, статус и признание</div>
+                                </div>
+                                <div class="stepik-pyramid-level stepik-level-5">
+                                    <div class="stepik-level-title">Эмоциональные</div>
+                                    <div class="stepik-level-description">Ценности, самореализация и удовлетворение</div>
+                                </div>
+                            </div>
+                            <div class="stepik-practice-panel">
+                                <div class="stepik-panel-title">Как применять на практике</div>
+                                <div class="stepik-practice-item">
+                                    <div class="stepik-item-number">1</div>
+                                    <div class="stepik-item-text">
+                                        <strong>Определите текущий уровень потребностей</strong> клиента через серию открытых вопросов
+                                    </div>
+                                </div>
+                                <div class="stepik-practice-item">
+                                    <div class="stepik-item-number">2</div>
+                                    <div class="stepik-item-text">
+                                        <strong>Начните с удовлетворения базовых потребностей</strong>, затем переходите к более высоким уровням
+                                    </div>
+                                </div>
+                                <div class="stepik-practice-item">
+                                    <div class="stepik-item-number">3</div>
+                                    <div class="stepik-item-text">
+                                        <strong>Адаптируйте ваше предложение</strong> и коммуникацию под соответствующий уровень потребностей клиента
+                                    </div>
+                                </div>
+                                <div class="stepik-practice-item">
+                                    <div class="stepik-item-number">4</div>
+                                    <div class="stepik-item-text">
+                                        <strong>Покажите ценность</strong> вашего предложения именно на том уровне, который важен для клиента
+                                    </div>
+                                </div>
+                                <div class="stepik-practice-item">
+                                    <div class="stepik-item-number">5</div>
+                                    <div class="stepik-item-text">
+                                        <strong>Стремитесь помочь клиенту</strong> осознать потребности более высокого уровня, где ваш продукт имеет преимущества
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div><div class="lesson-content">
+<h3>Введение</h3>
+<p>Для успешных продаж критически важно понимать, что потребности клиентов многоуровневые и часто иерархически организованы. В этом уроке мы разберем различные уровни потребностей и как их использовать в процессе продажи.</p>
+<h3>1. Пирамида потребностей в контексте продаж</h3>
+<p>Подобно знаменитой пирамиде Маслоу, потребности клиентов в бизнес-контексте также могут быть представлены в виде иерархии:</p>
+<ul>
+<li><strong>Базовые функциональные потребности</strong> — минимальные требования к продукту/услуге, без которых клиент не будет рассматривать покупку.</li>
+<li><strong>Экономические потребности</strong> — соотношение цены и качества, экономическая выгода, ROI.</li>
+<li><strong>Потребности процесса</strong> — удобство использования, интеграция с существующими системами.</li>
+<li><strong>Организационные потребности</strong> — соответствие корпоративной культуре, стратегии, политикам.</li>
+<li><strong>Индивидуальные/личные потребности</strong> — статус, безопасность работы, признание для ЛПР.</li>
+</ul>
+<h3>2. Явные vs. Скрытые потребности</h3>
+<p><strong>Явные потребности</strong> — то, что клиент открыто озвучивает:</p>
+<ul>
+<li>"Нам нужен продукт с функцией X"</li>
+<li>"Наш бюджет — Y рублей"</li>
+<li>"Сроки внедрения должны быть в пределах Z недель"</li>
+</ul>
+<p><strong>Скрытые потребности</strong> — неозвученные, но часто более важные:</p>
+<ul>
+<li>Страх сделать ошибку при выборе поставщика</li>
+<li>Желание произвести впечатление на руководство</li>
+<li>Боязнь сложностей при внедрении новой системы</li>
+<li>Стремление к сохранению статуса или получению повышения</li>
+</ul>
+<h3>3. Методы выявления разных уровней потребностей</h3>
+<h4>Техника "5 Почему"</h4>
+<p>Последовательно задавайте вопрос "почему это важно?" для погружения к глубинным потребностям.</p>
+<p><strong>Пример:</strong></p>
+<ol>
+<li>"Нам нужна CRM-система"</li>
+<li>"Почему вам нужна CRM-система?" — "Чтобы автоматизировать работу отдела продаж"</li>
+<li>"Почему важна автоматизация?" — "Чтобы сократить время на рутинные задачи"</li>
+<li>"Почему это критично?" — "Потому что мы теряем клиентов из-за медленной обработки заявок"</li>
+<li>"Почему происходит потеря клиентов?" — "Конкуренты быстрее реагируют на запросы"</li>
+<li>"Почему скорость реакции так важна в вашем сегменте?" — "Это ключевой фактор выбора поставщика для наших клиентов"</li>
+</ol>
+<p>Теперь мы знаем истинную потребность: не просто автоматизация, а конкурентное преимущество в скорости обслуживания клиентов.</p>
+<h4>SPIN-модель вопросов</h4>
+<ul>
+<li><strong>S</strong>ituation (Ситуационные) — текущее положение дел</li>
+<li><strong>P</strong>roblem (Проблемные) — затруднения и вызовы</li>
+<li><strong>I</strong>mplication (Импликационные) — последствия проблем</li>
+<li><strong>N</strong>eed-payoff (Направляющие к решению) — выгоды от решения проблем</li>
+</ul>
+<h3>4. Как адаптировать ваше предложение под разные уровни потребностей</h3>
+<p><strong>Матрица соответствия:</strong></p>
+<table border="1">
+<tbody><tr>
+<th>Уровень потребности</th>
+<th>Аспект вашего предложения</th>
+<th>Пример формулировки</th>
+</tr>
+<tr>
+<td>Функциональные</td>
+<td>Технические характеристики</td>
+<td>"Наше решение обеспечивает 99.9% доступности, что соответствует вашим требованиям по надежности"</td>
+</tr>
+<tr>
+<td>Экономические</td>
+<td>ROI, TCO, экономия</td>
+<td>"Внедрение сократит операционные расходы на 30% в течение первого года"</td>
+</tr>
+<tr>
+<td>Процессные</td>
+<td>Интеграция, обучение</td>
+<td>"Мы полностью интегрируемся с вашей текущей инфраструктурой без простоев"</td>
+</tr>
+<tr>
+<td>Организационные</td>
+<td>Соответствие стратегии</td>
+<td>"Наше решение соответствует вашей стратегии цифровой трансформации"</td>
+</tr>
+<tr>
+<td>Индивидуальные</td>
+<td>Снижение рисков, статус</td>
+<td>"Вы лично получите признание за внедрение инновационного решения"</td>
+</tr>
+</tbody></table>
+<h3>5. Практический пример анализа потребностей</h3>
+<p><strong>Кейс:</strong> Компания рассматривает покупку системы управления проектами</p>
+<table border="1">
+<tbody><tr>
+<th>Уровень</th>
+<th>Выявленные потребности</th>
+<th>Ключевые вопросы для выявления</th>
+</tr>
+<tr>
+<td>Функциональные</td>
+<td>Отслеживание задач, распределение ресурсов</td>
+<td>"Какие ключевые функции должна иметь система?"</td>
+</tr>
+<tr>
+<td>Экономические</td>
+<td>Снижение простоев, экономия на координации</td>
+<td>"Какие экономические показатели должна улучшить система?"</td>
+</tr>
+<tr>
+<td>Процессные</td>
+<td>Простота освоения, мобильный доступ</td>
+<td>"Как система должна вписаться в текущие рабочие процессы?"</td>
+</tr>
+<tr>
+<td>Организационные</td>
+<td>Соответствие Agile-методологии компании</td>
+<td>"Какие корпоративные стандарты должна поддерживать система?"</td>
+</tr>
+<tr>
+<td>Индивидуальные</td>
+<td>Руководитель ИТ хочет продемонстрировать инновационность</td>
+<td>"Что этот проект значит лично для вас как руководителя?"</td>
+</tr>
+</tbody></table>
+<h3>6. Практическое задание</h3>
+<p>Выберите один из ваших продуктов/услуг и ответьте на следующие вопросы:</p>
+<ol>
+<li>Какие функциональные потребности удовлетворяет ваш продукт?</li>
+<li>Какие экономические выгоды он предоставляет?</li>
+<li>Как он интегрируется в рабочие процессы клиентов?</li>
+<li>Какие организационные цели клиентов он поддерживает?</li>
+<li>Какие личные выгоды получает лицо, принимающее решение о покупке?</li>
+</ol>
+<p>Подготовьте презентацию вашего продукта, адресующую все уровни потребностей.</p>
+<h3>Заключение</h3>
+<p>Понимание многоуровневой природы потребностей клиентов — ключевой навык современного продавца. Это позволяет:</p>
+<ul>
+<li>Выстраивать более персонализированные предложения</li>
+<li>Находить истинные мотивы принятия решений</li>
+<li>Дифференцировать ваше предложение от конкурентов</li>
+<li>Повышать ценность вашего решения в глазах клиента</li>
+</ul>
+<p>В следующем уроке мы рассмотрим, как учитывать фактор конкуренции при анализе потребностей клиентов.</p>
+</div>

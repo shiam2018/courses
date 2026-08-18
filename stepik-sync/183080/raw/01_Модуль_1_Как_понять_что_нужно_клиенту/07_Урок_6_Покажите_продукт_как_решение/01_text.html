@@ -1,0 +1,382 @@
+
+            <div style="margin: -30px -30px 30px -30px;">
+                
+                /* Базовые стили для инициализации */
+                .stepik-slide {
+                    width: 100%;
+                    height: 500px;
+                    background: linear-gradient(135deg, #0a4d8c, #0c71c3);
+                    position: relative;
+                    overflow: hidden;
+                    display: flex;
+                    flex-direction: column;
+                    font-family: 'Roboto', Arial, sans-serif;
+                    color: white;
+                }
+                
+                .stepik-slide-header {
+                    position: relative;
+                    top: 0;
+                    left: 0;
+                    right: 0;
+                    padding: 30px 60px;
+                    background: rgba(255, 255, 255, 0.05);
+                    z-index: 10;
+                }
+                
+                .stepik-slide-title {
+                    font-size: 48px;
+                    color: #ffffff;
+                    font-weight: 700;
+                    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+                }
+                
+                .stepik-slide-content {
+                    padding: 30px 60px;
+                    z-index: 10;
+                    flex-grow: 1;
+                    display: flex;
+                    flex-direction: column;
+                }
+                
+                .stepik-subtitle {
+                    font-size: 30px;
+                    color: rgba(255, 255, 255, 0.85);
+                    margin-bottom: 40px;
+                    font-weight: 300;
+                }
+                
+                /* Стили для иерархии потребностей */
+                .stepik-pyramid-container {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    flex-grow: 1;
+                    position: relative;
+                }
+                
+                .stepik-pyramid {
+                    width: 60%;
+                    position: relative;
+                    height: 300px;
+                }
+                
+                .stepik-pyramid-level {
+                    position: absolute;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    background-color: rgba(255, 255, 255, 0.1);
+                    border-radius: 10px;
+                    backdrop-filter: blur(5px);
+                    border: 1px solid rgba(255, 255, 255, 0.2);
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    text-align: center;
+                    padding: 10px;
+                }
+                
+                .stepik-level-1 {
+                    bottom: 0;
+                    width: 100%;
+                    height: 60px;
+                }
+                
+                .stepik-level-2 {
+                    bottom: 70px;
+                    width: 85%;
+                    height: 60px;
+                }
+                
+                .stepik-level-3 {
+                    bottom: 140px;
+                    width: 70%;
+                    height: 60px;
+                }
+                
+                .stepik-level-4 {
+                    bottom: 210px;
+                    width: 55%;
+                    height: 60px;
+                }
+                
+                .stepik-level-5 {
+                    bottom: 280px;
+                    width: 40%;
+                    height: 60px;
+                }
+                
+                .stepik-level-title {
+                    font-size: 20px;
+                    color: #ffffff;
+                    font-weight: 600;
+                    margin-bottom: 5px;
+                }
+                
+                .stepik-level-description {
+                    font-size: 14px;
+                    color: rgba(255, 255, 255, 0.8);
+                }
+                
+                .stepik-practice-panel {
+                    width: 35%;
+                    background-color: rgba(255, 255, 255, 0.15);
+                    border-radius: 20px;
+                    padding: 20px;
+                    backdrop-filter: blur(10px);
+                    border: 1px solid rgba(255, 255, 255, 0.3);
+                }
+                
+                .stepik-panel-title {
+                    font-size: 24px;
+                    color: #ffffff;
+                    margin-bottom: 15px;
+                    font-weight: 600;
+                }
+                
+                .stepik-practice-item {
+                    margin-bottom: 10px;
+                    display: flex;
+                    align-items: flex-start;
+                }
+                
+                .stepik-item-number {
+                    width: 20px;
+                    margin-right: 10px;
+                    color: rgba(255, 255, 255, 0.9);
+                    font-size: 16px;
+                    font-weight: bold;
+                }
+                
+                .stepik-item-text {
+                    flex-grow: 1;
+                    font-size: 16px;
+                    color: rgba(255, 255, 255, 0.85);
+                    line-height: 1.4;
+                }
+                
+                /* Стили для методов выявления потребностей */
+                .stepik-methods-grid {
+                    display: grid;
+                    grid-template-columns: 1fr 1fr;
+                    gap: 20px;
+                    margin-top: 20px;
+                }
+                
+                .stepik-method {
+                    background-color: rgba(255, 255, 255, 0.1);
+                    border-radius: 15px;
+                    padding: 20px;
+                    backdrop-filter: blur(5px);
+                    border: 1px solid rgba(255, 255, 255, 0.2);
+                    display: flex;
+                    align-items: flex-start;
+                }
+                
+                .stepik-method-content {
+                    flex-grow: 1;
+                }
+                
+                .stepik-method h3 {
+                    font-size: 22px;
+                    color: #ffffff;
+                    margin-bottom: 10px;
+                    font-weight: 600;
+                }
+                
+                .stepik-method p {
+                    font-size: 16px;
+                    color: rgba(255, 255, 255, 0.8);
+                    line-height: 1.5;
+                }
+                
+                .stepik-example {
+                    font-style: italic;
+                    margin-top: 10px;
+                    padding: 8px;
+                    background-color: rgba(255, 255, 255, 0.08);
+                    border-radius: 8px;
+                    border-left: 3px solid rgba(255, 255, 255, 0.3);
+                }
+                
+                .stepik-footer {
+                    text-align: center;
+                    padding-top: 15px;
+                    font-size: 18px;
+                    color: rgba(255, 255, 255, 0.7);
+                    font-weight: 500;
+                }
+                
+                /* Адаптивность для мобильных устройств */
+                @media (max-width: 768px) {
+                    .stepik-slide {
+                        height: 400px;
+                    }
+                    
+                    .stepik-slide-title {
+                        font-size: 32px;
+                    }
+                    
+                    .stepik-subtitle {
+                        font-size: 22px;
+                    }
+                    
+                    .stepik-pyramid-container {
+                        flex-direction: column;
+                    }
+                    
+                    .stepik-pyramid {
+                        width: 90%;
+                        height: 250px;
+                    }
+                    
+                    .stepik-practice-panel {
+                        width: 90%;
+                        margin-top: 20px;
+                    }
+                    
+                    .stepik-methods-grid {
+                        grid-template-columns: 1fr;
+                    }
+                }
+                
+            
+                <div class="stepik-slide">
+                    <div class="stepik-slide-header">
+                        <div class="stepik-slide-title">Методы выявления потребностей</div>
+                    </div>
+                    <div class="stepik-slide-content">
+                        <div class="stepik-subtitle">Эффективные техники для понимания истинных потребностей клиента</div>
+                        <div class="stepik-methods-grid">
+                            <div class="stepik-method">
+                                <div class="stepik-method-content">
+                                    <h3>Открытые вопросы</h3>
+                                    <p>Используйте вопросы, требующие развернутого ответа, чтобы клиент мог рассказать о своих потребностях более подробно.</p>
+                                    <p class="stepik-example">"Расскажите подробнее, какие задачи вы хотите решить с помощью этого продукта?"</p>
+                                </div>
+                            </div>
+                            <div class="stepik-method">
+                                <div class="stepik-method-content">
+                                    <h3>Активное слушание</h3>
+                                    <p>Внимательно слушайте клиента, задавайте уточняющие вопросы и перефразируйте услышанное, чтобы убедиться в правильности понимания.</p>
+                                    <p class="stepik-example">"Если я правильно понял, для вас важно, чтобы решение экономило ваше время?"</p>
+                                </div>
+                            </div>
+                            <div class="stepik-method">
+                                <div class="stepik-method-content">
+                                    <h3>Метод SPIN</h3>
+                                    <p>Последовательность из ситуационных, проблемных, извлекающих и направляющих вопросов для выявления глубинных потребностей.</p>
+                                    <p class="stepik-example">"Какие трудности возникают из-за этой проблемы? Как это влияет на вашу работу?"</p>
+                                </div>
+                            </div>
+                            <div class="stepik-method">
+                                <div class="stepik-method-content">
+                                    <h3>Наблюдение за поведением</h3>
+                                    <p>Обращайте внимание на невербальные сигналы, эмоциональные реакции и ключевые фразы, которые могут указывать на скрытые потребности.</p>
+                                    <p class="stepik-example">"Я заметил, что вы особенно заинтересовались функцией аналитики. Насколько важен для вас этот аспект?"</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="stepik-footer">
+                            Главное правило: больше слушайте, меньше говорите!
+                        </div>
+                    </div>
+                </div>
+                </div><div class="lesson-content">
+<h3># Что будет в уроке</h3>
+<p>Научимся делать презентацию продукта, исходя из того, что важно клиенту. Не «характеристики», а «выгоды» и решение проблемы.</p>
+<h3>## Теория</h3>
+<h4>🧠 Почему важен фокус на выгоде, а не на характеристике</h4>
+<p><strong>Клиенты покупают не характеристики, а решения своих проблем</strong>. За 15 лет в продажах я наблюдал одну и ту же картину: менеджеры увлеченно рассказывают о технических деталях, функциях и возможностях, а клиент думает только об одном — «Как это поможет мне?»</p>
+<p>Посмотрите на эти примеры трансформации характеристик в выгоды:</p>
+<table>
+<tbody><tr>
+<th>Характеристика</th>
+<th>Выгода для клиента</th>
+</tr>
+<tr>
+<td>Память 16 ГБ</td>
+<td>Можно работать с большими файлами без зависаний, экономя до 30 минут в день</td>
+</tr>
+<tr>
+<td>Время работы от батареи 12 часов</td>
+<td>Весь рабочий день без подзарядки, можно работать в поездках и не искать розетку</td>
+</tr>
+<tr>
+<td>24/7 поддержка</td>
+<td>Ваши проблемы будут решены в любое время, что снижает риск простоя бизнеса</td>
+</tr>
+<tr>
+<td>Безлимитное хранилище</td>
+<td>Не нужно беспокоиться об удалении важных данных и тратить время на их сортировку</td>
+</tr>
+<tr>
+<td>Интеграция с 15 сервисами</td>
+<td>Все ваши системы будут работать как единый организм, избавляя от двойного ввода данных</td>
+</tr>
+</tbody></table>
+<p>Формула презентации выгоды: <strong>«[Характеристика], а это значит, что вы сможете [конкретная польза для клиента]»</strong>.</p>
+<h4>📌 Как связать боль клиента с твоим продуктом</h4>
+<p>Самая мощная презентация — та, которая <strong>напрямую адресует выявленные боли клиента</strong>. Вот проверенный алгоритм связывания проблемы и решения:</p>
+<ol>
+<li><strong>Отразите проблему</strong> — покажите, что вы точно поняли боль клиента</li>
+<li><strong>Опишите последствия проблемы</strong> — что происходит, если не решить её (иногда клиенты не осознают весь масштаб)</li>
+<li><strong>Представьте решение</strong> — конкретную функцию вашего продукта</li>
+<li><strong>Опишите механизм работы</strong> — кратко объясните, как именно это решает проблему</li>
+<li><strong>Подтвердите доказательствами</strong> — пример, кейс, отзыв, статистика</li>
+</ol>
+<p>Пример: «Вы упоминали, что тратите до двух часов в день на ручное заполнение отчетов (боль). Это примерно 40 часов в месяц или целая рабочая неделя (последствия). Наша система автоматически формирует все необходимые отчеты (решение) на основе данных, которые уже есть в системе (механизм). Компания X внедрила это решение и сократила время на отчетность на 87% (доказательство)».</p>
+<h4>⚠️ Как построить логичный рассказ о продукте</h4>
+<p>Хорошая презентация продукта должна иметь <strong>четкую структуру, которая проведет клиента от проблемы к решению</strong>. Я рекомендую такую последовательность:</p>
+<ol>
+<li><strong>Контекст</strong> — напомните о выявленных потребностях («Как мы обсудили ранее...»)</li>
+<li><strong>Общее решение</strong> — дайте обзор продукта в целом (1-2 предложения)</li>
+<li><strong>3-5 ключевых выгод</strong> — расставленные по приоритету для конкретного клиента</li>
+<li><strong>Краткое устранение типичных возражений</strong> — предвосхитите сомнения</li>
+<li><strong>Подтверждение соответствия</strong> — как это решение соотносится с тем, что клиент искал</li>
+<li><strong>Следующий шаг</strong> — что конкретно нужно сделать для начала сотрудничества</li>
+</ol>
+<p>При этом <strong>важно сохранять гибкость</strong> — если видите, что клиент особенно заинтересовался каким-то аспектом, можно отклониться от плана и углубиться в эту тему.</p>
+<h4>🔧 Что такое «сильная презентация»</h4>
+<p><strong>Сильная презентация</strong> — это не та, которая содержит много информации, а та, которая вызывает эмоциональный отклик и запоминается. Характеристики сильной презентации:</p>
+<ul>
+<li><strong>Ориентированность на клиента</strong> — больше «вы» и «ваш бизнес», чем «мы» и «наш продукт»</li>
+<li><strong>Конкретность</strong> — точные цифры, факты, примеры вместо общих фраз</li>
+<li><strong>Истории и метафоры</strong> — они запоминаются лучше, чем абстрактные описания</li>
+<li><strong>Визуализация</strong> — помогите клиенту «увидеть» результат использования продукта</li>
+<li><strong>Интерактивность</strong> — вовлекайте клиента вопросами и демонстрацией</li>
+<li><strong>Эмоциональность</strong> — покажите, как изменится не только бизнес, но и эмоциональное состояние клиента</li>
+</ul>
+<p>Пример сильной фразы: «Представьте, что в конце дня вы уходите домой вовремя, потому что все отчеты сформировались автоматически, и вы уверены в их точности. Как бы вы использовали эти освободившиеся 2 часа каждый день?»</p>
+<h4>✅ Как не скатиться в скучный перечень функций</h4>
+<p>Даже опытные продавцы иногда «срываются» в перечисление функций. Вот методы, которые помогут избежать этой ловушки:</p>
+<ol>
+<li><strong>Правило «И что?»</strong> — после каждой характеристики мысленно задавайте себе этот вопрос</li>
+<li><strong>Метод «3П»</strong> — для каждой функции опишите Преимущество, Применение и Персональную выгоду</li>
+<li><strong>Ограничение времени</strong> — выделите на описание функций не более 30% всей презентации</li>
+<li><strong>Вовлечение клиента</strong> — задавайте вопросы о том, как он видит применение функции</li>
+<li><strong>Истории клиентов</strong> — вместо перечисления функций расскажите, как другие используют продукт</li>
+</ol>
+<p>И самый важный принцип: <strong>презентуйте только те функции, которые решают выявленные проблемы клиента</strong>. Остальное можно упомянуть вскользь как «дополнительные возможности».</p>
+<h3>## Упражнение</h3>
+<p>Создайте мини-презентацию своего продукта:</p>
+<ol>
+<li>Напишите 2 ключевые выгоды вашего продукта, отвечающие на реальные проблемы клиентов</li>
+<li>Для каждой выгоды укажите, какую боль клиента она решает</li>
+<li>Составьте короткую презентацию из 5–6 фраз, ведущую от проблемы к решению</li>
+<li>Проверьте, используете ли вы в презентации слово «вы» чаще, чем «мы»</li>
+</ol>
+<p><strong>Вопросы для самопроверки:</strong></p>
+<ul>
+<li>Говорю ли я больше о результатах, чем о характеристиках?</li>
+<li>Связана ли каждая функция с конкретной выгодой для клиента?</li>
+<li>Есть ли в моей презентации яркий, запоминающийся пример?</li>
+</ul>
+<h3>## Полезные инструменты и шаблоны</h3>
+<ul>
+<li>📑 <a href="../resources/features_benefits_table.xlsx" rel="noopener noreferrer nofollow">Таблица «Характеристика → Выгода»</a> — шаблон для трансформации характеристик в выгоды</li>
+<li>🎬 <a href="../resources/product_presentation_example.mp4" rel="noopener noreferrer nofollow">Видео-пример живой презентации</a> — разбор успешной презентации с комментариями</li>
+<li>📓 <a href="../resources/value_proposition_cheatsheet.pdf" rel="noopener noreferrer nofollow">Шпаргалка: как говорить клиенту про ценность</a> — готовые фразы для разных типов продуктов</li>
+</ul>
+</div>
