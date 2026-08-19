@@ -1,0 +1,67 @@
+{
+  "id": 11035867,
+  "lesson": 2538570,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<p>Это финальная практика курса. Она завершает работу с бизнесом, который вы вели через все предыдущие модули, и превращает наработки в материал для реального собеседования или предложения клиенту.</p>\n<h3>Задание</h3>\n<ol>\n<li>Соберите в один документ всё, что вы сделали для выбранного бизнеса: портрет аудитории из модуля 1, структуру кампании из модуля 3, креативы из модуля 4, метрики и выводы из модуля 5, оформленный кейс из модуля 6.</li>\n<li>Напишите короткое резюме (половина страницы), где этот проект указан как практический опыт: что за бизнес, какая была задача, что сделали, какой результат.</li>\n<li>Подготовьте ответы на три вопроса собеседования из урока про интервью, опираясь именно на этот проект.</li>\n<li>Выберите один канал поиска работы или клиентов из соответствующего урока и сделайте по нему одно конкретное действие: отклик, сообщение, публикацию портфолио.</li>\n</ol>\n<p>Это не разовое упражнение: тот же документ можно дополнять новыми проектами по мере того, как будете брать больше практики в профессии.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11035867",
+  "subscriptions": [
+    "31-77-11035867",
+    "30-77-11035867"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014958,
+  "create_date": "2026-08-19T03:09:10Z",
+  "update_date": "2026-08-19T03:09:10Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035867-1",
+  "discussion_threads": [
+    "77-11035867-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

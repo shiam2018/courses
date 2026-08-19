@@ -1,0 +1,101 @@
+{
+  "id": 11035859,
+  "lesson": 2538565,
+  "position": 5,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Какое обучение стоит пройти в первую очередь начинающему таргетологу, который планирует работать с российским рынком?</h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Официальное обучение от площадки VK Рекламы, которой предстоит пользоваться каждый день",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Платный курс от небольшой частной школы без привязки к реальной рекламной площадке",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Любое обучение, привязка к конкретной площадке не имеет значения",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Обучение не нужно вообще, достаточно только портфолио",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11035859",
+  "subscriptions": [
+    "31-77-11035859",
+    "30-77-11035859"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014950,
+  "create_date": "2026-08-19T03:09:06Z",
+  "update_date": "2026-08-19T03:09:06Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035859-1",
+  "discussion_threads": [
+    "77-11035859-1",
+    "77-11035859-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

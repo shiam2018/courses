@@ -1,0 +1,101 @@
+{
+  "id": 11035865,
+  "lesson": 2538565,
+  "position": 9,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Начинающий специалист одновременно начал пять разных проектов для портфолио и ни один не довёл до конца. В чём его ошибка по материалам модуля?</h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Один доведённый до конца проект с понятной логикой убедительнее нескольких брошенных на середине",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Ошибки нет, чем больше начатых проектов, тем сильнее портфолио",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Нужно было начать ещё больше проектов одновременно",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Проблема только в том, что проекты были бесплатными",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11035865",
+  "subscriptions": [
+    "31-77-11035865",
+    "30-77-11035865"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014956,
+  "create_date": "2026-08-19T03:09:09Z",
+  "update_date": "2026-08-19T03:09:09Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035865-1",
+  "discussion_threads": [
+    "77-11035865-1",
+    "77-11035865-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
