@@ -1,0 +1,67 @@
+{
+  "id": 7243352,
+  "lesson": 1755511,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "Раз два три",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7243352",
+  "subscriptions": [
+    "31-77-7243352",
+    "30-77-7243352"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7222443,
+  "create_date": "2025-05-13T04:51:11Z",
+  "update_date": "2025-05-17T12:44:16Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7243352-1",
+  "discussion_threads": [
+    "77-7243352-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

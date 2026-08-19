@@ -1,0 +1,67 @@
+{
+  "id": 7226020,
+  "lesson": 1750110,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h1>🧪 Упражнение: Знакомство со сквозной аналитикой в Roistat</h1>\n\n<p><img alt=\"\" height=\"1406\" name=\"Znakomstvo-s-RoiStat.png\" src=\"https://ucarecdn.stepik.net/1a70220f-fe48-431c-a657-2b06a9d9dfa0/\" width=\"2400\"></p>\n\n<p>&nbsp;</p>\n\n<p>В этом упражнении вы познакомитесь с системой сквозной аналитики Roistat, изучите её основной функционал и научитесь анализировать эффективность различных маркетинговых каналов.</p>\n\n<h3>Задачи:</h3>\n\n<ol>\n\t<li>Зарегистрируйтесь в демо-версии Roistat по ссылке: <a href=\"https://cloud.roistat.com/user/register?demo=1&amp;lang=ru\" rel=\"noopener noreferrer nofollow\">https://cloud.roistat.com/user/register?demo=1&amp;lang=ru</a></li>\n\t<li>Пройдите онбординг и ознакомьтесь с интерфейсом системы</li>\n\t<li>Перейдите в настройки проекта, введите название и наполните его демо-данными</li>\n\t<li>Изучите основные разделы Roistat:\n\t<ul>\n\t\t<li>Установка счетчика и его возможности</li>\n\t\t<li>Настройки регулярных отчетов</li>\n\t\t<li>Интеграции с внешними сервисами</li>\n\t</ul>\n\t</li>\n\t<li>Перейдите в раздел «Аналитика → Отчеты» и проанализируйте демо-данные</li>\n\t<li>На основе данных сделайте выводы об эффективности различных маркетинговых каналов, используя ключевые метрики:\n\t<ul>\n\t\t<li>Трафик и количество заявок</li>\n\t\t<li>Конверсия в заявки и продажи</li>\n\t\t<li>ROI каналов</li>\n\t\t<li>Стоимость привлечения клиента (CPA)</li>\n\t</ul>\n\t</li>\n\t<li>Определите наиболее и наименее эффективные каналы</li>\n\t<li>Подготовьте краткий отчет с рекомендациями по оптимизации маркетингового бюджета</li>\n</ol>\n\n<p><strong>Дополнительно:</strong> После выполнения основных задач пройдите бесплатный ознакомительный курс от Roistat по сквозной аналитике: <a href=\"https://academy.roistat.com/analytics-training/\" rel=\"noopener noreferrer nofollow\">https://academy.roistat.com/analytics-training/</a></p>\n\n<p>Результаты анализа демо-данных сохраните для использования в итоговом проекте по курсу.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7226020",
+  "subscriptions": [
+    "31-77-7226020",
+    "30-77-7226020"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7205111,
+  "create_date": "2025-05-10T04:51:15Z",
+  "update_date": "2025-05-17T12:29:42Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7226020-1",
+  "discussion_threads": [
+    "77-7226020-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 7226037,
+  "lesson": 1692284,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h1>🧾 Итоги практики «Лендинг на Tilda»</h1>\n\n<p><img alt=\"\" height=\"1406\" name=\"40_Itogi-praktiki-Nastrojka-lendinga.png\" src=\"https://ucarecdn.stepik.net/5d27ec23-3115-49fb-9819-8bf0b6978c87/\" width=\"2400\"></p>\n\n<h2>Ключевые выводы</h2>\n\n<ul>\n\t<li>Конструкторы сайтов позволяют создавать эффективные лендинги без навыков программирования</li>\n\t<li>Структурированный подход к созданию лендинга повышает его конверсию</li>\n\t<li>Интеграция аналитики позволяет отслеживать эффективность сайта и оптимизировать его</li>\n\t<li>Качественный лендинг является практическим воплощением маркетинговой стратегии</li>\n</ul>\n\n<h2>Полученные знания</h2>\n\n<ul>\n\t<li>Принципы построения лендинга по модели AIDA / Hook-Body-Offer</li>\n\t<li>Основные функциональные возможности платформы Tilda</li>\n\t<li>Процесс настройки и интеграции систем аналитики</li>\n\t<li>Базовые принципы оптимизации лендинга для мобильных устройств</li>\n\t<li>Методы создания и настройки форм для сбора заявок</li>\n</ul>\n\n<h2>Начальные навыки</h2>\n\n<ul>\n\t<li>Создание лендинга на конструкторе Tilda</li>\n\t<li>Настройка и подключение Яндекс Метрики</li>\n\t<li>Разработка структуры сайта под конкретные бизнес-задачи</li>\n\t<li>Создание конверсионных элементов (формы, кнопки)</li>\n\t<li>Публикация и тестирование лендинга</li>\n</ul>\n\n<h2>Что можно добавить в резюме</h2>\n\n<ul>\n\t<li>Опыт создания лендингов на Tilda</li>\n\t<li>Навык настройки Яндекс Метрики</li>\n</ul>\n\n<h2>🎓 Дополнительные материалы</h2>\n\n<ul>\n\t<li>✅ <a href=\"https://docs.google.com/spreadsheets/d/138kzZKjD--ieX-vr71OI5HMmXsmBBjKxfLC0xCz01uU/edit?gid=1263150344#gid=1263150344\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Шаблон структуры лендинга (Wise)</a>. Google Таблица с примером стандартной структуры одностраничного сайта.</li>\n\t<li>📄 <a href=\"https://docs.google.com/spreadsheets/d/1nMtphTY7vYkmwm5aXOQ05OjbfJm6tQnQBWWZfoIScNQ/edit?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Таблица сравнения форматов сайтов и приложений (Wise)</a> — помогает выбрать подходящий формат: сайт, мобильное приложение, PWA и др.</li>\n\t<li>📌 <a href=\"https://docs.google.com/spreadsheets/d/12RlbIBgPzENp-Q0_CgJbYGRM3luV5iTcV7oE8dW71Ks/edit?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Шаблон конкурентного анализа (Wise)</a> — таблица для оценки конкурентов по ключевым параметрам.</li>\n\t<li>📋 <a href=\"https://docs.google.com/spreadsheets/d/1argdignSALy3VgoX79GXJusPvVp1WnECBHsXGS7sfxQ/edit?gid=885998106#gid=885998106\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Шаблон таблицы тестирования креативов (Wise)</a> — инструмент для оценки эффективности рекламных баннеров и видео.</li>\n\t<li>📋 <a href=\"https://docs.google.com/spreadsheets/d/1SOEBM-cW66KZFo8baPahxN7VQ1i-7Mhc6EAc5Pfooi8/edit?gid=0#gid=0\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Шаблон обработки отзывов (Wise)</a> — таблица для системной работы с отзывами клиентов (позитивными и негативными).</li>\n\t<li>📈 <a href=\"https://help-ru.tilda.cc/statistics/yandex-metrika\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Инструкция по установке Яндекс Метрики на Tilda</a>. Подробное руководство по подключению аналитики без кода.</li>\n\t<li>🎨 <a href=\"https://canva.com\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Canva — онлайн-редактор дизайна</a>. Бесплатный инструмент для создания креативов, логотипов и графики.</li>\n\t<li>🎓 <a href=\"https://tilda.education/ru/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Курс «Основы Tilda»</a>. Бесплатный обучающий курс от Tilda.</li>\n\t<li>📌 <a href=\"https://tilda.cc/ru/madeontilda/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Примеры лендингов на Tilda</a>. Реальные кейсы: лендинги от компаний и фрилансеров на базе Tilda, которые можно использовать как вдохновение.</li>\n</ul>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7226037",
+  "subscriptions": [
+    "31-77-7226037",
+    "30-77-7226037"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7205128,
+  "create_date": "2025-05-10T05:06:46Z",
+  "update_date": "2025-05-17T04:37:20Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7226037-1",
+  "discussion_threads": [
+    "77-7226037-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

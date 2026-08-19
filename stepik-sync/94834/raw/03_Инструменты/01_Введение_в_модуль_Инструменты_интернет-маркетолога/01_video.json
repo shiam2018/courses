@@ -1,0 +1,96 @@
+{
+  "id": 7236236,
+  "lesson": 1711843,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "video",
+    "text": "",
+    "video": {
+      "id": 512132,
+      "thumbnail": "https://cdn.stepik.net/video/512132/thumbnail/08c9449408af2e50d7c64ad5c474f2b8.jpg",
+      "urls": [
+        {
+          "quality": "1080",
+          "url": "https://cdn.stepik.net/video/512132/1080/e72024313a4733c4cdb4f8fc92dca005.mp4"
+        },
+        {
+          "quality": "720",
+          "url": "https://cdn.stepik.net/video/512132/720/dd701302e6925dd0bfe1fa7eb43557f8.mp4"
+        },
+        {
+          "quality": "540",
+          "url": "https://cdn.stepik.net/video/512132/540/7f2260c2f5440a5a1c1f86ab28e1acff.mp4"
+        },
+        {
+          "quality": "360",
+          "url": "https://cdn.stepik.net/video/512132/360/7e2a5d75d05f20b3bb89e2a837558a8d.mp4"
+        },
+        {
+          "quality": "240",
+          "url": "https://cdn.stepik.net/video/512132/240/9965d4722cc0c364661973dafd4e5b76.mp4"
+        }
+      ],
+      "duration": 58,
+      "status": "ready",
+      "upload_date": "2025-05-13T13:58:39Z",
+      "filename": "Инструменты - финал.mp4"
+    },
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7236236",
+  "subscriptions": [
+    "31-77-7236236",
+    "30-77-7236236"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7215327,
+  "create_date": "2025-05-12T08:53:34Z",
+  "update_date": "2025-05-13T13:42:34Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7236236-1",
+  "discussion_threads": [
+    "77-7236236-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,96 @@
+{
+  "id": 7239475,
+  "lesson": 1754511,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "video",
+    "text": "",
+    "video": {
+      "id": 512131,
+      "thumbnail": "https://cdn.stepik.net/video/512131/thumbnail/1a5cb23a8de3d08fe6c1aab995fb8bd0.jpg",
+      "urls": [
+        {
+          "quality": "1080",
+          "url": "https://cdn.stepik.net/video/512131/1080/661f95db1f187a6eac2ba4970dc71897.mp4"
+        },
+        {
+          "quality": "720",
+          "url": "https://cdn.stepik.net/video/512131/720/07730e958be0d5f3caeb7ab2b229736f.mp4"
+        },
+        {
+          "quality": "540",
+          "url": "https://cdn.stepik.net/video/512131/540/9fa959a5cc9b7b8465e03cd1265e28e2.mp4"
+        },
+        {
+          "quality": "360",
+          "url": "https://cdn.stepik.net/video/512131/360/1475a80037be1b5bf7fd0624cf01b9fc.mp4"
+        },
+        {
+          "quality": "240",
+          "url": "https://cdn.stepik.net/video/512131/240/9ebeadae5c5c63efe4a8d9089d85a05a.mp4"
+        }
+      ],
+      "duration": 65,
+      "status": "ready",
+      "upload_date": "2025-05-13T13:50:30Z",
+      "filename": "4 Источники трафика - финал.mp4"
+    },
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7239475",
+  "subscriptions": [
+    "31-77-7239475",
+    "30-77-7239475"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7218566,
+  "create_date": "2025-05-12T18:05:36Z",
+  "update_date": "2025-05-13T13:37:41Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7239475-1",
+  "discussion_threads": [
+    "77-7239475-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

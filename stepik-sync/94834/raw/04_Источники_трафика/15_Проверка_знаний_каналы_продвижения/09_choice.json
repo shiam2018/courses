@@ -1,0 +1,101 @@
+{
+  "id": 7162525,
+  "lesson": 820028,
+  "position": 9,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Что такое Look-alike аудитория в таргетированной рекламе?</h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Аудитория, которая очень похожа на моделей с обложек журналов",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Аудитория, похожая на ваших существующих клиентов по поведению и интересам",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Посетители, которые только смотрят, но не покупают",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Люди, которые ищут похожие на ваши товары у конкурентов",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-7162525",
+  "subscriptions": [
+    "31-77-7162525",
+    "30-77-7162525"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 1.0,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7141616,
+  "create_date": "2025-04-28T17:06:29Z",
+  "update_date": "2025-04-28T17:07:29Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7162525-1",
+  "discussion_threads": [
+    "77-7162525-1",
+    "77-7162525-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

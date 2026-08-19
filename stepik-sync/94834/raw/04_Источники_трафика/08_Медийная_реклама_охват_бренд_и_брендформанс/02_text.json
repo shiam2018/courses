@@ -1,0 +1,67 @@
+{
+  "id": 7273974,
+  "lesson": 820024,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h1>🧩 Упражнение: ТЗ на медийный баннер</h1>\n\n<p>В этом задании вы разработаете техническое задание на интерактивный баннер для медийной рекламы, который можно будет использовать в рамках маркетинговой стратегии.</p>\n\n<h3>Задание:</h3>\n\n<p>Составьте <strong>техническое задание</strong> на интерактивный баннер в формате GIF или HTML5.</p>\n\n<h3>Что нужно описать:</h3>\n\n<ol>\n\t<li>Продукт или услугу — что рекламируем</li>\n\t<li>Целевую аудиторию — кто увидит рекламу</li>\n\t<li>Площадки размещения — где будет показываться</li>\n\t<li>Call-to-action — что должен сделать пользователь</li>\n\t<li>Содержание баннера (текст, логотип, кнопка, эффекты)</li>\n\t<li>Цель баннера: узнаваемость или конверсии</li>\n\t<li>Целевую страницу — куда ведёт клик</li>\n</ol>\n\n<h4>&nbsp;</h4>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7273974",
+  "subscriptions": [
+    "31-77-7273974",
+    "30-77-7273974"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7253064,
+  "create_date": "2025-05-18T02:00:14Z",
+  "update_date": "2025-05-18T18:45:13Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7273974-1",
+  "discussion_threads": [
+    "77-7273974-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

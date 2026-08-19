@@ -1,0 +1,96 @@
+{
+  "id": 7239569,
+  "lesson": 1754514,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "video",
+    "text": "",
+    "video": {
+      "id": 512135,
+      "thumbnail": "https://cdn.stepik.net/video/512135/thumbnail/f2ee35f9734c23a9a68c18ba1678dfbc.jpg",
+      "urls": [
+        {
+          "quality": "1080",
+          "url": "https://cdn.stepik.net/video/512135/1080/2564d727ab725ef682703eb763324f36.mp4"
+        },
+        {
+          "quality": "720",
+          "url": "https://cdn.stepik.net/video/512135/720/e3cdb0c5c5f318617b72374e9d686e1a.mp4"
+        },
+        {
+          "quality": "540",
+          "url": "https://cdn.stepik.net/video/512135/540/900b5b4a932fc63fa3cb3d2d72f2a956.mp4"
+        },
+        {
+          "quality": "360",
+          "url": "https://cdn.stepik.net/video/512135/360/c5fbe629582efb311666d2a74f8bf494.mp4"
+        },
+        {
+          "quality": "240",
+          "url": "https://cdn.stepik.net/video/512135/240/c396c2b900939ea3cc5ec7832b4ae535.mp4"
+        }
+      ],
+      "duration": 35,
+      "status": "ready",
+      "upload_date": "2025-05-13T14:10:26Z",
+      "filename": "6 Заключение - финал.mp4"
+    },
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7239569",
+  "subscriptions": [
+    "31-77-7239569",
+    "30-77-7239569"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7218660,
+  "create_date": "2025-05-12T18:32:19Z",
+  "update_date": "2025-05-13T13:52:16Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7239569-1",
+  "discussion_threads": [
+    "77-7239569-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

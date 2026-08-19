@@ -1,0 +1,67 @@
+{
+  "id": 7225149,
+  "lesson": 820017,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h1>✍️ Упражнение: составьте мини-медиаплан</h1>\n\n<p><img alt=\"\" height=\"1406\" name=\"Prognoz-kanalov-i-metrik.png\" src=\"https://ucarecdn.stepik.net/b1201d92-80e5-4665-a7cb-cc68c876d272/\" width=\"2400\"></p>\n\n<p>Возьмите бизнес, с которым вы работаете на курсе или придумайте новый проект.</p>\n\n<h3>Ваша задача:</h3>\n\n<p>Составьте <strong>собственный медиаплан и проанализируйте его.</strong></p>\n\n<h3>Что нужно сделать:</h3>\n\n<ol>\n\t<li><strong>Выберите проект</strong><br>\n\tВозьмите бизнес, с которым вы уже работаете на курсе, или придумайте новый.</li>\n\t<li><strong>Выберите 5 рекламных каналов</strong>\n\t<p>Примеры:<br>\n\tКонтекстная реклама (например, Яндекс Директ)<br>\n\tТаргетированная реклама (например, VK Ads, Telegram)<br>\n\tРеклама у блогеров<br>\n\tEmail-рассылка<br>\n\tПартнёрская программа (CPA-сеть)</p>\n\t</li>\n\t<li><strong>Заполните прогноз по каждому каналу:</strong>\n\t<p>💰 Бюджет (в у.е.)<br>\n\t👆 Ожидаемое количество кликов<br>\n\t🎁 Ожидаемое количество покупок или заявок</p>\n\t</li>\n\t<li><strong>Рассчитайте метрики:</strong>\n\t<p>CR (Conversion Rate): (Покупки ÷ Клики) × 100%<br>\n\tCPA (Cost Per Action): Расход ÷ Покупки</p>\n\t</li>\n\t<li>\n\t<p><strong>Придумайте свои цифры по 5 каналам и </strong>заполните таблицу</p>\n\t</li>\n\t<li>\n\t<p><strong>Проанализируйте и опишите:</strong></p>\n\t</li>\n</ol>\n\n<ul>\n\t<li>В каком канале <strong>стоимость привлечения клиента (CAC)</strong> оказалась ниже всего?</li>\n\t<li>Какие каналы дали <strong>наибольшую конверсию из лида в покупку (CR2)</strong>?</li>\n\t<li>Какой канал стоит <strong>усилить</strong>, а какие — <strong>оптимизировать или отложить</strong> на следующий этап?</li>\n\t<li><strong>Сходится ли экономика?</strong> Что показывает расчёт ROI?</li>\n\t<li><strong>Можно ли масштабировать воронку</strong> при текущих показателях? Почему да?</li>\n</ul>\n\n<p>🔗 <strong>Шаблон для вашего медиаплана:</strong><br>\nИспользуйте эту таблицу для своего проекта:<br>\n<a href=\"https://docs.google.com/spreadsheets/d/1qlaUYHBRfoPKkaECUvX-AHY11nIlhwcx-Yb0utVnnZE/edit?gid=490732300#gid=490732300\" rel=\"noopener noreferrer nofollow\" target=\"_new\">📋 Шаблон мини-медиаплана (Wise)</a></p>\n\n<p>Чтобы с ней работать — сделайте копию на свой Google Диск:<br>\n<strong>Файл → Создать копию</strong></p>\n\n<h2> </h2>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7225149",
+  "subscriptions": [
+    "31-77-7225149",
+    "30-77-7225149"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7204240,
+  "create_date": "2025-05-09T18:08:43Z",
+  "update_date": "2026-08-19T05:36:35Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7225149-1",
+  "discussion_threads": [
+    "77-7225149-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

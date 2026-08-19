@@ -1,0 +1,67 @@
+{
+  "id": 7225053,
+  "lesson": 820014,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h1>📝 Упражнение: Выбор проекта для курса</h1>\n\n<p><img alt=\"\" height=\"1406\" name=\"Proekt-dlya-raboty-na-kurse.png\" src=\"https://ucarecdn.stepik.net/74ebe903-99fb-4f1d-bfe2-88bbf342e685/\" width=\"2400\"></p>\n\n<p><strong>Выберите проект, с которым будете работать в течение курса.</strong><br>\nНапример:</p>\n\n<ul>\n\t<li>Кофейня, бар или ресторан ☕</li>\n\t<li>Онлайн-курс или блог 💻</li>\n\t<li>Интернет-магазин (одежда, косметика, аксессуары) 🛍</li>\n\t<li>Мобильное приложение или цифровой сервис 📱</li>\n\t<li>YouTube-канал, Telegram-канал или блог в зарубежной социальной сети 🎥</li>\n</ul>\n\n<p><strong>Опишите проект в 2–3 предложениях.</strong></p>\n\n<ul>\n\t<li>Что это за проект?</li>\n\t<li>Почему вы его выбрали?</li>\n</ul>\n\n<p><strong>Определите ключевые задачи для интернет-маркетинга.</strong></p>\n\n<ul>\n\t<li>Какие могут быть каналы привлечения?</li>\n\t<li>Чем привлечь клиентов/подписчиков?</li>\n</ul>\n\n<p>👉 <strong>Для выбора проекта вам может пригодиться эта таблица:</strong><br>\n<a href=\"https://docs.google.com/spreadsheets/d/1_6ZNTBAQDg7Y0nChbcLTrnGG1nRwwDGyKeVMnr1sZlc/edit?usp=sharing\" rel=\"noopener noreferrer nofollow\" target=\"_new\">📋 Шаблон для выбора проекта: плюсы, минусы, задачи и аудитория (Wise)</a></p>\n\n<p>Она поможет вам сравнить несколько идей, взвесить плюсы и минусы, а также наметить первые шаги в маркетинге.</p>\n\n<p>📌 <strong>Как начать работу:</strong><br>\nЧтобы редактировать таблицу, скопируйте её к себе на Google Диск (Файл → Создать копию) или скачайте на компьютер (Файл → Скачать).</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7225053",
+  "subscriptions": [
+    "31-77-7225053",
+    "30-77-7225053"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7204144,
+  "create_date": "2025-05-09T17:33:05Z",
+  "update_date": "2026-08-19T05:36:17Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7225053-1",
+  "discussion_threads": [
+    "77-7225053-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

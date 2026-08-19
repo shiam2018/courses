@@ -1,0 +1,101 @@
+{
+  "id": 7269310,
+  "lesson": 1712385,
+  "position": 16,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Что поможет воспринимать отказы более спокойно?</h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Постоянное чтение новостей о кризисе на рынке труда.",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Активный мониторинг вакансий и профессиональное развитие.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Ссора с HR-менеджером за отказ.",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Ожидание предложений от крупных компаний в тишине.",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-7269310",
+  "subscriptions": [
+    "31-77-7269310",
+    "30-77-7269310"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7248401,
+  "create_date": "2025-05-16T18:23:02Z",
+  "update_date": "2025-05-16T18:23:02Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7269310-1",
+  "discussion_threads": [
+    "77-7269310-1",
+    "77-7269310-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

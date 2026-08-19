@@ -1,0 +1,95 @@
+{
+  "id": 7269312,
+  "lesson": 1712385,
+  "position": 12,
+  "status": "ready",
+  "block": {
+    "name": "matching",
+    "text": "<h2>Задание на сопоставление</h2>\n\n<p>Соотнесите форматы оценки кандидатов при трудоустройстве в маркетинге с их короткими описаниями.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "preserve_firsts_order": true,
+      "is_html_enabled": true,
+      "pairs": [
+        {
+          "first": "Скрининговое интервью",
+          "second": "Первичный отбор кандидатов, проверка резюме и базовых требований."
+        },
+        {
+          "first": "Техническое собеседование",
+          "second": "Оценка профессиональных компетенций, знаний инструментов, понимания метрик и опыта работы с различными каналами"
+        },
+        {
+          "first": "Тестовое задание",
+          "second": "Проверка навыков через выполнение набора задач с ограниченным сроком"
+        },
+        {
+          "first": "Интервью с руководителем",
+          "second": "Встреча с непосредственным руководителем для оценки soft skills, соответствия корпоративной культуре и способности решать нестандартные задачи"
+        },
+        {
+          "first": "Финальный созвон с HR",
+          "second": "Заключительный этап отбора, где обсуждаются условия работы, зарплата, график, соцпакет и дата выхода"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-7269312",
+  "subscriptions": [
+    "31-77-7269312",
+    "30-77-7269312"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 1.0,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7248403,
+  "create_date": "2025-05-16T18:23:02Z",
+  "update_date": "2026-08-19T05:22:59Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7269312-1",
+  "discussion_threads": [
+    "77-7269312-1",
+    "77-7269312-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

@@ -1,0 +1,96 @@
+{
+  "id": 7246241,
+  "lesson": 1755515,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "video",
+    "text": "",
+    "video": {
+      "id": 512110,
+      "thumbnail": "https://cdn.stepik.net/video/512110/thumbnail/4426d7fde6a9f8cff7ce66aaf7040d7d.jpg",
+      "urls": [
+        {
+          "quality": "1080",
+          "url": "https://cdn.stepik.net/video/512110/1080/b0d3eb24ee1aab92adc3770e333d1c15.mp4"
+        },
+        {
+          "quality": "720",
+          "url": "https://cdn.stepik.net/video/512110/720/10737f9613a76bfd623a4b321f6dbd97.mp4"
+        },
+        {
+          "quality": "540",
+          "url": "https://cdn.stepik.net/video/512110/540/8e6bd4f6f6ec529ebfb18e770e46dcfe.mp4"
+        },
+        {
+          "quality": "360",
+          "url": "https://cdn.stepik.net/video/512110/360/a0a3779f697439185639ecc5cb21a13b.mp4"
+        },
+        {
+          "quality": "240",
+          "url": "https://cdn.stepik.net/video/512110/240/57c74c9299ec3ff5031d82d3d90dffc0.mp4"
+        }
+      ],
+      "duration": 62,
+      "status": "ready",
+      "upload_date": "2025-05-13T12:57:16Z",
+      "filename": "1 Кто я - финал.mp4"
+    },
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7246241",
+  "subscriptions": [
+    "31-77-7246241",
+    "30-77-7246241"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7225332,
+  "create_date": "2025-05-13T12:44:11Z",
+  "update_date": "2025-05-13T12:44:11Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7246241-1",
+  "discussion_threads": [
+    "77-7246241-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

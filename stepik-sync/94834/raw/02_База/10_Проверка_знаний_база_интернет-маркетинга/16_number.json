@@ -1,0 +1,77 @@
+{
+  "id": 7225266,
+  "lesson": 820018,
+  "position": 16,
+  "status": "ready",
+  "block": {
+    "name": "number",
+    "text": "<h2>На рекламу потрачено 40 000 рублей. Получено 10 000 показов, 500 кликов, 50 регистраций и 10 покупок. Средний чек — 5 000 рублей. Рассчитайте&nbsp;ROI в процентах по классической формуле (по прибыли).&nbsp;</h2>\n\n<p>Ответ без знака процента.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "options": [
+        {
+          "answer": "25",
+          "max_error": "0"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": "Подсказка:\nCTR = (500 ÷ 10 000) × 100% = 5%\nCPC = 40 000 ÷ 500 = 80 руб.\nКонверсия = (50 ÷ 500) × 100% = 10%\nCPA = 40 000 ÷ 10 = 4 000 руб.\nДоход = 10 × 5 000 = 50 000 руб.\nПрибыль = 50 000 - 40 000 = 10 000 руб.\nROI = (10 000 ÷ 40 000) × 100% = 25%"
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-7225266",
+  "subscriptions": [
+    "31-77-7225266",
+    "30-77-7225266"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7204357,
+  "create_date": "2025-05-09T18:47:54Z",
+  "update_date": "2025-05-09T18:47:54Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7225266-1",
+  "discussion_threads": [
+    "77-7225266-1",
+    "77-7225266-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

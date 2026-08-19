@@ -1,0 +1,77 @@
+{
+  "id": 7269081,
+  "lesson": 820028,
+  "position": 13,
+  "status": "ready",
+  "block": {
+    "name": "number",
+    "text": "<h2>Задача 2: Контекстная реклама</h2>\n\n<p>Вы запустили контекстную рекламу в Яндекс Директ для продвижения онлайн-курсов английского языка. По итогам рекламной кампании за месяц вы получили следующие результаты:</p>\n\n<p><strong>Данные кампании:</strong></p>\n\n<ul>\n\t<li>Потрачено на рекламу: 45000 рублей</li>\n\t<li>Количество показов: 120000</li>\n\t<li>Количество кликов: 3800</li>\n\t<li>Количество заявок на пробный урок: 90</li>\n</ul>\n\n<p>Рассчитайте CPA (стоимость привлечения одной заявки) в рублях (укажите целое число без знака ₽).</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "options": [
+        {
+          "answer": "500",
+          "max_error": "0"
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": "CPA = Затраты на рекламу / Количество конверсий CPA = 450000 / 90\nОстальные метрики чтобы вас запутать."
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-7269081",
+  "subscriptions": [
+    "31-77-7269081",
+    "30-77-7269081"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 0.5,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7248172,
+  "create_date": "2025-05-16T17:58:15Z",
+  "update_date": "2025-05-16T17:58:16Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7269081-1",
+  "discussion_threads": [
+    "77-7269081-1",
+    "77-7269081-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 1
+}

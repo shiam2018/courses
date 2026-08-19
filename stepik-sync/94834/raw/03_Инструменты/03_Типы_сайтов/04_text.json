@@ -1,0 +1,67 @@
+{
+  "id": 7225991,
+  "lesson": 820040,
+  "position": 4,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<h1>🧾 Итоги урока «Сайты и приложения»</h1>\n\n<p><img alt=\"\" height=\"1406\" name=\"5_Chto-my-uznali.png\" src=\"https://ucarecdn.stepik.net/84d92c81-ab1a-4488-98b5-b24e6de9d1a4/\" width=\"2400\"></p>\n\n<h2>Ключевые выводы</h2>\n\n<ul>\n\t<li>Выбор формата&nbsp;влияет на эффективность маркетинговой воронки</li>\n\t<li>Правильно подобранный формат сайта экономит ресурсы и увеличивает конверсию</li>\n\t<li>Техническое задание — необходимый этап перед разработкой любого сайта</li>\n</ul>\n\n<h2>Полученные знания</h2>\n\n<ul>\n\t<li>Особенности и назначение разных форматов: лендинг, многостраничный сайт, интернет-магазин, веб-приложение</li>\n\t<li>Критерии выбора формата в зависимости от типа бизнеса и аудитории</li>\n\t<li>Связь между бизнес-целями и необходимым функционалом сайта</li>\n\t<li>Принципы составления технического задания для разработчиков</li>\n</ul>\n\n<h2>Начальные навыки</h2>\n\n<ul>\n\t<li>Анализ&nbsp;бизнеса для выбора&nbsp;формата сайта</li>\n\t<li>Определение необходимого функционала исходя из бизнес-задач</li>\n\t<li>Формулирование технического задания на разработку сайта</li>\n\t<li>Планирование веб-ресурса с учетом воронки продаж</li>\n</ul>\n\n<h2>Что можно добавить в резюме</h2>\n\n<ul>\n\t<li>Навык определения&nbsp;формата сайта для бизнеса</li>\n\t<li>Умение составлять техническое задание (ТЗ) на разработку сайта</li>\n</ul>\n\n<h2>🧰 Полезные материалы</h2>\n\n<ul>\n\t<li>📄 <a href=\"https://docs.google.com/spreadsheets/d/1nMtphTY7vYkmwm5aXOQ05OjbfJm6tQnQBWWZfoIScNQ/edit?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Таблица сравнения форматов сайтов и приложений (Wise)</a></li>\n\t<li><a href=\"https://docs.google.com/document/d/1PDKDQqIRXuV_dw2Hw5xtm-FHqjVHjwvS8fjRnJxxQCU/edit?tab=t.0#heading=h.qkl1l7ydjk4a\" rel=\"noopener noreferrer nofollow\">📄 Шаблон Технического задания (ТЗ) на разработку сайта (Wise)</a></li>\n\t<li>📚 <a href=\"https://habr.com/ru/articles/593661/\" rel=\"noopener noreferrer nofollow\">Как составить грамотное ТЗ на разработку сайта (Хабр)</a>&nbsp;</li>\n\t<li>🛠️ <a href=\"https://pagespeed.web.dev/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">PageSpeed Insights</a> — инструмент для анализа скорости и производительности сайта</li>\n\t<li>🛠️ <a href=\"https://pr-cy.ru/tools/broken-link-checker/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Проверка битых ссылок</a> — инструмент для поиска битых ссылок на сайте</li>\n\t<li>📚 <a href=\"https://searchengines.guru/ru/forum/development\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SearchEngines/Сайтостроение</a> — форум о создании&nbsp;сайтов</li>\n</ul>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7225991",
+  "subscriptions": [
+    "31-77-7225991",
+    "30-77-7225991"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7205082,
+  "create_date": "2025-05-10T04:29:14Z",
+  "update_date": "2025-05-17T04:23:47Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7225991-1",
+  "discussion_threads": [
+    "77-7225991-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,96 @@
+{
+  "id": 7239561,
+  "lesson": 1754512,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "video",
+    "text": "",
+    "video": {
+      "id": 512134,
+      "thumbnail": "https://cdn.stepik.net/video/512134/thumbnail/78527dc886d8c3350983f0d2025ed352.jpg",
+      "urls": [
+        {
+          "quality": "1080",
+          "url": "https://cdn.stepik.net/video/512134/1080/abcd8f9d734887b48f2c86918642ac9b.mp4"
+        },
+        {
+          "quality": "720",
+          "url": "https://cdn.stepik.net/video/512134/720/9b3ec4d5be4d597f796609a653f3062d.mp4"
+        },
+        {
+          "quality": "540",
+          "url": "https://cdn.stepik.net/video/512134/540/d96c72785e17083f064ceefb13ee3e46.mp4"
+        },
+        {
+          "quality": "360",
+          "url": "https://cdn.stepik.net/video/512134/360/fb9e7dfaa1c2f9dc73fb16d4d61d4c40.mp4"
+        },
+        {
+          "quality": "240",
+          "url": "https://cdn.stepik.net/video/512134/240/9644a903c3466fd17854133b048fd855.mp4"
+        }
+      ],
+      "duration": 47,
+      "status": "ready",
+      "upload_date": "2025-05-13T14:04:58Z",
+      "filename": "Работа - финал.mp4"
+    },
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7239561",
+  "subscriptions": [
+    "31-77-7239561",
+    "30-77-7239561"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7218652,
+  "create_date": "2025-05-12T18:27:33Z",
+  "update_date": "2025-05-13T13:47:29Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7239561-1",
+  "discussion_threads": [
+    "77-7239561-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
