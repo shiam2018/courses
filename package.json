@@ -1,0 +1,23 @@
+{
+  "name": "courses",
+  "version": "1.0.0",
+  "description": "Этот репозиторий содержит слайды презентации для модуля \"Потребности клиента\" курса \"Введение в Продажи\" на Степике.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiam2018/courses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiam2018/courses/issues"
+  },
+  "homepage": "https://github.com/shiam2018/courses#readme",
+  "dependencies": {
+    "playwright": "^1.62.1"
+  }
+}
