@@ -22,22 +22,22 @@
       "options": [
         {
           "is_correct": false,
-          "text": "SMART — цель, измеримость, достижимость",
+          "text": "SMART:цель, измеримость, достижимость",
           "feedback": ""
         },
         {
           "is_correct": true,
-          "text": "AIDA — внимание, интерес, желание, действие",
+          "text": "AIDA:внимание, интерес, желание, действие",
           "feedback": ""
         },
         {
           "is_correct": false,
-          "text": "MVP — минимально жизнеспособный продукт",
+          "text": "MVP:минимально жизнеспособный продукт",
           "feedback": ""
         },
         {
           "is_correct": false,
-          "text": "ROI — возврат на инвестиции",
+          "text": "ROI:возврат на инвестиции",
           "feedback": ""
         }
       ]

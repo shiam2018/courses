@@ -22,22 +22,22 @@
       "options": [
         {
           "is_correct": false,
-          "text": "VC.ru — вакансии в статьях и комментариях",
+          "text": "VC.ru:вакансии в статьях и комментариях",
           "feedback": ""
         },
         {
           "is_correct": true,
-          "text": "HeadHunter — крупнейшая база официальных вакансий",
+          "text": "HeadHunter:крупнейшая база официальных вакансий",
           "feedback": ""
         },
         {
           "is_correct": false,
-          "text": "Telegram — каналы с неформальными предложениями",
+          "text": "Telegram:каналы с неформальными предложениями",
           "feedback": ""
         },
         {
           "is_correct": false,
-          "text": "LinkedIn — международные вакансии",
+          "text": "LinkedIn:международные вакансии",
           "feedback": ""
         }
       ]
