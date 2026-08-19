@@ -1,0 +1,67 @@
+{
+  "id": 11035730,
+  "lesson": 2538514,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<p>Разберём, какие рекламные площадки актуальны для таргетолога, работающего с российским рынком, прямо сейчас.</p>\n<h3>VK Реклама</h3>\n<p>Основная площадка для таргетированной рекламы на российском рынке: объединяет ВКонтакте и партнёрскую сеть площадок. Большинство вакансий и заказов на фрилансе сейчас связаны именно с этой платформой, поэтому знать её нужно в первую очередь.</p>\n<h3>Telegram Ads</h3>\n<p>Официальная рекламная система Telegram: объявления показываются в каналах, соответствующих выбранной тематике. Логика отличается от VK Рекламы: таргетинг идёт не по интересам конкретного человека, а по тематике канала, в котором он читает.</p>\n<h3>Meta Ads* (Facebook и Instagram)</h3>\n<p>Meta, которой принадлежат Facebook и Instagram, признана в России экстремистской организацией, и её сервисы заблокированы для показа рекламы на российскую аудиторию. Знание Meta Ads* остаётся полезным навыком для тех, кто хочет работать с зарубежными клиентами или аудиторией за пределами России, но начинать карьеру внутри страны стоит с VK Рекламы.</p>\n<h3>Что выбрать для старта</h3>\n<p>Если вы только входите в профессию и ищете работу или клиентов в России, сфокусируйтесь на VK Рекламе: именно здесь сосредоточен основной спрос. Остальные площадки стоит добавлять по мере роста, когда появится конкретный запрос от клиента или работодателя.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11035730",
+  "subscriptions": [
+    "31-77-11035730",
+    "30-77-11035730"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014821,
+  "create_date": "2026-08-19T03:02:57Z",
+  "update_date": "2026-08-19T03:02:57Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035730-1",
+  "discussion_threads": [
+    "77-11035730-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

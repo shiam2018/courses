@@ -1,0 +1,67 @@
+{
+  "id": 11035733,
+  "lesson": 2538517,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<h3>Итоги модуля</h3>\n<ul>\n<li>Таргетолог работает с аудиторией по интересам и поведению, а не с прямым поисковым запросом, как в контекстной рекламе.</li>\n<li>Работа состоит из анализа аудитории, настройки кампаний, ежедневного мониторинга, оптимизации и отчётности.</li>\n<li>Основная площадка для старта на российском рынке это VK Реклама, дополнительно полезны Telegram Ads и Meta Ads* для зарубежных проектов.</li>\n<li>Начинать стоит с создания тестового рекламного кабинета и минимального набора инструментов, не дожидаясь идеальной готовности.</li>\n</ul>\n<p>В следующем модуле разберём, как устроен показ рекламы изнутри: аукцион, виды таргетинга и сегментация аудитории.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11035733",
+  "subscriptions": [
+    "31-77-11035733",
+    "30-77-11035733"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014824,
+  "create_date": "2026-08-19T03:03:02Z",
+  "update_date": "2026-08-19T03:03:02Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035733-1",
+  "discussion_threads": [
+    "77-11035733-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 11035727,
+  "lesson": 2538511,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<p>Меня зовут Игорь Шеньшин, я перформанс-маркетолог с 12-летним опытом закупки трафика. Я не таргетолог, я тот, кто нанимает таргетологов в свою команду и ставит им задачи, поэтому знаю эту профессию с другой стороны: что реально ждут от специалиста на собеседовании и в первые месяцы работы.</p>\n<p>Курс «Профессия таргетолог: с нуля до первой работы» разбирает эту профессию по шагам: от того, чем таргетолог занимается на самом деле, до настройки кампаний, аналитики и поиска первой работы или клиентов.</p>\n<p>В этом первом модуле вы разберётесь, что входит в работу таргетолога, какие площадки нужно знать и с чего начать, если у вас пока нет ни одного запущенного рекламного кабинета.</p>\n<p>Дальше в модуле: карта уроков в разделе «Что будет в модуле», сами уроки, практическое задание и проверка знаний в конце.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11035727",
+  "subscriptions": [
+    "31-77-11035727",
+    "30-77-11035727"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014818,
+  "create_date": "2026-08-19T03:02:52Z",
+  "update_date": "2026-08-19T03:02:52Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035727-1",
+  "discussion_threads": [
+    "77-11035727-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

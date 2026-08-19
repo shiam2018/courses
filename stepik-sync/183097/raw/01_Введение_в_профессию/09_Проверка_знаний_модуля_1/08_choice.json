@@ -1,0 +1,101 @@
+{
+  "id": 11035742,
+  "lesson": 2538518,
+  "position": 8,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Какой минимальный набор инструментов нужен, чтобы начать практиковаться в таргетинге?</h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Рекламный кабинет, простая таблица для учёта результатов и бесплатный редактор для креативов",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Профессиональная студия для съёмки видео и штатный дизайнер",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Диплом о профильном образовании и платная CRM-система",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Ничего не нужно, всё делается прямо в браузере без регистрации",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11035742",
+  "subscriptions": [
+    "31-77-11035742",
+    "30-77-11035742"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014833,
+  "create_date": "2026-08-19T03:03:08Z",
+  "update_date": "2026-08-19T03:03:08Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035742-1",
+  "discussion_threads": [
+    "77-11035742-1",
+    "77-11035742-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
