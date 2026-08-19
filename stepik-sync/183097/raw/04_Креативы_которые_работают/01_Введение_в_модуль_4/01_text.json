@@ -1,0 +1,67 @@
+{
+  "id": 11035794,
+  "lesson": 2538537,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<p>В прошлом модуле мы собрали структуру кампании: цели, группы объявлений, бюджеты и ставки. Но кампания сама по себе никого не убеждает, убеждает то, что видит пользователь: картинка, видео или текст объявления.</p>\n<p>В этом модуле разберёмся, откуда брать идеи для креативов, как писать тексты, которые не отталкивают с первой строки, какой формат выбрать под задачу и как быстро понять, что креатив не работает.</p>\n<p>Дальше в модуле: карта уроков в разделе «Что будет в модуле», сами уроки, практическое задание и проверка знаний в конце.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11035794",
+  "subscriptions": [
+    "31-77-11035794",
+    "30-77-11035794"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014885,
+  "create_date": "2026-08-19T03:08:16Z",
+  "update_date": "2026-08-19T03:08:16Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035794-1",
+  "discussion_threads": [
+    "77-11035794-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

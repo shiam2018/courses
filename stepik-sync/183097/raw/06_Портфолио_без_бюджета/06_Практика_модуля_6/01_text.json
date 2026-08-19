@@ -1,0 +1,67 @@
+{
+  "id": 11035849,
+  "lesson": 2538562,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<p>Соберите всё, что вы делали с выбранным бизнесом в практике предыдущих модулей, в один цельный материал для портфолио.</p>\n<h3>Задание</h3>\n<ol>\n<li>Соберите в одном документе: портрет аудитории бизнеса, гипотезы таргетинга, структуру кампании, которую вы прорабатывали, и придуманные или протестированные креативы.</li>\n<li>Если вы запускали реальную тестовую кампанию, добавьте фактические цифры: расход, охват, реакции. Если кампания была только на бумаге, честно отметьте это как учебный кейс, а не как реальный результат.</li>\n<li>Оформите документ по схеме: задача бизнеса, что вы сделали, почему именно так, какой результат или прогноз результата.</li>\n<li>Сохраните готовый разбор в отдельный файл или на отдельную страницу: это первая единица вашего портфолио.</li>\n</ol>\n<p>Этот материал пригодится в следующем, финальном модуле курса, когда будем готовить резюме и разбирать собеседование.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11035849",
+  "subscriptions": [
+    "31-77-11035849",
+    "30-77-11035849"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014940,
+  "create_date": "2026-08-19T03:09:01Z",
+  "update_date": "2026-08-19T03:09:01Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035849-1",
+  "discussion_threads": [
+    "77-11035849-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

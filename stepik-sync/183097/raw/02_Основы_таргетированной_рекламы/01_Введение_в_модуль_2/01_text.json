@@ -1,0 +1,67 @@
+{
+  "id": 11035771,
+  "lesson": 2538526,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<p>В первом модуле мы разобрались, чем вообще занимается таргетолог и какие площадки для этого нужно знать. Теперь пора заглянуть внутрь: как реклама вообще находит нужного человека.</p>\n<p>Этот модуль объясняет механику показа рекламы: аукцион, виды таргетинга, сегментацию аудитории и ретаргетинг. Без этой базы настройка кампании превращается в угадывание, а с ней, в управляемый процесс.</p>\n<p>Дальше в модуле: карта уроков в разделе «Что будет в модуле», сами уроки, практическое задание и проверка знаний в конце.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11035771",
+  "subscriptions": [
+    "31-77-11035771",
+    "30-77-11035771"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014862,
+  "create_date": "2026-08-19T03:07:45Z",
+  "update_date": "2026-08-19T03:07:45Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035771-1",
+  "discussion_threads": [
+    "77-11035771-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

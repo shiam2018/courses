@@ -1,0 +1,67 @@
+{
+  "id": 11035833,
+  "lesson": 2538556,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<h3>Итоги модуля</h3>\n<ul>\n<li>Кампания состоит из трёх уровней: кампания (цель и общий бюджет), группа объявлений (аудитория), объявление (креатив).</li>\n<li>Автоматическая стратегия ставок обычно лучше подходит новичку без накопленных данных.</li>\n<li>Тестировать стоит не больше 2-3 гипотез одновременно и ждать достаточного объёма данных перед выводами.</li>\n<li>Частые ошибки новичков: слишком маленький бюджет на много целей, слишком ранняя остановка кампании, игнорирование модерации.</li>\n</ul>\n<p>В следующем модуле разберём, как создавать креативы и объявления, которые действительно проверяют гипотезы, а не просто выглядят красиво.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11035833",
+  "subscriptions": [
+    "31-77-11035833",
+    "30-77-11035833"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014924,
+  "create_date": "2026-08-19T03:08:39Z",
+  "update_date": "2026-08-19T03:08:39Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035833-1",
+  "discussion_threads": [
+    "77-11035833-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

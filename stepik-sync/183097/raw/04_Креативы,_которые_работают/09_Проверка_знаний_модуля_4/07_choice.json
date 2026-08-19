@@ -1,0 +1,101 @@
+{
+  "id": 11035825,
+  "lesson": 2538549,
+  "position": 7,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2>Зачем вообще показывать несколько вариантов креатива вместо одного, который кажется самым удачным?</h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Потому что заранее угадать лучший вариант почти невозможно, тестирование заменяет догадки данными",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Потому что площадки требуют минимум три варианта креатива для запуска",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Чтобы потратить весь рекламный бюджет быстрее",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Несколько вариантов нужны только для очень больших бюджетов",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11035825",
+  "subscriptions": [
+    "31-77-11035825",
+    "30-77-11035825"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014916,
+  "create_date": "2026-08-19T03:08:31Z",
+  "update_date": "2026-08-19T03:08:32Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035825-1",
+  "discussion_threads": [
+    "77-11035825-1",
+    "77-11035825-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

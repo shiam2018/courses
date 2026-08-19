@@ -1,0 +1,67 @@
+{
+  "id": 11035851,
+  "lesson": 2538563,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<p>Портфолио готово: у вас есть тестовая кампания, разбор аудитории и понятный результат, который можно показать. Осталось превратить это в оффер или в первого платящего клиента, и этому посвящён последний модуль курса.</p>\n<p>Здесь нет сложной теории про рекламу. Вместо этого разберём резюме, собеседование, поиск вакансий и клиентов, и то, что делать в первые месяцы после того, как согласие получено.</p>\n<p>Дальше в модуле: карта уроков в разделе «Что будет в модуле», сами уроки, финальная практика и проверка знаний.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11035851",
+  "subscriptions": [
+    "31-77-11035851",
+    "30-77-11035851"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014942,
+  "create_date": "2026-08-19T03:09:02Z",
+  "update_date": "2026-08-19T03:09:02Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035851-1",
+  "discussion_threads": [
+    "77-11035851-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

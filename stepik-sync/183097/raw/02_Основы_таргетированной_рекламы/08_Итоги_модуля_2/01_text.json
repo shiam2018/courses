@@ -1,0 +1,67 @@
+{
+  "id": 11035777,
+  "lesson": 2538532,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<h3>Итоги модуля</h3>\n<ul>\n<li>Показ рекламы решает аукцион: побеждает не только высокая ставка, но и релевантность объявления конкретному человеку.</li>\n<li>Основные виды таргетинга: интересы, поведение, демография и похожие аудитории, каждый подходит для своей ситуации.</li>\n<li>Сегментация аудитории и разные сообщения под разные сегменты работают лучше, чем одна кампания на всех.</li>\n<li>Ретаргетинг обычно даёт более дешёвые результаты, чем реклама на новую аудиторию, но не заменяет привлечение новых людей.</li>\n</ul>\n<p>В следующем модуле разберём, как собрать из этих знаний реальную структуру рекламной кампании: цели, группы объявлений и бюджеты.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11035777",
+  "subscriptions": [
+    "31-77-11035777",
+    "30-77-11035777"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014868,
+  "create_date": "2026-08-19T03:07:55Z",
+  "update_date": "2026-08-19T03:07:55Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035777-1",
+  "discussion_threads": [
+    "77-11035777-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

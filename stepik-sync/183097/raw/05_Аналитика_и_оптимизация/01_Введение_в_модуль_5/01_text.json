@@ -1,0 +1,67 @@
+{
+  "id": 11035791,
+  "lesson": 2538534,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<p>В прошлом модуле вы придумали креативы и запустили (или спланировали) кампанию для своего бизнеса из практики. Кампания идёт, деньги тратятся, но сам по себе факт, что реклама показывается, ничего не говорит о том, работает она или нет.</p>\n<p>В этом модуле разберём, какие цифры реально показывают результат, как читать отчёт рекламного кабинета и когда кампанию стоит увеличивать, а когда останавливать.</p>\n<p>Дальше в модуле: карта уроков в разделе «Что будет в модуле», сами уроки, практика на расчёте метрик для вашего бизнеса и проверка знаний.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11035791",
+  "subscriptions": [
+    "31-77-11035791",
+    "30-77-11035791"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014882,
+  "create_date": "2026-08-19T03:08:12Z",
+  "update_date": "2026-08-19T03:08:13Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035791-1",
+  "discussion_threads": [
+    "77-11035791-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 11035799,
+  "lesson": 2538541,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<p>Разберём, что делает текст объявления убедительным, а что заставляет пролистать его не читая.</p>\n<h3>Что отталкивает с первой строки</h3>\n<p>Общие фразы вроде «Лучшие цены» или «Уникальное предложение» ничего не говорят о конкретной выгоде и звучат как реклама ради рекламы. Человек видит десятки похожих объявлений в день и пропускает их автоматически, не вчитываясь.</p>\n<h3>Что цепляет внимание</h3>\n<ul>\n<li><strong>Конкретика вместо общих слов.</strong> Не «быстрая доставка», а «доставим завтра до 12:00».</li>\n<li><strong>Обращение к конкретной ситуации клиента.</strong> Не «купите куртку», а «нашли куртку, которая не промокает в -20».</li>\n<li><strong>Простой язык.</strong> Без канцелярита и профессиональных терминов, которые понятны только вам.</li>\n</ul>\n<h3>До и после</h3>\n<p><strong>До:</strong> «Мы предлагаем широкий ассортимент качественной верхней одежды по доступным ценам».<br>\n<strong>После:</strong> «Куртка на зиму, которая реально не промокает. От 4900 рублей, размеры до 60-го».</p>\n<p><strong>До:</strong> «Наша компания оказывает услуги по ремонту техники любой сложности».<br>\n<strong>После:</strong> «Ноутбук не включается? Диагностика бесплатно, ремонт за один день».</p>\n<h3>Одна мысль на объявление</h3>\n<p>Не пытайтесь уместить в одном тексте все преимущества продукта сразу. Объявление, которое доносит одну конкретную мысль, работает лучше, чем список из пяти достоинств, которые размывают внимание читателя.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11035799",
+  "subscriptions": [
+    "31-77-11035799",
+    "30-77-11035799"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11014890,
+  "create_date": "2026-08-19T03:08:19Z",
+  "update_date": "2026-08-19T03:08:20Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11035799-1",
+  "discussion_threads": [
+    "77-11035799-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
