@@ -1,0 +1,67 @@
+{
+  "id": 11036048,
+  "lesson": 2538615,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<div class=\"lesson-content\">\n<p>Вы прошли весь путь курса: от того, чем занимается таргетолог, до настройки кампаний, аналитики, портфолио и поиска первой работы. Если вы делали практику на реальном бизнесе, у вас уже есть разбор аудитории, структура кампании, черновики креативов и расчёт метрик, готовый кейс для портфолио.</p>\n<p>Дальше этот навык нарабатывается только в реальных рекламных кабинетах. Возвращайтесь к материалам курса, когда столкнётесь с конкретной задачей: с готовой структурой это быстрее, чем искать совет заново.</p>\n<p>Если курс был полезен, оставьте отзыв, это помогает другим понять, стоит ли его проходить. Также буду рад видеть вас в Telegram-канале <a href=\"https://t.me/shenshin_co\" rel=\"noopener noreferrer nofollow\">shenshin.co</a>, там пишу про карьеру на стыке маркетинга и трафика, и на <a href=\"https://www.youtube.com/@shenshinigor\" rel=\"noopener noreferrer nofollow\">YouTube-канале</a> с разборами и вебинарами.</p>\n</div>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11036048",
+  "subscriptions": [
+    "31-77-11036048",
+    "30-77-11036048"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11015139,
+  "create_date": "2026-08-19T04:45:20Z",
+  "update_date": "2026-08-19T04:45:20Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11036048-1",
+  "discussion_threads": [
+    "77-11036048-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
