@@ -21,7 +21,7 @@
     "subtitles": {},
     "tests_archive": null,
     "feedback_correct": "",
-    "feedback_wrong": "CPA = Затраты на рекламу / Количество конверсий CPA = 450000 / 90\nОстальные метрики чтобы вас запутать."
+    "feedback_wrong": "CPA = Затраты на рекламу / Количество конверсий\nCPA = 45000 / 90 = 500\nОстальные метрики чтобы вас запутать."
   },
   "actions": {
     "edit_instructions": "#",
