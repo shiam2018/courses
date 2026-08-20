@@ -5,3 +5,4 @@ __pycache__/
 .env
 node_modules/
 keys/
+scripts/slide-sources/*/out/
