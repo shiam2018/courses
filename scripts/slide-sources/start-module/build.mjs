@@ -177,32 +177,71 @@ slides.push({
       { stage: 'Действие', label: 'Покупка', detail: 'Удобная оплата, бонусы, поддержка' },
     ];
     const shades = [BRAND.coral1, '#e2653f', '#ea8a63', '#f0a988'];
+    // Widths at each of the 5 horizontal boundaries (4 bands between them) —
+    // strictly decreasing so the funnel actually tapers downward, and every
+    // band's top width equals the previous band's bottom width so the
+    // silhouette has no seams: one continuous shape, not 4 stacked boxes.
+    const WIDTHS = [380, 300, 225, 165, 125];
+    const BAND_H = 78;
+    const FUNNEL_W = 380;
+    const CENTER_X = FUNNEL_W / 2;
+    const funnelTotalH = BAND_H * 4;
+    const stemH = 30;
+    const boxH = 44;
+    const boxW = 170;
+
     const css = `
       .funnel-wrap { position: relative; height: 100%; padding: 40px 48px; }
-      .funnel-col { position: absolute; top: 190px; left: 48px; width: 380px; }
-      .funnel-seg {
-        color: #fff; font-weight: 800; font-size: 13px; text-transform: uppercase;
-        text-align: center; padding: 14px 0; margin-bottom: 4px;
+      .funnel-col { position: absolute; top: 190px; left: 48px; width: ${FUNNEL_W}px; height: ${funnelTotalH + stemH + boxH}px; }
+      .funnel-label {
+        position: absolute; left: 0; width: 100%; display: flex; align-items: center; justify-content: center;
+        color: #fff; font-weight: 800; font-size: 13px; text-transform: uppercase; text-align: center; pointer-events: none;
+      }
+      .funnel-stem { position: absolute; left: ${CENTER_X - 1}px; width: 2px; background: ${BRAND.coral1}; }
+      .repeat-chip {
+        position: absolute; left: ${CENTER_X - boxW / 2}px; width: ${boxW}px; height: ${boxH}px;
+        background: ${BRAND.paper}; border: 2px solid ${BRAND.coral3}; border-radius: 10px;
+        display: flex; align-items: center; justify-content: center;
+        font-weight: 800; font-size: 11.5px; color: ${BRAND.coral1}; text-align: center;
       }
       .detail-col { position: absolute; top: 190px; left: 470px; width: 640px; }
-      .detail-row { display: flex; align-items: center; gap: 16px; margin-bottom: 4px; }
+      .detail-row { display: flex; align-items: center; gap: 16px; height: ${BAND_H}px; }
       .detail-bar { color: #fff; font-weight: 800; font-size: 13px; text-transform: uppercase; padding: 14px 20px; width: 220px; text-align: center; }
       .detail-text { font-size: 13px; color: ${BRAND.ink}; }
-      .repeat-chip { margin-top: 10px; background: ${BRAND.paper}; border: 2px solid ${BRAND.coral3}; border-radius: 10px; padding: 10px 18px; font-weight: 800; font-size: 11.5px; color: ${BRAND.coral1}; text-align: center; width: 200px; }
     `;
-    let funnelHtml = '';
-    let detailHtml = '';
-    const widths = [380, 320, 260, 200];
+
+    let polygons = '';
+    let labels = '';
     rows.forEach((r, i) => {
-      funnelHtml += `<div class="funnel-seg" style="background:${shades[i]};width:${widths[i]}px;margin-left:${(380 - widths[i]) / 2}px;clip-path:polygon(8% 0,92% 0,100% 100%,0% 100%);">${r.stage}</div>`;
-      detailHtml += `<div class="detail-row"><div class="detail-bar" style="background:${shades[i]};">${r.label}</div><div class="detail-text">${r.detail}</div></div>`;
+      const yTop = i * BAND_H;
+      const yBottom = yTop + BAND_H;
+      const wTop = WIDTHS[i];
+      const wBottom = WIDTHS[i + 1];
+      const xTopL = CENTER_X - wTop / 2;
+      const xTopR = CENTER_X + wTop / 2;
+      const xBotL = CENTER_X - wBottom / 2;
+      const xBotR = CENTER_X + wBottom / 2;
+      polygons += `<polygon points="${xTopL},${yTop} ${xTopR},${yTop} ${xBotR},${yBottom} ${xBotL},${yBottom}" fill="${shades[i]}" />`;
+      labels += `<div class="funnel-label" style="top:${yTop}px;height:${BAND_H}px;">${r.stage}</div>`;
     });
+
+    const detailHtml = rows
+      .map((r) => `<div class="detail-row"><div class="detail-bar" style="background:${shades[rows.indexOf(r)]};">${r.label}</div><div class="detail-text">${r.detail}</div></div>`)
+      .join('');
+
     const html = `
       ${signatureHtml(false)}
       <div class="funnel-wrap">
         ${eyebrowHtml('Модуль База · Урок 5')}
         <h1 class="title" style="max-width:700px;">Воронка продаж</h1>
-        <div class="funnel-col">${funnelHtml}<div class="repeat-chip">Повторная покупка</div></div>
+        <div class="funnel-col">
+          <svg width="${FUNNEL_W}" height="${funnelTotalH}" viewBox="0 0 ${FUNNEL_W} ${funnelTotalH}" style="position:absolute;top:0;left:0;">
+            ${polygons}
+          </svg>
+          ${labels}
+          <div class="funnel-stem" style="top:${funnelTotalH}px;height:${stemH}px;"></div>
+          <div class="repeat-chip" style="top:${funnelTotalH + stemH}px;">Повторная покупка</div>
+        </div>
         <div class="detail-col">${detailHtml}</div>
       </div>
     `;
