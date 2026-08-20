@@ -173,7 +173,8 @@ export const baseCss = `
     margin-top: 14px;
     text-wrap: balance;
   }
-  .on-coral .eyebrow-label, .on-coral .eyebrow-line { background: #fff; color: #fff; }
+  .on-coral .eyebrow-line { background: #fff; }
+  .on-coral .eyebrow-label { color: #fff; }
   .on-coral h1.title { color: #fff; }
   p.body-text {
     font-size: 15px;

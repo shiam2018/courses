@@ -7,3 +7,5 @@ node_modules/
 keys/
 scripts/slide-sources/*/out/
 scripts/pdf-export/*.pdf
+scripts/presentations/*/out/
+scripts/presentations/*/*.pdf
