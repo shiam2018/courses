@@ -59,15 +59,13 @@ export function fontFaceCss() {
   `;
 }
 
-// Signature — replaces the removed Wise Bird logo ("я делаю от имени себя" —
-// user's explicit instruction, never re-add a logo here). Top-right, two
-// lines: small caps caption + bold name, matching the approved reference.
-export function signatureHtml(onDark = false) {
-  return `
-    <div class="signature${onDark ? ' on-dark' : ''}">
-      <div class="sig-caption">Автор курса</div>
-      <div class="sig-name">Игорь Шеньшин</div>
-    </div>`;
+// No signature and no logo on any slide — user's explicit instruction
+// (2026-08-20: removed the "Автор курса / Игорь Шеньшин" mark entirely,
+// after an earlier instruction had it replace the removed Wise Bird logo).
+// Kept as a no-op function so every call site across build scripts stays
+// unchanged; never resurrect a signature or logo here without being asked.
+export function signatureHtml() {
+  return '';
 }
 
 // Coral accent line + uppercase label, used above every slide title.

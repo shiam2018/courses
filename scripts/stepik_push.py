@@ -47,10 +47,13 @@ def get_token():
         return json.load(resp)["access_token"]
 
 
+TIMEOUT = 30
+
+
 def api_get(path, token):
     req = urllib.request.Request(f"{API}/{path}")
     req.add_header("Authorization", f"Bearer {token}")
-    with urllib.request.urlopen(req) as resp:
+    with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
         return json.load(resp)
 
 
@@ -60,7 +63,7 @@ def api_put(path, token, body):
     req.add_header("Authorization", f"Bearer {token}")
     req.add_header("Content-Type", "application/json")
     try:
-        with urllib.request.urlopen(req) as resp:
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
             return resp.status, json.load(resp)
     except urllib.error.HTTPError as e:
         return e.code, e.read().decode("utf-8", errors="replace")
@@ -93,7 +96,11 @@ def main():
         if os.path.exists(html_path):
             local_text = open(html_path, encoding="utf-8").read()
 
-        live = api_get(f"step-sources/{step_id}", token)
+        try:
+            live = api_get(f"step-sources/{step_id}", token)
+        except Exception as e:
+            print(f"SKIP {jp}: GET failed for step-source {step_id}: {e}")
+            continue
         step_sources = live.get("step-sources") or live.get("stepSources")
         if not step_sources:
             print(f"SKIP {jp}: could not fetch live step-source {step_id}")
