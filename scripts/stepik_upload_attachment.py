@@ -25,6 +25,7 @@ def upload(course_id, file_path, upload_name=None):
         ".png": "image/png",
         ".jpg": "image/jpeg",
         ".jpeg": "image/jpeg",
+        ".pdf": "application/pdf",
     }.get(os.path.splitext(upload_name)[1].lower(), "application/octet-stream")
 
     with open(file_path, "rb") as f:
