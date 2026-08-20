@@ -259,6 +259,45 @@ export const baseCss = `
   }
 `;
 
+// Dense, top-aligned "readable article" slide for the per-step Loom decks
+// (one page per Stepik step): eyebrow + title + optional lead, then an
+// auto-balanced multi-column flow of sections. Built for real lesson prose
+// (headings, lists, tables) rather than the sparse talking-point layouts
+// above, which vertically center and don't hold this much text.
+export function docSlide({ eyebrow, title, lead = '', sections = [], columns = 2, bodyFontSize = 13.5 }) {
+  const sectionsHtml = sections
+    .map((s) => `<div class="doc-section">${s.heading ? `<h4>${s.heading}</h4>` : ''}${s.html}</div>`)
+    .join('');
+  const css = `
+    .doc-frame { position: relative; height: 100%; padding: 34px 46px 26px; display: flex; flex-direction: column; }
+    .doc-eyebrow-row { display: flex; align-items: center; gap: 8px; flex: 0 0 auto; }
+    .doc-eyebrow-row .eyebrow-line { width: 24px; height: 3px; border-radius: 2px; background: ${BRAND.coral1}; }
+    .doc-eyebrow-row .eyebrow-label { font-size: 11px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: ${BRAND.coral1}; }
+    h2.doc-title { font-size: 24px; font-weight: 800; color: ${BRAND.ink}; line-height: 1.16; margin-top: 7px; text-wrap: balance; flex: 0 0 auto; }
+    p.doc-lead { font-size: 12px; color: ${BRAND.bodyGray}; line-height: 1.45; margin-top: 7px; flex: 0 0 auto; }
+    .doc-cols { column-count: ${columns}; column-gap: 34px; margin-top: 14px; flex: 1; font-size: ${bodyFontSize}px; line-height: 1.42; color: ${BRAND.bodyGray}; overflow: hidden; }
+    .doc-section { break-inside: avoid; margin-bottom: 12px; }
+    .doc-section h4 { font-size: 12.5px; font-weight: 800; color: ${BRAND.ink}; margin-bottom: 5px; border-left: 3px solid ${BRAND.coral1}; padding-left: 8px; line-height: 1.3; }
+    .doc-section p { margin-bottom: 5px; }
+    .doc-section ul, .doc-section ol { margin: 0 0 5px 15px; }
+    .doc-section li { margin-bottom: 3px; }
+    .doc-section strong { color: ${BRAND.ink}; }
+    .doc-section em.quote { color: ${BRAND.ink}; font-style: italic; }
+    .doc-section table { border-collapse: collapse; width: 100%; font-size: 9px; margin: 5px 0; }
+    .doc-section td, .doc-section th { border: 1px solid rgba(28,26,24,0.14); padding: 2px 4px; text-align: center; }
+    .doc-section .formula { font-weight: 800; color: ${BRAND.coral1}; }
+  `;
+  const html = `
+    <div class="doc-frame">
+      <div class="doc-eyebrow-row"><span class="eyebrow-line"></span><span class="eyebrow-label">${eyebrow}</span></div>
+      <h2 class="doc-title">${title}</h2>
+      ${lead ? `<p class="doc-lead">${lead}</p>` : ''}
+      <div class="doc-cols">${sectionsHtml}</div>
+    </div>
+  `;
+  return wrap('', html, css);
+}
+
 export function wrap(canvasClass, bodyHtml, extraCss = '') {
   return `<!doctype html><html><head><meta charset="utf-8"><style>
     ${fontFaceCss()}
