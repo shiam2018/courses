@@ -6,36 +6,7 @@
   "block": {
     "name": "video",
     "text": "",
-    "video": {
-      "id": 512141,
-      "thumbnail": "https://cdn.stepik.net/video/512141/thumbnail/225c7af616fc021408d78622ff371ade.jpg",
-      "urls": [
-        {
-          "quality": "1080",
-          "url": "https://cdn.stepik.net/video/512141/1080/1aabf7fb488bc4a2f996a1459ff3c41f.mp4"
-        },
-        {
-          "quality": "720",
-          "url": "https://cdn.stepik.net/video/512141/720/eb107e53203534e71a2895c952cf7d94.mp4"
-        },
-        {
-          "quality": "540",
-          "url": "https://cdn.stepik.net/video/512141/540/6e7bd3a558bda8edb1070de2157ba517.mp4"
-        },
-        {
-          "quality": "360",
-          "url": "https://cdn.stepik.net/video/512141/360/a8191421a269864fd05ce849526cf118.mp4"
-        },
-        {
-          "quality": "240",
-          "url": "https://cdn.stepik.net/video/512141/240/ee92e22bd25c08f4bee45d5eb4a9068e.mp4"
-        }
-      ],
-      "duration": 65,
-      "status": "ready",
-      "upload_date": "2025-05-13T14:20:37Z",
-      "filename": "2 База - финал.mp4"
-    },
+    "video": null,
     "options": {},
     "subtitle_files": [],
     "is_deprecated": false,
@@ -79,7 +50,7 @@
   "user_step_vote": null,
   "step_issue": 7214577,
   "create_date": "2025-05-12T05:22:11Z",
-  "update_date": "2025-05-13T14:00:42Z",
+  "update_date": "2026-08-20T09:11:11Z",
   "discussions_count": 0,
   "discussion_proxy": "77-7235486-1",
   "discussion_threads": [

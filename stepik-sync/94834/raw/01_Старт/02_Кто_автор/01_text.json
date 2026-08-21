@@ -1,0 +1,67 @@
+{
+  "id": 7252079,
+  "lesson": 1755515,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"Кто автор курса?\" height=\"840\" name=\"header-m01_l01.webp\" src=\"https://stepik.org/media/attachments/course/94834/header-m01_l01.webp\" width=\"3840\"></p>\n\n<h2 style=\"text-align:center;\"><img alt=\"\" height=\"360\" name=\"main-png-2.png\" src=\"https://ucarecdn.stepik.net/d2899e5f-b8cc-4dc5-92b7-ec9fa3b6e231/\" style=\"float:right;\" width=\"360\"></h2>\n\n<p>Меня зовут <strong>Игорь Шеньшин</strong>, и я занимаюсь маркетингом больше 12 лет. За это время я получил обширную экспертизу в сфере цифрового маркетинга: арбитраж трафика, контекстная и таргетированная реклама, управление маркетинговыми командами.</p>\n\n<p>Моя основная специализация: <strong>user acquisition</strong> и работа с <strong>платным трафиком для мобильных приложений</strong>. Я запускал и масштабировал рекламные кампании на таких платформах, как Google Ads, TikTok Ads и других, охватывая рынки США, Европы, России, Турции и СНГ. Умею выстраивать стратегии привлечения пользователей от идеи до масштабирования, с чётким фокусом на окупаемость инвестиций (ROI) и достижение KPI.</p>\n\n<p>Помимо практического опыта в медиабаинге, я участвовал в построении аналитических систем, работал с атрибуцией (в том числе SKAdNetwork для iOS), развивал креативное направление и выстраивал команды с нуля. Мне близок <em>data-driven</em> подход, и я убеждён, что именно грамотная аналитика, основа эффективного маркетинга.</p>\n\n<p>Подробнее обо мне и моём опыте в <a href=\"https://www.linkedin.com/in/shenshin/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">LinkedIn</a>.</p>\n\n<p>Если темы маркетинга и трафика вам интересны, подписывайтесь на мой Telegram-канал <a href=\"https://t.me/shenshin_co\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">shenshin.co</a>, там я пишу о карьере в маркетинге, и на <a href=\"https://www.youtube.com/@shenshinigor\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">YouTube-канал</a>, где выкладываю вебинары и разборы.</p>\n\n<p>Если у вас есть предложение о сотрудничестве или вы хотите записаться на индивидуальное обучение (подробности на <a href=\"https://shenshin.co/ru/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">моём сайте</a>), напишите мне в <a href=\"https://t.me/shenshinigor\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Telegram</a>.</p>\n\n<p>Буду рад поделиться своими знаниями и практическими кейсами в рамках этого курса!</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-7252079",
+  "subscriptions": [
+    "31-77-7252079",
+    "30-77-7252079"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 7231170,
+  "create_date": "2025-05-14T10:55:31Z",
+  "update_date": "2026-08-20T09:08:01Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-7252079-1",
+  "discussion_threads": [
+    "77-7252079-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
