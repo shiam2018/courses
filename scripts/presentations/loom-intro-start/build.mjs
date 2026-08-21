@@ -3,12 +3,14 @@
 // for personal use only. Content sourced directly from the "Старт" module
 // lessons (Кто автор, Сколько зарабатывает, Чему нужно научиться, Что вас
 // ждёт на курсе), which already spells out the module/lesson/practice/quiz
-// format in detail.
+// format in detail. Rebuilt 2026-08-20 with a benefits-first focus (salary
+// ladder, what students learn, what they get after the course) — no
+// recording-direction notes ("для лекции: скажите...") and no chat mention.
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
-  BRAND, wrap, eyebrowHtml, waveClipPath, recapSlide, CANVAS_W, CANVAS_H,
+  BRAND, wrap, eyebrowHtml, recapSlide,
 } from '../../slide_template.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -16,9 +18,9 @@ const ASSETS = path.resolve(__dirname, '..', '..', '..', 'assets', 'generated', 
 const OUT_DIR = path.resolve(__dirname, 'out');
 fs.mkdirSync(ASSETS, { recursive: true });
 fs.mkdirSync(OUT_DIR, { recursive: true });
-// Slides 4 and 6 intentionally reuse already-rendered PNGs from the "Старт"
-// Stepik module (same career-ladder / program-overview visuals) — copy them
-// in before running render_batch.mjs, see README note at bottom of this file.
+// Slides reuse already-rendered PNGs from the "Старт" Stepik module (same
+// career-ladder / program-overview visuals) — copy them in before running
+// render_batch.mjs, see README note at bottom of this file.
 const REUSE_SRC = path.resolve(__dirname, '..', '..', 'slide-sources', 'start-module', 'out');
 
 function contentSlide(eyebrow, title, innerHtml, titleMaxWidth = 640) {
@@ -31,9 +33,9 @@ function contentSlide(eyebrow, title, innerHtml, titleMaxWidth = 640) {
   `);
 }
 
-function stepsNum(items) {
-  return `<div class="steps-num" style="max-width:840px;">${items.map((it, i) => `
-    <div class="step-num-item"><div class="step-num-chip">${i + 1}</div><div class="step-num-body"><h4>${it.h}</h4>${it.p ? `<p>${it.p}</p>` : ''}</div></div>
+function stepsNum(items, startAt = 1) {
+  return `<div class="steps-num">${items.map((it, i) => `
+    <div class="step-num-item"><div class="step-num-chip">${startAt + i}</div><div class="step-num-body"><h4>${it.h}</h4>${it.p ? `<p>${it.p}</p>` : ''}</div></div>
   `).join('')}</div>`;
 }
 
@@ -61,7 +63,7 @@ slides.push({
       <div class="title-wrap">
         ${eyebrowHtml('Видео-введение · для записи в Loom')}
         <h1 class="big" style="color:#fff;">Интернет-Маркетолог: Старт Карьеры</h1>
-        <p class="sub">Знакомство с курсом: кто автор, сколько можно зарабатывать, что нужно освоить и как устроено обучение.</p>
+        <p class="sub">Сколько можно зарабатывать, чему вы научитесь и что получите после курса.</p>
       </div>
     `;
     return wrap('on-coral', html, css);
@@ -95,7 +97,6 @@ slides.push({
           <li>Строил атрибуцию (включая SKAdNetwork), аналитику и креативные команды с нуля</li>
           <li>Data-driven подход: аналитика как основа эффективного маркетинга</li>
         </ul>
-        <p class="body-text" style="margin-top:10px;font-size:12px;font-weight:700;">Сказать вслух: где искать меня дальше (LinkedIn, Telegram-канал shenshin.co, YouTube) и куда писать по сотрудничеству.</p>
       </div>
     `;
     return wrap('', html, css);
@@ -110,7 +111,7 @@ slides.push({
     <ul class="list-plain" style="margin-top:14px;max-width:820px;">
       <li>Честно: мы не гарантируем трудоустройство — это зависит от рынка и ваших действий</li>
       <li>Мы гарантируем качество материалов: сами прошли курс и выполнили все задания</li>
-      <li>Тезис для лекции: «пройдёте весь путь, будете прокачаны лучше 90% соискателей на стартовые позиции»</li>
+      <li>Пройдя весь путь, вы будете подготовлены лучше 90% соискателей на стартовые позиции</li>
     </ul>
   `, 820),
 });
@@ -121,25 +122,50 @@ slides.push({
   reuse: 'start-02-kariera-v-marketinge.png',
 });
 
-// 5 — Портрет кандидата и путь найма (condensed talking points, not the full 22-item list)
+// 5 — Сколько зарабатывает интернет-маркетолог (salary ladder)
 slides.push({
-  out: 'l05-portret-i-najm',
-  build: () => contentSlide('Тезисы · Чему нужно научиться', 'Что ищут работодатели', colGrid([
-    { h: 'Хард-скиллы', items: ['Целевая аудитория и аналитика', 'Рекламные каналы: контекст, таргет, SEO, SMM', 'Работа с CRM и креативами'] },
-    { h: 'Софт-скиллы', items: ['Инициативность и адаптивность', 'Умение планировать, data driven', 'Командная работа, приятное общение'] },
-    { h: 'Путь найма (5 шагов)', items: ['Отклик → Скрининг → Тестовое → Техническое → Менеджер'] },
+  out: 'l05-skolko-zarabatyvaet',
+  build: () => {
+    const left = [
+      { h: 'Стажёр — 50–70 тыс. ₽', p: 'Изучение инструментов под руководством' },
+      { h: 'Junior — 80–120 тыс. ₽', p: 'Самостоятельная работа с каналами' },
+      { h: 'Middle — 120–200 тыс. ₽', p: 'Запуск кампаний, управление бюджетом' },
+      { h: 'Senior — 200+ тыс. ₽', p: 'Стратегии и глубокая аналитика' },
+    ];
+    const right = [
+      { h: 'Team Lead — 250+ тыс. ₽', p: 'Управление командой' },
+      { h: 'Head — 300+ тыс. ₽', p: 'Стратегическое планирование' },
+      { h: 'CMO — 500+ тыс. ₽', p: 'Маркетинговая стратегия компании' },
+    ];
+    const css = `.struktura-cols { display: flex; gap: 40px; margin-top: 18px; } .struktura-cols .steps-num { flex: 1; max-width: none; }`;
+    const html = `
+      ${eyebrowHtml('Тезисы · Сколько можно зарабатывать')}
+      <h1 class="title" style="max-width:780px;">Карьерная лестница интернет-маркетолога</h1>
+      <p class="body-text" style="margin-top:6px;max-width:860px;">Мой путь от стажёра до руководителя занял около 10 лет — с этим курсом начальные этапы пройдёте быстрее.</p>
+      <div class="struktura-cols">${stepsNum(left, 1)}${stepsNum(right, 5)}</div>
+    `;
+    return wrap('', `<div class="content-pad">${html}</div>`, css);
+  },
+});
+
+// 6 — Чему вы научитесь
+slides.push({
+  out: 'l06-chemu-nauchites',
+  build: () => contentSlide('Тезисы · Чему вы научитесь', 'Хард- и софт-скиллы интернет-маркетолога', colGrid([
+    { h: 'Хард-скиллы', items: ['Целевая аудитория и аналитика', 'Рекламные каналы: контекст, таргет, SEO, SMM', 'Работа с CRM и создание креативов', 'Сбор сайта/лендинга и запуск кампаний своими руками'] },
+    { h: 'Софт-скиллы', items: ['Инициативность и адаптивность', 'Умение планировать, data driven подход', 'Командная работа, презентация себя и своих результатов'] },
   ], 1000), 820),
 });
 
-// 6 — Программа курса (reuse the already-built visual)
+// 7 — Программа курса (reuse the already-built visual)
 slides.push({
-  out: 'l06-programma',
+  out: 'l07-programma',
   reuse: 'start-05-programma-kursa.png',
 });
 
-// 7 — Как устроен каждый урок (4 шага)
+// 8 — Как устроен каждый урок (4 шага)
 slides.push({
-  out: 'l07-kak-ustroen-urok',
+  out: 'l08-kak-ustroen-urok',
   build: () => contentSlide('Тезисы · Формат обучения', 'Каждый урок: 4 шага', stepsNum([
     { h: 'Теория', p: 'Краткое изложение важной информации, без которой не выполнить задание.' },
     { h: 'Упражнение', p: 'Практическое задание на закрепление навыка, по шаблону или инструкции.' },
@@ -148,18 +174,18 @@ slides.push({
   ]), 700),
 });
 
-// 8 — Практическое задание модуля
+// 9 — Практическое задание модуля
 slides.push({
-  out: 'l08-praktika',
+  out: 'l09-praktika',
   build: () => contentSlide('Тезисы · Практика', 'Практическое задание модуля', `
     <p class="body-text" style="margin-top:10px;max-width:820px;">После всех уроков модуля: объёмная задача, объединяющая пройденные темы. Приближена к реальным рабочим задачам первых месяцев на позиции.</p>
     <p class="body-text" style="margin-top:14px;max-width:820px;font-weight:700;color:${BRAND.ink};">Результат становится частью итогового проекта — того, что можно будет показать и аргументированно разобрать на собеседовании.</p>
   `, 820),
 });
 
-// 9 — Итоги модуля и проверка знаний
+// 10 — Итоги модуля и проверка знаний
 slides.push({
-  out: 'l09-itogi-i-proverka',
+  out: 'l10-itogi-i-proverka',
   build: () => contentSlide('Тезисы · Итоги и проверка знаний', 'Итоги модуля → подготовка к собеседованию', `
     ${colGrid([
       { h: 'Итоги модуля', items: ['Повторение ключевых терминов', 'Список полезных ссылок и материалов', 'Что добавить в резюме', 'Рекомендованная литература'] },
@@ -168,29 +194,28 @@ slides.push({
   `, 900),
 });
 
-// 10 — Как мы учим: поддержка
+// 11 — Поддержка на каждом шаге
 slides.push({
-  out: 'l10-podderzhka',
+  out: 'l11-podderzhka',
   build: () => contentSlide('Тезисы · Поддержка', 'Пошагово, с поддержкой и обратной связью', `
     <ul class="list-plain" style="margin-top:20px;max-width:820px;font-size:15px;">
       <li>Пошаговая инструкция к каждому упражнению</li>
       <li>Пример выполнения, на который можно опереться</li>
-      <li>Чат участников курса: обсуждение заданий, советы, поддержка (сказать: обязательно вступить)</li>
+      <li>Весь курс выстроен вокруг реальных требований рынка — вы точно знаете, на что смотрит работодатель</li>
     </ul>
   `, 820),
 });
 
-// 11 — Финал: 4 модуля + что в конце
+// 12 — Финал: 4 модуля + что в конце
 slides.push({
-  out: 'l11-final',
+  out: 'l12-final',
   build: () => recapSlide({
     title: 'В конце курса',
     cards: [
       { heading: 'Модули курса', items: ['База', 'Инструменты', 'Источники трафика', 'Работа'] },
-      { heading: 'Что получите', items: ['Итоговую проверку знаний', 'Сертификат', 'Резюме и проект'] },
-      { heading: 'Итог', text: 'Станете кандидатом, готовым к найму.' },
+      { heading: 'Что получите', items: ['Готовый проект в портфолио', 'Резюме, готовое к откликам', 'Итоговую проверку знаний'] },
+      { heading: 'Итог', text: 'Станете кандидатом, готовым к найму на стартовую позицию интернет-маркетолога.' },
     ],
-    footer: 'Для лекции: закончить фразой-приглашением начать первый модуль прямо сейчас.',
   }),
 });
 
