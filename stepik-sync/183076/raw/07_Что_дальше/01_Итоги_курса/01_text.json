@@ -1,0 +1,67 @@
+{
+  "id": 11081216,
+  "lesson": 2546922,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183076/header-2546922.webp\" style=\"\"></p>\n<h2>Итоги курса</h2>\n<p>Мы прошли путь email-маркетинга от начала до конца: зачем этот канал нужен бизнесу и чем он отличается от других, как законно собрать базу и сегментировать её по поведению и этапу жизненного цикла, что делает письмо таким, которое открывают и дочитывают, как работает автоматизация welcome-серий и триггерных писем, и какими метриками измеряется результат — open rate, CTR, отписки и доставляемость.</p>\n<p><strong>Что делать дальше:</strong> если у вас уже есть база подписчиков (даже маленькая), попробуйте применить сегментацию по этапу жизненного цикла из модуля 2 и написать одно письмо по структуре из модуля 3 — именно применение на реальной задаче, а не повторное чтение теории, закрепляет эти понятия.</p>\n<h3>Что дальше?</h3>\n<p>Последний урок курса — что делать дальше, если email-маркетинг зацепил сильнее остальных тем.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081216",
+  "subscriptions": [
+    "31-77-11081216",
+    "30-77-11081216"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060307,
+  "create_date": "2026-08-24T13:58:23Z",
+  "update_date": "2026-08-24T13:58:24Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081216-1",
+  "discussion_threads": [
+    "77-11081216-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

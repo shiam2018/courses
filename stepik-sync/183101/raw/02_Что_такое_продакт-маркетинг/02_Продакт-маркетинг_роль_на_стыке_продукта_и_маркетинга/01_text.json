@@ -1,0 +1,67 @@
+{
+  "id": 11079666,
+  "lesson": 2546543,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183101/header-2546543.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Название «продакт-маркетолог» часто путают с product manager (продакт-менеджером) — но это разные роли с разной зоной ответственности, хотя они тесно работают вместе.</p>\n<p><strong>Product manager</strong> отвечает за сам продукт: что разрабатывать, в каком порядке, какие функции решают проблему пользователя. Его главный вопрос — «что мы строим и зачем».</p>\n<p><strong>Продакт-маркетолог</strong> отвечает за то, как продукт (или отдельная функция) доходит до рынка: как о нём рассказать, кому, через какие каналы, и как измерить, что запуск сработал. Его главный вопрос — «как об этом узнают нужные люди и почему они выберут именно это».</p>\n<p><strong>Чем это отличается от performance-маркетинга.</strong> Performance-маркетолог обычно оптимизирует уже существующую воронку — покупает трафик, тестирует креативы, снижает стоимость привлечения. Продакт-маркетолог работает раньше в цепочке: формулирует, ПОЧЕМУ продукт вообще стоит покупать, и это сообщение потом использует performance-команда в своих креативах.</p>\n<p><strong>Хорошо / плохо:</strong> продакт-маркетолог, который узнаёт о новой функции в день релиза и в спешке пишет пресс-релиз — типичный признак того, что роль используется неправильно. Продакт-маркетолог, вовлечённый с этапа планирования функции — успевает подготовить сообщение, каналы и материалы для продаж заранее, и запуск проходит без спешки.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — для кого именно создаётся продукт, и как это влияет на работу продакт-маркетолога.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079666",
+  "subscriptions": [
+    "31-77-11079666",
+    "30-77-11079666"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058757,
+  "create_date": "2026-08-24T09:30:34Z",
+  "update_date": "2026-08-24T09:30:34Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079666-1",
+  "discussion_threads": [
+    "77-11079666-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

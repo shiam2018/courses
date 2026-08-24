@@ -1,0 +1,32 @@
+[
+  {"lesson_id": 2547021, "icon": "voice-presentation"},
+  {"lesson_id": 2547022, "icon": "planner"},
+
+  {"lesson_id": 2547023, "icon": "todo-list"},
+  {"lesson_id": 2547024, "icon": "idea"},
+  {"lesson_id": 2547025, "icon": "template"},
+  {"lesson_id": 2547026, "icon": "checkmark"},
+
+  {"lesson_id": 2547027, "icon": "todo-list"},
+  {"lesson_id": 2547028, "icon": "document"},
+  {"lesson_id": 2547029, "icon": "flow-chart"},
+  {"lesson_id": 2547030, "icon": "checkmark"},
+
+  {"lesson_id": 2547031, "icon": "todo-list"},
+  {"lesson_id": 2547032, "icon": "picture"},
+  {"lesson_id": 2547033, "icon": "opened-folder"},
+  {"lesson_id": 2547034, "icon": "checkmark"},
+
+  {"lesson_id": 2547035, "icon": "todo-list"},
+  {"lesson_id": 2547036, "icon": "workflow"},
+  {"lesson_id": 2547037, "icon": "comments"},
+  {"lesson_id": 2547038, "icon": "checkmark"},
+
+  {"lesson_id": 2547039, "icon": "todo-list"},
+  {"lesson_id": 2547040, "icon": "search"},
+  {"lesson_id": 2547041, "icon": "shop"},
+  {"lesson_id": 2547042, "icon": "checkmark"},
+
+  {"lesson_id": 2547043, "icon": "graduation-cap"},
+  {"lesson_id": 2547044, "icon": "next"}
+]

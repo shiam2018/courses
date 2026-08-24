@@ -1,0 +1,101 @@
+{
+  "id": 11074635,
+  "lesson": 2545841,
+  "position": 7,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Какие три цели может преследовать рабочая встреча, согласно уроку?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Принять решение, синхронизировать информацию, сгенерировать идеи",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Развлечься, познакомиться, отдохнуть",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "У встречи не может быть чёткой цели",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Только обсудить статус задач",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11074635",
+  "subscriptions": [
+    "31-77-11074635",
+    "30-77-11074635"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11053726,
+  "create_date": "2026-08-24T03:55:06Z",
+  "update_date": "2026-08-24T03:55:06Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11074635-1",
+  "discussion_threads": [
+    "77-11074635-1",
+    "77-11074635-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

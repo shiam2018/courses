@@ -1,0 +1,101 @@
+{
+  "id": 11079733,
+  "lesson": 2546561,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>О чём сигнализирует низкая активация при большом числе регистраций?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Сообщение привлекает не тех людей, либо продукт неочевиден в использовании",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Продукт точно достиг product-market fit",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Сервер работает нестабильно",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Слишком высокая цена подписки",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11079733",
+  "subscriptions": [
+    "31-77-11079733",
+    "30-77-11079733"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058824,
+  "create_date": "2026-08-24T09:33:15Z",
+  "update_date": "2026-08-24T09:33:16Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079733-1",
+  "discussion_threads": [
+    "77-11079733-1",
+    "77-11079733-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

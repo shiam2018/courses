@@ -1,0 +1,67 @@
+{
+  "id": 11081529,
+  "lesson": 2547020,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183075/header-2547020.webp\" style=\"\"></p>\n<h2>Что дальше?</h2>\n<p>Если хочется пойти дальше — освоить более серьёзную работу с конструкторами вроде FlutterFlow и научиться собирать не только сайты, но и полноценные приложения на реальном проекте от идеи до публикации, — у меня есть отдельный платный курс <strong>«Профессия Zero-code разработчик»</strong>.</p>\n<p>Спасибо, что прошли курс до конца. Если сайт, который вы спланируете по этому курсу, реально дойдёт до публикации — это и есть цель курса.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081529",
+  "subscriptions": [
+    "31-77-11081529",
+    "30-77-11081529"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060620,
+  "create_date": "2026-08-24T14:34:54Z",
+  "update_date": "2026-08-24T14:34:54Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081529-1",
+  "discussion_threads": [
+    "77-11081529-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

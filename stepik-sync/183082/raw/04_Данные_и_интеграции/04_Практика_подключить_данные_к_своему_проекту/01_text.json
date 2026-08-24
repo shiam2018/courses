@@ -1,0 +1,67 @@
+{
+  "id": 11081753,
+  "lesson": 2547058,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183082/header-2547058.webp\" style=\"\"></p>\n<h2>Практическое задание</h2>\n<p>Подключите данные к проекту из практики модуля 2.</p>\n<ol>\n<li>Определите структуру данных: какие поля реально нужны для каждой сущности вашего макета.</li>\n<li>Замените тестовые записи на реальный источник данных, готовый к наполнению после запуска.</li>\n<li>Решите, нужны ли аккаунты пользователей, и обоснуйте решение по критериям из второго урока.</li>\n</ol>\n<p><strong>Как понять, что задание выполнено хорошо:</strong> добавьте в источник данных одну новую запись вручную и проверьте, появляется ли она корректно в интерфейсе. Если появляется без ошибок — подключение данных настроено верно.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — четвёртый модуль: как протестировать собранный продукт на реальных пользователях.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081753",
+  "subscriptions": [
+    "31-77-11081753",
+    "30-77-11081753"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060844,
+  "create_date": "2026-08-24T14:44:02Z",
+  "update_date": "2026-08-24T14:44:02Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081753-1",
+  "discussion_threads": [
+    "77-11081753-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

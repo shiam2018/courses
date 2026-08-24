@@ -1,0 +1,67 @@
+{
+  "id": 11064389,
+  "lesson": 2544264,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183089/header-2544264.webp\" style=\"\"></p>\n<h2>Итоги курса</h2>\n<p>Шесть модулей, от «зачем вообще это нужно» до готовых фраз для разговора об оффере. Если вы читали каждый урок с намерением использовать хотя бы часть фраз в реальной работе, а не просто прочитать список слов — у вас теперь есть рабочий словарь метрик и каналов, шаблоны деловой переписки, навык быстрого чтения документации, прессы и сайтов конкурентов, чек-лист проверки текста перед публикацией и структура для собеседования на английском.</p>\n<p><strong>Что делать дальше:</strong> возьмите один реальный рабочий текст — письмо в поддержку, черновик рекламного объявления или свой ответ на «Tell me about yourself» — и перепишите его, используя фразы и термины из этого курса. Применение в реальной задаче закрепляет в разы быстрее, чем повторное чтение уроков.</p>\n<h3>Что дальше?</h3>\n<p>Последний короткий урок курса — что стоит сделать дальше, если тема собеседований важна для вас отдельно от английского языка.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11064389",
+  "subscriptions": [
+    "31-77-11064389",
+    "30-77-11064389"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043480,
+  "create_date": "2026-08-22T16:25:48Z",
+  "update_date": "2026-08-22T16:25:48Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064389-1",
+  "discussion_threads": [
+    "77-11064389-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

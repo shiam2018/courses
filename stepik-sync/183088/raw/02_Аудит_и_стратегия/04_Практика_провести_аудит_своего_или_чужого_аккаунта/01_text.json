@@ -1,0 +1,67 @@
+{
+  "id": 11078194,
+  "lesson": 2546244,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183088/header-2546244.webp\" style=\"\"></p>\n<h2>Практическое задание</h2>\n<p>Выберите аккаунт для сквозного проекта курса — свой, аккаунт компании, где вы работаете, или любой публичный аккаунт, который вам интересно разобрать. Дальше все практические задания курса выполняются на нём.</p>\n<ol>\n<li>Проведите аудит по четырём пунктам из первого урока: оформление, последние 10-15 постов, регулярность, реакция аудитории в комментариях. Запишите конкретные наблюдения по каждому пункту, а не общее впечатление.</li>\n<li>Сформулируйте позиционирование аккаунта по формуле: для кого + что даёт такого, чего нет у похожих + в каком тоне. Одно-два предложения, не абзац.</li>\n</ol>\n<p><strong>Как понять, что задание выполнено хорошо:</strong> если бы кто-то посторонний прочитал только ваше позиционирование, он должен был бы понять, какой тип поста подходит этому аккаунту, а какой — нет. Если позиционирование подошло бы к любому аккаунту в этой нише — вернитесь и сделайте его конкретнее.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — второй модуль: как позиционирование превращается в систему контент-плана.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11078194",
+  "subscriptions": [
+    "31-77-11078194",
+    "30-77-11078194"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11057285,
+  "create_date": "2026-08-24T07:57:26Z",
+  "update_date": "2026-08-24T07:57:26Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11078194-1",
+  "discussion_threads": [
+    "77-11078194-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

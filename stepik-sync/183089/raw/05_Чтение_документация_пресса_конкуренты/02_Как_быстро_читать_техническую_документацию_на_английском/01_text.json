@@ -1,0 +1,67 @@
+{
+  "id": 11064379,
+  "lesson": 2544251,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183089/header-2544251.webp\" style=\"\"></p>.voc-table{width:100%;border-collapse:collapse;margin:16px 0;}.voc-table th{background:#F4EFE9;text-align:left;padding:8px 10px;font-size:14px;}.voc-table td{border-bottom:1px solid #EEE7DE;padding:8px 10px;font-size:14px;vertical-align:top;}.voc-table td:first-child{font-weight:700;white-space:nowrap;}\n<h2>Что будет на уроке?</h2>\n<p>Документация рекламных кабинетов, аналитических платформ и SaaS-инструментов написана по узнаваемым шаблонам — если знать эти шаблоны, читать её в разы быстрее.</p>\n<p><strong>Стратегия чтения:</strong> не читать документацию от начала до конца как книгу. Сначала пробежать заголовки (headings) и понять структуру раздела, затем искать конкретный ответ на свой вопрос — большинство документации пишется как справочник, а не как повествование.</p>\n<table class=\"voc-table\">\n<tbody><tr><th>Термин</th><th>Перевод</th><th>Где встречается</th></tr>\n<tr><td>Deprecated</td><td>устарело, не рекомендуется к использованию</td><td>Часто перед описанием старой функции, которую скоро уберут.</td></tr>\n<tr><td>Endpoint</td><td>конечная точка API</td><td>В документации по интеграциям и API.</td></tr>\n<tr><td>Rate limit</td><td>ограничение по количеству запросов</td><td>В разделах про API и автоматизацию.</td></tr>\n<tr><td>Changelog</td><td>список изменений</td><td>Отдельная страница с историей обновлений продукта.</td></tr>\n<tr><td>Prerequisite</td><td>обязательное условие перед началом</td><td>В начале инструкций по настройке.</td></tr>\n<tr><td>Default value</td><td>значение по умолчанию</td><td>В описании настроек и параметров.</td></tr>\n<tr><td>Supported / not supported</td><td>поддерживается / не поддерживается</td><td>Про совместимость с браузерами, форматами, платформами.</td></tr>\n<tr><td>Under the hood</td><td>«под капотом», то есть внутреннее устройство</td><td>В более неформальных технических статьях и блогах разработчиков.</td></tr>\n</tbody></table>\n<p><strong>Пример:</strong> «This feature is deprecated and will be removed in the next release. Use the new Campaigns API endpoint instead, which has a rate limit of 100 requests per minute» — расшифровывается как: старая функция скоро уберут, нужно перейти на новый endpoint API кампаний, у которого лимит 100 запросов в минуту. Каждое слово здесь — из таблицы выше.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — чтение прессы: другой жанр, другой словарь, но та же логика — не читать всё подряд, а искать нужное быстро.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11064379",
+  "subscriptions": [
+    "31-77-11064379",
+    "30-77-11064379"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043470,
+  "create_date": "2026-08-22T16:25:40Z",
+  "update_date": "2026-08-22T16:25:40Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064379-1",
+  "discussion_threads": [
+    "77-11064379-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

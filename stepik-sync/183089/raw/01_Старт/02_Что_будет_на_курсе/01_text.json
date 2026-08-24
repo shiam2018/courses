@@ -1,0 +1,67 @@
+{
+  "id": 11064368,
+  "lesson": 2544237,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183089/header-2544237.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Как устроен курс и кому он подойдёт — чтобы вы сразу поняли, стоит ли начинать именно с него.</p>\n<p>Курс исходит из того, что английский у вас уже есть — хотя бы на уровне Pre-Intermediate: вы можете читать и писать простыми предложениями, но теряетесь в рабочем контексте. Мы не учим алфавит и не разбираем времена группы Perfect — мы разбираем шесть конкретных ситуаций, в которых английский нужен маркетологу каждый день: зачем он вообще нужен, словарь метрик и каналов, деловая переписка с поддержкой и командами, чтение документации/прессы/конкурентов, ошибки в рекламе и на сайте, и собеседование на английском.</p>\n<p>В каждом уроке — таблица терминов или готовых фраз, которые можно скопировать и использовать сразу, без адаптации. После каждого модуля — тест на 10 вопросов.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — первый модуль: зачем маркетологу английский на самом деле, помимо общего «это полезно».</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11064368",
+  "subscriptions": [
+    "31-77-11064368",
+    "30-77-11064368"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043459,
+  "create_date": "2026-08-22T16:25:29Z",
+  "update_date": "2026-08-22T16:25:29Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064368-1",
+  "discussion_threads": [
+    "77-11064368-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 11081743,
+  "lesson": 2547050,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183082/header-2547050.webp\" style=\"\"></p>\n<h2>Практическое задание</h2>\n<p>Выберите проект для сквозного курса — реальную идею продукта (свою рабочую или гипотетическую для тренировки). Дальше все практические задания курса выполняются на нём.</p>\n<ol>\n<li>Определите, что нужно — сайт, приложение или оба, — и обоснуйте выбор по критериям из первого урока.</li>\n<li>Опишите главный сценарий использования одним предложением.</li>\n<li>Нарисуйте макет: список экранов и стрелки переходов между ними, включая путь назад и обработку хотя бы одной ошибки (пустой результат, неверные данные).</li>\n</ol>\n<p><strong>Как понять, что задание выполнено хорошо:</strong> покажите макет человеку, не знакомому с проектом. Если по стрелкам понятно, как дойти от открытия продукта до главного действия — макет готов к переносу в конструктор.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — второй модуль: как собрать интерфейс и логику по этому макету.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081743",
+  "subscriptions": [
+    "31-77-11081743",
+    "30-77-11081743"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060834,
+  "create_date": "2026-08-24T14:43:55Z",
+  "update_date": "2026-08-24T14:43:55Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081743-1",
+  "discussion_threads": [
+    "77-11081743-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

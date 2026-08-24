@@ -1,0 +1,684 @@
+{
+  "course_id": "183101",
+  "course_title": "Product-маркетинг: продукт, аудитория и запуск",
+  "sections": [
+    {
+      "id": 745947,
+      "title": "Старт",
+      "position": 1,
+      "lessons": [
+        {
+          "id": 2546540,
+          "title": "Видео-приветствие",
+          "unit_id": 2585219,
+          "position": 1,
+          "steps": []
+        },
+        {
+          "id": 2546541,
+          "title": "Что будет на курсе",
+          "unit_id": 2585220,
+          "position": 2,
+          "steps": [
+            {
+              "id": 11079664,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/01_Старт/02_Что_будет_на_курсе/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 745948,
+      "title": "Что такое продакт-маркетинг",
+      "position": 2,
+      "lessons": [
+        {
+          "id": 2546542,
+          "title": "Что будет в модуле",
+          "unit_id": 2585221,
+          "position": 1,
+          "steps": [
+            {
+              "id": 11079665,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Что_такое_продакт-маркетинг/01_Что_будет_в_модуле/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546543,
+          "title": "Продакт-маркетинг: роль на стыке продукта и маркетинга",
+          "unit_id": 2585222,
+          "position": 2,
+          "steps": [
+            {
+              "id": 11079666,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Что_такое_продакт-маркетинг/02_Продакт-маркетинг_роль_на_стыке_продукта_и_маркетинга/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546544,
+          "title": "Аудитория и Jobs to be Done: для кого мы делаем продукт",
+          "unit_id": 2585223,
+          "position": 3,
+          "steps": [
+            {
+              "id": 11079667,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Что_такое_продакт-маркетинг/03_Аудитория_и_Jobs_to_be_Done_для_кого_мы_делаем_продукт/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546545,
+          "title": "Проверка знаний",
+          "unit_id": 2585224,
+          "position": 4,
+          "steps": [
+            {
+              "id": 11079685,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Что_такое_продакт-маркетинг/04_Проверка_знаний/01_text"
+            },
+            {
+              "id": 11079686,
+              "position": 2,
+              "block_name": "choice",
+              "path": "raw/02_Что_такое_продакт-маркетинг/04_Проверка_знаний/02_choice"
+            },
+            {
+              "id": 11079687,
+              "position": 3,
+              "block_name": "choice",
+              "path": "raw/02_Что_такое_продакт-маркетинг/04_Проверка_знаний/03_choice"
+            },
+            {
+              "id": 11079689,
+              "position": 4,
+              "block_name": "choice",
+              "path": "raw/02_Что_такое_продакт-маркетинг/04_Проверка_знаний/04_choice"
+            },
+            {
+              "id": 11079690,
+              "position": 5,
+              "block_name": "choice",
+              "path": "raw/02_Что_такое_продакт-маркетинг/04_Проверка_знаний/05_choice"
+            },
+            {
+              "id": 11079691,
+              "position": 6,
+              "block_name": "choice",
+              "path": "raw/02_Что_такое_продакт-маркетинг/04_Проверка_знаний/06_choice"
+            },
+            {
+              "id": 11079692,
+              "position": 7,
+              "block_name": "choice",
+              "path": "raw/02_Что_такое_продакт-маркетинг/04_Проверка_знаний/07_choice"
+            },
+            {
+              "id": 11079693,
+              "position": 8,
+              "block_name": "choice",
+              "path": "raw/02_Что_такое_продакт-маркетинг/04_Проверка_знаний/08_choice"
+            },
+            {
+              "id": 11079694,
+              "position": 9,
+              "block_name": "choice",
+              "path": "raw/02_Что_такое_продакт-маркетинг/04_Проверка_знаний/09_choice"
+            },
+            {
+              "id": 11079695,
+              "position": 10,
+              "block_name": "choice",
+              "path": "raw/02_Что_такое_продакт-маркетинг/04_Проверка_знаний/10_choice"
+            },
+            {
+              "id": 11079696,
+              "position": 11,
+              "block_name": "choice",
+              "path": "raw/02_Что_такое_продакт-маркетинг/04_Проверка_знаний/11_choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 745949,
+      "title": "От идеи к MVP",
+      "position": 3,
+      "lessons": [
+        {
+          "id": 2546546,
+          "title": "Что будет в модуле",
+          "unit_id": 2585225,
+          "position": 1,
+          "steps": [
+            {
+              "id": 11079668,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_От_идеи_к_MVP/01_Что_будет_в_модуле/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546547,
+          "title": "Этапы разработки продукта: от идеи до релиза",
+          "unit_id": 2585226,
+          "position": 2,
+          "steps": [
+            {
+              "id": 11079669,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_От_идеи_к_MVP/02_Этапы_разработки_продукта_от_идеи_до_релиза/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546548,
+          "title": "MVP, Proof of Concept и product-market fit",
+          "unit_id": 2585227,
+          "position": 3,
+          "steps": [
+            {
+              "id": 11079670,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_От_идеи_к_MVP/03_MVP_Proof_of_Concept_и_product-market_fit/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546549,
+          "title": "Проверка знаний",
+          "unit_id": 2585228,
+          "position": 4,
+          "steps": [
+            {
+              "id": 11079697,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_От_идеи_к_MVP/04_Проверка_знаний/01_text"
+            },
+            {
+              "id": 11079698,
+              "position": 2,
+              "block_name": "choice",
+              "path": "raw/03_От_идеи_к_MVP/04_Проверка_знаний/02_choice"
+            },
+            {
+              "id": 11079699,
+              "position": 3,
+              "block_name": "choice",
+              "path": "raw/03_От_идеи_к_MVP/04_Проверка_знаний/03_choice"
+            },
+            {
+              "id": 11079700,
+              "position": 4,
+              "block_name": "choice",
+              "path": "raw/03_От_идеи_к_MVP/04_Проверка_знаний/04_choice"
+            },
+            {
+              "id": 11079701,
+              "position": 5,
+              "block_name": "choice",
+              "path": "raw/03_От_идеи_к_MVP/04_Проверка_знаний/05_choice"
+            },
+            {
+              "id": 11079702,
+              "position": 6,
+              "block_name": "choice",
+              "path": "raw/03_От_идеи_к_MVP/04_Проверка_знаний/06_choice"
+            },
+            {
+              "id": 11079703,
+              "position": 7,
+              "block_name": "choice",
+              "path": "raw/03_От_идеи_к_MVP/04_Проверка_знаний/07_choice"
+            },
+            {
+              "id": 11079704,
+              "position": 8,
+              "block_name": "choice",
+              "path": "raw/03_От_идеи_к_MVP/04_Проверка_знаний/08_choice"
+            },
+            {
+              "id": 11079705,
+              "position": 9,
+              "block_name": "choice",
+              "path": "raw/03_От_идеи_к_MVP/04_Проверка_знаний/09_choice"
+            },
+            {
+              "id": 11079706,
+              "position": 10,
+              "block_name": "choice",
+              "path": "raw/03_От_идеи_к_MVP/04_Проверка_знаний/10_choice"
+            },
+            {
+              "id": 11079707,
+              "position": 11,
+              "block_name": "choice",
+              "path": "raw/03_От_идеи_к_MVP/04_Проверка_знаний/11_choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 745950,
+      "title": "Методологии и жизненный цикл",
+      "position": 4,
+      "lessons": [
+        {
+          "id": 2546550,
+          "title": "Что будет в модуле",
+          "unit_id": 2585229,
+          "position": 1,
+          "steps": [
+            {
+              "id": 11079671,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Методологии_и_жизненный_цикл/01_Что_будет_в_модуле/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546551,
+          "title": "Agile, Scrum и Kanban: как работают команды разработки",
+          "unit_id": 2585230,
+          "position": 2,
+          "steps": [
+            {
+              "id": 11079672,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Методологии_и_жизненный_цикл/02_Agile_Scrum_и_Kanban_как_работают_команды_разработки/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546552,
+          "title": "Жизненный цикл продукта: от внедрения до упадка",
+          "unit_id": 2585231,
+          "position": 3,
+          "steps": [
+            {
+              "id": 11079673,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Методологии_и_жизненный_цикл/03_Жизненный_цикл_продукта_от_внедрения_до_упадка/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546553,
+          "title": "Проверка знаний",
+          "unit_id": 2585232,
+          "position": 4,
+          "steps": [
+            {
+              "id": 11079708,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Методологии_и_жизненный_цикл/04_Проверка_знаний/01_text"
+            },
+            {
+              "id": 11079709,
+              "position": 2,
+              "block_name": "choice",
+              "path": "raw/04_Методологии_и_жизненный_цикл/04_Проверка_знаний/02_choice"
+            },
+            {
+              "id": 11079710,
+              "position": 3,
+              "block_name": "choice",
+              "path": "raw/04_Методологии_и_жизненный_цикл/04_Проверка_знаний/03_choice"
+            },
+            {
+              "id": 11079711,
+              "position": 4,
+              "block_name": "choice",
+              "path": "raw/04_Методологии_и_жизненный_цикл/04_Проверка_знаний/04_choice"
+            },
+            {
+              "id": 11079712,
+              "position": 5,
+              "block_name": "choice",
+              "path": "raw/04_Методологии_и_жизненный_цикл/04_Проверка_знаний/05_choice"
+            },
+            {
+              "id": 11079713,
+              "position": 6,
+              "block_name": "choice",
+              "path": "raw/04_Методологии_и_жизненный_цикл/04_Проверка_знаний/06_choice"
+            },
+            {
+              "id": 11079714,
+              "position": 7,
+              "block_name": "choice",
+              "path": "raw/04_Методологии_и_жизненный_цикл/04_Проверка_знаний/07_choice"
+            },
+            {
+              "id": 11079715,
+              "position": 8,
+              "block_name": "choice",
+              "path": "raw/04_Методологии_и_жизненный_цикл/04_Проверка_знаний/08_choice"
+            },
+            {
+              "id": 11079716,
+              "position": 9,
+              "block_name": "choice",
+              "path": "raw/04_Методологии_и_жизненный_цикл/04_Проверка_знаний/09_choice"
+            },
+            {
+              "id": 11079717,
+              "position": 10,
+              "block_name": "choice",
+              "path": "raw/04_Методологии_и_жизненный_цикл/04_Проверка_знаний/10_choice"
+            },
+            {
+              "id": 11079718,
+              "position": 11,
+              "block_name": "choice",
+              "path": "raw/04_Методологии_и_жизненный_цикл/04_Проверка_знаний/11_choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 745951,
+      "title": "Go-to-market стратегия",
+      "position": 5,
+      "lessons": [
+        {
+          "id": 2546554,
+          "title": "Что будет в модуле",
+          "unit_id": 2585233,
+          "position": 1,
+          "steps": [
+            {
+              "id": 11079674,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Go-to-market_стратегия/01_Что_будет_в_модуле/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546555,
+          "title": "Позиционирование: чем ваш продукт отличается от других",
+          "unit_id": 2585234,
+          "position": 2,
+          "steps": [
+            {
+              "id": 11079675,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Go-to-market_стратегия/02_Позиционирование_чем_ваш_продукт_отличается_от_других/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546556,
+          "title": "Каналы запуска и первый план выхода на рынок",
+          "unit_id": 2585235,
+          "position": 3,
+          "steps": [
+            {
+              "id": 11079676,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Go-to-market_стратегия/03_Каналы_запуска_и_первый_план_выхода_на_рынок/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546557,
+          "title": "Проверка знаний",
+          "unit_id": 2585236,
+          "position": 4,
+          "steps": [
+            {
+              "id": 11079719,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Go-to-market_стратегия/04_Проверка_знаний/01_text"
+            },
+            {
+              "id": 11079720,
+              "position": 2,
+              "block_name": "choice",
+              "path": "raw/05_Go-to-market_стратегия/04_Проверка_знаний/02_choice"
+            },
+            {
+              "id": 11079721,
+              "position": 3,
+              "block_name": "choice",
+              "path": "raw/05_Go-to-market_стратегия/04_Проверка_знаний/03_choice"
+            },
+            {
+              "id": 11079722,
+              "position": 4,
+              "block_name": "choice",
+              "path": "raw/05_Go-to-market_стратегия/04_Проверка_знаний/04_choice"
+            },
+            {
+              "id": 11079723,
+              "position": 5,
+              "block_name": "choice",
+              "path": "raw/05_Go-to-market_стратегия/04_Проверка_знаний/05_choice"
+            },
+            {
+              "id": 11079725,
+              "position": 6,
+              "block_name": "choice",
+              "path": "raw/05_Go-to-market_стратегия/04_Проверка_знаний/06_choice"
+            },
+            {
+              "id": 11079726,
+              "position": 7,
+              "block_name": "choice",
+              "path": "raw/05_Go-to-market_стратегия/04_Проверка_знаний/07_choice"
+            },
+            {
+              "id": 11079727,
+              "position": 8,
+              "block_name": "choice",
+              "path": "raw/05_Go-to-market_стратегия/04_Проверка_знаний/08_choice"
+            },
+            {
+              "id": 11079728,
+              "position": 9,
+              "block_name": "choice",
+              "path": "raw/05_Go-to-market_стратегия/04_Проверка_знаний/09_choice"
+            },
+            {
+              "id": 11079729,
+              "position": 10,
+              "block_name": "choice",
+              "path": "raw/05_Go-to-market_стратегия/04_Проверка_знаний/10_choice"
+            },
+            {
+              "id": 11079730,
+              "position": 11,
+              "block_name": "choice",
+              "path": "raw/05_Go-to-market_стратегия/04_Проверка_знаний/11_choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 745952,
+      "title": "Метрики и примеры",
+      "position": 6,
+      "lessons": [
+        {
+          "id": 2546558,
+          "title": "Что будет в модуле",
+          "unit_id": 2585237,
+          "position": 1,
+          "steps": [
+            {
+              "id": 11079677,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/06_Метрики_и_примеры/01_Что_будет_в_модуле/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546559,
+          "title": "Метрики запуска: активация, удержание, NPS",
+          "unit_id": 2585238,
+          "position": 2,
+          "steps": [
+            {
+              "id": 11079678,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/06_Метрики_и_примеры/02_Метрики_запуска_активация_удержание_NPS/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546560,
+          "title": "Примеры известных MVP: Uber, Airbnb, eBay, Spotify",
+          "unit_id": 2585239,
+          "position": 3,
+          "steps": [
+            {
+              "id": 11079679,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/06_Метрики_и_примеры/03_Примеры_известных_MVP_Uber_Airbnb_eBay_Spotify/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546561,
+          "title": "Проверка знаний",
+          "unit_id": 2585240,
+          "position": 4,
+          "steps": [
+            {
+              "id": 11079731,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/06_Метрики_и_примеры/04_Проверка_знаний/01_text"
+            },
+            {
+              "id": 11079732,
+              "position": 2,
+              "block_name": "choice",
+              "path": "raw/06_Метрики_и_примеры/04_Проверка_знаний/02_choice"
+            },
+            {
+              "id": 11079733,
+              "position": 3,
+              "block_name": "choice",
+              "path": "raw/06_Метрики_и_примеры/04_Проверка_знаний/03_choice"
+            },
+            {
+              "id": 11079734,
+              "position": 4,
+              "block_name": "choice",
+              "path": "raw/06_Метрики_и_примеры/04_Проверка_знаний/04_choice"
+            },
+            {
+              "id": 11079735,
+              "position": 5,
+              "block_name": "choice",
+              "path": "raw/06_Метрики_и_примеры/04_Проверка_знаний/05_choice"
+            },
+            {
+              "id": 11079736,
+              "position": 6,
+              "block_name": "choice",
+              "path": "raw/06_Метрики_и_примеры/04_Проверка_знаний/06_choice"
+            },
+            {
+              "id": 11079737,
+              "position": 7,
+              "block_name": "choice",
+              "path": "raw/06_Метрики_и_примеры/04_Проверка_знаний/07_choice"
+            },
+            {
+              "id": 11079738,
+              "position": 8,
+              "block_name": "choice",
+              "path": "raw/06_Метрики_и_примеры/04_Проверка_знаний/08_choice"
+            },
+            {
+              "id": 11079739,
+              "position": 9,
+              "block_name": "choice",
+              "path": "raw/06_Метрики_и_примеры/04_Проверка_знаний/09_choice"
+            },
+            {
+              "id": 11079740,
+              "position": 10,
+              "block_name": "choice",
+              "path": "raw/06_Метрики_и_примеры/04_Проверка_знаний/10_choice"
+            },
+            {
+              "id": 11079741,
+              "position": 11,
+              "block_name": "choice",
+              "path": "raw/06_Метрики_и_примеры/04_Проверка_знаний/11_choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 745953,
+      "title": "Что дальше",
+      "position": 7,
+      "lessons": [
+        {
+          "id": 2546562,
+          "title": "Итоги курса",
+          "unit_id": 2585241,
+          "position": 1,
+          "steps": [
+            {
+              "id": 11079680,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/07_Что_дальше/01_Итоги_курса/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2546563,
+          "title": "Что дальше",
+          "unit_id": 2585242,
+          "position": 2,
+          "steps": [
+            {
+              "id": 11079681,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/07_Что_дальше/02_Что_дальше/01_text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

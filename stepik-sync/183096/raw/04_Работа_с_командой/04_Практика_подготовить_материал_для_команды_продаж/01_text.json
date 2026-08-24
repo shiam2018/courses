@@ -1,0 +1,67 @@
+{
+  "id": 11079761,
+  "lesson": 2546577,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183096/header-2546577.webp\" style=\"\"></p>\n<h2>Практическое задание</h2>\n<p>Возьмите позиционирование и возражения из практики модуля 2 и подготовьте на их основе материал для команды продаж.</p>\n<ol>\n<li>Изложите позиционирование прямыми словами на одной странице, без маркетингового языка.</li>\n<li>Разверните 3-5 возражений из go-to-market плана в формат «возражение → короткий прямой ответ», пригодный для живого разговора.</li>\n<li>Добавьте сравнение с одной конкретной альтернативой, которой сейчас реально пользуется ваша аудитория.</li>\n</ol>\n<p><strong>Как понять, что задание выполнено хорошо:</strong> покажите материал человеку, не участвовавшему в разработке позиционирования. Если он может представить, как использовать это в разговоре с клиентом — материал готов.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — четвёртый модуль: как тестировать гипотезы запуска и читать первые данные.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079761",
+  "subscriptions": [
+    "31-77-11079761",
+    "30-77-11079761"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058852,
+  "create_date": "2026-08-24T09:35:38Z",
+  "update_date": "2026-08-24T09:35:39Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079761-1",
+  "discussion_threads": [
+    "77-11079761-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

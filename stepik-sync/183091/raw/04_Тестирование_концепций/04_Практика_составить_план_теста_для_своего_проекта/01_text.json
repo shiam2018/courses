@@ -1,0 +1,67 @@
+{
+  "id": 11079526,
+  "lesson": 2546508,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183091/header-2546508.webp\" style=\"\"></p>\n<h2>Практическое задание</h2>\n<p>Составьте план теста для концепций из вашего проекта.</p>\n<ol>\n<li>Выберите ведущую метрику победы, исходя из цели кампании из брифа модуля 1.</li>\n<li>Определите минимальный объём данных, который вы бы хотели набрать по каждой концепции перед выводом (даже приблизительная оценка лучше, чем её отсутствие).</li>\n<li>Опишите, что вы будете делать при каждом из трёх исходов теста из последнего урока: явный лидер, разные лидеры по метрикам, близкий результат.</li>\n</ol>\n<p><strong>Как понять, что задание выполнено хорошо:</strong> план должен быть написан ДО того, как у вас появятся реальные результаты — если вы уже знаете, какая концепция вам нравится больше, и подгоняете план под неё, вернитесь и составьте план заново, отталкиваясь только от метрики.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — четвёртый модуль: как работать с командой, которая производит креативы, включая обратную связь и выбор между штатными сотрудниками и фрилансерами.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079526",
+  "subscriptions": [
+    "31-77-11079526",
+    "30-77-11079526"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058617,
+  "create_date": "2026-08-24T09:05:41Z",
+  "update_date": "2026-08-24T09:05:41Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079526-1",
+  "discussion_threads": [
+    "77-11079526-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

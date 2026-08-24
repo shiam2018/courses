@@ -1,0 +1,101 @@
+{
+  "id": 11062344,
+  "lesson": 2543892,
+  "position": 6,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Чем отличается фильтр от сортировки?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Фильтр скрывает строки, не меняя их порядок; сортировка физически переставляет строки",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Фильтр удаляет строки безвозвратно, сортировка — нет",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Сортировка работает только с числами, фильтр — только с текстом",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Это два названия одной и той же функции",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11062344",
+  "subscriptions": [
+    "31-77-11062344",
+    "30-77-11062344"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041435,
+  "create_date": "2026-08-22T08:44:25Z",
+  "update_date": "2026-08-22T08:44:25Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11062344-1",
+  "discussion_threads": [
+    "77-11062344-1",
+    "77-11062344-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

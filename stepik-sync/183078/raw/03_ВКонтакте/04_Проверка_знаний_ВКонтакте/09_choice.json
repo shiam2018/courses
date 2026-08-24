@@ -1,0 +1,101 @@
+{
+  "id": 11078114,
+  "lesson": 2545960,
+  "position": 9,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Почему копировать контент из Telegram-канала в сообщество ВКонтакте один в один — плохая идея?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Аудитория и формат потребления контента различаются между площадками",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "ВКонтакте технически блокирует одинаковый контент",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Это не имеет значения, разницы в восприятии нет",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Копирование контента ускоряет рост подписчиков",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11078114",
+  "subscriptions": [
+    "31-77-11078114",
+    "30-77-11078114"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11057205,
+  "create_date": "2026-08-24T07:45:08Z",
+  "update_date": "2026-08-24T07:45:09Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11078114-1",
+  "discussion_threads": [
+    "77-11078114-1",
+    "77-11078114-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

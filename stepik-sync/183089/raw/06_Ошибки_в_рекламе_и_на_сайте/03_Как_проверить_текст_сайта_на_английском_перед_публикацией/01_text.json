@@ -1,0 +1,67 @@
+{
+  "id": 11064384,
+  "lesson": 2544257,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183089/header-2544257.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Чек-лист из пяти проверок, которые можно сделать самостоятельно перед публикацией текста на английском — без привлечения переводчика на каждую мелкую правку.</p>\n<ol>\n<li><strong>Прочитать вслух.</strong> Фразы, которые звучат неестественно при чтении вслух, почти всегда написаны через дословный перевод с русского — уху носителя языка это тоже режет, даже если грамматика формально верна.</li>\n<li><strong>Проверить артикли.</strong> В русском языке артиклей нет, поэтому это самая частая ошибка носителей русского в английском. Правило по умолчанию: если существительное упоминается впервые и его не одно в мире — <code>a/an</code>; если оно уже упомянуто или уникально (the sun, the CEO of our company) — <code>the</code>. При сомнении — не оставлять существительное совсем без артикля, если оно исчисляемое и в единственном числе.</li>\n<li><strong>Проверить CTA-глаголы.</strong> «Begin using» звучит формально и тяжеловесно рядом с привычными «Get started», «Try for free», «Sign up» — используйте устоявшиеся формулировки, а не буквальный перевод русского «начать использовать».</li>\n<li><strong>Проверить регистр заголовков.</strong> В английском заголовки часто пишут в Title Case (Each Word Capitalized) — если на сайте вперемешку то полная капитализация, то обычные предложения, это выглядит небрежно даже при отсутствии орфографических ошибок.</li>\n<li><strong>Прогнать через инструмент проверки.</strong> Grammarly или DeepL Write бесплатно ловят большинство грамматических ошибок и часть неестественных формулировок — это не замена вычитке, но быстрый первый фильтр перед тем, как показывать текст живому носителю языка.</li>\n</ol>\n<p><strong>Хорошо / плохо:</strong> «We provide quality service for our clients from complex solutions» — калька, звучит неестественно и содержит минимум одну ошибку (complex solutions вместо comprehensive/bundled solutions). «We offer reliable, end-to-end solutions for our clients» — та же мысль, естественная формулировка без калек.</p>\n<h3>Полезные ссылки</h3>\n<ul><li><a href=\"https://www.grammarly.com/\" rel=\"noopener noreferrer nofollow\">Grammarly</a></li><li><a href=\"https://www.deepl.com/write\" rel=\"noopener noreferrer nofollow\">DeepL Write</a></li></ul>\n<h3>Что дальше?</h3>\n<p>Модуль 5 завершён — короткая проверка знаний, и дальше — последний и самый практический модуль курса: собеседование на английском.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11064384",
+  "subscriptions": [
+    "31-77-11064384",
+    "30-77-11064384"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043475,
+  "create_date": "2026-08-22T16:25:45Z",
+  "update_date": "2026-08-22T16:38:38Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064384-1",
+  "discussion_threads": [
+    "77-11064384-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

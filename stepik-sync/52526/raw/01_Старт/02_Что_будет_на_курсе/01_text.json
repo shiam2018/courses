@@ -1,0 +1,67 @@
+{
+  "id": 11079340,
+  "lesson": 2546433,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/52526/header-2546433.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Как устроен курс, прежде чем переходить к первому модулю.</p>\n<p>Хороший дизайнер и хороший создатель рекламных креативов — не одно и то же. В перформанс-маркетинге креатив оценивается не вкусом, а конкретными цифрами: кликабельностью, конверсией, стоимостью результата. Курс — про то, как эта работа устроена на практике: от метрик и разницы между дизайном и креативом до честного разбора приёмов, которые встречаются в индустрии, и до того, как тестировать креативы, а не полагаться на интуицию.</p>\n<p>Пять модулей: основы креативного продакшена → дизайн и креатив → честность в креативах → форматы по категориям продукта → тестирование креативов.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — первый модуль: что такое creative production и какое место в закупке трафика занимает дизайнер.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079340",
+  "subscriptions": [
+    "31-77-11079340",
+    "30-77-11079340"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058431,
+  "create_date": "2026-08-24T08:48:37Z",
+  "update_date": "2026-08-24T08:48:37Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079340-1",
+  "discussion_threads": [
+    "77-11079340-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

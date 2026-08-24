@@ -1,0 +1,67 @@
+{
+  "id": 11078206,
+  "lesson": 2546257,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183088/header-2546257.webp\" style=\"\"></p>\n<h2>Практическое задание</h2>\n<p>Соберите итоговый отчёт по проекту, объединив результаты всех предыдущих практических заданий.</p>\n<ol>\n<li>Напишите главный вывод аудита одной фразой (модуль 1).</li>\n<li>Коротко опишите позиционирование и систему рубрик, с 1-2 примерами постов из контент-плана (модуль 2).</li>\n<li>Добавьте план продвижения из модуля 3.</li>\n<li>Сформулируйте итоговую рекомендацию по формуле «действие + цифра/срок + ожидаемый эффект» из последнего урока.</li>\n</ol>\n<p><strong>Как понять, что задание выполнено хорошо:</strong> прочитайте отчёт человеку, не знакомому с проектом, и засеките время. Если за минуту он может пересказать, что сейчас происходит с аккаунтом и что вы предлагаете сделать — отчёт удался.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — последний модуль: что делать с комментариями, которые не всегда бывают дружелюбными.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11078206",
+  "subscriptions": [
+    "31-77-11078206",
+    "30-77-11078206"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11057297,
+  "create_date": "2026-08-24T07:57:36Z",
+  "update_date": "2026-08-24T07:57:36Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11078206-1",
+  "discussion_threads": [
+    "77-11078206-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

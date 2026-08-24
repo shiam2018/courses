@@ -1,0 +1,67 @@
+{
+  "id": 11064390,
+  "lesson": 2544265,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183089/header-2544265.webp\" style=\"\"></p>\n<h2>Что дальше?</h2>\n<p>Английский из этого курса решает конкретные рабочие ситуации, но не заменяет системного изучения языка — если чувствуете, что не хватает базовой грамматики или разговорной практики, это отдельная задача, для которой стоит найти преподавателя или системный курс общего английского.</p>\n<p>А если из всех шести модулей вас больше всего зацепила тема собеседований — у меня есть отдельный бесплатный курс <strong><a href=\"https://stepik.org/course/183103\" rel=\"noopener noreferrer nofollow\">«Собеседование в маркетинге: как получить работу мечты»</a></strong>: весь процесс поиска работы на русском, от резюме и сопроводительного письма до переговоров об оффере.</p>\n<p>Спасибо, что прошли курс до конца. Если хотя бы одна фраза из него попала в реальное письмо или разговор — это и есть цель курса.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11064390",
+  "subscriptions": [
+    "31-77-11064390",
+    "30-77-11064390"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043481,
+  "create_date": "2026-08-22T16:25:49Z",
+  "update_date": "2026-08-22T16:25:49Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064390-1",
+  "discussion_threads": [
+    "77-11064390-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 11081297,
+  "lesson": 2546936,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183084/header-2546936.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Правильный список писем в цепочке ничего не даёт, если интервалы между ними выбраны наугад — тайминг определяет, застанет ли письмо получателя в момент, когда оно ещё релевантно.</p>\n<p><strong>Как определить тайминг по типу триггера:</strong></p>\n<ul>\n<li><strong>Быстро угасающий интерес</strong> (брошенная корзина, только что просмотренный товар) — первое письмо в течение нескольких часов, пока решение ещё свежо</li>\n<li><strong>Формирование привычки</strong> (welcome-серия) — растянуто на несколько дней, чтобы дать время познакомиться с продуктом между письмами</li>\n<li><strong>Долгий цикл принятия решения</strong> (дорогой продукт, B2B) — интервалы в неделю и больше, с образовательным контентом между более прямыми предложениями</li>\n</ul>\n<p><strong>Как проверить, что тайминг реалистичен.</strong> Поставьте себя на место получателя: если бы вам пришло второе письмо цепочки именно через выбранный интервал, выглядело бы это уместно или навязчиво? Слишком частая отправка ощущается как давление, слишком редкая — получатель успевает забыть контекст первого письма.</p>\n<p><strong>Частая ошибка:</strong> использовать один и тот же тайминг для всех типов цепочек без учёта разницы в скорости угасания интереса. Тайминг брошенной корзины (часы) и тайминг welcome-серии (дни) решают разные задачи и не должны копироваться друг у друга без размышления.</p>\n<h3>Что дальше?</h3>\n<p>Модуль 3 завершён — практическое задание, и дальше — как протестировать гипотезы внутри самой рассылки.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081297",
+  "subscriptions": [
+    "31-77-11081297",
+    "30-77-11081297"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060388,
+  "create_date": "2026-08-24T14:03:12Z",
+  "update_date": "2026-08-24T14:03:12Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081297-1",
+  "discussion_threads": [
+    "77-11081297-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

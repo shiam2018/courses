@@ -1,0 +1,67 @@
+{
+  "id": 11079670,
+  "lesson": 2546548,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183101/header-2546548.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>MVP, Proof of Concept и product-market fit — три термина, которые продакт-маркетологу нужно уверенно различать, потому что они отвечают на разные вопросы.</p>\n<p><strong>Proof of Concept (PoC)</strong> отвечает на вопрос «можем ли мы это вообще технически сделать?». Например, когда создавалась технология блокчейн, PoC использовался для проверки, можно ли в принципе построить децентрализованный реестр транзакций — вопрос не в спросе, а в технической реализуемости.</p>\n<p><strong>MVP</strong> отвечает на другой вопрос — «нужно ли это людям?». Это минимальная работающая версия продукта, часто с одной функцией, которая проверяет идею на реальных пользователях. Instagram решил не «как хранить фото», а как добавить в это социальную составляющую; Airbnb упростил не саму аренду жилья, а процесс поиска и оплаты, который раньше требовал звонков и переговоров.</p>\n<p><strong>Product-market fit</strong> — состояние, при котором продукт действительно нужен рынку: клиенты довольны, возвращаются и рекомендуют его другим, а бизнес растёт за счёт этого. Это по сути бинарное состояние — он либо есть, либо его нет, и его не бывает «наполовину».</p>\n<p><strong>Как эти три понятия связаны:</strong> сначала (если есть техническая неопределённость) — PoC, подтверждающий реализуемость. Затем — MVP, проверяющий, нужен ли продукт людям. И только когда MVP получает стабильно позитивную реакцию, есть основания говорить о поиске product-market fit в более крупном масштабе.</p>\n<p><strong>Частая ошибка:</strong> считать, что product-market fit достигнут, потому что первые пользователи оставили хорошие отзывы. Единичные позитивные реакции — это ещё не market fit; нужен устойчивый паттерн повторных покупок и органических рекомендаций на протяжении времени, а не разовый всплеск интереса.</p>\n<h3>Что дальше?</h3>\n<p>Модуль 2 завершён — проверка знаний, и дальше — как устроены команды разработки: Agile, Scrum, Kanban и жизненный цикл продукта.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079670",
+  "subscriptions": [
+    "31-77-11079670",
+    "30-77-11079670"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058761,
+  "create_date": "2026-08-24T09:30:37Z",
+  "update_date": "2026-08-24T09:30:37Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079670-1",
+  "discussion_threads": [
+    "77-11079670-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

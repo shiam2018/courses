@@ -1,0 +1,67 @@
+{
+  "id": 11074971,
+  "lesson": 2545899,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183077/header-2545899.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Какой проект мы соберём за этот курс, и что понадобится, прежде чем переходить к первому модулю.</p>\n<p>Курс построен вокруг одного сквозного проекта: реального, ещё не до конца объяснённого случая с трафиком на странице <code>/tools</code> сайта cleanor.app — того самого, который разбирался в бесплатном курсе «Маркетинговая аналитика». Тогда данные за август были неполными, и вопрос остался открытым. Сейчас у нас есть данные по 23 августа включительно, и мы пройдём весь путь: от вопроса бизнеса до дашборда, отчёта и защиты рекомендации перед скептически настроенным руководителем.</p>\n<p><strong>Скачайте файл-практикум перед первым модулем:</strong> <a href=\"https://stepik.org/media/attachments/course/183077/Analitika-Praktika-183077.xlsx\" rel=\"noopener noreferrer nofollow\">Analitika-Praktika-183077.xlsx</a>. В нём три листа: «Сайт по каналам» (реальные данные мая-августа), «Данные по tools каналам» (та самая история с /tools) и «Задания» — конкретная задача на каждый модуль.</p>\n<p>Курс не повторяет основы Google Analytics 4, Яндекс.Метрики или сводных таблиц — если этого не хватает, сначала пройдите бесплатные курсы «Маркетинговая аналитика» и «Excel с нуля». Здесь мы сразу применяем эти инструменты к одной сквозной реальной задаче.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — сам вопрос: что на самом деле происходит с трафиком /tools, и почему прошлый вывод был неполным.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11074971",
+  "subscriptions": [
+    "31-77-11074971",
+    "30-77-11074971"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11054062,
+  "create_date": "2026-08-24T06:49:54Z",
+  "update_date": "2026-08-24T06:49:54Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11074971-1",
+  "discussion_threads": [
+    "77-11074971-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

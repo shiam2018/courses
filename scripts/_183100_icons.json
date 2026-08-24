@@ -1,0 +1,32 @@
+[
+  {"lesson_id": 2545824, "icon": "voice-presentation"},
+  {"lesson_id": 2545825, "icon": "planner"},
+
+  {"lesson_id": 2545826, "icon": "todo-list"},
+  {"lesson_id": 2545827, "icon": "business-contact"},
+  {"lesson_id": 2545828, "icon": "conference-call"},
+  {"lesson_id": 2545829, "icon": "approve"},
+  {"lesson_id": 2545830, "icon": "checkmark"},
+
+  {"lesson_id": 2545831, "icon": "todo-list"},
+  {"lesson_id": 2545832, "icon": "flow-chart"},
+  {"lesson_id": 2545833, "icon": "collaboration"},
+  {"lesson_id": 2545834, "icon": "graduation-cap"},
+  {"lesson_id": 2545835, "icon": "feedback"},
+  {"lesson_id": 2545836, "icon": "checkmark"},
+
+  {"lesson_id": 2545837, "icon": "todo-list"},
+  {"lesson_id": 2545838, "icon": "comments"},
+  {"lesson_id": 2545839, "icon": "synchronize"},
+  {"lesson_id": 2545840, "icon": "podium-with-audience"},
+  {"lesson_id": 2545841, "icon": "checkmark"},
+
+  {"lesson_id": 2545842, "icon": "todo-list"},
+  {"lesson_id": 2545843, "icon": "money-transfer"},
+  {"lesson_id": 2545844, "icon": "manager"},
+  {"lesson_id": 2545845, "icon": "like"},
+  {"lesson_id": 2545846, "icon": "checkmark"},
+
+  {"lesson_id": 2545847, "icon": "graduation-cap"},
+  {"lesson_id": 2545848, "icon": "next"}
+]

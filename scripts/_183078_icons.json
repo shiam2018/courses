@@ -1,0 +1,32 @@
+[
+  {"lesson_id": 2545951, "icon": "voice-presentation"},
+  {"lesson_id": 2545952, "icon": "planner"},
+
+  {"lesson_id": 2545953, "icon": "todo-list"},
+  {"lesson_id": 2545954, "icon": "businessman"},
+  {"lesson_id": 2545955, "icon": "calendar"},
+  {"lesson_id": 2545956, "icon": "checkmark"},
+
+  {"lesson_id": 2545957, "icon": "todo-list"},
+  {"lesson_id": 2545958, "icon": "opened-folder"},
+  {"lesson_id": 2545959, "icon": "advertising"},
+  {"lesson_id": 2545960, "icon": "checkmark"},
+
+  {"lesson_id": 2545961, "icon": "todo-list"},
+  {"lesson_id": 2545962, "icon": "comments"},
+  {"lesson_id": 2545963, "icon": "share"},
+  {"lesson_id": 2545964, "icon": "checkmark"},
+
+  {"lesson_id": 2545965, "icon": "todo-list"},
+  {"lesson_id": 2545966, "icon": "document"},
+  {"lesson_id": 2545967, "icon": "picture"},
+  {"lesson_id": 2545968, "icon": "checkmark"},
+
+  {"lesson_id": 2545969, "icon": "todo-list"},
+  {"lesson_id": 2545970, "icon": "statistics"},
+  {"lesson_id": 2545971, "icon": "podium-with-speaker"},
+  {"lesson_id": 2545972, "icon": "checkmark"},
+
+  {"lesson_id": 2545973, "icon": "graduation-cap"},
+  {"lesson_id": 2545974, "icon": "next"}
+]

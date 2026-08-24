@@ -1,0 +1,67 @@
+{
+  "id": 11062300,
+  "lesson": 2543884,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183094/header-2543884.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Три формулы для работы с текстом, которые нужны почти в каждой таблице: собрать текст из нескольких ячеек и разобрать его обратно на части.</p>\n<p><code>СЦЕПИТЬ(текст1; текст2; ...)</code> склеивает значения ячеек в одну строку: <code>=СЦЕПИТЬ(C5;\"_\";D5)</code> из кода канала и названия кампании соберёт единый идентификатор. Современный аналог — просто знак <code>&amp;</code>: <code>=C5&amp;\"_\"&amp;D5</code> делает то же самое короче, и Excel рекомендует его вместо СЦЕПИТЬ в новых файлах.</p>\n<p>Обратная задача — разобрать текст на части. <code>ЛЕВСИМВ(текст; количество_знаков)</code> берёт символы слева, <code>ПРАВСИМВ</code> — справа. На листе «Данные» название кампании выглядит как <code>YD_202603_01</code> — код канала, месяц и порядковый номер через подчёркивание. Первые два символа — код канала: <code>=ЛЕВСИМВ(D5;2)</code>. Последние два — номер кампании внутри месяца: <code>=ПРАВСИМВ(D5;2)</code>.</p>\n<p><strong>Хорошо / плохо:</strong> держать код канала в отдельном столбце C — хорошо, потому что по нему легко фильтровать и делать ВПР. Хранить его только «внутри» текста названия кампании (как часть D5) и надеяться, что при случае получится вытащить через ЛЕВСИМВ — плохо: сработает, пока формат названия не поменяется хотя бы в одной строке, и тогда формула молча вернёт неверный результат без предупреждения об ошибке.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — формулы дат: как считать «сколько дней прошло» и почему дата в Excel — это просто число.</p>\n<h3>Полезные ссылки</h3>\n<ul><li><a href=\"https://support.microsoft.com/ru-ru/office/объединение-текста-из-двух-или-нескольких-ячеек-в-одну-81ba0946-ce78-42ed-b3c3-21340eb164a6\" rel=\"noopener noreferrer nofollow\">Объединение текста из нескольких ячеек — Microsoft Support</a></li></ul>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11062300",
+  "subscriptions": [
+    "31-77-11062300",
+    "30-77-11062300"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041391,
+  "create_date": "2026-08-22T08:43:52Z",
+  "update_date": "2026-08-22T08:43:52Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11062300-1",
+  "discussion_threads": [
+    "77-11062300-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

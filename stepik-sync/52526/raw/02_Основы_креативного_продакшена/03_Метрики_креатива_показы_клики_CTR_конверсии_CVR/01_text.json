@@ -1,0 +1,67 @@
+{
+  "id": 11079343,
+  "lesson": 2546436,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/52526/header-2546436.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Четыре понятия покрывают большинство разговоров об эффективности креатива в закупке трафика.</p>\n<p><strong>Показ</strong> — каждый раз, когда пользователь увидел креатив в ленте или сторис, рекламная система регистрирует показ.</p>\n<p><strong>Клик</strong> — переход по креативу после показа.</p>\n<p><strong>CTR (Click-Through Rate)</strong> — отношение кликов к показам, кликабельность: <code>CTR = (Клики ÷ Показы) × 100%</code>. Чем выше CTR, тем больше людей из увидевших креатив заинтересовались настолько, чтобы кликнуть.</p>\n<p><strong>Конверсия и CVR (Conversion Rate)</strong> — каждый раз, когда пользователь после клика совершает целевое действие (установку, регистрацию, покупку), регистрируется конверсия. Отношение конверсий к кликам — показатель конверсии: <code>CVR = (Конверсии ÷ Клики) × 100%</code>.</p>\n<p><strong>Пример расчёта:</strong> креатив показан 10 000 раз, получил 300 кликов и 45 конверсий. CTR = (300 ÷ 10 000) × 100% = 3%. CVR = (45 ÷ 300) × 100% = 15%. Два креатива с одинаковым CTR могут иметь совершенно разный CVR — например, если один из них завышает ожидания и после клика человек не находит того, что ему обещали.</p>\n<p><strong>Почему важны обе метрики, а не одна.</strong> Креатив с высоким CTR, но низким CVR — привлекает внимание, но не тех людей или не с теми ожиданиями. Креатив с низким CTR, но высоким CVR — работает точечно, но охватывает мало людей. Задача дизайнера — искать баланс, а не максимизировать только одну метрику в отрыве от другой.</p>\n<h3>Что дальше?</h3>\n<p>Модуль 1 завершён — короткая проверка знаний, и дальше — почему хороший дизайн и хороший креатив не одно и то же.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079343",
+  "subscriptions": [
+    "31-77-11079343",
+    "30-77-11079343"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058434,
+  "create_date": "2026-08-24T08:48:39Z",
+  "update_date": "2026-08-24T08:48:39Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079343-1",
+  "discussion_threads": [
+    "77-11079343-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

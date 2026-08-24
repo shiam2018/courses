@@ -1,0 +1,101 @@
+{
+  "id": 11079725,
+  "lesson": 2546557,
+  "position": 6,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>С чего стоит начинать выбор каналов запуска?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "С того, где реально находится целевая аудитория, а не с самого популярного канала",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "С канала, который используют все конкуренты без исключения",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "С канала с самой низкой стоимостью размещения рекламы",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "С канала, который проще всего технически настроить",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11079725",
+  "subscriptions": [
+    "31-77-11079725",
+    "30-77-11079725"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058816,
+  "create_date": "2026-08-24T09:33:08Z",
+  "update_date": "2026-08-24T09:33:08Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079725-1",
+  "discussion_threads": [
+    "77-11079725-1",
+    "77-11079725-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

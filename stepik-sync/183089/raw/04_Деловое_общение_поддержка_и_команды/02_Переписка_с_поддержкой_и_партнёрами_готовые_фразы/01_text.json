@@ -1,0 +1,67 @@
+{
+  "id": 11064376,
+  "lesson": 2544247,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183089/header-2544247.webp\" style=\"\"></p>.voc-table{width:100%;border-collapse:collapse;margin:16px 0;}.voc-table th{background:#F4EFE9;text-align:left;padding:8px 10px;font-size:14px;}.voc-table td{border-bottom:1px solid #EEE7DE;padding:8px 10px;font-size:14px;vertical-align:top;}.voc-table td:first-child{font-weight:700;white-space:nowrap;}\n<h2>Что будет на уроке?</h2>\n<p>Готовые фразы для четырёх типичных ситуаций: открыть тикет в поддержку, описать проблему точно, поторопить с ответом вежливо и договориться с партнёром.</p>\n<table class=\"voc-table\">\n<tbody><tr><th>Ситуация</th><th>Фраза на английском</th><th>Зачем так, а не иначе</th></tr>\n<tr><td>Открыть тикет</td><td>I'm reaching out because I'm experiencing an issue with [что именно].</td><td>Нейтральный, стандартный зачин — не звучит ни слишком резко, ни слишком неформально.</td></tr>\n<tr><td>Описать проблему</td><td>When I try to [действие], I get [что происходит] instead of [что ожидалось].</td><td>Конкретная структура «действие → факт → ожидание» — поддержка сразу понимает, что воспроизводить.</td></tr>\n<tr><td>Поторопить с ответом</td><td>Just following up on this — do you have an update?</td><td>Мягче и профессиональнее, чем прямое «Why haven't you answered?», которое звучит как обвинение.</td></tr>\n<tr><td>Попросить о крайнем сроке</td><td>Could we agree on a deadline of [дата] for this?</td><td>Формулировка через вопрос — предлагает договориться, а не ставит ультиматум.</td></tr>\n<tr><td>Вежливо не согласиться</td><td>I see your point, but I think [альтернатива] might work better because [причина].</td><td>Признаёт позицию собеседника перед тем, как предложить своё — снижает вероятность конфликта.</td></tr>\n<tr><td>Закрыть переписку</td><td>Thanks for your help — let me know if anything else comes up.</td><td>Стандартное вежливое закрытие, работает в любом контексте поддержки.</td></tr>\n</tbody></table>\n<p><strong>Хорошо / плохо:</strong> «This doesn't work, fix it» — звучит как претензия, а не рабочий запрос, и не даёт поддержке информации для диагностики. «When I click \"Export\", the file doesn't download — could you look into this?» — даёт конкретику (что нажато, что произошло) и формулирует просьбу вежливо. Вторая версия почти всегда получает более быстрый и точный ответ.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — общение внутри компании: с продуктом, разработкой и продажами, где фразы немного другие.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11064376",
+  "subscriptions": [
+    "31-77-11064376",
+    "30-77-11064376"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043467,
+  "create_date": "2026-08-22T16:25:37Z",
+  "update_date": "2026-08-22T16:25:37Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064376-1",
+  "discussion_threads": [
+    "77-11064376-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 11074605,
+  "lesson": 2545847,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183100/header-2545847.webp\" style=\"\"></p>\n<h2>Итоги курса</h2>\n<p>Четыре модуля, от первого дня поиска кандидата до разговора о премии с уже работающим сотрудником. Если вы прошли курс с намерением применить хотя бы часть процессов к своей команде, а не просто прочитать про них — у вас есть рабочий набор: как составить портрет кандидата и провести структурированное собеседование, как ставить задачи по SMART и делегировать, как проводить 1-1 и ревью, как устроена ежедневная и еженедельная командная коммуникация, и как подбирать мотивацию под конкретную роль, а не действовать одним шаблоном на всех.</p>\n<p><strong>Что делать дальше:</strong> не пытайтесь внедрить все процессы одновременно. Возьмите один — например, еженедельный стендап в чат команды или первую содержательную встречу 1-1 — и проведите его на этой неделе. Процессы, введённые постепенно и доведённые до привычки, приживаются надёжнее, чем полный набор, внедрённый разом и заброшенный через месяц.</p>\n<h3>Что дальше?</h3>\n<p>Последний короткий урок курса — что делать, если управление командой оказалось интересно не только в теории.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11074605",
+  "subscriptions": [
+    "31-77-11074605",
+    "30-77-11074605"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11053696,
+  "create_date": "2026-08-24T03:54:46Z",
+  "update_date": "2026-08-24T03:54:46Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11074605-1",
+  "discussion_threads": [
+    "77-11074605-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

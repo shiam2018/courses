@@ -1,0 +1,67 @@
+{
+  "id": 11081510,
+  "lesson": 2546992,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183075/header-2546992.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Что мы разберём в этом курсе и почему сайт сегодня можно собрать без единой строчки кода.</p>\n<p>Ещё десять лет назад простой сайт-визитка требовал найма разработчика или самостоятельного изучения HTML и CSS. Сегодня конструкторы вроде Tilda, Webflow или Framer позволяют собрать рабочий, аккуратный сайт визуально — блоками, перетаскиванием элементов, без единой строчки кода. Это не значит, что результат будет хуже: многие успешные лендинги и сайты малого бизнеса сделаны именно на конструкторах.</p>\n<p>В этом курсе мы пройдём весь путь: когда конструктор — правильный выбор, как спланировать структуру сайта, как выбрать и адаптировать шаблон, что настроить для базового SEO, и как опубликовать сайт на своём домене.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — первый модуль: что такое конструктор сайтов и когда он вообще подходит для задачи.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081510",
+  "subscriptions": [
+    "31-77-11081510",
+    "30-77-11081510"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060601,
+  "create_date": "2026-08-24T14:34:38Z",
+  "update_date": "2026-08-24T14:34:38Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081510-1",
+  "discussion_threads": [
+    "77-11081510-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

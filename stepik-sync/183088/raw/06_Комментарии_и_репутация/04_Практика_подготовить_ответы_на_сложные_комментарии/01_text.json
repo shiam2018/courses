@@ -1,0 +1,67 @@
+{
+  "id": 11078211,
+  "lesson": 2546262,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183088/header-2546262.webp\" style=\"\"></p>\n<h2>Практическое задание</h2>\n<p>Финальное задание курса.</p>\n<ol>\n<li>Придумайте (или возьмите реальный, если сталкивались) пример обоснованной жалобы, эмоционального негатива без конкретики, и явного троллинга для аккаунта вашего проекта. Напишите короткий ответ на первые два — с учётом разницы в подходе из первого урока модуля.</li>\n<li>Опишите в 3-4 предложениях, как бы вы отреагировали на начинающийся репутационный кризис для этого аккаунта в первый час, используя три шага из второго урока модуля.</li>\n</ol>\n<p><strong>Как понять, что задание выполнено хорошо:</strong> ответы на жалобу и негатив должны звучать по-разному — если оба ответа взаимозаменяемы, вы не учли разницу в подходе, разобранную в уроке.</p>\n<p>Этим заданием заканчивается весь сквозной проект курса: от аудита реального аккаунта до готового отчёта с рекомендацией и подготовленной реакции на сложные ситуации.</p>\n<h3>Что дальше?</h3>\n<p>Последний короткий блок курса — итоги и что стоит сделать дальше.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11078211",
+  "subscriptions": [
+    "31-77-11078211",
+    "30-77-11078211"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11057302,
+  "create_date": "2026-08-24T07:57:40Z",
+  "update_date": "2026-08-24T07:57:40Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11078211-1",
+  "discussion_threads": [
+    "77-11078211-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

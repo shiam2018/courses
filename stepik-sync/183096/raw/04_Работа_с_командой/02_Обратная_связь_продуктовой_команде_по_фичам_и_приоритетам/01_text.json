@@ -1,0 +1,67 @@
+{
+  "id": 11079759,
+  "lesson": 2546575,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183096/header-2546575.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Продакт-маркетолог не разрабатывает функции сам, но регулярно даёт продуктовой команде обратную связь с рынка — и то, как эта связь оформлена, определяет, услышат её или нет.</p>\n<p><strong>Структура рабочей обратной связи продуктовой команде:</strong></p>\n<ol>\n<li><strong>Что говорит рынок</strong> — конкретный факт: цитата клиента, показатель воронки, возражение, которое повторяется</li>\n<li><strong>Почему это важно для приоритетов</strong> — как это связано с целью продукта или бизнес-метрикой, а не просто «было бы неплохо»</li>\n<li><strong>Что предлагается сделать</strong> — конкретное направление, а не готовое техническое решение (это зона product manager)</li>\n</ol>\n<p><strong>Хорошо / плохо:</strong> «Клиенты жалуются, надо что-то делать» — не даёт продуктовой команде ничего, на основе чего можно расставить приоритеты. «Три клиента подряд отказались от оформления заказа на шаге ввода адреса — это совпадает с падением конверсии на 12% за последний месяц, стоит посмотреть, что там мешает» — конкретно и обосновано, даёт команде реальный повод исследовать проблему.</p>\n<p><strong>Частая ошибка:</strong> приносить в продуктовую команду готовое техническое решение вместо описания проблемы с рынка. Product manager и разработчики зачастую видят более эффективное техническое решение той же проблемы, если получают её описание, а не уже принятое чужое решение.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — как подготовить команду продаж к запуску, чтобы позиционирование не потерялось на последнем шаге воронки.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079759",
+  "subscriptions": [
+    "31-77-11079759",
+    "30-77-11079759"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058850,
+  "create_date": "2026-08-24T09:35:35Z",
+  "update_date": "2026-08-24T09:35:35Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079759-1",
+  "discussion_threads": [
+    "77-11079759-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

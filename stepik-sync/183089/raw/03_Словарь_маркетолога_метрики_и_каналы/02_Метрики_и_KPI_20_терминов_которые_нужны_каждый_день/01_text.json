@@ -1,0 +1,67 @@
+{
+  "id": 11064373,
+  "lesson": 2544243,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183089/header-2544243.webp\" style=\"\"></p>.voc-table{width:100%;border-collapse:collapse;margin:16px 0;}.voc-table th{background:#F4EFE9;text-align:left;padding:8px 10px;font-size:14px;}.voc-table td{border-bottom:1px solid #EEE7DE;padding:8px 10px;font-size:14px;vertical-align:top;}.voc-table td:first-child{font-weight:700;white-space:nowrap;}\n<h2>Что будет на уроке?</h2>\n<p>20 терминов метрик, без которых невозможно прочитать ни один отчёт или обсуждение результатов кампании на английском.</p>\n<table class=\"voc-table\">\n<tbody><tr><th>Термин</th><th>Перевод</th><th>Пример в контексте</th></tr>\n<tr><td>Impressions</td><td>показы</td><td>The campaign got 50,000 impressions last week.</td></tr>\n<tr><td>Reach</td><td>охват</td><td>Reach is lower than impressions because one user can see an ad several times.</td></tr>\n<tr><td>CTR (click-through rate)</td><td>кликабельность</td><td>Our CTR dropped after we changed the creative.</td></tr>\n<tr><td>CPC (cost per click)</td><td>цена за клик</td><td>Average CPC in this niche is quite high.</td></tr>\n<tr><td>CPM (cost per mille)</td><td>цена за 1000 показов</td><td>CPM went up during the holiday season.</td></tr>\n<tr><td>CPA (cost per acquisition)</td><td>цена за целевое действие</td><td>We need to lower CPA before scaling the budget.</td></tr>\n<tr><td>CAC (customer acquisition cost)</td><td>стоимость привлечения клиента</td><td>CAC includes all marketing and sales spend, not just ads.</td></tr>\n<tr><td>LTV (lifetime value)</td><td>пожизненная ценность клиента</td><td>LTV should be higher than CAC for the business to be profitable.</td></tr>\n<tr><td>ROI (return on investment)</td><td>возврат инвестиций</td><td>The campaign delivered a 150% ROI.</td></tr>\n<tr><td>ROAS (return on ad spend)</td><td>возврат на рекламные расходы</td><td>ROAS is more specific than ROI — it only counts ad spend.</td></tr>\n<tr><td>Conversion rate</td><td>конверсия</td><td>The landing page conversion rate improved after the redesign.</td></tr>\n<tr><td>Bounce rate</td><td>показатель отказов</td><td>A high bounce rate often means the page doesn't match the ad.</td></tr>\n<tr><td>Churn rate</td><td>отток</td><td>Churn rate is the percentage of customers who stop using the product.</td></tr>\n<tr><td>Retention rate</td><td>удержание</td><td>Retention rate is the opposite side of churn.</td></tr>\n<tr><td>Engagement rate</td><td>вовлечённость</td><td>Engagement rate includes likes, comments, and shares.</td></tr>\n<tr><td>Funnel</td><td>воронка</td><td>We're losing most users at the middle of the funnel.</td></tr>\n<tr><td>Lead</td><td>заявка / лид</td><td>This form generated 40 leads this week.</td></tr>\n<tr><td>MQL / SQL</td><td>маркетинговый / продажный квалифицированный лид</td><td>Not every MQL becomes an SQL.</td></tr>\n<tr><td>Attribution</td><td>атрибуция</td><td>Attribution shows which channel gets credit for a conversion.</td></tr>\n<tr><td>Benchmark</td><td>ориентир, эталонное значение</td><td>Our CTR is below the industry benchmark.</td></tr>\n</tbody></table>\n<p><strong>Как учить:</strong> не пытайтесь запомнить все 20 сразу. Возьмите 5 терминов, которые встречаются в вашей работе чаще всего, и в течение недели используйте именно их в переписке или заметках — вместо русского варианта.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — вторая половина словаря: каналы и форматы рекламы.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11064373",
+  "subscriptions": [
+    "31-77-11064373",
+    "30-77-11064373"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043464,
+  "create_date": "2026-08-22T16:25:34Z",
+  "update_date": "2026-08-22T16:38:34Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064373-1",
+  "discussion_threads": [
+    "77-11064373-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

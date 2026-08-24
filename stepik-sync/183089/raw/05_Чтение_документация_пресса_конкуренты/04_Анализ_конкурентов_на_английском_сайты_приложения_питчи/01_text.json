@@ -1,0 +1,67 @@
+{
+  "id": 11064381,
+  "lesson": 2544253,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183089/header-2544253.webp\" style=\"\"></p>.voc-table{width:100%;border-collapse:collapse;margin:16px 0;}.voc-table th{background:#F4EFE9;text-align:left;padding:8px 10px;font-size:14px;}.voc-table td{border-bottom:1px solid #EEE7DE;padding:8px 10px;font-size:14px;vertical-align:top;}.voc-table td:first-child{font-weight:700;white-space:nowrap;}\n<h2>Что будет на уроке?</h2>\n<p>Чтение сайта конкурента — не то же самое, что чтение новостной статьи: здесь цель не понять всё подряд, а быстро извлечь конкретные маркетинговые решения.</p>\n<table class=\"voc-table\">\n<tbody><tr><th>Термин</th><th>Перевод</th><th>Где искать на сайте</th></tr>\n<tr><td>Value proposition</td><td>ценностное предложение</td><td>Обычно первый заголовок на главной странице.</td></tr>\n<tr><td>USP (unique selling point)</td><td>уникальное торговое предложение</td><td>Чем формулировка отличается от конкурентов на том же рынке.</td></tr>\n<tr><td>Social proof</td><td>социальное доказательство</td><td>Отзывы, логотипы клиентов, счётчики пользователей.</td></tr>\n<tr><td>Freemium</td><td>бесплатный базовый + платные функции</td><td>Страница с тарифами (pricing page).</td></tr>\n<tr><td>Onboarding</td><td>процесс первого знакомства с продуктом</td><td>Первые экраны после регистрации.</td></tr>\n<tr><td>Pricing tier</td><td>тарифный план</td><td>Названия и состав планов на странице цен.</td></tr>\n<tr><td>Roadmap</td><td>план развития продукта</td><td>Иногда публичная страница, иногда упоминается в блоге.</td></tr>\n</tbody></table>\n<p><strong>Фреймворк разбора конкурента за 15 минут:</strong></p>\n<ol>\n<li>Value proposition на главной — как конкурент формулирует, зачем он нужен, одной фразой</li>\n<li>CTA на главной — что конкурент считает главным действием пользователя (Sign up? Book a demo? Start free trial?)</li>\n<li>Pricing page — сколько тарифов, какая разница между ними, что выделено как рекомендуемое</li>\n<li>Social proof — какие цифры или логотипы конкурент выбрал для доверия</li>\n<li>App Store / отзывы — что реальные пользователи хвалят и на что жалуются</li>\n</ol>\n<p>Пройдя по этим пяти пунктам с любым конкурентом, вы получите структурированный вывод вместо общего впечатления «у них сайт красивее».</p>\n<h3>Что дальше?</h3>\n<p>Модуль 4 завершён — короткая проверка знаний, и дальше — обратная сторона языка: типичные ошибки в собственной рекламе и на сайте.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11064381",
+  "subscriptions": [
+    "31-77-11064381",
+    "30-77-11064381"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043472,
+  "create_date": "2026-08-22T16:25:41Z",
+  "update_date": "2026-08-22T16:25:41Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064381-1",
+  "discussion_threads": [
+    "77-11064381-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

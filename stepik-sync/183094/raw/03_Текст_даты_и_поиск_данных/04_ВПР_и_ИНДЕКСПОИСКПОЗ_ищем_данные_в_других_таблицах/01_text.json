@@ -1,0 +1,67 @@
+{
+  "id": 11062302,
+  "lesson": 2543886,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183094/header-2543886.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Самая частая жалоба на вводные курсы по Excel — «ВПР показали одним слайдом и не объяснили, когда он ломается». Разбираем подробно: и ВПР, и его более надёжную замену.</p>\n<p>Задача: у каждой строки листа «Данные» есть код канала (столбец C), а имя ответственного менеджера лежит в отдельной таблице — листе «Справочник каналов». Вместо того чтобы переписывать имя руками для каждой из 180 строк, формула ищет его сама: <code>=ВПР(C5; 'Справочник каналов'!$A$5:$D$9; 4; ЛОЖЬ)</code>. По порядку: что ищем (код канала из C5), где ищем (диапазон справочника, зафиксированный знаками <code>$</code>, иначе при протягивании вниз диапазон съедет), из какого столбца вернуть результат (4-й — «Ответственный менеджер»), и последний аргумент <code>ЛОЖЬ</code> — точное совпадение, без него ВПР иногда находит «похожее», а не точное значение, и ошибка остаётся незамеченной.</p>\n<p><strong>Главное ограничение ВПР</strong> — он ищет только правее столбца, по которому ищет: если бы код канала лежал правее имени менеджера в справочнике, ВПР бы не сработал вообще. Решение — связка <code>ИНДЕКС+ПОИСКПОЗ</code>, которая не зависит от порядка столбцов: <code>=ИНДЕКС('Справочник каналов'!$D$5:$D$9; ПОИСКПОЗ(C5; 'Справочник каналов'!$A$5:$A$9; 0))</code>. Здесь ПОИСКПОЗ находит номер строки, где код канала совпал, а ИНДЕКС берёт значение из этой строки в нужном столбце — независимо от того, где физически находится столбец с кодом.</p>\n<p><strong>Когда выбирать что:</strong> ВПР — короче и понятнее для одноразовой задачи; ИНДЕКС+ПОИСКПОЗ — надёжнее, если справочник может измениться местами столбцов, или если данные нужно искать влево. Обе формулы возвращают ошибку <code>#Н/Д</code>, если точного совпадения нет — это сигнал проверить код, а не баг формулы.</p>\n<h3>Что дальше?</h3>\n<p>Модуль 2 завершён — короткая проверка знаний, и дальше — логические формулы: как считать «сумму, только если выполняется условие».</p>\n<h3>Полезные ссылки</h3>\n<ul>\n<li><a href=\"https://support.microsoft.com/ru-ru/excel/look-up-values-with-vlookup-index-or-match\" rel=\"noopener noreferrer nofollow\">Поиск значений с помощью ВПР, ИНДЕКС и ПОИСКПОЗ — Microsoft Support</a></li>\n<li><a href=\"https://support.microsoft.com/ru-RU/Excel/index-function\" rel=\"noopener noreferrer nofollow\">Функция ИНДЕКС — Microsoft Support</a></li>\n</ul>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11062302",
+  "subscriptions": [
+    "31-77-11062302",
+    "30-77-11062302"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041393,
+  "create_date": "2026-08-22T08:43:54Z",
+  "update_date": "2026-08-22T08:43:54Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11062302-1",
+  "discussion_threads": [
+    "77-11062302-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

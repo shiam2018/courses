@@ -1,0 +1,67 @@
+{
+  "id": 11062304,
+  "lesson": 2543889,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183094/header-2543889.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Как посчитать не «всё подряд», а только то, что удовлетворяет условию — три формулы, без которых любой отчёт превращается в ручной перебор строк.</p>\n<p><code>ЕСЛИ(условие; что_если_правда; что_если_ложь)</code> — базовая логика: <code>=ЕСЛИ(E5&gt;10000;\"Крупная\";\"Обычная\")</code> пометит кампанию с расходом больше 10 000 ₽ как крупную. Условия можно вкладывать друг в друга, но если вложенных ЕСЛИ становится больше двух-трёх — это сигнал, что задачу проще решить через СУММЕСЛИ/СЧЁТЕСЛИ или через сводную таблицу (модуль 4), а не наращивать формулу дальше.</p>\n<p><code>СУММЕСЛИ(диапазон_условия; условие; диапазон_суммирования)</code> считает сумму только по строкам, где условие выполняется: <code>=СУММЕСЛИ(I5:I184;\"Активна\";E5:E184)</code> — расход только по активным кампаниям, без ручной фильтрации. <code>СЧЁТЕСЛИ(диапазон; условие)</code> — то же самое, но считает количество строк, а не сумму: <code>=СЧЁТЕСЛИ(B5:B184;\"SEO\")</code> — сколько всего кампаний было по каналу SEO.</p>\n<p><strong>Пример расчёта:</strong> общий расход по всем кампаниям — 950 000 ₽. Расход только по активным — 570 000 ₽. Значит 60% бюджета сейчас работает, а 40% — в приостановленных или завершённых кампаниях. Это конкретная цифра, с которой можно пойти к руководителю, а не общее ощущение «часть бюджета не работает».</p>\n<p><strong>Частая ошибка:</strong> в СУММЕСЛИ перепутать порядок аргументов — диапазон условия и диапазон суммирования должны быть одинакового размера и идти по одним и тем же строкам, иначе результат будет считаться по смещённым, неверным строкам без явной ошибки на экране.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — сортировка и фильтры: как быстро увидеть нужный срез без единой формулы.</p>\n<h3>Полезные ссылки</h3>\n<ul>\n<li><a href=\"https://support.microsoft.com/ru-ru/office/функция-если-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2\" rel=\"noopener noreferrer nofollow\">Функция ЕСЛИ — Microsoft Support</a></li>\n<li><a href=\"https://support.microsoft.com/ru-RU/Excel/functions/sumif-function\" rel=\"noopener noreferrer nofollow\">Функция СУММЕСЛИ — Microsoft Support</a></li>\n</ul>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11062304",
+  "subscriptions": [
+    "31-77-11062304",
+    "30-77-11062304"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041395,
+  "create_date": "2026-08-22T08:43:56Z",
+  "update_date": "2026-08-22T08:43:56Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11062304-1",
+  "discussion_threads": [
+    "77-11062304-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

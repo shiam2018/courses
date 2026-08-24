@@ -1,0 +1,67 @@
+{
+  "id": 11074994,
+  "lesson": 2545921,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183077/header-2545921.webp\" style=\"\"></p>\n<h2>Что дальше?</h2>\n<p>Этот курс — часть большой программы <strong>«Интернет-Маркетолог: Старт Карьеры»</strong>. Там разбираются остальные каналы маркетинга, инструменты для их запуска, и собирается полное портфолио для резюме — если хочется идти дальше, чем один аналитический проект. По промокоду <strong>CAREERSTART</strong> вход в полный курс дешевле на 3000 ₽.</p>\n<p>Спасибо, что прошли курс до конца. Если дашборд и отчёт из этого проекта действительно попадут в ваше портфолио или лягут в основу реального решения на работе — это и есть цель курса.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11074994",
+  "subscriptions": [
+    "31-77-11074994",
+    "30-77-11074994"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11054085,
+  "create_date": "2026-08-24T06:50:13Z",
+  "update_date": "2026-08-24T06:50:13Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11074994-1",
+  "discussion_threads": [
+    "77-11074994-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

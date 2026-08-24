@@ -1,0 +1,67 @@
+{
+  "id": 11064383,
+  "lesson": 2544256,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183089/header-2544256.webp\" style=\"\"></p>.voc-table{width:100%;border-collapse:collapse;margin:16px 0;}.voc-table th{background:#F4EFE9;text-align:left;padding:8px 10px;font-size:14px;}.voc-table td{border-bottom:1px solid #EEE7DE;padding:8px 10px;font-size:14px;vertical-align:top;}.voc-table td:first-child{font-weight:700;white-space:nowrap;}\n<h2>Что будет на уроке?</h2>\n<p>Ложные друзья переводчика (слова, которые выглядят знакомо, но значат другое) и кальки с русского — два источника большинства ошибок в рекламных текстах на английском.</p>\n<table class=\"voc-table\">\n<tbody><tr><th>Ошибка</th><th>Что имелось в виду</th><th>Правильный вариант</th></tr>\n<tr><td>Actual price</td><td>актуальная (текущая) цена</td><td>Current price (actual означает «фактический», не «текущий»)</td></tr>\n<tr><td>Accurate service</td><td>аккуратный, качественный сервис</td><td>Reliable / high-quality service (accurate — это «точный», про данные, не про качество)</td></tr>\n<tr><td>Complex for you</td><td>комплекс услуг для вас</td><td>A package/bundle for you (complex в английском — почти всегда «сложный», не «набор»)</td></tr>\n<tr><td>To make an accent on quality</td><td>сделать акцент на качестве</td><td>To emphasize quality / To highlight quality</td></tr>\n<tr><td>Our production</td><td>наша продукция</td><td>Our products (production — это процесс производства, не сами товары)</td></tr>\n<tr><td>Sympathy for the brand</td><td>симпатия к бренду</td><td>Affinity / liking for the brand (sympathy — это «сочувствие», не «симпатия» в смысле приязни)</td></tr>\n<tr><td>Be in trend</td><td>быть в тренде</td><td>Trending / on-trend</td></tr>\n</tbody></table>\n<p><strong>Почему это важно именно в рекламе:</strong> в обычном разговоре ложный друг или калька обычно проходит незамеченной — собеседник понимает по контексту. В рекламном объявлении контекста меньше (заголовок, одна строка), и ошибка либо меняет смысл на противоположный, либо просто звучит нелепо для носителя языка — а обратной связи от аудитории, которая просто прокрутила объявление дальше, не будет.</p>\n<p><strong>Практический приём:</strong> если сомневаетесь в слове — проверьте его не в обычном словаре, а через поиск фразы в кавычках («точная фраза») в Google: если результатов почти нет, скорее всего, так не говорят, даже если каждое слово по отдельности верное.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — практический чек-лист: как проверить готовый текст сайта перед публикацией, а не только отдельные слова.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11064383",
+  "subscriptions": [
+    "31-77-11064383",
+    "30-77-11064383"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043474,
+  "create_date": "2026-08-22T16:25:44Z",
+  "update_date": "2026-08-22T16:25:44Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064383-1",
+  "discussion_threads": [
+    "77-11064383-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

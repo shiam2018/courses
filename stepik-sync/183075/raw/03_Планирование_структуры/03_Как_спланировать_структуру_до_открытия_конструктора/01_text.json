@@ -1,0 +1,67 @@
+{
+  "id": 11081516,
+  "lesson": 2547002,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183075/header-2547002.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Структура сайта — не просто список страниц, а то, как посетитель перемещается между ними и какое действие вы хотите, чтобы он совершил.</p>\n<p><strong>Как спланировать структуру за три шага:</strong></p>\n<ol>\n<li><strong>Определите главное целевое действие</strong> — заявка, звонок, покупка — то, ради чего сайт вообще существует</li>\n<li><strong>Постройте путь к этому действию</strong> — с какой страницы посетитель, скорее всего, попадёт на сайт, и какие 1-2 клика должны привести его к целевому действию</li>\n<li><strong>Уберите всё, что не ведёт к цели или доверию</strong> — если страница не помогает посетителю решить, купить, и не помогает найти способ купить — стоит ли она вообще на сайте</li>\n</ol>\n<p><strong>Хорошо / плохо:</strong> сайт, где кнопка «оставить заявку» есть только на странице контактов, а с главной страницы до неё нужно сделать три перехода — теряет часть посетителей на каждом лишнем клике. Сайт, где призыв к целевому действию виден с главной страницы и повторяется на ключевых разделах — не заставляет посетителя искать, как связаться.</p>\n<p><strong>Частая ошибка:</strong> планировать структуру сайта по аналогии с сайтом конкурента, у которого просто больше разделов, а не исходя из собственной задачи. Больше страниц не значит лучше — лишние разделы размывают внимание посетителя и путь к целевому действию.</p>\n<h3>Что дальше?</h3>\n<p>Модуль 2 завершён — проверка знаний, и дальше — как выбрать шаблон и наполнить его контентом.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081516",
+  "subscriptions": [
+    "31-77-11081516",
+    "30-77-11081516"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060607,
+  "create_date": "2026-08-24T14:34:44Z",
+  "update_date": "2026-08-24T14:34:44Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081516-1",
+  "discussion_threads": [
+    "77-11081516-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

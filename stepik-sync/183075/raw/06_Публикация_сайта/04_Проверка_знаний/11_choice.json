@@ -1,0 +1,101 @@
+{
+  "id": 11081619,
+  "lesson": 2547018,
+  "position": 11,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Верно ли, что публикация сайта — финальный шаг, после которого ничего проверять не нужно?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Нет, сайт стоит периодически пересматривать на актуальность и работоспособность",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Да, после публикации сайт никогда не нужно менять",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Да, формы и ссылки не могут сломаться со временем",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Нет, но проверять нужно только раз в пять лет",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11081619",
+  "subscriptions": [
+    "31-77-11081619",
+    "30-77-11081619"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060710,
+  "create_date": "2026-08-24T14:37:39Z",
+  "update_date": "2026-08-24T14:37:39Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081619-1",
+  "discussion_threads": [
+    "77-11081619-1",
+    "77-11081619-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,35 @@
+[
+  {"lesson_id": 2543876, "icon": "voice-presentation"},
+  {"lesson_id": 2543877, "icon": "planner"},
+
+  {"lesson_id": 2543878, "icon": "todo-list"},
+  {"lesson_id": 2543879, "icon": "grid"},
+  {"lesson_id": 2543880, "icon": "link"},
+  {"lesson_id": 2543881, "icon": "calculator"},
+  {"lesson_id": 2543882, "icon": "checkmark"},
+
+  {"lesson_id": 2543883, "icon": "todo-list"},
+  {"lesson_id": 2543884, "icon": "document"},
+  {"lesson_id": 2543885, "icon": "calendar"},
+  {"lesson_id": 2543886, "icon": "search"},
+  {"lesson_id": 2543887, "icon": "checkmark"},
+
+  {"lesson_id": 2543888, "icon": "todo-list"},
+  {"lesson_id": 2543889, "icon": "make-decision"},
+  {"lesson_id": 2543890, "icon": "alphabetical-sorting-az"},
+  {"lesson_id": 2543891, "icon": "rules"},
+  {"lesson_id": 2543892, "icon": "checkmark"},
+
+  {"lesson_id": 2543893, "icon": "todo-list"},
+  {"lesson_id": 2543894, "icon": "database"},
+  {"lesson_id": 2543895, "icon": "tree-structure"},
+  {"lesson_id": 2543896, "icon": "checkmark"},
+
+  {"lesson_id": 2543897, "icon": "todo-list"},
+  {"lesson_id": 2543898, "icon": "bar-chart"},
+  {"lesson_id": 2543899, "icon": "combo-chart"},
+  {"lesson_id": 2543900, "icon": "checkmark"},
+
+  {"lesson_id": 2543901, "icon": "graduation-cap"},
+  {"lesson_id": 2543902, "icon": "next"}
+]

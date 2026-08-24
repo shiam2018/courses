@@ -1,0 +1,67 @@
+{
+  "id": 11079358,
+  "lesson": 2546455,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/52526/header-2546455.webp\" style=\"\"></p>\n<h2>Что дальше?</h2>\n<p>Этот курс — часть большой программы <strong>«Интернет-Маркетолог: Старт Карьеры»</strong>: там вы освоите остальные каналы маркетинга и соберёте портфолио для резюме. По промокоду <strong>CAREERSTART</strong> вход в полный курс дешевле на 3000 ₽.</p>\n<p>Если создание креативов зацепило сильнее остальных тем маркетинга, у меня есть отдельный платный курс <strong>«Профессия креативный продюсер в маркетинге»</strong> — там разбирается полный цикл работы над креативами для реальной рекламной кампании, от брифа до отчёта по результатам теста.</p>\n<p>Спасибо, что прошли курс до конца. Если чек-лист из последнего урока реально попадёт в вашу работу над следующим креативом — это и есть цель курса.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079358",
+  "subscriptions": [
+    "31-77-11079358",
+    "30-77-11079358"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058449,
+  "create_date": "2026-08-24T08:48:51Z",
+  "update_date": "2026-08-24T08:48:51Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079358-1",
+  "discussion_threads": [
+    "77-11079358-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

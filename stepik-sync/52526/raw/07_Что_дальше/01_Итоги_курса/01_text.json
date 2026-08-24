@@ -1,0 +1,67 @@
+{
+  "id": 11079357,
+  "lesson": 2546454,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/52526/header-2546454.webp\" style=\"\"></p>\n<h2>Итоги курса</h2>\n<p>Пять модулей: от метрик и разницы между дизайном и креативом до честного разбора спорных приёмов индустрии, форматов по категориям продукта и системного тестирования. Если вы читали курс с намерением применить его к реальным креативам, а не просто узнать термины — у вас есть основа, чтобы оценивать любой креатив не по вкусу, а по тому, решает ли он измеримую задачу и честен ли он с аудиторией.</p>\n<p><strong>Что делать дальше:</strong> возьмите один реальный или учебный креатив и оцените его по чек-листу курса — какую метрику он должен улучшить, какой триггер использует, нет ли в нём преувеличения, которое создаст проблему на следующем шаге воронки. Применение к конкретному примеру закрепляет материал быстрее, чем повторное чтение.</p>\n<h3>Что дальше?</h3>\n<p>Последний короткий урок курса — что стоит попробовать дальше, если создание креативов зацепило сильнее остальных тем маркетинга.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079357",
+  "subscriptions": [
+    "31-77-11079357",
+    "30-77-11079357"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058448,
+  "create_date": "2026-08-24T08:48:50Z",
+  "update_date": "2026-08-24T08:48:51Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079357-1",
+  "discussion_threads": [
+    "77-11079357-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

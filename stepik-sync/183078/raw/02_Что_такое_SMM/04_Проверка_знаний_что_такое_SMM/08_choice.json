@@ -1,0 +1,101 @@
+{
+  "id": 11078096,
+  "lesson": 2545956,
+  "position": 8,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что из перечисленного — распространённое заблуждение о работе SMM-специалиста?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Что эта работа целиком про креативность, без системной части",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Что нужен контент-план",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Что важна аналитика результатов",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Что нужно учитывать специфику площадки",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11078096",
+  "subscriptions": [
+    "31-77-11078096",
+    "30-77-11078096"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11057187,
+  "create_date": "2026-08-24T07:44:14Z",
+  "update_date": "2026-08-24T07:44:14Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11078096-1",
+  "discussion_threads": [
+    "77-11078096-1",
+    "77-11078096-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

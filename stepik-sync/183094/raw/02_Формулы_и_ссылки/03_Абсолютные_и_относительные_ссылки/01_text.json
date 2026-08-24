@@ -1,0 +1,67 @@
+{
+  "id": 11062297,
+  "lesson": 2543880,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183094/header-2543880.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Почему формула, скопированная вниз по столбцу, иногда считает правильно, а иногда — нет, и как это контролировать.</p>\n<p>По умолчанию ссылка в Excel относительная: если в ячейке F5 стоит <code>=E5*0.2</code> и вы протягиваете формулу вниз, в F6 автоматически окажется <code>=E6*0.2</code>, в F7 — <code>=E7*0.2</code>. Это удобно, когда каждая строка должна брать своё собственное число. Но если формула должна каждый раз ссылаться на одну и ту же ячейку — например, курс валюты в отдельной клетке или процент комиссии, общий для всей таблицы, — относительная ссылка сломает расчёт: при протягивании она «съедет» вместе со строкой и начнёт указывать в пустоту.</p>\n<p>Решение — абсолютная ссылка: знак <code>$</code> перед буквой столбца и/или номером строки фиксирует адрес. <code>$B$1</code> не сдвинется никогда, при протягивании в любую сторону. Пример на данных тренажёра: если бы в отдельной ячейке (скажем, H1) лежал единый план по расходу на квартал, и нужно было в каждой строке посчитать «расход кампании ÷ план × 100%», формула выглядела бы так: <code>=E5/$H$1*100</code> — числитель меняется по строкам, знаменатель — нет. Без знаков <code>$</code> уже во второй строке формула сослалась бы на H2 (пустую ячейку) и выдала ошибку деления на ноль.</p>\n<p><strong>Быстрый способ переключать тип ссылки:</strong> выделите адрес ячейки прямо в формуле и нажмите <code>F4</code> — Excel циклически переключает между <code>A1</code> → <code>$A$1</code> → <code>A$1</code> → <code>$A1</code>, не нужно вписывать доллары руками.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — формулы, которые считают сами, без протягивания вручную: СУММ, СРЗНАЧ и другие статистические функции по всей таблице кампаний.</p>\n<h3>Полезные ссылки</h3>\n<ul><li><a href=\"https://support.microsoft.com/ru-ru/excel/switch-between-relative-absolute-and-mixed-references\" rel=\"noopener noreferrer nofollow\">Переключение между относительными, абсолютными и смешанными ссылками — Microsoft Support</a></li></ul>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11062297",
+  "subscriptions": [
+    "31-77-11062297",
+    "30-77-11062297"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041388,
+  "create_date": "2026-08-22T08:43:50Z",
+  "update_date": "2026-08-22T08:43:50Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11062297-1",
+  "discussion_threads": [
+    "77-11062297-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

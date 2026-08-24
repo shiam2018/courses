@@ -1,0 +1,67 @@
+{
+  "id": 11079756,
+  "lesson": 2546572,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183096/header-2546572.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Даже правильно выбранные каналы не спасут запуск, если материалы не готовы к моменту, когда они нужны — план запуска существует именно для того, чтобы этого не происходило.</p>\n<p><strong>Что должно быть готово ДО даты запуска:</strong> позиционирование в финальном виде, материалы под каждый выбранный канал (текст объявления, пост, посадочная страница), ответы на 5-7 частых возражений аудитории, и договорённость с командой поддержки о том, как обрабатывать первые вопросы.</p>\n<p><strong>Типичная последовательность запуска:</strong></p>\n<ol>\n<li><strong>Ограниченный запуск</strong> — на одном канале или узкой аудитории, чтобы проверить сообщение до масштабирования</li>\n<li><strong>Корректировка</strong> — по итогам ограниченного запуска правится формулировка или сам канал, если реакция не совпала с ожиданием</li>\n<li><strong>Полноценный запуск</strong> — расширение на все выбранные каналы с уже проверенным сообщением</li>\n<li><strong>Первые две недели поддержки</strong> — усиленное отслеживание обратной связи, пока рынок ещё формирует первое впечатление</li>\n</ol>\n<p><strong>Частая ошибка:</strong> назначать дату полноценного запуска на все каналы сразу, минуя ограниченный этап проверки — если позиционирование окажется неточным, ошибка сразу становится видна всей аудитории, и её сложнее исправить без репутационных потерь.</p>\n<h3>Что дальше?</h3>\n<p>Модуль 2 завершён — практическое задание, и дальше — как работать с людьми: продуктовой командой и командой продаж.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079756",
+  "subscriptions": [
+    "31-77-11079756",
+    "30-77-11079756"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058847,
+  "create_date": "2026-08-24T09:35:32Z",
+  "update_date": "2026-08-24T09:35:33Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079756-1",
+  "discussion_threads": [
+    "77-11079756-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

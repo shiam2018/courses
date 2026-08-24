@@ -1,0 +1,101 @@
+{
+  "id": 11079375,
+  "lesson": 2546441,
+  "position": 6,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Какие универсальные триггеры чаще всего мотивируют пользователей, согласно уроку?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Ощутимая выгода, любопытство и азарт, сравнение с другими",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Только цена товара",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Триггеров не существует, реакция всегда случайна",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Только эстетика изображения",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11079375",
+  "subscriptions": [
+    "31-77-11079375",
+    "30-77-11079375"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058466,
+  "create_date": "2026-08-24T08:49:09Z",
+  "update_date": "2026-08-24T08:49:09Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079375-1",
+  "discussion_threads": [
+    "77-11079375-1",
+    "77-11079375-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

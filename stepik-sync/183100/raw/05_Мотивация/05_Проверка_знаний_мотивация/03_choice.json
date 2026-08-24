@@ -1,0 +1,101 @@
+{
+  "id": 11074642,
+  "lesson": 2545846,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Согласно двухфакторной модели Херцберга, деньги в основном относятся к...</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Мотиваторам, создающим долгосрочную вовлечённость",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Гигиеническим факторам — их нехватка вызывает недовольство, но наличие не создаёт долгосрочной вовлечённости",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Единственному значимому фактору мотивации",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Категории, не влияющей на удовлетворённость",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11074642",
+  "subscriptions": [
+    "31-77-11074642",
+    "30-77-11074642"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11053733,
+  "create_date": "2026-08-24T03:55:10Z",
+  "update_date": "2026-08-24T03:55:11Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11074642-1",
+  "discussion_threads": [
+    "77-11074642-1",
+    "77-11074642-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

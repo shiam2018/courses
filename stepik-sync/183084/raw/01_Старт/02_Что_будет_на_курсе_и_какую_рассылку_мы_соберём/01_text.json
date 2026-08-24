@@ -1,0 +1,67 @@
+{
+  "id": 11081286,
+  "lesson": 2546925,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183084/header-2546925.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Какую рассылку мы соберём за этот курс, и чем этот курс отличается от бесплатного «Введение в email-маркетинг».</p>\n<p>Курс построен вокруг одной сквозной рассылки: реального или выбранного вами продукта, для которого мы пройдём весь цикл — от сегментации базы и письма до автоматизации, A/B-теста и отчёта перед бизнесом. Вместо тестов после каждого модуля — практическое задание на вашем проекте.</p>\n<p>Курс не повторяет основы из бесплатного курса — законный сбор базы, жизненный цикл подписчика, тема и текст письма, welcome-серия и брошенная корзина, open rate и CTR. Если этого не хватает, пройдите его сначала.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — первый модуль: как сегментировать базу под конкретную рассылку и собрать стратегию.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081286",
+  "subscriptions": [
+    "31-77-11081286",
+    "30-77-11081286"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060377,
+  "create_date": "2026-08-24T14:03:03Z",
+  "update_date": "2026-08-24T14:03:03Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081286-1",
+  "discussion_threads": [
+    "77-11081286-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

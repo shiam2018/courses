@@ -1,0 +1,67 @@
+{
+  "id": 11064377,
+  "lesson": 2544248,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183089/header-2544248.webp\" style=\"\"></p>.voc-table{width:100%;border-collapse:collapse;margin:16px 0;}.voc-table th{background:#F4EFE9;text-align:left;padding:8px 10px;font-size:14px;}.voc-table td{border-bottom:1px solid #EEE7DE;padding:8px 10px;font-size:14px;vertical-align:top;}.voc-table td:first-child{font-weight:700;white-space:nowrap;}\n<h2>Что будет на уроке?</h2>\n<p>Общение со смежными командами отличается от переписки с поддержкой: здесь важнее не вежливость сама по себе, а точность формулировки задачи — чтобы разработчик или продакт понял именно то, что нужно, без лишних уточняющих раундов.</p>\n<table class=\"voc-table\">\n<tbody><tr><th>Ситуация</th><th>Фраза на английском</th><th>Зачем так</th></tr>\n<tr><td>Запросить статус у разработки</td><td>Could you give me a quick update on [задача]? Just need to know if it's on track.</td><td>«Update» — стандартный термин для запроса статуса, звучит естественно, не как проверка.</td></tr>\n<tr><td>Объяснить маркетинговую задачу без жаргона</td><td>We need a way to track how many users click this button before they leave the page.</td><td>Описание через действие пользователя, а не через маркетинговый термин (\"attribution\") — разработчику понятнее и быстрее.</td></tr>\n<tr><td>Попросить фидбек у продаж</td><td>What objections are you hearing from prospects about this feature?</td><td>«Prospects» — точный термин для потенциальных клиентов в воронке продаж, а не просто \"clients\".</td></tr>\n<tr><td>Дать фидбек на макет</td><td>This looks good overall — one thing I'd change is [что именно], because [причина].</td><td>Начинается с позитива, затем конкретное предложение — стандартная структура конструктивного фидбека.</td></tr>\n<tr><td>Не согласиться с приоритетом</td><td>I understand the reasoning, but from a marketing perspective, this could delay the campaign — is there room to revisit the timeline?</td><td>Формулирует несогласие через последствия для своей стороны, а не как спор о правоте.</td></tr>\n</tbody></table>\n<p><strong>Частая ошибка:</strong> буквальный перевод русской формулировки «сделать акцент на» как «to make an accent on» — в английском это ошибка (accent — это акцент в произношении). Правильно: «to emphasize» или «to highlight». Похожих калек в межкомандном общении особенно много, потому что формулировки часто рождаются сначала на русском и переводятся дословно.</p>\n<h3>Что дальше?</h3>\n<p>Модуль 3 завершён — короткая проверка знаний, и дальше — чтение: документация, пресса и сайты конкурентов на английском.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11064377",
+  "subscriptions": [
+    "31-77-11064377",
+    "30-77-11064377"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043468,
+  "create_date": "2026-08-22T16:25:37Z",
+  "update_date": "2026-08-22T16:25:38Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064377-1",
+  "discussion_threads": [
+    "77-11064377-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

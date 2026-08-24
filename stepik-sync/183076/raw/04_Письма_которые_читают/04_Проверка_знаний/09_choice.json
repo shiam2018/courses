@@ -1,0 +1,101 @@
+{
+  "id": 11081256,
+  "lesson": 2546913,
+  "position": 9,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Почему опасно прятать главный призыв к действию только в конце длинного письма?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Значительная часть читателей не долистывает письмо до конца",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Это нарушает технические требования почтовых сервисов",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Призывы к действию работают только в начале письма по закону",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Это увеличивает open rate автоматически",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11081256",
+  "subscriptions": [
+    "31-77-11081256",
+    "30-77-11081256"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060347,
+  "create_date": "2026-08-24T14:00:24Z",
+  "update_date": "2026-08-24T14:00:24Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081256-1",
+  "discussion_threads": [
+    "77-11081256-1",
+    "77-11081256-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

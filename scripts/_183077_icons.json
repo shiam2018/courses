@@ -1,0 +1,32 @@
+[
+  {"lesson_id": 2545898, "icon": "voice-presentation"},
+  {"lesson_id": 2545899, "icon": "planner"},
+
+  {"lesson_id": 2545900, "icon": "todo-list"},
+  {"lesson_id": 2545901, "icon": "negative-dynamic"},
+  {"lesson_id": 2545902, "icon": "questions"},
+  {"lesson_id": 2545903, "icon": "puzzle"},
+
+  {"lesson_id": 2545904, "icon": "todo-list"},
+  {"lesson_id": 2545905, "icon": "database"},
+  {"lesson_id": 2545906, "icon": "disapprove"},
+  {"lesson_id": 2545907, "icon": "puzzle"},
+
+  {"lesson_id": 2545908, "icon": "todo-list"},
+  {"lesson_id": 2545909, "icon": "filled-filter"},
+  {"lesson_id": 2545910, "icon": "combo-chart"},
+  {"lesson_id": 2545911, "icon": "puzzle"},
+
+  {"lesson_id": 2545912, "icon": "todo-list"},
+  {"lesson_id": 2545913, "icon": "document"},
+  {"lesson_id": 2545914, "icon": "idea"},
+  {"lesson_id": 2545915, "icon": "puzzle"},
+
+  {"lesson_id": 2545916, "icon": "todo-list"},
+  {"lesson_id": 2545917, "icon": "no-idea"},
+  {"lesson_id": 2545918, "icon": "good-decision"},
+  {"lesson_id": 2545919, "icon": "puzzle"},
+
+  {"lesson_id": 2545920, "icon": "graduation-cap"},
+  {"lesson_id": 2545921, "icon": "next"}
+]

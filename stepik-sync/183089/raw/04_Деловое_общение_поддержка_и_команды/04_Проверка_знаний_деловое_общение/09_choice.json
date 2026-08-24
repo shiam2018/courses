@@ -1,0 +1,101 @@
+{
+  "id": 11064431,
+  "lesson": 2544249,
+  "position": 9,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Фраза «Could we agree on a deadline of [дата] for this?» лучше прямого требования срока, потому что...</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Она короче",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Она формулирует предложение как договорённость, а не ультиматум",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "В ней нет грамматических ошибок в отличие от альтернатив",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Она не требует ответа от собеседника",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11064431",
+  "subscriptions": [
+    "31-77-11064431",
+    "30-77-11064431"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043522,
+  "create_date": "2026-08-22T16:26:17Z",
+  "update_date": "2026-08-22T16:26:18Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064431-1",
+  "discussion_threads": [
+    "77-11064431-1",
+    "77-11064431-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

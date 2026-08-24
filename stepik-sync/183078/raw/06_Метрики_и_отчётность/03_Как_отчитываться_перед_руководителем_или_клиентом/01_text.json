@@ -1,0 +1,67 @@
+{
+  "id": 11078086,
+  "lesson": 2545971,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183078/header-2545971.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Отчёт по SMM легко превращается в таблицу цифр без выводов — рабочий отчёт делает ровно наоборот: выводы на первом месте, цифры как подтверждение.</p>\n<p><strong>Структура отчёта, который дочитывают:</strong></p>\n<ol>\n<li><strong>Главный результат периода одной фразой</strong> — «ER вырос с 2,1% до 3,4% за счёт перехода на формат коротких видео», а не список всех опубликованных постов</li>\n<li><strong>3-4 ключевые цифры</strong> — охват, ER, рост подписчиков, конверсии в целевое действие, если есть</li>\n<li><strong>Что не сработало и почему</strong> — честное упоминание провальных форматов важнее умалчивания, потому что показывает, что решения принимаются на основе данных, а не только успехи выставляются напоказ</li>\n<li><strong>План на следующий период</strong> — что конкретно попробовать дальше, опираясь на то, что показали цифры</li>\n</ol>\n<p><strong>Хорошо / плохо:</strong> отчёт из скриншотов статистики без единого предложения текста — читатель должен сам делать выводы, и часто делает их неверно. Отчёт с одним абзацем итога сверху и статистикой ниже как подтверждение — читается за минуту, и вывод не теряется среди цифр.</p>\n<p><strong>Частая ошибка:</strong> отчитываться только о хороших цифрах, замалчивая провальные посты или форматы. Это подрывает доверие к отчёту в целом, как только руководитель или клиент замечает несовпадение с реальностью хотя бы раз.</p>\n<h3>Что дальше?</h3>\n<p>Модуль 5 и весь курс завершены — короткая проверка знаний, и дальше — итоги.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11078086",
+  "subscriptions": [
+    "31-77-11078086",
+    "30-77-11078086"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11057177,
+  "create_date": "2026-08-24T07:44:06Z",
+  "update_date": "2026-08-24T07:44:06Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11078086-1",
+  "discussion_threads": [
+    "77-11078086-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

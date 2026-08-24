@@ -1,0 +1,101 @@
+{
+  "id": 11081668,
+  "lesson": 2547026,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что происходит «под капотом» в no-code конструкторе?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Он генерирует настоящий код приложения на основе визуальных настроек",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Приложение никогда не превращается в реальный код",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Код пишется вручную разработчиком после сборки интерфейса",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Конструктор работает только как макет без реального запуска",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11081668",
+  "subscriptions": [
+    "31-77-11081668",
+    "30-77-11081668"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060759,
+  "create_date": "2026-08-24T14:41:03Z",
+  "update_date": "2026-08-24T14:41:03Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081668-1",
+  "discussion_threads": [
+    "77-11081668-1",
+    "77-11081668-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

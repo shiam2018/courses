@@ -1,0 +1,101 @@
+{
+  "id": 11062319,
+  "lesson": 2543882,
+  "position": 4,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Какая ссылка НЕ изменится при протягивании формулы вниз или вбок?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "A1",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "$A$1",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "A$1 при протягивании вниз",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Любая ссылка без знака $",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11062319",
+  "subscriptions": [
+    "31-77-11062319",
+    "30-77-11062319"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041410,
+  "create_date": "2026-08-22T08:44:05Z",
+  "update_date": "2026-08-22T08:44:05Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11062319-1",
+  "discussion_threads": [
+    "77-11062319-1",
+    "77-11062319-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

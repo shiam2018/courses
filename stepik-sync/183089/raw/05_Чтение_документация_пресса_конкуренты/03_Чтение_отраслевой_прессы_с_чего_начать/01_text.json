@@ -1,0 +1,67 @@
+{
+  "id": 11064380,
+  "lesson": 2544252,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183089/header-2544252.webp\" style=\"\"></p>.voc-table{width:100%;border-collapse:collapse;margin:16px 0;}.voc-table th{background:#F4EFE9;text-align:left;padding:8px 10px;font-size:14px;}.voc-table td{border-bottom:1px solid #EEE7DE;padding:8px 10px;font-size:14px;vertical-align:top;}.voc-table td:first-child{font-weight:700;white-space:nowrap;}\n<h2>Что будет на уроке?</h2>\n<p>Отраслевая пресса (TechCrunch, Marketing Dive, AdExchanger и подобные издания) использует свой узнаваемый набор терминов — про сделки, изменения на рынке и запуски продуктов.</p>\n<table class=\"voc-table\">\n<tbody><tr><th>Термин</th><th>Перевод</th><th>Контекст</th></tr>\n<tr><td>Funding round</td><td>раунд финансирования</td><td>The startup closed a $10M Series A funding round.</td></tr>\n<tr><td>Acquisition</td><td>поглощение, покупка компании</td><td>The acquisition was announced on Monday.</td></tr>\n<tr><td>IPO</td><td>первичное публичное размещение акций</td><td>The company is preparing for an IPO next year.</td></tr>\n<tr><td>Market share</td><td>доля рынка</td><td>The platform gained market share after the update.</td></tr>\n<tr><td>Layoffs</td><td>сокращения персонала</td><td>The company announced layoffs affecting the marketing team.</td></tr>\n<tr><td>Pivot</td><td>смена направления бизнеса</td><td>The startup pivoted from B2C to B2B.</td></tr>\n<tr><td>Disruptor</td><td>компания, ломающая рынок</td><td>The article calls the app a disruptor in the ad-tech space.</td></tr>\n<tr><td>Rollout</td><td>постепенный запуск</td><td>The feature rollout will happen over several weeks.</td></tr>\n</tbody></table>\n<p><strong>Как читать заголовок быстро:</strong> заголовок обычно даёт всю суть в первых 5-7 словах, а дальше — уточнение. Пример: «Meta rolls out new ad format after months of testing» — «rolls out» сразу говорит, что это запуск (не анонс, а уже реальный релиз), «after months of testing» — что это не спонтанное решение. Если из заголовка понятна суть — можно решить, читать статью целиком или нет, не тратя время на всё подряд.</p>\n<p><strong>С чего начать регулярное чтение:</strong> не пытаться читать по статье в день с первого месяца — начните с одного заголовка в день, разбирая только незнакомые термины, и постепенно увеличивайте объём.</p>\n<h3>Полезные ссылки</h3>\n<ul><li><a href=\"https://techcrunch.com/\" rel=\"noopener noreferrer nofollow\">TechCrunch</a></li><li><a href=\"https://www.marketingdive.com/\" rel=\"noopener noreferrer nofollow\">Marketing Dive</a></li><li><a href=\"https://www.adexchanger.com/\" rel=\"noopener noreferrer nofollow\">AdExchanger</a></li></ul>\n<h3>Что дальше?</h3>\n<p>Дальше — третий тип чтения: разбор сайтов и продуктов конкурентов.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11064380",
+  "subscriptions": [
+    "31-77-11064380",
+    "30-77-11064380"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043471,
+  "create_date": "2026-08-22T16:25:40Z",
+  "update_date": "2026-08-22T16:38:36Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064380-1",
+  "discussion_threads": [
+    "77-11064380-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

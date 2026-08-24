@@ -1,0 +1,67 @@
+{
+  "id": 11078087,
+  "lesson": 2545973,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183078/header-2545973.webp\" style=\"\"></p>\n<h2>Итоги курса</h2>\n<p>Пять модулей: от общего понимания работы SMM-специалиста и контент-плана до специфики ВКонтакте и Telegram, текста и визуала, которые реально работают, и метрик, по которым видно результат, а не ощущение результата.</p>\n<p><strong>Что делать дальше:</strong> если у вас уже есть сообщество ВКонтакте или Telegram-канал, возьмите один конкретный приём из курса — контент-план на 2 недели, новую структуру поста с крючком в первой строке, или расчёт ER за последний месяц — и примените его на этой неделе. Применение на реальном контенте закрепляет материал в разы быстрее, чем повторное чтение уроков.</p>\n<h3>Что дальше?</h3>\n<p>Последний короткий урок курса — что стоит попробовать дальше, если SMM зацепил больше остальных тем маркетинга.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11078087",
+  "subscriptions": [
+    "31-77-11078087",
+    "30-77-11078087"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11057178,
+  "create_date": "2026-08-24T07:44:06Z",
+  "update_date": "2026-08-24T07:44:07Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11078087-1",
+  "discussion_threads": [
+    "77-11078087-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

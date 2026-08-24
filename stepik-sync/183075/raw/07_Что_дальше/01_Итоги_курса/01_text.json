@@ -1,0 +1,67 @@
+{
+  "id": 11081528,
+  "lesson": 2547019,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183075/header-2547019.webp\" style=\"\"></p>\n<h2>Итоги курса</h2>\n<p>Мы прошли путь сайта от идеи до публикации: когда конструктор — подходящий инструмент и как его выбрать, как спланировать структуру страниц под целевое действие, как выбрать шаблон и наполнить его контентом, который читают, какие настройки SEO доступны без кода, и как подключить домен и опубликовать сайт.</p>\n<p><strong>Что делать дальше:</strong> если у вас уже есть идея сайта, попробуйте применить структуру из модуля 2 — определить главное целевое действие и построить путь к нему — прежде чем открывать сам конструктор. Именно применение на реальной задаче, а не повторное чтение теории, закрепляет эти понятия.</p>\n<h3>Что дальше?</h3>\n<p>Последний урок курса — что делать дальше, если хочется пойти глубже.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081528",
+  "subscriptions": [
+    "31-77-11081528",
+    "30-77-11081528"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060619,
+  "create_date": "2026-08-24T14:34:53Z",
+  "update_date": "2026-08-24T14:34:53Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081528-1",
+  "discussion_threads": [
+    "77-11081528-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

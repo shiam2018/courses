@@ -1,0 +1,67 @@
+{
+  "id": 11079664,
+  "lesson": 2546541,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183101/header-2546541.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Кто такой продакт-маркетолог и какой проект мы разберём в этом курсе.</p>\n<p>Продакт-маркетолог стоит на стыке трёх ролей: продуктовой команды, которая создаёт функционал, отдела маркетинга, который приводит клиентов, и отдела продаж, который эти клиенты закрывает в сделку. Задача продакт-маркетолога — перевести то, что сделала продуктовая команда, в понятное сообщение для рынка, и организовать сам запуск: от позиционирования до отчёта по результатам.</p>\n<p>В этом курсе мы пройдём путь продукта от идеи до запуска: разберём этапы разработки и понятия MVP и product-market fit, методологии, по которым работают команды, позиционирование и go-to-market стратегию, и метрики, которыми измеряется успешный запуск.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — первый модуль: что вообще такое продакт-маркетинг и чем он отличается от смежных ролей.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079664",
+  "subscriptions": [
+    "31-77-11079664",
+    "30-77-11079664"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058755,
+  "create_date": "2026-08-24T09:30:31Z",
+  "update_date": "2026-08-24T09:30:32Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079664-1",
+  "discussion_threads": [
+    "77-11079664-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

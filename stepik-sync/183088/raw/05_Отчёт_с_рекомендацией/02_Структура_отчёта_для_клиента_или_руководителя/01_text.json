@@ -1,0 +1,67 @@
+{
+  "id": 11078204,
+  "lesson": 2546254,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183088/header-2546254.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Отчёт по SMM-проекту, в котором смешаны аудит, идеи для контента и мысли о продвижении без структуры, вынуждает читателя самому собирать целостную картину — и часто он просто не станет этого делать.</p>\n<p><strong>Рабочая структура отчёта из четырёх частей:</strong></p>\n<ol>\n<li><strong>Главный вывод аудита одной фразой</strong> — что сейчас происходит с аккаунтом и в чём главная возможность или проблема</li>\n<li><strong>Позиционирование и система контента</strong> — коротко, что и для кого публикуется, с 1-2 примерами постов из плана</li>\n<li><strong>План продвижения</strong> — конкретные шаги, а не общие направления</li>\n<li><strong>Рекомендация с ожидаемым результатом</strong> — что сделать в первую очередь и какого эффекта ожидать</li>\n</ol>\n<p><strong>Хорошо / плохо:</strong> отчёт, начинающийся с перечисления всех проведённых действий («провёл аудит, составил план, изучил конкурентов») — плохо, потому что сообщает о процессе, а не о выводах. Отчёт, начинающийся с сути («аккаунту не хватает регулярности — за последний месяц вышло 3 поста вместо плановых 12, и это главная точка роста»), — надёжнее, потому что сразу показывает, где кроется реальная возможность.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — как превратить общий вывод в рекомендацию, которую можно выполнить, а не расплывчатый совет.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11078204",
+  "subscriptions": [
+    "31-77-11078204",
+    "30-77-11078204"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11057295,
+  "create_date": "2026-08-24T07:57:35Z",
+  "update_date": "2026-08-24T07:57:35Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11078204-1",
+  "discussion_threads": [
+    "77-11078204-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

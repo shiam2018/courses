@@ -1,0 +1,67 @@
+{
+  "id": 11062315,
+  "lesson": 2543882,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183094/header-2543882.webp\" style=\"\"></p><p>Тест по модулю «Формулы и ссылки» — 10 вопросов, 1 попытка на вдумчивый ответ, без ограничения по времени.</p>",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11062315",
+  "subscriptions": [
+    "31-77-11062315",
+    "30-77-11062315"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041406,
+  "create_date": "2026-08-22T08:44:03Z",
+  "update_date": "2026-08-22T08:48:29Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11062315-1",
+  "discussion_threads": [
+    "77-11062315-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

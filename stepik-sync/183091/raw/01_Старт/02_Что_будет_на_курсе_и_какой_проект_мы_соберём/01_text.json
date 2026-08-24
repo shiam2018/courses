@@ -1,0 +1,67 @@
+{
+  "id": 11079512,
+  "lesson": 2546496,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183091/header-2546496.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Какой проект мы соберём за этот курс, и чем работа продюсера креативов отличается от работы дизайнера.</p>\n<p>Курс построен вокруг одного сквозного проекта: реальной или выбранной вами рекламной кампании, которую мы проведём от брифа до отчёта по результатам теста. Продюсер креативов не обязательно рисует сам — его задача организовать процесс так, чтобы команда стабильно выдавала работающие креативы в срок: разобрать бриф, поставить задачу исполнителям, спланировать тест, дать полезную обратную связь и защитить результат перед бизнесом.</p>\n<p>Курс не повторяет основы из бесплатного курса «Creative Production» — метрики CTR/CVR, разницу дизайна и креатива, честные подходы по категориям продукта. Если этого не хватает, пройдите его сначала.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — с чего вообще начинается работа продюсера: разбор реального брифа.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079512",
+  "subscriptions": [
+    "31-77-11079512",
+    "30-77-11079512"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058603,
+  "create_date": "2026-08-24T09:05:26Z",
+  "update_date": "2026-08-24T09:05:26Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079512-1",
+  "discussion_threads": [
+    "77-11079512-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

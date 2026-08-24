@@ -1,0 +1,67 @@
+{
+  "id": 11078071,
+  "lesson": 2545952,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183078/header-2545952.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Как устроен курс и почему он держит фокус именно на ВКонтакте и Telegram, прежде чем переходить к первому модулю.</p>\n<p>Курс не претендует на охват всех соцсетей мира — вместо этого разбирает то, что реально работает для российской аудитории в 2026 году: ВКонтакте как крупнейшую площадку и Telegram как канал с растущим весом. Отдельно честно отмечаем: часть аудитории по-прежнему пользуется Instagram и YouTube через VPN, и полностью списывать их со счетов не стоит — но фокус курса на площадках, где можно работать без ограничений.</p>\n<p>Я веду соцсети продукта Cleanor Labs как часть своей работы — примеры в курсе взяты из этой практики, а не придуманы для методички. Пять модулей: что такое SMM в целом → ВКонтакте → Telegram → контент, который работает → метрики и отчётность.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — первый модуль: что вообще входит в работу SMM-специалиста и почему контент-план важнее вдохновения.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11078071",
+  "subscriptions": [
+    "31-77-11078071",
+    "30-77-11078071"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11057162,
+  "create_date": "2026-08-24T07:43:53Z",
+  "update_date": "2026-08-24T07:43:53Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11078071-1",
+  "discussion_threads": [
+    "77-11078071-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 11062294,
+  "lesson": 2543877,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183094/header-2543877.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Как устроен курс, что нужно скачать перед стартом и как быстро проверить, что вам сюда — или, наоборот, вы это всё уже умеете.</p>\n<p>Курс — про то, с чего обычно останавливаются вводные курсы по Excel: формулы и ссылки вы наверняка уже видели, а вот ВПР, ИНДЕКС+ПОИСКПОЗ и сводные таблицы часто остаются «на потом», хотя именно они превращают Excel из калькулятора в рабочий инструмент. Пять модулей: формулы и ссылки → текст, даты и поиск данных → логика, сортировка и фильтры → сводные таблицы → диаграммы и итоговый отчёт. После каждого — тест на 10 вопросов.</p>\n<p><strong>Скачайте файл-тренажёр перед первым модулем:</strong> <a href=\"https://stepik.org/media/attachments/course/183094/Excel-trenazher-183094.xlsx\" rel=\"noopener noreferrer nofollow\">Excel-trenazher-183094.xlsx</a>. В нём три листа: «Данные» (180 строк по рекламным кампаниям — дата, канал, расход, показы, клики, заявки, статус), «Справочник каналов» (для практики ВПР) и «Задания» (конкретное задание на каждую тему курса, от первой формулы до итоговой диаграммы). Все формулы курса разбираются на этой же таблице — открыли один раз, используете весь курс.</p>\n<p><strong>Быстрая проверка «мне сюда или нет»:</strong> если вы уверенно объясните, чем ВПР отличается от ИНДЕКС+ПОИСКПОЗ и как сводная таблица считает суммы по группам — этот курс, скорее всего, будет для вас слишком базовым. Если нет — начинайте с первого модуля.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — первый модуль: как устроен Excel изнутри и почему абсолютные и относительные ссылки — это не формальность, а причина половины сломанных таблиц.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11062294",
+  "subscriptions": [
+    "31-77-11062294",
+    "30-77-11062294"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041385,
+  "create_date": "2026-08-22T08:43:48Z",
+  "update_date": "2026-08-22T08:43:48Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11062294-1",
+  "discussion_threads": [
+    "77-11062294-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

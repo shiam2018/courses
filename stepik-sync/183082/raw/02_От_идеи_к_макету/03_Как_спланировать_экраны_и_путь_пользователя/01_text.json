@@ -1,0 +1,67 @@
+{
+  "id": 11081742,
+  "lesson": 2547049,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183082/header-2547049.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>В бесплатных курсах мы разбирали базовые типы экранов по отдельности. Здесь нужно собрать их в цельный макет одного реального проекта.</p>\n<p><strong>Как построить макет за три шага:</strong></p>\n<ol>\n<li><strong>Опишите главный сценарий одним предложением</strong> — что человек делает от открытия продукта до получения ценности («находит мастера рядом и записывается на услугу»)</li>\n<li><strong>Перечислите экраны, необходимые именно для этого сценария</strong> — не больше, чем нужно для него, даже если хочется добавить «на будущее»</li>\n<li><strong>Нарисуйте путь стрелками между экранами</strong> — от входа до целевого действия, включая пути назад и обработку ошибок (например, что видит пользователь, если результатов поиска нет)</li>\n</ol>\n<p><strong>Что использовать для макета:</strong> не обязательно сложный инструмент прототипирования — обычный лист бумаги, доска в Miro/FigJam или даже текстовый список экранов со стрелками вполне подходят для этого этапа. Цель макета — проверить логику пути, а не сделать красивый дизайн.</p>\n<p><strong>Хорошо / плохо:</strong> открывать конструктор и проектировать экраны прямо в нём, придумывая логику на ходу — часто приводит к путанице в структуре и переделкам. Нарисовать макет на бумаге за 15-20 минут перед открытием конструктора — экономит часы работы в самом инструменте.</p>\n<h3>Что дальше?</h3>\n<p>Модуль 1 завершён — практическое задание, и дальше — как собрать интерфейс и логику по готовому макету.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081742",
+  "subscriptions": [
+    "31-77-11081742",
+    "30-77-11081742"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060833,
+  "create_date": "2026-08-24T14:43:54Z",
+  "update_date": "2026-08-24T14:43:54Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081742-1",
+  "discussion_threads": [
+    "77-11081742-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

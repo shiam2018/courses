@@ -1,0 +1,67 @@
+{
+  "id": 11062313,
+  "lesson": 2543901,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183094/header-2543901.webp\" style=\"\"></p>\n<h2>Итоги курса</h2>\n<p>Пять модулей, 25 уроков, один и тот же датасет рекламных кампаний от первой формулы до итоговой диаграммы. Если вы прошли курс с практикой на файле-тренажёре, а не только чтением — у вас теперь есть рабочий набор инструментов: формулы и правильные ссылки, поиск данных между таблицами через ВПР и ИНДЕКС+ПОИСКПОЗ, логические формулы и фильтры, сводные таблицы и диаграммы под конкретную задачу.</p>\n<p>Это ровно тот набор, которого не хватает в большинстве вводных курсов по Excel — не потому что ВПР или сводные таблицы сложные, а потому что их обычно показывают одним слайдом вместо разбора на практике.</p>\n<p><strong>Что делать дальше:</strong> лучший способ закрепить — взять свою собственную таблицу (расходы, учёт, что угодно с повторяющейся структурой) и применить к ней хотя бы одну сводную таблицу и одну формулу ВПР или ИНДЕКС+ПОИСКПОЗ в первую неделю после курса. Пройденное без немедленного применения забывается быстро — а данные, с которыми вы работаете каждый день, всегда под рукой.</p>\n<h3>Что дальше?</h3>\n<p>Последний короткий урок курса — что стоит попробовать сразу после Excel, если хочется пойти в аналитику данных дальше.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11062313",
+  "subscriptions": [
+    "31-77-11062313",
+    "30-77-11062313"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041404,
+  "create_date": "2026-08-22T08:44:02Z",
+  "update_date": "2026-08-22T08:44:02Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11062313-1",
+  "discussion_threads": [
+    "77-11062313-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 11081738,
+  "lesson": 2547046,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183082/header-2547046.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Какой проект мы соберём за этот курс, и чем этот курс отличается от бесплатных курсов «Сайт без кода» и «Приложение без кода».</p>\n<p>Курс построен вокруг одного сквозного проекта: реальной или выбранной вами идеи продукта, которую мы проведём через весь цикл — от макета и структуры экранов до логики, данных, тестирования и публикации на no-code конструкторе вроде FlutterFlow. Вместо тестов после каждого модуля — практическое задание на вашем проекте.</p>\n<p>Курс не повторяет основы из бесплатных курсов — что такое конструктор и когда он подходит, базовое планирование экранов, простые списки и формы. Если этого не хватает, пройдите один из них сначала.</p>\n<p>Курс не привязан к устаревающим скриншотам одного конкретного интерфейса — фокус на принципах, которые работают в любом no-code конструкторе, даже когда очередной сервис переименует кнопку в меню.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — первый модуль: как выбрать инструмент под задачу и спланировать макет проекта.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081738",
+  "subscriptions": [
+    "31-77-11081738",
+    "30-77-11081738"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060829,
+  "create_date": "2026-08-24T14:43:52Z",
+  "update_date": "2026-08-24T14:43:52Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081738-1",
+  "discussion_threads": [
+    "77-11081738-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

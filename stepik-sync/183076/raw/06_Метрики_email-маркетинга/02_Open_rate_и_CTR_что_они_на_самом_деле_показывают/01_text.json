@@ -1,0 +1,67 @@
+{
+  "id": 11081214,
+  "lesson": 2546919,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183076/header-2546919.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Open rate и CTR — две базовые метрики email-маркетинга, и важно понимать, что именно каждая из них измеряет, чтобы не путать причину проблемы.</p>\n<p><strong>Open rate (процент открытий)</strong> — доля получателей, открывших письмо, от общего числа отправленных. В первую очередь зависит от темы письма, имени отправителя и того, насколько подписчик доверяет рассылке. Низкий open rate чаще всего сигнализирует о слабой теме или о том, что письмо вообще не дошло до входящих (об этом дальше — доставляемость).</p>\n<p><strong>CTR (click-through rate, процент кликов)</strong> — доля получателей, кликнувших хотя бы по одной ссылке в письме, от общего числа отправленных (или иногда — от числа открывших, это называют CTOR). В первую очередь зависит от текста письма и убедительности призыва к действию.</p>\n<p><strong>Как использовать эти две метрики вместе для диагностики:</strong></p>\n<ul>\n<li><strong>Низкий open rate</strong> — проблема в теме письма или в доставляемости, а не в содержании самого письма</li>\n<li><strong>Высокий open rate, но низкий CTR</strong> — тема сработала, но текст письма или призыв к действию не убедили открывшего кликнуть</li>\n<li><strong>Высокий open rate и высокий CTR</strong> — письмо в целом работает хорошо на всех этапах</li>\n</ul>\n<p><strong>Частая ошибка:</strong> переписывать текст письма в ответ на низкий open rate. Если проблема в открытиях, чинить нужно тему письма (или доставляемость), а не содержание — переписанный текст письма не поможет, если письмо всё равно не открывают.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — метрики, которые сигнализируют о проблемах на уровне всей рассылки: отписки и доставляемость.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081214",
+  "subscriptions": [
+    "31-77-11081214",
+    "30-77-11081214"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060305,
+  "create_date": "2026-08-24T13:58:21Z",
+  "update_date": "2026-08-24T13:58:22Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081214-1",
+  "discussion_threads": [
+    "77-11081214-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

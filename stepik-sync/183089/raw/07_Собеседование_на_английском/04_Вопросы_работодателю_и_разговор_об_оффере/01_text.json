@@ -1,0 +1,67 @@
+{
+  "id": 11064388,
+  "lesson": 2544262,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183089/header-2544262.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Собеседование — это разговор в обе стороны, и вопросы, которые вы задаёте работодателю, оцениваются так же внимательно, как ваши ответы.</p>\n<p><strong>Вопросы, которые стоит задать интервьюеру:</strong></p>\n<ul>\n<li>What does success look like in this role after the first 3-6 months? — как выглядит успех в этой роли через 3-6 месяцев?</li>\n<li>What's the biggest marketing challenge the team is facing right now? — какая сейчас самая большая маркетинговая проблема у команды?</li>\n<li>How is the marketing team structured, and who would I be working with most closely? — как устроена команда маркетинга и с кем я буду работать теснее всего?</li>\n<li>What tools and platforms does the team currently use? — какими инструментами и платформами пользуется команда?</li>\n</ul>\n<p><strong>Разговор об оффере — ключевые фразы:</strong></p>\n<ul>\n<li>What does the compensation package include? — что входит в компенсационный пакет? (не только зарплата — часто ещё премии, опционы, льготы)</li>\n<li>Is there room for negotiation on the base salary? — есть ли возможность обсудить базовую зарплату?</li>\n<li>Could I have some time to consider the offer? — могу я взять время подумать над оффером?</li>\n<li>I'd like to better understand the bonus structure before deciding — я хотел(а) бы лучше понять структуру бонусов перед решением</li>\n</ul>\n<p><strong>Хорошо / плохо:</strong> «How much do I get paid?» — звучит резко в самом начале разговора об оффере. «Could you walk me through the compensation package?» — та же цель, но формулировка предполагает диалог, а не требование.</p>\n<p>Если тема собеседований интересна вам отдельно от английского языка — весь процесс на русском (от резюме до переговоров об оффере) разобран в моём другом бесплатном курсе <strong><a href=\"https://stepik.org/course/183103\" rel=\"noopener noreferrer nofollow\">«Собеседование в маркетинге: как получить работу мечты»</a></strong>.</p>\n<h3>Что дальше?</h3>\n<p>Модуль 6 завершён — короткая проверка знаний, и дальше — итоги курса.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11064388",
+  "subscriptions": [
+    "31-77-11064388",
+    "30-77-11064388"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11043479,
+  "create_date": "2026-08-22T16:25:47Z",
+  "update_date": "2026-08-22T16:38:40Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11064388-1",
+  "discussion_threads": [
+    "77-11064388-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 11074992,
+  "lesson": 2545919,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183077/header-2545919.webp\" style=\"\"></p>\n<h2>Практическое задание</h2>\n<p>Финальное задание курса — соберите защиту своего отчёта из модуля 4.</p>\n<ol>\n<li>Запишите 3 вопроса, которые может задать руководитель, увидев вашу рекомендацию по Referral-трафику — используйте примеры из первого урока модуля как ориентир, но сформулируйте своими словами.</li>\n<li>Подготовьте ответ на каждый вопрос, опираясь на конкретные цифры из дашборда (модуль 3) и отчёта (модуль 4), а не на общие предположения.</li>\n</ol>\n<p><strong>Как понять, что задание выполнено хорошо:</strong> в каждом ответе должно быть хотя бы одно число или ссылка на конкретный лист файла-практикума. Если ответ можно было написать, вообще не открывая файл с данными — это признак того, что ответ недостаточно обоснован.</p>\n<p>Этим заданием заканчивается весь сквозной проект: от вопроса бизнеса до дашборда, отчёта и защиты решения — на одном и том же реальном датасете, без переключения между придуманными примерами.</p>\n<h3>Что дальше?</h3>\n<p>Последний короткий блок курса — итоги и что стоит попробовать дальше.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11074992",
+  "subscriptions": [
+    "31-77-11074992",
+    "30-77-11074992"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11054083,
+  "create_date": "2026-08-24T06:50:11Z",
+  "update_date": "2026-08-24T06:50:11Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11074992-1",
+  "discussion_threads": [
+    "77-11074992-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

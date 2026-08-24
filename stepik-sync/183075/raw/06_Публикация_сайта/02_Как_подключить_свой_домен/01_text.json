@@ -1,0 +1,67 @@
+{
+  "id": 11081525,
+  "lesson": 2547016,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183075/header-2547016.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Адрес вида yoursite.tilda.ws или yoursite.wixsite.com, который конструктор даёт по умолчанию, работает, но выглядит менее профессионально и хуже запоминается, чем собственный домен.</p>\n<p><strong>Как это устроено:</strong> домен (например, mysite.ru) покупается отдельно у регистратора доменных имён — это не то же самое, что тариф самого конструктора. После покупки домен нужно «привязать» к сайту через настройки DNS — обычно конструктор даёт пошаговую инструкцию с конкретными значениями, которые нужно скопировать в панель регистратора.</p>\n<p><strong>На что обратить внимание при выборе домена:</strong> короткое и легко произносимое имя, желательно совпадающее с названием компании или ключевым словом бизнеса, зона .ru или .com в большинстве случаев подходят лучше, чем менее привычные пользователю зоны.</p>\n<p><strong>Частая ошибка:</strong> покупать домен на одном сервисе и годами забывать продлевать его или переносить регистрацию, теряя контроль над адресом сайта в самый неподходящий момент. Настройте автопродление или напоминание заранее, а не полагайтесь на то, что вспомните сами.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — что стоит проверить перед тем, как окончательно публиковать сайт для реальных посетителей.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081525",
+  "subscriptions": [
+    "31-77-11081525",
+    "30-77-11081525"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060616,
+  "create_date": "2026-08-24T14:34:52Z",
+  "update_date": "2026-08-24T14:34:52Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081525-1",
+  "discussion_threads": [
+    "77-11081525-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

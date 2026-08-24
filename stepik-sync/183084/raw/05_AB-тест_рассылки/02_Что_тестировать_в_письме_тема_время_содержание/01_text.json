@@ -1,0 +1,67 @@
+{
+  "id": 11081300,
+  "lesson": 2546939,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183084/header-2546939.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>В письме есть несколько переменных, которые можно протестировать — но, как и в любом A/B-тесте, важно менять их по одной, а не все сразу.</p>\n<p><strong>Тема письма.</strong> Самый распространённый и самый простой тест: два варианта темы отправляются на небольшую часть базы, победитель по open rate уходит на оставшуюся часть. Хорошо подходит, если у вас уже есть 2-3 содержательно разных варианта из модуля 2.</p>\n<p><strong>Время отправки.</strong> Фиксированные тема и текст, разное время или день отправки. Полезно, если аудитория неоднородна по расписанию (например, часть базы открывает почту утром, часть — вечером) — но требует достаточно большой базы, чтобы разница была статистически заметна.</p>\n<p><strong>Содержание письма.</strong> Разные формулировки текста или разный порядок аргументов при одинаковой теме — тестирует, что лучше убеждает получателя кликнуть, а не что лучше привлекает его открыть письмо.</p>\n<p><strong>Как выбрать, что тестировать в первую очередь.</strong> Отталкивайтесь от того, какая метрика вызывает больше вопросов: если open rate ниже ожидаемого — тестируйте тему; если open rate нормальный, а CTR низкий — тестируйте содержание и призыв к действию.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — как правильно прочитать результат теста, чтобы не сделать поспешный вывод.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081300",
+  "subscriptions": [
+    "31-77-11081300",
+    "30-77-11081300"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060391,
+  "create_date": "2026-08-24T14:03:14Z",
+  "update_date": "2026-08-24T14:03:14Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081300-1",
+  "discussion_threads": [
+    "77-11081300-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,32 @@
+[
+  {"lesson_id": 2546899, "icon": "voice-presentation"},
+  {"lesson_id": 2546901, "icon": "planner"},
+
+  {"lesson_id": 2546902, "icon": "todo-list"},
+  {"lesson_id": 2546903, "icon": "template"},
+  {"lesson_id": 2546904, "icon": "document"},
+  {"lesson_id": 2546905, "icon": "checkmark"},
+
+  {"lesson_id": 2546906, "icon": "todo-list"},
+  {"lesson_id": 2546907, "icon": "businessman"},
+  {"lesson_id": 2546908, "icon": "flow-chart"},
+  {"lesson_id": 2546909, "icon": "checkmark"},
+
+  {"lesson_id": 2546910, "icon": "todo-list"},
+  {"lesson_id": 2546911, "icon": "idea"},
+  {"lesson_id": 2546912, "icon": "advertising"},
+  {"lesson_id": 2546913, "icon": "checkmark"},
+
+  {"lesson_id": 2546914, "icon": "todo-list"},
+  {"lesson_id": 2546915, "icon": "collaboration"},
+  {"lesson_id": 2546916, "icon": "shop"},
+  {"lesson_id": 2546917, "icon": "checkmark"},
+
+  {"lesson_id": 2546918, "icon": "todo-list"},
+  {"lesson_id": 2546919, "icon": "statistics"},
+  {"lesson_id": 2546920, "icon": "questions"},
+  {"lesson_id": 2546921, "icon": "checkmark"},
+
+  {"lesson_id": 2546922, "icon": "graduation-cap"},
+  {"lesson_id": 2546923, "icon": "next"}
+]

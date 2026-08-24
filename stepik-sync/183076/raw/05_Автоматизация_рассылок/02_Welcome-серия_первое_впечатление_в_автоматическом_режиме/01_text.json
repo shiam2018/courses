@@ -1,0 +1,67 @@
+{
+  "id": 11081211,
+  "lesson": 2546915,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183076/header-2546915.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Welcome-серия — цепочка из нескольких писем, которая автоматически отправляется каждому новому подписчику сразу после подписки, пока интерес к продукту ещё максимально свежий.</p>\n<p><strong>Типичная структура welcome-серии из 3 писем:</strong></p>\n<ol>\n<li><strong>Письмо 1 (сразу после подписки)</strong> — подтверждение подписки, короткое приветствие, обещанный бонус за подписку (если был)</li>\n<li><strong>Письмо 2 (через 1-2 дня)</strong> — знакомство с ключевой ценностью продукта: что он решает, как им пользоваться, реальный пример использования</li>\n<li><strong>Письмо 3 (через 3-5 дней)</strong> — конкретный призыв к первому действию: попробовать функцию, сделать первую покупку, часто с дополнительным стимулом вроде скидки на первый заказ</li>\n</ol>\n<p><strong>Почему это выгоднее ручной рассылки на старте.</strong> Настроенная один раз welcome-серия работает на каждого нового подписчика без дополнительных усилий команды — и именно первые дни после подписки обычно дают самый высокий отклик, потому что интерес человека ещё максимально свежий.</p>\n<p><strong>Частая ошибка:</strong> присылать в welcome-серии общий корпоративный контент вместо объяснения конкретной пользы для нового подписчика. Человек только что подписался и ещё не привязан к бренду эмоционально — ему важнее понять, что продукт лично ему даёт, а не прочитать историю компании.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — два других распространённых типа триггерных писем: брошенная корзина и реактивация неактивных подписчиков.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11081211",
+  "subscriptions": [
+    "31-77-11081211",
+    "30-77-11081211"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11060302,
+  "create_date": "2026-08-24T13:58:19Z",
+  "update_date": "2026-08-24T13:58:19Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11081211-1",
+  "discussion_threads": [
+    "77-11081211-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

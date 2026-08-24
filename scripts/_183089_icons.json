@@ -1,0 +1,39 @@
+[
+  {"lesson_id": 2544236, "icon": "voice-presentation"},
+  {"lesson_id": 2544237, "icon": "planner"},
+
+  {"lesson_id": 2544238, "icon": "todo-list"},
+  {"lesson_id": 2544239, "icon": "idea"},
+  {"lesson_id": 2544240, "icon": "positive-dynamic"},
+  {"lesson_id": 2544241, "icon": "checkmark"},
+
+  {"lesson_id": 2544242, "icon": "todo-list"},
+  {"lesson_id": 2544243, "icon": "statistics"},
+  {"lesson_id": 2544244, "icon": "advertising"},
+  {"lesson_id": 2544245, "icon": "checkmark"},
+
+  {"lesson_id": 2544246, "icon": "todo-list"},
+  {"lesson_id": 2544247, "icon": "collaboration"},
+  {"lesson_id": 2544248, "icon": "conference-call"},
+  {"lesson_id": 2544249, "icon": "checkmark"},
+
+  {"lesson_id": 2544250, "icon": "todo-list"},
+  {"lesson_id": 2544251, "icon": "document"},
+  {"lesson_id": 2544252, "icon": "news"},
+  {"lesson_id": 2544253, "icon": "binoculars"},
+  {"lesson_id": 2544254, "icon": "checkmark"},
+
+  {"lesson_id": 2544255, "icon": "todo-list"},
+  {"lesson_id": 2544256, "icon": "disapprove"},
+  {"lesson_id": 2544257, "icon": "approval"},
+  {"lesson_id": 2544258, "icon": "checkmark"},
+
+  {"lesson_id": 2544259, "icon": "todo-list"},
+  {"lesson_id": 2544260, "icon": "businessman"},
+  {"lesson_id": 2544261, "icon": "questions"},
+  {"lesson_id": 2544262, "icon": "diploma-1"},
+  {"lesson_id": 2544263, "icon": "checkmark"},
+
+  {"lesson_id": 2544264, "icon": "graduation-cap"},
+  {"lesson_id": 2544265, "icon": "next"}
+]

@@ -1,0 +1,67 @@
+{
+  "id": 11074976,
+  "lesson": 2545903,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183077/header-2545903.webp\" style=\"\"></p>\n<h2>Практическое задание</h2>\n<p>Откройте лист «Задания» файла-практикума, раздел «Модуль 1. От вопроса к метрикам».</p>\n<ol>\n<li>Сформулируйте письменно вопрос бизнеса по данным листа «Данные по tools каналам»: стоит ли беспокоиться о Referral-трафике на /tools? Используйте структуру из предыдущего урока — три отдельных под-вопроса, а не один размытый.</li>\n<li>Выпишите 3 метрики, которые нужны, чтобы ответить именно на эти под-вопросы, и коротко (1 предложение на метрику) объясните, почему именно она, а не что-то другое.</li>\n</ol>\n<p><strong>Как понять, что задание выполнено хорошо:</strong> если бы кто-то посторонний прочитал только ваш список метрик, он должен был бы понять, на какой вопрос вы отвечаете, не читая исходную формулировку отдельно. Если список метрик универсальный и подошёл бы к любому вопросу про трафик — вернитесь и сделайте его конкретнее.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — второй модуль: как собрать и подготовить данные для реального сравнения, с поправкой на то, что август ещё не закончился.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11074976",
+  "subscriptions": [
+    "31-77-11074976",
+    "30-77-11074976"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11054067,
+  "create_date": "2026-08-24T06:49:59Z",
+  "update_date": "2026-08-24T06:49:59Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11074976-1",
+  "discussion_threads": [
+    "77-11074976-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

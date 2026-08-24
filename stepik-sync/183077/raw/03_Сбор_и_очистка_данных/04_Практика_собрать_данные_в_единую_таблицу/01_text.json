@@ -1,0 +1,67 @@
+{
+  "id": 11074980,
+  "lesson": 2545907,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183077/header-2545907.webp\" style=\"\"></p>\n<h2>Практическое задание</h2>\n<p>Откройте лист «Задания», раздел «Модуль 2. Сбор и очистка данных», и лист «Данные по tools каналам».</p>\n<ol>\n<li>Для каждого канала и каждого месяца посчитайте сеансы в день: сеансы ÷ число дней месяца (для августа — 23 дня, не 31).</li>\n<li>Определите: какой вывод «в лоб» — без нормировки на число дней — был бы ошибочным, и почему именно. Запишите это одним-двумя предложениями, как будто объясняете коллеге, который ещё не в курсе про пометку «*».</li>\n</ol>\n<p><strong>Как понять, что задание выполнено хорошо:</strong> у вас должна получиться таблица, где по каждому каналу видно, вырос или упал именно дневной темп — а не общая сумма за месяц. Если после нормировки Organic Search и Direct показывают рост, а Referral — падение, вы на верном пути.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — третий модуль: как собрать эти цифры в дашборд, который сразу показывает главное, а не тонет в деталях.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11074980",
+  "subscriptions": [
+    "31-77-11074980",
+    "30-77-11074980"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11054071,
+  "create_date": "2026-08-24T06:50:03Z",
+  "update_date": "2026-08-24T06:50:03Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11074980-1",
+  "discussion_threads": [
+    "77-11074980-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

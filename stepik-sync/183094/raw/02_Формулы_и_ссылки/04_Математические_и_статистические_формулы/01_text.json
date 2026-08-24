@@ -1,0 +1,67 @@
+{
+  "id": 11062298,
+  "lesson": 2543881,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183094/header-2543881.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Пять формул, которыми считается почти любой отчёт: СУММ, СРЗНАЧ, СЧЁТ, СЧЁТЗ, МАКС и МИН — и где их путают.</p>\n<p>На листе «Данные» тренажёра расход по 180 кампаниям лежит в столбце E. Общий расход — <code>=СУММ(E5:E184)</code>, средний расход на одну кампанию — <code>=СРЗНАЧ(E5:E184)</code>. Разница между СЧЁТ и СЧЁТЗ — частая путаница: <code>СЧЁТ</code> считает только ячейки с числами, <code>СЧЁТЗ</code> — любые непустые ячейки, включая текст. Если нужно узнать, сколько всего кампаний в таблице, а столбец «Кампания» — текстовый, правильная формула — <code>=СЧЁТЗ(D5:D184)</code>; если написать <code>СЧЁТ</code> по текстовому столбцу, результат будет 0, и это не баг Excel, а закономерный результат неверно выбранной функции.</p>\n<p><strong>Пример расчёта:</strong> если общий расход по 180 кампаниям — 950 000 ₽, а средний по одной — 5 278 ₽, это сразу даёт ориентир: кампания с расходом 15 000 ₽ — не «обычная», она втрое дороже среднего, и на неё стоит посмотреть отдельно. Функции <code>МАКС(E5:E184)</code> и <code>МИН(E5:E184)</code> сразу покажут самую дорогую и самую дешёвую кампанию, не требуя сортировки таблицы.</p>\n<p><strong>Хорошо / плохо:</strong> «Расход большой» — не вывод, а ощущение. «Расход кампании YD_202603_01 — 15 000 ₽, это в 2,8 раза выше среднего по всем кампаниям (5 278 ₽)» — вывод, который можно показать в отчёте и на который можно опираться в решении.</p>\n<h3>Что дальше?</h3>\n<p>Модуль 1 завершён — короткая проверка знаний, и дальше переходим к работе с текстом, датами и главному инструменту курса: поиску данных в других таблицах.</p>\n<h3>Полезные ссылки</h3>\n<ul><li><a href=\"https://support.microsoft.com/ru-RU/Excel/functions/sumif-function\" rel=\"noopener noreferrer nofollow\">Функция СУММЕСЛИ (для сравнения с СУММ) — Microsoft Support</a></li></ul>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11062298",
+  "subscriptions": [
+    "31-77-11062298",
+    "30-77-11062298"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041389,
+  "create_date": "2026-08-22T08:43:50Z",
+  "update_date": "2026-08-22T08:43:51Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11062298-1",
+  "discussion_threads": [
+    "77-11062298-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

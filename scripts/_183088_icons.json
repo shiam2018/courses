@@ -1,0 +1,32 @@
+[
+  {"lesson_id": 2546239, "icon": "voice-presentation"},
+  {"lesson_id": 2546240, "icon": "planner"},
+
+  {"lesson_id": 2546241, "icon": "todo-list"},
+  {"lesson_id": 2546242, "icon": "search"},
+  {"lesson_id": 2546243, "icon": "idea"},
+  {"lesson_id": 2546244, "icon": "puzzle"},
+
+  {"lesson_id": 2546245, "icon": "todo-list"},
+  {"lesson_id": 2546246, "icon": "calendar"},
+  {"lesson_id": 2546247, "icon": "positive-dynamic"},
+  {"lesson_id": 2546248, "icon": "puzzle"},
+
+  {"lesson_id": 2546249, "icon": "todo-list"},
+  {"lesson_id": 2546250, "icon": "collaboration"},
+  {"lesson_id": 2546251, "icon": "advertising"},
+  {"lesson_id": 2546252, "icon": "puzzle"},
+
+  {"lesson_id": 2546253, "icon": "todo-list"},
+  {"lesson_id": 2546254, "icon": "document"},
+  {"lesson_id": 2546255, "icon": "good-decision"},
+  {"lesson_id": 2546257, "icon": "puzzle"},
+
+  {"lesson_id": 2546258, "icon": "todo-list"},
+  {"lesson_id": 2546260, "icon": "disapprove"},
+  {"lesson_id": 2546261, "icon": "disclaimer"},
+  {"lesson_id": 2546262, "icon": "puzzle"},
+
+  {"lesson_id": 2546264, "icon": "graduation-cap"},
+  {"lesson_id": 2546265, "icon": "next"}
+]

@@ -1,0 +1,67 @@
+{
+  "id": 11074986,
+  "lesson": 2545913,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183077/header-2545913.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Отчёт, который никто не дочитывает до конца, бесполезен независимо от того, насколько точны цифры внутри него. Структура решает эту проблему.</p>\n<p><strong>Рабочая структура из четырёх частей:</strong></p>\n<ol>\n<li><strong>Главный вывод одной фразой</strong> — сразу, в первом предложении, без разгона и предыстории. Читатель должен понять суть, даже если дальше не прочитает ни строки.</li>\n<li><strong>Цифры, подтверждающие вывод</strong> — 2-3 конкретных числа, а не весь дашборд целиком.</li>\n<li><strong>Рекомендация</strong> — что конкретно сделать, с числом или сроком, а не общее направление.</li>\n<li><strong>Приложение</strong> — сам дашборд и детали, для тех, кто захочет проверить или углубиться.</li>\n</ol>\n<p><strong>Хорошо / плохо:</strong> «Мы посмотрели на трафик /tools за три месяца и хотим поделиться некоторыми наблюдениями» — плохое начало, потому что не сообщает вывод и заставляет читать дальше, чтобы понять, о чём вообще речь. «Общий трафик /tools в августе растёт, а не падает — но Referral-канал просел на 73% и его стоит проверить отдельно» — сразу ясно, что происходит и на чём сфокусировать внимание.</p>\n<p>Порядок написания на практике обратный порядку чтения: сначала считаете всё, потом формулируете вывод, и только в конце дописываете этот вывод как первое предложение отчёта.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — как превратить вывод в рекомендацию, которую можно выполнить, а не просто зафиксировать наблюдение.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11074986",
+  "subscriptions": [
+    "31-77-11074986",
+    "30-77-11074986"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11054077,
+  "create_date": "2026-08-24T06:50:07Z",
+  "update_date": "2026-08-24T06:50:07Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11074986-1",
+  "discussion_threads": [
+    "77-11074986-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 11074993,
+  "lesson": 2545920,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183077/header-2545920.webp\" style=\"\"></p>\n<h2>Итоги курса</h2>\n<p>Один сквозной проект, пять модулей, один и тот же реальный датасет от первого вопроса до защищённой рекомендации. Если вы прошли курс с реальными практическими заданиями, а не только чтением — у вас есть законченный пример полного цикла аналитической работы: как превратить размытое беспокойство в конкретный вопрос, как не ошибиться при сравнении неполного периода с завершённым, как собрать дашборд, который отвечает именно на этот вопрос, как написать отчёт с рекомендацией, которую можно выполнить, и как защитить её перед скептическим руководителем.</p>\n<p><strong>Что делать дальше:</strong> у вас на работе почти наверняка есть свой открытый вопрос без ответа — снижение конверсии на одной из страниц, необъяснимый скачок расходов, канал, который «вроде бы» стал хуже работать. Примените к нему ровно тот же цикл: вопрос → метрики → нормализованные данные → дашборд → отчёт с рекомендацией → подготовленная защита. Именно повторение цикла на своих данных, а не пересмотр этого курса, закрепляет навык.</p>\n<h3>Что дальше?</h3>\n<p>Последний урок курса — что стоит сделать дальше, если хочется идти в маркетинге дальше, чем один аналитический проект.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11074993",
+  "subscriptions": [
+    "31-77-11074993",
+    "30-77-11074993"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11054084,
+  "create_date": "2026-08-24T06:50:12Z",
+  "update_date": "2026-08-24T06:51:55Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11074993-1",
+  "discussion_threads": [
+    "77-11074993-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

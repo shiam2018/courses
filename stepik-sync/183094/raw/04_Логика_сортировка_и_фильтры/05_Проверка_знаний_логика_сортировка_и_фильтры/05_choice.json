@@ -1,0 +1,101 @@
+{
+  "id": 11062343,
+  "lesson": 2543892,
+  "position": 5,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Что является сигналом переписать формулу через СУММЕСЛИ или сводную таблицу вместо ЕСЛИ?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Формула ЕСЛИ содержит больше двух-трёх вложенных условий",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Формула ЕСЛИ занимает больше одной строки на экране",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "В таблице больше 50 строк",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Формула ЕСЛИ используется в паре с СУММ",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11062343",
+  "subscriptions": [
+    "31-77-11062343",
+    "30-77-11062343"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041434,
+  "create_date": "2026-08-22T08:44:24Z",
+  "update_date": "2026-08-22T08:44:24Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11062343-1",
+  "discussion_threads": [
+    "77-11062343-1",
+    "77-11062343-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

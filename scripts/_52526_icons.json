@@ -1,0 +1,32 @@
+[
+  {"lesson_id": 2546432, "icon": "voice-presentation"},
+  {"lesson_id": 2546433, "icon": "planner"},
+
+  {"lesson_id": 2546434, "icon": "todo-list"},
+  {"lesson_id": 2546435, "icon": "business-contact"},
+  {"lesson_id": 2546436, "icon": "combo-chart"},
+  {"lesson_id": 2546437, "icon": "checkmark"},
+
+  {"lesson_id": 2546438, "icon": "todo-list"},
+  {"lesson_id": 2546439, "icon": "picture"},
+  {"lesson_id": 2546440, "icon": "idea"},
+  {"lesson_id": 2546441, "icon": "checkmark"},
+
+  {"lesson_id": 2546442, "icon": "todo-list"},
+  {"lesson_id": 2546443, "icon": "disapprove"},
+  {"lesson_id": 2546444, "icon": "disclaimer"},
+  {"lesson_id": 2546445, "icon": "checkmark"},
+
+  {"lesson_id": 2546446, "icon": "todo-list"},
+  {"lesson_id": 2546447, "icon": "shop"},
+  {"lesson_id": 2546448, "icon": "template"},
+  {"lesson_id": 2546449, "icon": "checkmark"},
+
+  {"lesson_id": 2546450, "icon": "todo-list"},
+  {"lesson_id": 2546451, "icon": "flow-chart"},
+  {"lesson_id": 2546452, "icon": "positive-dynamic"},
+  {"lesson_id": 2546453, "icon": "checkmark"},
+
+  {"lesson_id": 2546454, "icon": "graduation-cap"},
+  {"lesson_id": 2546455, "icon": "next"}
+]

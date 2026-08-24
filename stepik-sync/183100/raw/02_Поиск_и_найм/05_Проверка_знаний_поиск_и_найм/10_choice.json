@@ -1,0 +1,101 @@
+{
+  "id": 11074616,
+  "lesson": 2545830,
+  "position": 10,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<p>Почему промежуточная встреча в середине испытательного срока важна для обеих сторон?</p>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": true,
+          "text": "Сотрудник тоже может сказать, что не так с процессами, а не только получить оценку",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Это требование трудового законодательства",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Она нужна только для галочки в отчётности",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Она нужна только руководителю, сотруднику это не касается",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11074616",
+  "subscriptions": [
+    "31-77-11074616",
+    "30-77-11074616"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11053707,
+  "create_date": "2026-08-24T03:54:54Z",
+  "update_date": "2026-08-24T03:54:54Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11074616-1",
+  "discussion_threads": [
+    "77-11074616-1",
+    "77-11074616-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

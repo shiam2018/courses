@@ -1,0 +1,67 @@
+{
+  "id": 11079765,
+  "lesson": 2546581,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183096/header-2546581.webp\" style=\"\"></p>\n<h2>Практическое задание</h2>\n<p>Составьте план теста для запуска вашего проекта.</p>\n<ol>\n<li>Выберите ОДНУ переменную для теста в первую очередь — цену, сообщение или канал — и объясните, почему именно она.</li>\n<li>Определите, какой минимальный объём данных вы хотите набрать перед выводом.</li>\n<li>Опишите, что вы будете делать при каждом из трёх исходов из второго урока: явный лидер, близкий результат, слабый результат по всем вариантам.</li>\n</ol>\n<p><strong>Как понять, что задание выполнено хорошо:</strong> план должен быть написан ДО получения реальных результатов. Если вы уже знаете, какой вариант вам нравится больше, и подгоняете план под него — вернитесь и составьте план заново, отталкиваясь только от выбранной переменной.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — последний модуль курса: как показать результат запуска бизнесу.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11079765",
+  "subscriptions": [
+    "31-77-11079765",
+    "30-77-11079765"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11058856,
+  "create_date": "2026-08-24T09:35:44Z",
+  "update_date": "2026-08-24T09:35:44Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11079765-1",
+  "discussion_threads": [
+    "77-11079765-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

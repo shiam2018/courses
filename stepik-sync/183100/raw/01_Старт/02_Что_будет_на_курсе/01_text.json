@@ -1,0 +1,67 @@
+{
+  "id": 11074587,
+  "lesson": 2545825,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183100/header-2545825.webp\" style=\"\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Как устроен курс и кому он пригодится, прежде чем переходить к первому модулю.</p>\n<p>Курс — не теория менеджмента, а разбор процессов: как нанимают в маркетинговую команду, как ставят задачи и проводят встречи 1-1, как устроена ежедневная командная коммуникация, и какая мотивация подходит какой роли. Четыре модуля: поиск и найм → работа с сотрудником → командная коммуникация → мотивация.</p>\n<p>Я руковожу направлением User Acquisition, и каждый пример в курсе — это то, что я делаю или проверял на практике, а не общий совет из книги по менеджменту. Формат стендапов, ритм встреч 1-1, подход к мотивации — реальные, с поправкой на то, что у разных команд процессы отличаются в деталях.</p>\n<p><strong>Курс подойдёт с двух сторон.</strong> Тимлидам и будущим тимлидам — как готовый набор процессов, которые можно взять и адаптировать под свою команду. Рядовым сотрудникам — чтобы понять, почему руководитель проводит встречи именно так, откуда берётся оценка на ревью, и почему одна и та же премия не работает одинаково на разных людей.</p>\n<h3>Что дальше?</h3>\n<p>Дальше — первый модуль: как искать и нанимать в маркетинговую команду, начиная с портрета кандидата.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11074587",
+  "subscriptions": [
+    "31-77-11074587",
+    "30-77-11074587"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11053678,
+  "create_date": "2026-08-24T03:54:34Z",
+  "update_date": "2026-08-24T03:54:34Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11074587-1",
+  "discussion_threads": [
+    "77-11074587-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
