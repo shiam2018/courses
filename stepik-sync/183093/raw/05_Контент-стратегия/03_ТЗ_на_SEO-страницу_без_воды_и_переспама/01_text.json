@@ -1,0 +1,67 @@
+{
+  "id": 11087714,
+  "lesson": 2548226,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"ТЗ на SEO-страницу без воды и переспама\" src=\"https://stepik.org/media/attachments/course/183093/header-2548226.webp\"></p>\n<h2>Что будет на уроке?</h2>\n<p>Хорошее SEO-ТЗ не заставляет автора вставлять ключи любой ценой. Оно объясняет интент, структуру ответа, обязательные блоки, доказательства, внутренние ссылки и критерии готовности.</p>\n<p>Курс построен вокруг одного сквозного проекта: вы выбираете сайт и ведёте его через аудит, карту запросов, контент-план, ссылочную стратегию и итоговый отчёт. Поэтому каждый урок должен заканчиваться не мыслью «я понял термин», а конкретной строкой в рабочем файле.</p>\n<p><strong>Файл-практикум:</strong> <a href=\"https://stepik.org/media/attachments/course/183093/SEO-Praktikum-183093.xlsx\" rel=\"noopener noreferrer nofollow\">SEO-Praktikum-183093.xlsx</a>. Держите его открытым рядом с уроком: в нём уже есть листы для брифа, карты страниц, техаудита, запросов, контент-плана, ТЗ, ссылочного плана и финального отчёта.</p>\n<h3>Как применять</h3>\n<p>Минимальная структура ТЗ: цель страницы, целевая аудитория, основной интент, кластеры запросов, структура H1-H2, обязательные вопросы, примеры конкурентов, внутренние ссылки, коммерческие блоки и призыв к действию.</p>\n<p>Плохое ТЗ: «написать 5000 знаков, ключи использовать 3 раза». Хорошее ТЗ: «помочь владельцу бизнеса выбрать услугу, объяснить этапы, сроки, цену, гарантии и дать форму заявки; запросы использовать естественно, без отдельного SEO-абзаца».</p>\n<ul>\n  <li>Привязывайте каждую находку к конкретному URL, а не пишите общую рекомендацию для всего сайта.</li>\n  <li>Отделяйте высокий бизнес-эффект от простой правки, которую приятно быстро закрыть.</li>\n  <li>Записывайте доказательство: скриншот, URL, показатель, проблему в выдаче или факт из Вебмастера.</li>\n  <li>Формулируйте следующий шаг так, чтобы его мог взять в работу разработчик, редактор или владелец сайта.</li>\n</ul>\n<p><strong>Частая ошибка:</strong> делать SEO-аудит как демонстрацию эрудиции. Клиенту или руководителю не нужен список всех терминов; ему нужен порядок действий. Если рекомендация не отвечает на вопрос «что сделать, зачем и почему сейчас», её нужно переписать.</p>\n<h3>Что дальше?</h3>\n<p>Дальше закрепим модуль практикой: подготовим контент-план и одно полноценное ТЗ.</p>\n<h3>Полезные ссылки</h3><ul><li><a href=\"https://developers.google.com/search/docs/fundamentals/seo-starter-guide\" rel=\"noopener noreferrer nofollow\">Google Search Central: SEO Starter Guide</a></li><li><a href=\"https://developers.google.com/search/docs/essentials\" rel=\"noopener noreferrer nofollow\">Google Search Essentials</a></li><li><a href=\"https://developers.google.com/search/docs/essentials/spam-policies\" rel=\"noopener noreferrer nofollow\">Google Search spam policies</a></li></ul>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11087714",
+  "subscriptions": [
+    "31-77-11087714",
+    "30-77-11087714"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11066805,
+  "create_date": "2026-08-25T09:52:57Z",
+  "update_date": "2026-08-25T09:52:57Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11087714-1",
+  "discussion_threads": [
+    "77-11087714-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
