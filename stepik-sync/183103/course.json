@@ -25,7 +25,7 @@
     744884,
     744885
   ],
-  "total_units": 20,
+  "total_units": 21,
   "enrollment": 183103,
   "is_favorite": false,
   "actions": {
@@ -167,7 +167,7 @@
   "variant_description": "",
   "certificates_count": 0,
   "learners_count": 5,
-  "lessons_count": 20,
+  "lessons_count": 21,
   "quizzes_count": 30,
   "challenges_count": 0,
   "peer_reviews_count": 0,
@@ -253,7 +253,7 @@
   "grading_policy_source": "no_deadlines",
   "is_active": true,
   "create_date": "2023-09-16T13:45:41Z",
-  "update_date": "2026-08-25T12:57:42Z",
+  "update_date": "2026-08-25T13:07:14Z",
   "learners_group": 7309433,
   "testers_group": 7309434,
   "moderators_group": 7309435,

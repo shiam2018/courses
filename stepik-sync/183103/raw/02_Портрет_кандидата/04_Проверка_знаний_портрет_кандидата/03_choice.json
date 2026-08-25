@@ -1,0 +1,101 @@
+{
+  "id": 11056306,
+  "lesson": 2542269,
+  "position": 3,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2><strong>Что такое «портрет кандидата»?</strong></h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "Фотография соискателя в резюме",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "Документ с описанием идеального кандидата: навыки, качества, зарплата",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Психологический тест для HR",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Список вопросов для собеседования",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11056306",
+  "subscriptions": [
+    "31-77-11056306",
+    "30-77-11056306"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": 1.0,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11035397,
+  "create_date": "2026-08-21T12:31:07Z",
+  "update_date": "2026-08-21T12:31:07Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11056306-1",
+  "discussion_threads": [
+    "77-11056306-1",
+    "77-11056306-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 11056388,
+  "lesson": 2542277,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"Резюме курса\" height=\"840\" name=\"header-2542277.webp\" src=\"https://stepik.org/media/attachments/course/183103/header-2542277.webp\" width=\"3840\"></p>\n\n<h2>Коротко о пройденном</h2>\n\n<p>Вы разобрали механику найма маркетолога от первого отклика до оффера:</p>\n\n<ul>\n    <li><strong>Портрет кандидата:</strong> как работодатель формулирует требования и как вам выбрать подходящие вакансии.</li>\n    <li><strong>Поиск работы:</strong> как адаптировать резюме, писать сопроводительное письмо и вести отклики системно.</li>\n    <li><strong>Собеседование и тестовое:</strong> как пройти скрининг, объяснить опыт, выполнить тестовое и обсудить зарплату.</li>\n    <li><strong>Отказы:</strong> как видеть в них данные по воронке, а не оценку вашей ценности.</li>\n</ul>\n\n<h2>Что взять с собой</h2>\n\n<p>Наём не становится полностью предсказуемым, но в нём есть понятная логика. Работодатель ищет не идеального человека, а того, кто закрывает конкретную задачу с приемлемым риском. Ваша задача - показать совпадение с этой задачей честно и понятно.</p>\n\n<h2>Мини-план на 7 дней</h2>\n\n<ol>\n    <li><strong>День 1:</strong> выберите 10 вакансий и выпишите повторяющиеся требования.</li>\n    <li><strong>День 2:</strong> обновите блок «О себе» и навыки в резюме под эти требования.</li>\n    <li><strong>День 3:</strong> оформите 1-2 проекта через задачу, действия, инструменты и результат.</li>\n    <li><strong>День 4:</strong> подготовьте шаблон сопроводительного письма.</li>\n    <li><strong>День 5:</strong> отправьте 5 качественных откликов и занесите их в трекер.</li>\n    <li><strong>День 6:</strong> проговорите вслух ответы на вопросы «расскажите о себе» и «почему маркетинг».</li>\n    <li><strong>День 7:</strong> посмотрите, где воронка проседает, и выберите одну правку на следующую неделю.</li>\n</ol>\n\n<h2>Что дальше?</h2>\n\n<p>В следующем уроке собраны материалы, которые удобно держать рядом во время поиска: чек-листы, шаблоны и вопросы для подготовки.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11056388",
+  "subscriptions": [
+    "31-77-11056388",
+    "30-77-11056388"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11035479,
+  "create_date": "2026-08-21T12:36:24Z",
+  "update_date": "2026-08-25T13:08:50Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11056388-1",
+  "discussion_threads": [
+    "77-11056388-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 11056325,
+  "lesson": 2542284,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"Проверка знаний: поиск работы\" height=\"840\" name=\"header-2542284.webp\" src=\"https://stepik.org/media/attachments/course/183103/header-2542284.webp\" width=\"3840\"></p>\n\n<h2>Проверьте себя</h2>\n\n<p>10 вопросов по модулю «Поиск работы» - резюме, сопроводительное письмо и стратегия поиска вакансий.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11056325",
+  "subscriptions": [
+    "31-77-11056325",
+    "30-77-11056325"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 2,
+  "passed_by": 2,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11035416,
+  "create_date": "2026-08-21T12:32:55Z",
+  "update_date": "2026-08-25T13:09:58Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11056325-1",
+  "discussion_threads": [
+    "77-11056325-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

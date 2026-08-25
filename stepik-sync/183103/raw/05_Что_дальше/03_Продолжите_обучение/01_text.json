@@ -1,0 +1,67 @@
+{
+  "id": 11056389,
+  "lesson": 2542278,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"Продолжите обучение\" height=\"840\" name=\"header-2542278.webp\" src=\"https://stepik.org/media/attachments/course/183103/header-2542278.webp\" width=\"3840\"></p>\n\n<h2>Пройти собеседование и справляться с работой</h2>\n\n<p>Этот курс помогает пройти входной этап: понять наём, подготовить резюме, написать письмо, пройти интервью и аккуратно разобрать отказы. Но сама работа маркетолога состоит из инструментов и решений: реклама, аналитика, SEO, SMM, email, лендинги, продажи и отчётность.</p>\n\n<h2>Когда стоит идти дальше</h2>\n\n<p>Переходите к следующему обучению, если у вас уже есть базовый набор для поиска: резюме, 1-2 описанных проекта, шаблон письма и понимание, на какие вакансии вы откликаетесь. Тогда новые курсы будут не способом отложить поиск, а способом усилить портфолио.</p>\n\n<h2>Основная программа</h2>\n\n<p>Если хотите собрать системную базу по интернет-маркетингу, можно продолжить в программе <strong>«Интернет-Маркетолог: Старт Карьеры»</strong>. Там больше практики по инструментам: аналитика, реклама, SEO, SMM, email, продажи и оформление результатов.</p>\n\n<p>Для учеников этого курса действует промокод <strong>CAREERSTART</strong>.</p>\n\n<h2>Перед тем как идти дальше</h2>\n\n<p>Сначала откройте следующий урок с полезными материалами и соберите минимальный комплект для поиска. Это даст больше пользы, чем просто пройти ещё один курс без применения.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11056389",
+  "subscriptions": [
+    "31-77-11056389",
+    "30-77-11056389"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11035480,
+  "create_date": "2026-08-21T12:36:26Z",
+  "update_date": "2026-08-25T13:08:51Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11056389-1",
+  "discussion_threads": [
+    "77-11056389-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

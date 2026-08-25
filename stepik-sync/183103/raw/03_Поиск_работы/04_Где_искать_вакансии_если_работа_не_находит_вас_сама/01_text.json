@@ -1,0 +1,67 @@
+{
+  "id": 11056324,
+  "lesson": 2542283,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"Где искать вакансии, если работа не находит вас сама\" height=\"840\" name=\"header-2542283.webp\" src=\"https://stepik.org/media/attachments/course/183103/header-2542283.webp\" width=\"3840\"></p>\n\n<h2>Что будет на уроке?</h2>\n\n<p>Где реально искать вакансии интернет-маркетолога и на что смотреть в самом тексте вакансии, чтобы не тратить время на заведомо неподходящие варианты.</p>\n\n<h2>Где искать</h2>\n\n<ul>\n\t<li><strong><a href=\"https://hh.ru\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">HeadHunter</a>:</strong> основная площадка. Настройте уведомления - чем раньше отклик после публикации, тем выше шанс, что резюме вообще посмотрят.</li>\n\t<li><strong><a href=\"https://career.habr.com\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Хабр Карьера</a>:</strong> удобно для digital-специалистов, можно изучить профиль компании изнутри.</li>\n\t<li><strong><a href=\"https://vc.ru\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">VC.ru</a>:</strong> вакансии стартапов и агентств публикуются прямо в статьях.</li>\n\t<li><strong>Telegram-каналы</strong> с вакансиями в диджитале: часто там появляются позиции раньше, чем на job-сайтах.</li>\n\t<li><strong>Нетворкинг:</strong> значительная часть позиций закрывается по рекомендации, ещё до публикации вакансии.</li>\n</ul>\n\n<p>Расширяйте поиск по смежным должностям - «контент-маркетолог», «SMM-специалист», «ассистент маркетолога»: если искать только по «интернет-маркетолог», легко пропустить подходящую вакансию с похожими задачами, но другим названием.</p>\n\n<h2>На что смотреть в самой вакансии</h2>\n\n<ul>\n\t<li><strong>Грейд:</strong> джуниор, мидл, сеньор - определяет и зарплату, и объём обязанностей.</li>\n\t<li><strong>Список обязанностей:</strong> если он огромный и разнородный («и швец, и жнец»), скорее всего команда маленькая, а процессы не отлажены - это может быть и плюсом (меньше конкуренции, быстрый опыт), и минусом.</li>\n\t<li><strong>Качество описания:</strong> структурированная, конкретная вакансия обычно говорит о том, что в компании продуманы процессы найма - хороший знак.</li>\n</ul>\n\n<h2>Системный подход вместо хаоса</h2>\n\n<p>Заведите простую таблицу-трекер откликов (компания, дата, статус, зарплата) и выделяйте на поиск фиксированное время каждый день - 3-5 качественных персонализированных откликов лучше, чем 20 одинаковых «под копирку».</p>\n\n<h2>Что дальше?</h2>\n\n<p>С резюме, письмом и стратегией поиска в руках вы готовы к следующему модулю - самому собеседованию: от первого звонка HR до финальной встречи с нанимающим менеджером.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11056324",
+  "subscriptions": [
+    "31-77-11056324",
+    "30-77-11056324"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11035415,
+  "create_date": "2026-08-21T12:32:23Z",
+  "update_date": "2026-08-25T13:09:54Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11056324-1",
+  "discussion_threads": [
+    "77-11056324-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

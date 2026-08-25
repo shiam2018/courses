@@ -1,0 +1,67 @@
+{
+  "id": 11056321,
+  "lesson": 2542279,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"Что будет в модуле «Поиск работы»\" height=\"840\" name=\"header-2542279.webp\" src=\"https://stepik.org/media/attachments/course/183103/header-2542279.webp\" width=\"3840\"></p>\n\n<h2>Что будет в модуле?</h2>\n\n<p>Портрет кандидата и портрет компании мечты у вас уже есть. Теперь - практика: как упаковать себя в резюме и сопроводительное письмо так, чтобы вас позвали на собеседование, и где вообще искать подходящие вакансии.</p>\n\n<ol>\n\t<li><strong>Резюме, которое приглашают на собеседование:</strong> структура, блок «о себе», типичные ошибки</li>\n\t<li><strong>Сопроводительное письмо, которое дочитывают до конца:</strong> зачем оно нужно и как его писать</li>\n\t<li><strong>Где искать вакансии:</strong> площадки, каналы и на что смотреть в самом тексте вакансии</li>\n</ol>\n\n<p>После модуля - тест на 10 вопросов.</p>\n\n<h2>Главное правило модуля</h2>\n\n<p>Поиск работы - тоже работа, которая требует навыка и системного подхода. Первый оффер редко приходит после первого отклика, и это нормально: важно не количество откликов «под копирку», а качество каждого конкретного - адаптированного под вакансию резюме и письма.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11056321",
+  "subscriptions": [
+    "31-77-11056321",
+    "30-77-11056321"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 1,
+  "passed_by": 1,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11035412,
+  "create_date": "2026-08-21T12:32:19Z",
+  "update_date": "2026-08-25T13:09:53Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11056321-1",
+  "discussion_threads": [
+    "77-11056321-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
