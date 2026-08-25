@@ -1,0 +1,233 @@
+{
+  "id": 183098,
+  "summary": "Платный практический курс: разбор одной карточки товара на Wildberries/Ozon, диагностика воронки, экономика, контент, реклама, акции, отзывы, остатки и итоговый план роста продаж.",
+  "workload": "3-4 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183098/cover_hFgWOed/7430fa08c63f51dc5c63d96eac4a0217.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Курс подойдёт тем, кто уже понимает базу маркетплейсов и хочет практики: менеджерам маркетплейсов, владельцам карточек, маркетологам и фрилансерам, которым нужно не просто вести кабинет, а находить точки роста продаж.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Нужно базовое понимание маркетплейсов: карточка товара, цена, заказы, отзывы, реклама, акции и остатки. Если этого пока нет, сначала пройдите бесплатный курс «Маркетплейсы с нуля».</p>",
+  "description": "<p>В бесплатном курсе вы разобрали базу маркетплейсов. Здесь — практический уровень: берём одну карточку товара и превращаем её в рабочий проект. Диагностируем воронку, считаем экономику, находим слабые места карточки, планируем рекламу, акции, отзывы, остатки и собираем итоговый отчёт с приоритетами.</p><p>Курс не обещает «вывести товар в топ за неделю». Вместо этого он даёт систему решений: что проверить, как доказать проблему цифрами, что исправить первым и как понять, что продвижение действительно улучшило продажи, а не просто увеличило расходы.</p><h3><strong>Что вы получите</strong></h3><ul><li>Заполненный файл-практикум по одной карточке товара</li><li>Диагностику воронки и экономики карточки</li><li>План доработки контента и SEO карточки</li><li>План рекламы, акций, отзывов и остатков</li><li>Итоговый отчёт с приоритетами, который можно показать клиенту или руководителю</li></ul><h3><strong>Что дальше</strong></h3><p>Этот курс — часть большой программы <strong>«Интернет-Маркетолог: Старт Карьеры»</strong>. Если захотите собрать полное портфолио маркетолога по разным каналам, используйте промокод <strong>CAREERSTART</strong>.</p>",
+  "sections": [
+    746354,
+    746355,
+    746356,
+    746357,
+    746358,
+    746359,
+    746360
+  ],
+  "total_units": 23,
+  "enrollment": 183098,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": true
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": true
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183098/edit-info",
+    "edit_syllabus": "/course/183098/edit",
+    "view_statistics": "/course/183098/statistics/",
+    "attachments": "/course/183098/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183098/clone/",
+    "clone_module": "/course/183098/clone-module/",
+    "edit_certificates": "#",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183098/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183098/transfer/",
+    "view_revenue": {
+      "enabled": true
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": true
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183098",
+  "first_lesson": 2548353,
+  "first_unit": 2587054,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183098/regular",
+  "certificate_distinction_link": "/api/courses/183098/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183098",
+  "schedule_link": "/course/183098/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183098/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183098",
+    "30-78-183098"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183098",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182567,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 23,
+  "quizzes_count": 0,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": true,
+  "price": "5900.00",
+  "currency_code": "RUB",
+  "display_price": "5900 ₽",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183098/continue",
+  "readiness": 0.7272727272727273,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Проводить диагностику карточки товара по воронке: показы, клики, заказы, выкупы, прибыль",
+    "Считать экономику карточки с учётом скидок, комиссий, логистики и рекламных расходов",
+    "Готовить план доработки контента карточки: фото, название, характеристики, описание и FAQ",
+    "Планировать внутреннюю рекламу, акции и работу с отзывами без слива маржи",
+    "Оформлять итоговый отчёт с приоритетами роста продаж"
+  ],
+  "acquired_assets": [],
+  "learning_format": "<p>Курс построен как практикум без тестов: в каждом модуле вы заполняете часть файла-практикума и к финалу собираете план продвижения конкретной карточки товара.</p>",
+  "content_details": [],
+  "issue": 140458,
+  "course_type": "basic_paid",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Profession is a marketplace marketer.",
+  "last_update_price_date": "2026-08-24T06:36:51.767Z",
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183098/",
+  "title": "Маркетолог маркетплейсов: карточка, реклама и рост продаж",
+  "slug": "Маркетолог-маркетплейсов-карточка-реклама-и-рост-продаж-183098",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:41:26Z",
+  "update_date": "2026-08-25T11:30:44Z",
+  "learners_group": 7309403,
+  "testers_group": 7309404,
+  "moderators_group": 7309405,
+  "assistants_group": 7309406,
+  "teachers_group": 7309401,
+  "admins_group": 7309402,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183098-1",
+  "discussion_threads": [
+    "78-183098-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

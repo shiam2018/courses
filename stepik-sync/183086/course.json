@@ -1,0 +1,235 @@
+{
+  "id": 183086,
+  "summary": "Бесплатный курс о том, как устроены продажи на маркетплейсах: ниша, экономика, карточка товара, внутренняя реклама, акции, отзывы, остатки и первые решения по продвижению.",
+  "workload": "2-2.5 часа",
+  "cover": null,
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Новички, которые хотят понять работу Wildberries, Ozon и похожих площадок: начинающие менеджеры маркетплейсов, владельцы небольших товаров, маркетологи и фрилансеры без системной базы.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Специальная подготовка не нужна. Достаточно понимать, что такое товар, цена, маржа, заказ, отзыв и рекламный бюджет.</p>",
+  "description": "<p>Маркетплейсы выглядят просто: создал карточку, загрузил фото, поставил цену и ждёшь заказы. На практике карточка конкурирует в выдаче с десятками похожих товаров, а продажи зависят от связки: спрос, цена, контент, наличие, отзывы, рейтинг, реклама и участие в акциях.</p><p>В этом бесплатном курсе вы разберёте базовую карту работы менеджера маркетплейсов: как оценивать нишу, что должно быть в карточке товара, зачем нужны внутренние инструменты продвижения, как не испортить экономику скидками и почему остатки и отзывы иногда важнее красивого описания.</p><h3><strong>Что дальше</strong></h3><p>Если захотите разобрать одну карточку товара глубже и собрать план продвижения — переходите к платному практикуму <strong>«Маркетолог маркетплейсов: продвинутый курс»</strong>. А если нужна вся система интернет-маркетинга, используйте промокод <strong>CAREERSTART</strong> на курс <strong>«Интернет-Маркетолог — Старт Карьеры»</strong>.</p>",
+  "sections": [
+    746348,
+    746349,
+    746350,
+    746351,
+    746352,
+    746353
+  ],
+  "total_units": 23,
+  "enrollment": 183086,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183086/edit-info",
+    "edit_syllabus": "/course/183086/edit",
+    "view_statistics": "/course/183086/statistics/",
+    "attachments": "/course/183086/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183086/clone/",
+    "clone_module": "/course/183086/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183086/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183086/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183086",
+  "first_lesson": 2548329,
+  "first_unit": 2587031,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183086/regular",
+  "certificate_distinction_link": "/api/courses/183086/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183086",
+  "schedule_link": "/course/183086/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183086/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183086",
+    "30-78-183086"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183086",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182555,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 23,
+  "quizzes_count": 40,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183086/continue",
+  "readiness": 0.7272727272727273,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Понимать, из чего складываются продажи карточки товара на маркетплейсе",
+    "Отличать проблему карточки, цены, рекламы, остатков и отзывов",
+    "Собирать базовый чек-лист карточки: фото, название, характеристики, описание и вопросы покупателей",
+    "Понимать роль внутренней рекламы, акций и рейтинга товара",
+    "Читать первые цифры и принимать решение: доработать карточку, включить продвижение или остановить товар"
+  ],
+  "acquired_assets": [],
+  "learning_format": "<p>Курс состоит из четырёх модулей: экономика и ниша, карточка товара, продвижение внутри площадки, отзывы и отчётность. В каждом модуле — короткое введение, три практических урока и тест на 10 вопросов.</p>",
+  "content_details": [],
+  "issue": 140446,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Marketplace manager.",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183086/",
+  "title": "Маркетплейсы с нуля: карточка, выдача и первые продажи",
+  "slug": "Маркетплейсы-с-нуля-карточка-выдача-и-первые-продажи-183086",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:38:00Z",
+  "update_date": "2026-08-25T11:29:17Z",
+  "learners_group": 7309319,
+  "testers_group": 7309320,
+  "moderators_group": 7309321,
+  "assistants_group": 7309322,
+  "teachers_group": 7309317,
+  "admins_group": 7309318,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183086-1",
+  "discussion_threads": [
+    "78-183086-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}
