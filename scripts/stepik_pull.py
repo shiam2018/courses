@@ -96,7 +96,15 @@ def main():
     raw_root = os.path.join(out_root, "raw")
     os.makedirs(raw_root, exist_ok=True)
 
-    manifest = {"course_id": course_id, "course_title": course["title"], "sections": []}
+    with open(os.path.join(out_root, "course.json"), "w") as f:
+        json.dump(course, f, ensure_ascii=False, indent=2)
+
+    manifest = {
+        "course_id": course_id,
+        "course_title": course["title"],
+        "course_cover": course.get("cover"),
+        "sections": [],
+    }
 
     for section in sections:
         sec_dir_name = f"{section.get('position', 0):02d}_{slugify(section['title'])}"
