@@ -1,0 +1,249 @@
+{
+  "id": 56035,
+  "summary": "\n\nДобро пожаловать на курс “Арбитраж трафика Facebook” от MSTAR! Пройдя его вы узнаете, как зарабатывать с помощью арбитража трафика в Facebook Ads. Научитесь  создавать и редактировать рекламу,оптимизировать и масштабировать результаты. В каждом занятии есть видео, pdf руководство и практические задания, для отработки необходимых навыков.\n",
+  "workload": "6-8 часов",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/56035/cover_TMmsf1D/556a6f72bf6743ce01ddc3b88c8b5d4b.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Начинающие медиабайеры, арбитражники и performance-специалисты, которым нужен развёрнутый разбор логики запуска и оптимизации рекламных кампаний.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Нужны компьютер, интернет и базовое понимание рекламы. Курс связан с Meta*/Facebook*, поэтому технические шаги нужно сверять с актуальными правилами и доступностью площадки.</p>",
+  "description": "<p>Это большой легаси-курс по арбитражу трафика в Facebook*: от подготовки к запуску до креативов, кампаний, оптимизации, масштабирования и разбора результатов.</p><p>Я оставляю его как архивный практический материал по мышлению медиабайера. Интерфейс Facebook Ads и правила площадки менялись, поэтому курс не стоит воспринимать как свежую пошаговую инструкцию по кнопкам. Сильная часть здесь — логика: оффер, гипотеза, креатив, тест, метрики, решение.</p><p>Перед применением любых технических шагов проверьте актуальные правила рекламной платформы, доступность инструментов и юридические ограничения в вашей стране.</p>",
+  "sections": [
+    89489,
+    89491,
+    89495,
+    89537,
+    89539,
+    89540,
+    89541,
+    89542,
+    89544,
+    89545,
+    89546,
+    89547,
+    89623,
+    89624
+  ],
+  "total_units": 88,
+  "enrollment": 56035,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/56035/edit-info",
+    "edit_syllabus": "/course/56035/edit",
+    "view_statistics": "/course/56035/statistics/",
+    "attachments": "/course/56035/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/56035/clone/",
+    "clone_module": "/course/56035/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/56035/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/56035/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-56035",
+  "first_lesson": 242305,
+  "first_unit": 214741,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/56035/regular",
+  "certificate_distinction_link": "/api/courses/56035/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/56035",
+  "schedule_link": "/course/56035/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/56035/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-56035",
+    "30-78-56035"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-56035",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 55583,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 88,
+  "quizzes_count": 0,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/56035/continue",
+  "readiness": 0.6363636363636364,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Разбирать рекламную связку как систему, а не набор отдельных настроек",
+    "Планировать тесты креативов и аудиторий",
+    "Оценивать первые данные по рекламной кампании",
+    "Понимать, когда кампанию стоит остановить, доработать или масштабировать",
+    "Замечать риски площадки, оффера и качества трафика до расхода бюджета"
+  ],
+  "acquired_assets": [
+    "Большая карта процесса арбитражного запуска",
+    "Понимание роли оффера, креатива, аудитории и посадочной страницы",
+    "Список метрик, по которым принимаются решения в закупке трафика",
+    "Разбор подхода к оптимизации и масштабированию",
+    "Материал для сравнения старых и современных подходов к performance-рекламе"
+  ],
+  "learning_format": "<p>Курс построен как последовательный разбор работы с рекламными кампаниями: подготовка, запуск, креативы, оптимизация, масштабирование и анализ результата.</p>",
+  "content_details": [],
+  "issue": 13464,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": true,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/56035/",
+  "title": "Арбитраж трафика в Facebook",
+  "slug": "Арбитраж-трафика-в-Facebook-56035",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "halved",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "halved",
+  "is_active": true,
+  "create_date": "2019-07-10T11:53:01Z",
+  "update_date": "2026-08-25T11:55:35Z",
+  "learners_group": 1448010,
+  "testers_group": 1448011,
+  "moderators_group": 1448012,
+  "assistants_group": 1493751,
+  "teachers_group": 1448008,
+  "admins_group": 1448009,
+  "discussions_count": 0,
+  "discussion_proxy": "78-56035-1",
+  "discussion_threads": [
+    "78-56035-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

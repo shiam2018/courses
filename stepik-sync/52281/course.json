@@ -1,0 +1,244 @@
+{
+  "id": 52281,
+  "summary": "Пошаговый алгоритм запуска оффера, увеличивающий эффективность арбитража.\nУроки заканчиваются практическим заданием, которое будет проверено наставником.",
+  "workload": "2-3 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/52281/cover_mjRvxOu/4d43c142a60d86a2894e115846dabda2.jpeg",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Начинающие арбитражники и performance-специалисты, которым важно понять подготовку к запуску: оффер, правила, аккаунт, креативы и стартовый тест.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Нужен компьютер, доступ к интернету и базовое понимание рекламы. Meta* может быть недоступна или ограничена в отдельных странах, поэтому проверяйте актуальные правила площадки и законодательства перед практическим применением.</p>",
+  "description": "<p>Курс собран как подготовительный блок перед запуском рекламы в Meta*: выбор оффера, подготовка аккаунта, проверка правил, подбор креативов и первая структура запуска.</p><p>Материал легаси, поэтому я не подаю его как актуальную инструкцию «нажмите сюда». Его ценность — в логике подготовки: сначала понять продукт, ограничения и гипотезу, потом готовить кабинет и запускать тест.</p><p>Курс лучше воспринимать как практический архив по арбитражной дисциплине: что нужно подготовить до бюджета и почему не стоит начинать с хаотичной загрузки кампаний.</p>",
+  "sections": [
+    78905,
+    78869,
+    80101,
+    78993,
+    79042,
+    79101,
+    80103,
+    80104,
+    79206
+  ],
+  "total_units": 42,
+  "enrollment": 52281,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/52281/edit-info",
+    "edit_syllabus": "/course/52281/edit",
+    "view_statistics": "/course/52281/statistics/",
+    "attachments": "/course/52281/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/52281/clone/",
+    "clone_module": "/course/52281/clone-module/",
+    "can_publish": {
+      "enabled": false,
+      "needs_plan": "basic_paid"
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/52281/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/52281/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-52281",
+  "first_lesson": 209782,
+  "first_unit": 183279,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/52281/regular",
+  "certificate_distinction_link": "/api/courses/52281/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/52281",
+  "schedule_link": "/course/52281/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/52281/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-52281",
+    "30-78-52281"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-52281",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 51828,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 223,
+  "lessons_count": 42,
+  "quizzes_count": 16,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": 11166,
+  "is_popular": true,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/52281/continue",
+  "readiness": 0.7272727272727273,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Выбирать оффер не только по выплате, но и по правилам, аудитории и реалистичности запуска",
+    "Готовить рекламную инфраструктуру до старта кампании",
+    "Отделять подготовку гипотезы от технической настройки кабинета",
+    "Проверять креативы и посадочные на соответствие правилам",
+    "Планировать первый тест как проверку гипотезы, а не как попытку сразу масштабироваться"
+  ],
+  "acquired_assets": [
+    "Чек-лист подготовки к запуску оффера",
+    "Понимание, какие правила оффера нужно проверить до рекламы",
+    "Карта подготовки рекламного кабинета и материалов",
+    "Логика первого теста без лишнего расширения бюджета",
+    "Список рисков, которые часто всплывают уже после запуска"
+  ],
+  "learning_format": "<p>Уроки идут как подготовительный чек-лист: выбрать оффер, прочитать правила, подготовить рекламную инфраструктуру, собрать креативы и наметить первый запуск.</p>",
+  "content_details": [],
+  "issue": 10051,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": true,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": "2019-02-18T17:48:53Z",
+  "became_paid_at": null,
+  "title_en": "Preparing for Traffic Arbitration on Meta",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/52281/",
+  "title": "Подготовка к арбитражу трафика в Meta*",
+  "slug": "Подготовка-к-арбитражу-трафика-в-Meta*-52281",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "halved",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "halved",
+  "is_active": true,
+  "create_date": "2019-02-17T06:03:17Z",
+  "update_date": "2026-08-25T11:55:28Z",
+  "learners_group": 1265633,
+  "testers_group": 1265634,
+  "moderators_group": 1265635,
+  "assistants_group": 1493747,
+  "teachers_group": 1265631,
+  "admins_group": 1265632,
+  "discussions_count": 4,
+  "discussion_proxy": "78-52281-1",
+  "discussion_threads": [
+    "78-52281-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

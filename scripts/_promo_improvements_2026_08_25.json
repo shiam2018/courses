@@ -1,0 +1,270 @@
+[
+  {
+    "id": 52116,
+    "title": "Арбитраж трафика и CPA маркетинг. Бесплатный курс для новичков.",
+    "updated_fields": [
+      "acquired_assets",
+      "acquired_skills",
+      "description",
+      "learning_format",
+      "requirements",
+      "target_audience"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 52281,
+    "title": "Подготовка к арбитражу трафика в Meta*",
+    "updated_fields": [
+      "acquired_assets",
+      "acquired_skills",
+      "description",
+      "learning_format",
+      "requirements",
+      "target_audience",
+      "workload"
+    ],
+    "before_empty": [
+      "acquired_assets",
+      "acquired_skills",
+      "learning_format"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 52460,
+    "title": "Тестирование в Meta*",
+    "updated_fields": [
+      "acquired_assets",
+      "acquired_skills",
+      "description",
+      "learning_format",
+      "requirements",
+      "target_audience",
+      "workload"
+    ],
+    "before_empty": [
+      "acquired_assets",
+      "acquired_skills",
+      "learning_format",
+      "target_audience"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 56035,
+    "title": "Арбитраж трафика в Facebook",
+    "updated_fields": [
+      "acquired_assets",
+      "acquired_skills",
+      "description",
+      "learning_format",
+      "requirements",
+      "target_audience",
+      "workload"
+    ],
+    "before_empty": [
+      "acquired_assets",
+      "acquired_skills",
+      "description",
+      "learning_format",
+      "requirements",
+      "target_audience",
+      "workload"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 183080,
+    "title": "Как продавать: от заявки до постоянного клиента",
+    "updated_fields": [
+      "acquired_assets",
+      "acquired_skills",
+      "learning_format",
+      "requirements",
+      "target_audience",
+      "workload"
+    ],
+    "before_empty": [
+      "acquired_assets",
+      "acquired_skills",
+      "learning_format"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 183081,
+    "title": "User Acquisition в геймдеве: метрики, креативы и запуск",
+    "updated_fields": [
+      "acquired_assets"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 183082,
+    "title": "Профессия Zero-code разработчик",
+    "updated_fields": [
+      "acquired_assets"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 183084,
+    "title": "Профессия Email-маркетолог",
+    "updated_fields": [
+      "acquired_assets"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 183085,
+    "title": "Реклама мобильных приложений: каналы, метрики и запуск",
+    "updated_fields": [
+      "acquired_assets"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 183086,
+    "title": "Маркетплейсы с нуля: карточка, выдача и первые продажи",
+    "updated_fields": [
+      "acquired_assets"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 183088,
+    "title": "Профессия SMM: продвинутый курс",
+    "updated_fields": [
+      "acquired_assets"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 183091,
+    "title": "Профессия креативный продюсер в маркетинге",
+    "updated_fields": [
+      "acquired_assets"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 183092,
+    "title": "Тренажер интернет-маркетолога",
+    "updated_fields": [
+      "acquired_assets",
+      "acquired_skills",
+      "description",
+      "learning_format",
+      "requirements",
+      "target_audience",
+      "workload"
+    ],
+    "before_empty": [
+      "acquired_assets",
+      "acquired_skills",
+      "learning_format",
+      "requirements",
+      "target_audience",
+      "workload"
+    ],
+    "assets": 4,
+    "skills": 4
+  },
+  {
+    "id": 183093,
+    "title": "SEO-специалист: аудит, контент и стратегия роста",
+    "updated_fields": [
+      "acquired_assets"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 183096,
+    "title": "Профессия продакт-маркетолог",
+    "updated_fields": [
+      "acquired_assets"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 183098,
+    "title": "Маркетолог маркетплейсов: карточка, реклама и рост продаж",
+    "updated_fields": [
+      "acquired_assets"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 5
+  },
+  {
+    "id": 183099,
+    "title": "Контекстная реклама: стратегия, Директ и оптимизация",
+    "updated_fields": [
+      "acquired_assets"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 6
+  },
+  {
+    "id": 183101,
+    "title": "Product-маркетинг: продукт, аудитория и запуск",
+    "updated_fields": [
+      "acquired_assets"
+    ],
+    "before_empty": [
+      "acquired_assets"
+    ],
+    "assets": 5,
+    "skills": 4
+  }
+]

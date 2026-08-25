@@ -1,0 +1,182 @@
+{
+  "course_id": "183092",
+  "course_title": "Тренажер интернет-маркетолога",
+  "course_cover": "https://cdn.stepik.net/media/cache/images/courses/183092/cover_ZMyQkPz/5026da04a7a609fce84ef04ad092cddb.png",
+  "sections": [
+    {
+      "id": 460489,
+      "title": "Введение",
+      "position": 1,
+      "lessons": [
+        {
+          "id": 1475326,
+          "title": "Как пользоваться курсом «Тренажер»",
+          "unit_id": 1495023,
+          "position": 1,
+          "steps": [
+            {
+              "id": 6114569,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/01_Введение/01_Как_пользоваться_курсом_Тренажер/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 460490,
+      "title": "Тренажер",
+      "position": 2,
+      "lessons": [
+        {
+          "id": 1475327,
+          "title": "Нейросети",
+          "unit_id": 1495024,
+          "position": 1,
+          "steps": [
+            {
+              "id": 6114570,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Тренажер/01_Нейросети/01_text"
+            }
+          ]
+        },
+        {
+          "id": 1475328,
+          "title": "Целевая аудитория",
+          "unit_id": 1495025,
+          "position": 2,
+          "steps": [
+            {
+              "id": 6114571,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Тренажер/02_Целевая_аудитория/01_text"
+            }
+          ]
+        },
+        {
+          "id": 1475329,
+          "title": "Прототипирование",
+          "unit_id": 1495026,
+          "position": 3,
+          "steps": [
+            {
+              "id": 6114572,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Тренажер/03_Прототипирование/01_text"
+            }
+          ]
+        },
+        {
+          "id": 1475330,
+          "title": "Копирайтинг",
+          "unit_id": 1495027,
+          "position": 4,
+          "steps": [
+            {
+              "id": 6114573,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Тренажер/04_Копирайтинг/01_text"
+            }
+          ]
+        },
+        {
+          "id": 1475331,
+          "title": "Ноукод разработка",
+          "unit_id": 1495028,
+          "position": 5,
+          "steps": [
+            {
+              "id": 6114574,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Тренажер/05_Ноукод_разработка/01_text"
+            }
+          ]
+        },
+        {
+          "id": 1475332,
+          "title": "Веб-аналитика",
+          "unit_id": 1495029,
+          "position": 6,
+          "steps": [
+            {
+              "id": 6114575,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Тренажер/06_Веб-аналитика/01_text"
+            }
+          ]
+        },
+        {
+          "id": 1475333,
+          "title": "Платная реклама",
+          "unit_id": 1495030,
+          "position": 7,
+          "steps": [
+            {
+              "id": 6114576,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Тренажер/07_Платная_реклама/01_text"
+            }
+          ]
+        },
+        {
+          "id": 1475334,
+          "title": "Email маркетинг",
+          "unit_id": 1495031,
+          "position": 8,
+          "steps": [
+            {
+              "id": 6114577,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Тренажер/08_Email_маркетинг/01_text"
+            }
+          ]
+        },
+        {
+          "id": 1475335,
+          "title": "Задание: упаковать порфтолио маркетолога",
+          "unit_id": 1495032,
+          "position": 9,
+          "steps": [
+            {
+              "id": 6114579,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Тренажер/09_Задание_упаковать_порфтолио_маркетолога/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 460491,
+      "title": "Заключение",
+      "position": 3,
+      "lessons": [
+        {
+          "id": 1475336,
+          "title": "Резюме курса «Тренажер»",
+          "unit_id": 1495033,
+          "position": 1,
+          "steps": [
+            {
+              "id": 6114580,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Заключение/01_Резюме_курса_Тренажер/01_text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

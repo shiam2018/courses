@@ -1,0 +1,236 @@
+{
+  "id": 183092,
+  "summary": "Это набор тестовых заданий для различных вакансий интернет-маркетолога с инструкциями по их выполнению. Решая их, вы отрабатываете навыки маркетолога, готовитесь к поиску работы и просто повышаете свой профессиональный уровень.",
+  "workload": "1-2 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183092/cover_ZMyQkPz/5026da04a7a609fce84ef04ad092cddb.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Новички в интернет-маркетинге, которым нужна дополнительная практика на небольших ситуациях и проверочных заданиях.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Подойдёт после вводного курса по интернет-маркетингу или параллельно с ним. Нужны только базовые понятия: канал, трафик, лид, конверсия, бюджет, метрика.</p>",
+  "description": "<p>Тренажёр интернет-маркетолога — вспомогательный курс для отработки отдельных решений: как читать задачу, выбирать канал, понимать метрику и формулировать следующий шаг.</p><p>Это не полноценная профессия и не отдельная воронка. Его роль — дать короткую практику между большими курсами, чтобы знания не оставались только конспектом.</p>",
+  "sections": [
+    460489,
+    460490,
+    460491
+  ],
+  "total_units": 11,
+  "enrollment": 183092,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183092/edit-info",
+    "edit_syllabus": "/course/183092/edit",
+    "view_statistics": "/course/183092/statistics/",
+    "attachments": "/course/183092/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183092/clone/",
+    "clone_module": "/course/183092/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183092/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183092/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183092",
+  "first_lesson": 1475326,
+  "first_unit": 1495023,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183092/regular",
+  "certificate_distinction_link": "/api/courses/183092/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183092",
+  "schedule_link": "/course/183092/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183092/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183092",
+    "30-78-183092"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183092",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182561,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 11,
+  "quizzes_count": 0,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183092/continue",
+  "readiness": 0.6363636363636364,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Разбирать простую маркетинговую ситуацию по условиям, а не по ощущениям",
+    "Выбирать подходящий канал или метрику под задачу",
+    "Отличать симптом проблемы от возможной причины",
+    "Формулировать следующий шаг специалиста"
+  ],
+  "acquired_assets": [
+    "Набор коротких ситуаций для проверки маркетинговой логики",
+    "Повторение базовых понятий интернет-маркетинга",
+    "Практика выбора следующего шага по условию задачи",
+    "Материал для самопроверки перед более сложными курсами"
+  ],
+  "learning_format": "<p>Курс устроен как тренажёр: короткие ситуации, вопросы и разбор логики решения. Его лучше проходить не залпом, а как повторение между основными курсами.</p>",
+  "content_details": [],
+  "issue": 140452,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Director in Internet marketing.",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183092/",
+  "title": "Тренажер интернет-маркетолога",
+  "slug": "Тренажер-интернет-маркетолога-183092",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:39:41Z",
+  "update_date": "2026-08-25T11:56:15Z",
+  "learners_group": 7309367,
+  "testers_group": 7309368,
+  "moderators_group": 7309369,
+  "assistants_group": 7309370,
+  "teachers_group": 7309365,
+  "admins_group": 7309366,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183092-1",
+  "discussion_threads": [
+    "78-183092-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

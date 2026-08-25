@@ -1,0 +1,249 @@
+{
+  "id": 183080,
+  "summary": "Практический курс по продажам от Игоря Шеньшина: весь путь клиента от выявления потребности до удержания, на примере одного бизнеса, который вы ведёте через весь курс.",
+  "workload": "3-4 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183080/cover_aH6bMWb/ec3b71831a86e90a78421ab7f6fdce06.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Начинающие маркетологи, менеджеры по продажам, предприниматели и специалисты поддержки, которым важно понимать путь клиента после заявки: разговор, потребность, ценность, возражения, сделка и удержание.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Специальная подготовка не нужна. Достаточно выбрать один продукт или услугу, на котором вы будете разбирать путь клиента от первой заявки до повторной покупки.</p>",
+  "description": "<p>Курс «Как продавать: от заявки до постоянного клиента», практическое введение в продажи для тех, кто хочет разобраться в теме с нуля: от первого разговора с клиентом до повторных продаж и удержания.</p>\n\n<p>Этот курс сделал перформанс-маркетолог, а не тренер по продажам, и это осознанный выбор. Продажи и маркетинг всегда работают в связке: маркетинг привлекает трафик и лиды, а менеджеры по продажам доводят их до сделки. Чтобы быть хорошим маркетологом, нужно понимать азы продаж, точно так же как хорошему менеджеру по продажам нужно понимать азы маркетинга. Этот курс о том, что происходит с лидом после того, как маркетинг сделал свою часть работы: как довести человека от первого контакта до сделки и удержать его после покупки.</p>\n\n<h3>Что вы узнаете</h3>\n<ul>\n<li>Как понять реальную потребность клиента, а не то, что он говорит буквально</li>\n<li>Как начать разговор и вызвать доверие в первые секунды контакта</li>\n<li>Как презентовать продукт через ценность, а не список характеристик</li>\n<li>Как отвечать на возражения и доводить сделку до закрытия без давления</li>\n<li>Какие коммуникативные навыки нужны на каждом этапе разговора с клиентом</li>\n<li>Как удерживать клиента и превращать разовую покупку в долгосрочные отношения</li>\n<li>Как воронка продаж связана с воронкой конверсии в маркетинге, что такое CRM и какие метрики (цена лида, CAC, рентабельность) показывают, окупается ли привлечение клиентов</li>\n</ul>\n\n<h3>Как устроен курс</h3>\n<p>Курс состоит из 6 модулей, в каждом теория, разбор примеров и практика. Начиная с первого модуля вы выбираете один реальный бизнес (свой, знакомого или тот, в котором хотели бы работать) и ведёте его через весь курс: от разбора потребностей клиента до итогового плана удержания. В конце каждого модуля тест из 10 вопросов для закрепления материала.</p>\n\n<h3>Кому подойдёт курс</h3>\n<p>Начинающим продавцам, предпринимателям, которые сами общаются с клиентами, и всем, кто хочет разобраться, что происходит с лидом после того, как он оставил заявку.</p>\n\n<h3><strong>Что дальше</strong></h3>\n\n<p>Этот курс — часть большой программы <strong>«Интернет-Маркетолог: Старт Карьеры»</strong>: там вы освоите инструменты маркетолога, научитесь запускать рекламу и работать с аналитикой на практике, соберёте портфолио для резюме. Если захотите пойти дальше — по промокоду <strong>CAREERSTART</strong> вход в полный курс дешевле на 3000 ₽.</p>",
+  "sections": [
+    526610,
+    743654,
+    743655,
+    743656,
+    743657,
+    743658,
+    743823
+  ],
+  "total_units": 59,
+  "enrollment": 183080,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183080/edit-info",
+    "edit_syllabus": "/course/183080/edit",
+    "view_statistics": "/course/183080/statistics/",
+    "attachments": "/course/183080/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183080/clone/",
+    "clone_module": "/course/183080/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183080/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183080/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183080",
+  "first_lesson": 2537440,
+  "first_unit": 2576075,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183080/regular",
+  "certificate_distinction_link": "/api/courses/183080/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183080",
+  "schedule_link": "/course/183080/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183080/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183080",
+    "30-78-183080"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183080",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [
+    182,
+    184,
+    195,
+    248,
+    249,
+    252,
+    257,
+    231
+  ],
+  "is_enabled": true,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182549,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 6,
+  "lessons_count": 59,
+  "quizzes_count": 60,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183080/continue",
+  "readiness": 1.0,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": "easy",
+  "acquired_skills": [
+    "Понимать, что происходит с лидом после рекламы и заявки",
+    "Выявлять потребность клиента без механического скрипта",
+    "Презентовать продукт через задачу клиента и ценность",
+    "Отвечать на возражения спокойно и по существу",
+    "Связывать продажи с маркетинговой воронкой, CRM и повторными касаниями"
+  ],
+  "acquired_assets": [
+    "Карта пути клиента от заявки до повторной покупки",
+    "Шаблон разбора потребности клиента",
+    "Примеры формулировок для презентации ценности без давления",
+    "Чек-лист работы с возражениями и сомнениями",
+    "План удержания клиента после первой сделки"
+  ],
+  "learning_format": "<p>Курс построен как практическое введение: в каждом модуле вы разбираете одну часть продаж и применяете её к выбранному бизнесу. Фокус не на скриптах давления, а на понимании клиента, честной коммуникации и связи продаж с маркетингом.</p>",
+  "content_details": [],
+  "issue": 140440,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": "2026-08-18T19:34:17.175Z",
+  "became_paid_at": null,
+  "title_en": "How to Sell: From Lead to Repeat Customer",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": true,
+  "canonical_url": "https://stepik.org/course/183080/",
+  "title": "Как продавать: от заявки до постоянного клиента",
+  "slug": "Как-продавать-от-заявки-до-постоянного-клиента-183080",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:28:45Z",
+  "update_date": "2026-08-25T11:55:38Z",
+  "learners_group": 7309205,
+  "testers_group": 7309206,
+  "moderators_group": 7309207,
+  "assistants_group": 7309208,
+  "teachers_group": 7309203,
+  "admins_group": 7309204,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183080-1",
+  "discussion_threads": [
+    "78-183080-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

@@ -1,0 +1,1337 @@
+{
+  "course_id": "56035",
+  "course_title": "Арбитраж трафика в Facebook",
+  "course_cover": "https://cdn.stepik.net/media/cache/images/courses/56035/cover_TMmsf1D/556a6f72bf6743ce01ddc3b88c8b5d4b.png",
+  "sections": [
+    {
+      "id": 89489,
+      "title": "Введение",
+      "position": 1,
+      "lessons": [
+        {
+          "id": 242305,
+          "title": "С чего начал сам автор?",
+          "unit_id": 214741,
+          "position": 1,
+          "steps": [
+            {
+              "id": 771281,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/01_Введение/01_С_чего_начал_сам_автор/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242306,
+          "title": "Что будет на курсе?",
+          "unit_id": 214742,
+          "position": 2,
+          "steps": [
+            {
+              "id": 771282,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/01_Введение/02_Что_будет_на_курсе/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242307,
+          "title": "Чему я научусь?",
+          "unit_id": 214743,
+          "position": 3,
+          "steps": [
+            {
+              "id": 771283,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/01_Введение/03_Чему_я_научусь/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242308,
+          "title": "Что я получу?",
+          "unit_id": 214744,
+          "position": 4,
+          "steps": [
+            {
+              "id": 771284,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/01_Введение/04_Что_я_получу/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89491,
+      "title": "Главные определения",
+      "position": 2,
+      "lessons": [
+        {
+          "id": 242313,
+          "title": "Интернет-маркетинг",
+          "unit_id": 214749,
+          "position": 1,
+          "steps": [
+            {
+              "id": 771293,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Главные_определения/01_Интернет-маркетинг/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242314,
+          "title": "Арбитраж трафика",
+          "unit_id": 214750,
+          "position": 2,
+          "steps": [
+            {
+              "id": 771294,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Главные_определения/02_Арбитраж_трафика/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242315,
+          "title": "Таргетированная реклама",
+          "unit_id": 214751,
+          "position": 3,
+          "steps": [
+            {
+              "id": 771296,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Главные_определения/03_Таргетированная_реклама/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242316,
+          "title": "Facebook Ads",
+          "unit_id": 214752,
+          "position": 4,
+          "steps": [
+            {
+              "id": 771298,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Главные_определения/04_Facebook_Ads/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242317,
+          "title": "Ключевые показатели эффективности",
+          "unit_id": 214755,
+          "position": 5,
+          "steps": [
+            {
+              "id": 771299,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Главные_определения/05_Ключевые_показатели_эффективности/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242656,
+          "title": "Главные определения",
+          "unit_id": 215067,
+          "position": 6,
+          "steps": [
+            {
+              "id": 772415,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Главные_определения/06_Главные_определения/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89495,
+      "title": "Изучение Facebook",
+      "position": 3,
+      "lessons": [
+        {
+          "id": 242321,
+          "title": "Интерфейс личного аккаунта в Facebook",
+          "unit_id": 214760,
+          "position": 1,
+          "steps": [
+            {
+              "id": 771313,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Изучение_Facebook/01_Интерфейс_личного_аккаунта_в_Facebook/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242322,
+          "title": "Объекты Facebook Ads",
+          "unit_id": 214761,
+          "position": 2,
+          "steps": [
+            {
+              "id": 771314,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Изучение_Facebook/02_Объекты_Facebook_Ads/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242324,
+          "title": "Типы рекламных аккаунтов",
+          "unit_id": 214763,
+          "position": 3,
+          "steps": [
+            {
+              "id": 771316,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Изучение_Facebook/03_Типы_рекламных_аккаунтов/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242325,
+          "title": "Роли и доступы",
+          "unit_id": 214764,
+          "position": 4,
+          "steps": [
+            {
+              "id": 771317,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Изучение_Facebook/04_Роли_и_доступы/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242326,
+          "title": "Ads Manager",
+          "unit_id": 214765,
+          "position": 5,
+          "steps": [
+            {
+              "id": 771318,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Изучение_Facebook/05_Ads_Manager/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242327,
+          "title": "Таргетинги",
+          "unit_id": 214766,
+          "position": 6,
+          "steps": [
+            {
+              "id": 771319,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Изучение_Facebook/06_Таргетинги/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242328,
+          "title": "Архитектура аккаунта",
+          "unit_id": 214767,
+          "position": 7,
+          "steps": [
+            {
+              "id": 771320,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Изучение_Facebook/07_Архитектура_аккаунта/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242329,
+          "title": "Правила Facebook ",
+          "unit_id": 214768,
+          "position": 8,
+          "steps": [
+            {
+              "id": 771321,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Изучение_Facebook/08_Правила_Facebook/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89537,
+      "title": "Фарминг и прогрев",
+      "position": 4,
+      "lessons": [
+        {
+          "id": 242396,
+          "title": "Методы оплаты",
+          "unit_id": 214829,
+          "position": 1,
+          "steps": [
+            {
+              "id": 771586,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Фарминг_и_прогрев/01_Методы_оплаты/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242397,
+          "title": "Траст, порог биллинга, карма",
+          "unit_id": 214830,
+          "position": 2,
+          "steps": [
+            {
+              "id": 771587,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Фарминг_и_прогрев/02_Траст_порог_биллинга_карма/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242398,
+          "title": "Раскачка БМ-ов",
+          "unit_id": 214831,
+          "position": 3,
+          "steps": [
+            {
+              "id": 771588,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Фарминг_и_прогрев/03_Раскачка_БМ-ов/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242399,
+          "title": "Фарминг личных аккаунтов",
+          "unit_id": 214832,
+          "position": 4,
+          "steps": [
+            {
+              "id": 771589,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Фарминг_и_прогрев/04_Фарминг_личных_аккаунтов/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242400,
+          "title": "Фингерпринт и паттерн поведения",
+          "unit_id": 214833,
+          "position": 5,
+          "steps": [
+            {
+              "id": 771590,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Фарминг_и_прогрев/05_Фингерпринт_и_паттерн_поведения/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242401,
+          "title": "Прокси",
+          "unit_id": 214834,
+          "position": 6,
+          "steps": [
+            {
+              "id": 771592,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Фарминг_и_прогрев/06_Прокси/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242402,
+          "title": "Прогрев аккаунтов",
+          "unit_id": 214835,
+          "position": 7,
+          "steps": [
+            {
+              "id": 771593,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Фарминг_и_прогрев/07_Прогрев_аккаунтов/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89539,
+      "title": "Работа с объявлениями",
+      "position": 5,
+      "lessons": [
+        {
+          "id": 242405,
+          "title": "Создание кампании и нейминг",
+          "unit_id": 214838,
+          "position": 1,
+          "steps": [
+            {
+              "id": 771596,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Работа_с_объявлениями/01_Создание_кампании_и_нейминг/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242406,
+          "title": "Возможные цели",
+          "unit_id": 214839,
+          "position": 2,
+          "steps": [
+            {
+              "id": 771597,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Работа_с_объявлениями/02_Возможные_цели/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242407,
+          "title": "Дублирование",
+          "unit_id": 214840,
+          "position": 3,
+          "steps": [
+            {
+              "id": 771599,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Работа_с_объявлениями/03_Дублирование/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242408,
+          "title": "Массовое редактирование",
+          "unit_id": 214841,
+          "position": 4,
+          "steps": [
+            {
+              "id": 771600,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Работа_с_объявлениями/04_Массовое_редактирование/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242409,
+          "title": "Работа с библиотекой",
+          "unit_id": 214842,
+          "position": 5,
+          "steps": [
+            {
+              "id": 771601,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Работа_с_объявлениями/05_Работа_с_библиотекой/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242410,
+          "title": "Пиксель и lookalike",
+          "unit_id": 214843,
+          "position": 6,
+          "steps": [
+            {
+              "id": 771602,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Работа_с_объявлениями/06_Пиксель_и_lookalike/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242411,
+          "title": "CPC и CPA, оптимизация",
+          "unit_id": 214844,
+          "position": 7,
+          "steps": [
+            {
+              "id": 771603,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Работа_с_объявлениями/07_CPC_и_CPA_оптимизация/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89540,
+      "title": "Вертикали и направления",
+      "position": 6,
+      "lessons": [
+        {
+          "id": 242412,
+          "title": "Товарка",
+          "unit_id": 214845,
+          "position": 1,
+          "steps": [
+            {
+              "id": 771605,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/06_Вертикали_и_направления/01_Товарка/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242413,
+          "title": "Игры",
+          "unit_id": 214846,
+          "position": 2,
+          "steps": [
+            {
+              "id": 771606,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/06_Вертикали_и_направления/02_Игры/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242414,
+          "title": "Интернет-магазины и дропшиппинг",
+          "unit_id": 214847,
+          "position": 3,
+          "steps": [
+            {
+              "id": 771607,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/06_Вертикали_и_направления/03_Интернет-магазины_и_дропшиппинг/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242415,
+          "title": "Гемблинг и беттинг",
+          "unit_id": 214848,
+          "position": 4,
+          "steps": [
+            {
+              "id": 771608,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/06_Вертикали_и_направления/04_Гемблинг_и_беттинг/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242416,
+          "title": "Реклама нутры",
+          "unit_id": 214849,
+          "position": 5,
+          "steps": [
+            {
+              "id": 771609,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/06_Вертикали_и_направления/05_Реклама_нутры/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242417,
+          "title": "Пинсабмиты, свипстейки, лотереи",
+          "unit_id": 214850,
+          "position": 6,
+          "steps": [
+            {
+              "id": 771610,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/06_Вертикали_и_направления/06_Пинсабмиты_свипстейки_лотереи/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89541,
+      "title": "Зарегистрируйтесь в партнерке",
+      "position": 7,
+      "lessons": [
+        {
+          "id": 242418,
+          "title": "Зарегистрируйтесь в партнерке",
+          "unit_id": 214851,
+          "position": 1,
+          "steps": [
+            {
+              "id": 771614,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/07_Зарегистрируйтесь_в_партнерке/01_Зарегистрируйтесь_в_партнерке/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242419,
+          "title": "Изучите интерфейс",
+          "unit_id": 214852,
+          "position": 2,
+          "steps": [
+            {
+              "id": 771616,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/07_Зарегистрируйтесь_в_партнерке/02_Изучите_интерфейс/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242420,
+          "title": "Прочитайте правила",
+          "unit_id": 214853,
+          "position": 3,
+          "steps": [
+            {
+              "id": 771617,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/07_Зарегистрируйтесь_в_партнерке/03_Прочитайте_правила/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242421,
+          "title": "Выберите направление",
+          "unit_id": 214854,
+          "position": 4,
+          "steps": [
+            {
+              "id": 771619,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/07_Зарегистрируйтесь_в_партнерке/04_Выберите_направление/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242422,
+          "title": "Особенности вертикалей",
+          "unit_id": 214855,
+          "position": 5,
+          "steps": [
+            {
+              "id": 771620,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/07_Зарегистрируйтесь_в_партнерке/05_Особенности_вертикалей/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242423,
+          "title": "Изучите чужой опыт",
+          "unit_id": 214856,
+          "position": 6,
+          "steps": [
+            {
+              "id": 771621,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/07_Зарегистрируйтесь_в_партнерке/06_Изучите_чужой_опыт/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242424,
+          "title": "Выберите офферы",
+          "unit_id": 214857,
+          "position": 7,
+          "steps": [
+            {
+              "id": 771622,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/07_Зарегистрируйтесь_в_партнерке/07_Выберите_офферы/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89542,
+      "title": "Найдите креативы",
+      "position": 8,
+      "lessons": [
+        {
+          "id": 242425,
+          "title": "Где искать креативы?",
+          "unit_id": 214858,
+          "position": 1,
+          "steps": [
+            {
+              "id": 771623,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/08_Найдите_креативы/01_Где_искать_креативы/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242426,
+          "title": "Spy-сервисы",
+          "unit_id": 214859,
+          "position": 2,
+          "steps": [
+            {
+              "id": 771624,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/08_Найдите_креативы/02_Spy-сервисы/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242427,
+          "title": "Анализ конкурентов",
+          "unit_id": 214860,
+          "position": 3,
+          "steps": [
+            {
+              "id": 771625,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/08_Найдите_креативы/03_Анализ_конкурентов/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242428,
+          "title": "Publer",
+          "unit_id": 214861,
+          "position": 4,
+          "steps": [
+            {
+              "id": 771626,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/08_Найдите_креативы/04_Publer/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242429,
+          "title": "Самостоятельное создание в Canva",
+          "unit_id": 214862,
+          "position": 5,
+          "steps": [
+            {
+              "id": 771628,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/08_Найдите_креативы/05_Самостоятельное_создание_в_Canva/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242430,
+          "title": "Работа с видео",
+          "unit_id": 214863,
+          "position": 6,
+          "steps": [
+            {
+              "id": 771629,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/08_Найдите_креативы/06_Работа_с_видео/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242431,
+          "title": "Как поставить задание?",
+          "unit_id": 214864,
+          "position": 7,
+          "steps": [
+            {
+              "id": 771630,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/08_Найдите_креативы/07_Как_поставить_задание/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242432,
+          "title": "Примеры и принципы эффективных креативов",
+          "unit_id": 214865,
+          "position": 8,
+          "steps": [
+            {
+              "id": 771631,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/08_Найдите_креативы/08_Примеры_и_принципы_эффективных_креативов/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89544,
+      "title": "Трекеры и ссылки",
+      "position": 9,
+      "lessons": [
+        {
+          "id": 242433,
+          "title": "Ссылки и авторизация",
+          "unit_id": 214866,
+          "position": 1,
+          "steps": [
+            {
+              "id": 771632,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/09_Трекеры_и_ссылки/01_Ссылки_и_авторизация/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242434,
+          "title": "Разметка ссылки",
+          "unit_id": 214867,
+          "position": 2,
+          "steps": [
+            {
+              "id": 771633,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/09_Трекеры_и_ссылки/02_Разметка_ссылки/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242435,
+          "title": "Что такое редирект",
+          "unit_id": 214868,
+          "position": 3,
+          "steps": [
+            {
+              "id": 771634,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/09_Трекеры_и_ссылки/03_Что_такое_редирект/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242437,
+          "title": "Обзор трекеров",
+          "unit_id": 214871,
+          "position": 4,
+          "steps": [
+            {
+              "id": 771639,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/09_Трекеры_и_ссылки/04_Обзор_трекеров/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242439,
+          "title": "Клоакинг",
+          "unit_id": 214872,
+          "position": 5,
+          "steps": [
+            {
+              "id": 771640,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/09_Трекеры_и_ссылки/05_Клоакинг/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242440,
+          "title": "Припаркованные домены",
+          "unit_id": 214873,
+          "position": 6,
+          "steps": [
+            {
+              "id": 771641,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/09_Трекеры_и_ссылки/06_Припаркованные_домены/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242441,
+          "title": "Настройка ссылки",
+          "unit_id": 214874,
+          "position": 7,
+          "steps": [
+            {
+              "id": 771642,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/09_Трекеры_и_ссылки/07_Настройка_ссылки/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242442,
+          "title": "Настройка постбека",
+          "unit_id": 214875,
+          "position": 8,
+          "steps": [
+            {
+              "id": 771643,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/09_Трекеры_и_ссылки/08_Настройка_постбека/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89545,
+      "title": "Лендинги\t",
+      "position": 10,
+      "lessons": [
+        {
+          "id": 242443,
+          "title": "Лендинги и прокладки",
+          "unit_id": 214876,
+          "position": 1,
+          "steps": [
+            {
+              "id": 771648,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/10_Лендинги/01_Лендинги_и_прокладки/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242444,
+          "title": "Связки",
+          "unit_id": 214877,
+          "position": 2,
+          "steps": [
+            {
+              "id": 771649,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/10_Лендинги/02_Связки/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242445,
+          "title": "Хостинг",
+          "unit_id": 214878,
+          "position": 3,
+          "steps": [
+            {
+              "id": 771650,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/10_Лендинги/03_Хостинг/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242446,
+          "title": "Примеры лендингов",
+          "unit_id": 214879,
+          "position": 4,
+          "steps": [
+            {
+              "id": 771651,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/10_Лендинги/04_Примеры_лендингов/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242447,
+          "title": "Настройка лендинга в трекере",
+          "unit_id": 214880,
+          "position": 5,
+          "steps": [
+            {
+              "id": 771652,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/10_Лендинги/05_Настройка_лендинга_в_трекере/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242448,
+          "title": "Счетчики и ремаркетинг",
+          "unit_id": 214881,
+          "position": 6,
+          "steps": [
+            {
+              "id": 771653,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/10_Лендинги/06_Счетчики_и_ремаркетинг/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89546,
+      "title": "Запустите рекламу",
+      "position": 11,
+      "lessons": [
+        {
+          "id": 242449,
+          "title": "Воронки в разных вертикалях",
+          "unit_id": 214882,
+          "position": 1,
+          "steps": [
+            {
+              "id": 771655,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/11_Запустите_рекламу/01_Воронки_в_разных_вертикалях/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242450,
+          "title": "Тестирование",
+          "unit_id": 214883,
+          "position": 2,
+          "steps": [
+            {
+              "id": 771656,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/11_Запустите_рекламу/02_Тестирование/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242451,
+          "title": "Оптимизация",
+          "unit_id": 214884,
+          "position": 3,
+          "steps": [
+            {
+              "id": 771657,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/11_Запустите_рекламу/03_Оптимизация/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242452,
+          "title": "Масштабирование",
+          "unit_id": 214885,
+          "position": 4,
+          "steps": [
+            {
+              "id": 771658,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/11_Запустите_рекламу/04_Масштабирование/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242453,
+          "title": "Анализ рекламной системы",
+          "unit_id": 214886,
+          "position": 5,
+          "steps": [
+            {
+              "id": 771659,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/11_Запустите_рекламу/05_Анализ_рекламной_системы/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89547,
+      "title": "Безопасность",
+      "position": 12,
+      "lessons": [
+        {
+          "id": 242657,
+          "title": "Правила относительно креативов",
+          "unit_id": 215068,
+          "position": 1,
+          "steps": [
+            {
+              "id": 772416,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/12_Безопасность/01_Правила_относительно_креативов/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242658,
+          "title": "Разбаны",
+          "unit_id": 215069,
+          "position": 2,
+          "steps": [
+            {
+              "id": 772417,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/12_Безопасность/02_Разбаны/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242659,
+          "title": "Типовые аппилы",
+          "unit_id": 215070,
+          "position": 3,
+          "steps": [
+            {
+              "id": 772418,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/12_Безопасность/03_Типовые_аппилы/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242660,
+          "title": "Поддержка Facebook",
+          "unit_id": 215071,
+          "position": 4,
+          "steps": [
+            {
+              "id": 772419,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/12_Безопасность/04_Поддержка_Facebook/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89623,
+      "title": "Запишите результат и получите деньги",
+      "position": 13,
+      "lessons": [
+        {
+          "id": 242661,
+          "title": "Рассчитайте результат",
+          "unit_id": 215072,
+          "position": 1,
+          "steps": [
+            {
+              "id": 772420,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/13_Запишите_результат_и_получите_деньги/01_Рассчитайте_результат/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242662,
+          "title": "Статистика партнерской системы",
+          "unit_id": 215073,
+          "position": 2,
+          "steps": [
+            {
+              "id": 772421,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/13_Запишите_результат_и_получите_деньги/02_Статистика_партнерской_системы/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242663,
+          "title": "Заполните отчет",
+          "unit_id": 215074,
+          "position": 3,
+          "steps": [
+            {
+              "id": 772422,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/13_Запишите_результат_и_получите_деньги/03_Заполните_отчет/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242664,
+          "title": "Практика Excel (формулы, ВПР, сводные таблицы)",
+          "unit_id": 215075,
+          "position": 4,
+          "steps": [
+            {
+              "id": 772423,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/13_Запишите_результат_и_получите_деньги/04_Практика_Excel_формулы_ВПР_сводные_таблицы/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242665,
+          "title": "Способы вывода, epayments",
+          "unit_id": 215076,
+          "position": 5,
+          "steps": [
+            {
+              "id": 772424,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/13_Запишите_результат_и_получите_деньги/05_Способы_вывода_epayments/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242666,
+          "title": "Защитите заработок",
+          "unit_id": 215077,
+          "position": 6,
+          "steps": [
+            {
+              "id": 772425,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/13_Запишите_результат_и_получите_деньги/06_Защитите_заработок/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242667,
+          "title": "Защитите заработок",
+          "unit_id": 215078,
+          "position": 7,
+          "steps": [
+            {
+              "id": 772426,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/13_Запишите_результат_и_получите_деньги/07_Защитите_заработок/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242668,
+          "title": "Советы по работе",
+          "unit_id": 215079,
+          "position": 8,
+          "steps": [
+            {
+              "id": 772427,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/13_Запишите_результат_и_получите_деньги/08_Советы_по_работе/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89624,
+      "title": "Найдите работу",
+      "position": 14,
+      "lessons": [
+        {
+          "id": 242669,
+          "title": "Оформите резюме",
+          "unit_id": 215080,
+          "position": 1,
+          "steps": [
+            {
+              "id": 772428,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/14_Найдите_работу/01_Оформите_резюме/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242670,
+          "title": "Найдите вакансии",
+          "unit_id": 215081,
+          "position": 2,
+          "steps": [
+            {
+              "id": 772429,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/14_Найдите_работу/02_Найдите_вакансии/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242671,
+          "title": "Сделайте тестовое",
+          "unit_id": 215082,
+          "position": 3,
+          "steps": [
+            {
+              "id": 772430,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/14_Найдите_работу/03_Сделайте_тестовое/01_text"
+            }
+          ]
+        },
+        {
+          "id": 242672,
+          "title": "Пройдите собеседование",
+          "unit_id": 215083,
+          "position": 4,
+          "steps": [
+            {
+              "id": 772431,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/14_Найдите_работу/04_Пройдите_собеседование/01_text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
