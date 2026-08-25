@@ -1,0 +1,271 @@
+{
+  "id": 183103,
+  "summary": "Откликаетесь на вакансии маркетолога, но получаете вежливое молчание? Я — Head of User Acquisition с 12-летним опытом и сам нанимаю маркетологов в команду. Покажу, как рекрутер и руководитель на самом деле выбирают кандидата, что говорить на каждом этапе отбора и как не слить оффер на финишной прямой. Без воды, с примерами из реальных собеседований.",
+  "workload": "1-2 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183103/cover_1W3Kbgr/f8ed999ca23f3295077aafc702cf100b.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Курс подойдёт тем, кто ищет первую работу в интернет-маркетинге, студентам и выпускникам без опыта, а также тем, кто хочет сменить профессию или текущее место работы — всем, кто готовится к собеседованию и хочет получить оффер, а не очередной отказ.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Компьютер или смартфон с доступом в интернет. Специальных знаний маркетинга не требуется — курс подходит и тем, кто только начинает разбираться в профессии.</p>",
+  "description": "<p>Курс помогает подготовиться к собеседованию в маркетинге через взгляд человека, который сам нанимает специалистов. Разберём, как работодатель читает резюме, зачем задаёт неудобные вопросы и почему хороший кандидат иногда получает отказ.</p><p>Фокус курса - не заучить идеальные ответы, а научиться спокойно объяснять свой опыт, разбирать вакансии, готовить примеры работ, проходить тестовые задания и понимать логику отбора.</p><p>Курс подойдёт начинающим маркетологам, джунам, специалистам после паузы и тем, кто хочет увереннее проходить интервью без лишней драматизации процесса.</p>",
+  "sections": [
+    744882,
+    744883,
+    744886,
+    744884,
+    744885
+  ],
+  "total_units": 20,
+  "enrollment": 183103,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183103/edit-info",
+    "edit_syllabus": "/course/183103/edit",
+    "view_statistics": "/course/183103/statistics/",
+    "attachments": "/course/183103/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183103/clone/",
+    "clone_module": "/course/183103/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183103/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183103/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183103",
+  "first_lesson": 2542264,
+  "first_unit": 2580916,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183103/regular",
+  "certificate_distinction_link": "/api/courses/183103/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183103",
+  "schedule_link": "/course/183103/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183103/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183103",
+    "30-78-183103"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183103",
+  "intro_video": {
+    "id": 641124,
+    "thumbnail": "https://cdn.stepik.net/video/641124/thumbnail/5b93a265c637312a4abdf7bfeb15d4c8.jpg",
+    "urls": [
+      {
+        "quality": "720",
+        "url": "https://cdn.stepik.net/video/641124/720/b1443c6a08285d17cf3e156afa56b92d.mp4"
+      },
+      {
+        "quality": "540",
+        "url": "https://cdn.stepik.net/video/641124/540/e196901112612cda86831e66ff80659e.mp4"
+      },
+      {
+        "quality": "360",
+        "url": "https://cdn.stepik.net/video/641124/360/84412df7c9cebf3d8042ef9e272fa034.mp4"
+      },
+      {
+        "quality": "240",
+        "url": "https://cdn.stepik.net/video/641124/240/045fb6ee081dbc321a1c0bf5645796d0.mp4"
+      }
+    ],
+    "duration": 66,
+    "status": "ready",
+    "upload_date": "2026-08-21T17:25:15Z",
+    "filename": "Как проходит отбор при найме, этапы.mp4"
+  },
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [
+    182,
+    206,
+    207,
+    248,
+    274,
+    275
+  ],
+  "is_enabled": true,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182572,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 5,
+  "lessons_count": 20,
+  "quizzes_count": 30,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 190,
+  "time_to_complete": 190,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183103/continue",
+  "readiness": 1.0,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": "easy",
+  "acquired_skills": [
+    "Понимать, как рекрутер и руководитель выбирают кандидата",
+    "Формировать свой «портрет соискателя» под конкретную вакансию",
+    "Проходить скрининг с HR уверенно, а не по шаблону",
+    "Отвечать на вопросы технического собеседования по инструментам маркетинга",
+    "Формулировать зарплатные ожидания, не продешевив и не отпугнув",
+    "Выполнять тестовое задание так, чтобы оно сработало на оффер",
+    "Разбирать отказы и превращать их в следующий шаг, а не тупик"
+  ],
+  "acquired_assets": [
+    "Понимание, как рекрутер и руководитель выбирают кандидата — с обеих сторон стола",
+    "Резюме и сопроводительное письмо, готовые к отправке",
+    "Чёткий план ответа на вопрос о зарплатных ожиданиях",
+    "Понимание, что проверяют на каждом этапе — от скрининга до тестового задания"
+  ],
+  "learning_format": "<p><strong>Короткие уроки без воды</strong></p>\n\n<p>Видео и текст на выбор — проходите так, как удобнее. Каждый урок разбирает один этап отбора: от портрета кандидата до тестового задания.</p>\n\n<p><strong>Самостоятельный темп</strong></p>\n\n<p>Без дедлайнов и расписания. Весь курс — на 1-2 часа, можно пройти за один вечер или растянуть на неделю.</p>\n\n<p><strong>Примеры из реальных собеседований</strong></p>\n\n<p>Не абстрактные советы, а разборы конкретных вопросов и ответов — в том числе неудачных, чтобы вы видели разницу.</p>",
+  "content_details": [],
+  "issue": 140463,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": "2026-08-21T18:22:20.020Z",
+  "became_paid_at": null,
+  "title_en": "Job search.",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": true,
+  "canonical_url": "https://stepik.org/course/183103/",
+  "title": "Собеседование в маркетинге: как получить работу мечты",
+  "slug": "Собеседование-в-маркетинге-как-получить-работу-мечты-183103",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:45:41Z",
+  "update_date": "2026-08-25T12:23:37Z",
+  "learners_group": 7309433,
+  "testers_group": 7309434,
+  "moderators_group": 7309435,
+  "assistants_group": 7309436,
+  "teachers_group": 7309431,
+  "admins_group": 7309432,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183103-1",
+  "discussion_threads": [
+    "78-183103-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

@@ -1,0 +1,284 @@
+{
+  "id": 94834,
+  "summary": "Хотите в маркетинг, но не знаете, с чего начать?\r\nЯ собрал весь свой практический опыт в курс, который помогает новичкам подготовиться к работе и её поиску.\r\nВы научитесь исследовать целевую аудиторию и конкурентов, создавать сайты на Tilda, настраивать аналитику, запускать контекстную и таргетированную рекламу, проводить SEO и вести SMM-проекты.\r\nНа каждом этапе — практика, упражнения с объяснениями и примерами выполнения, а также поддержка и мотивация.\r\nНачните путь в интернет-маркетинг уже сегодня.",
+  "workload": "4-5 часов в неделю",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/94834/cover_GQflYeh/6e33df5bf9389e876f26bbb2f55bd2ef.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Курс подойдёт новичкам, студентам, джунам, предпринимателям, фрилансерам и тем, кто хочет сменить профессию — всем, кто хочет разобраться в интернет-маркетинге, научиться применять инструменты на практике и подготовиться к первым шагам в профессии.",
+  "certificate_footer": "https://cdn.stepik.net/media/courses/94834/certificate_footer_67gP1Wx.png",
+  "certificate_cover_org": "https://cdn.stepik.net/media/courses/94834/certificate_cover_org_aMpigEa.png",
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": true,
+  "certificate_regular_threshold": 40,
+  "certificate_distinction_threshold": 50,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "Игорь Шеньшин",
+  "requirements": "<p>Компьютер или смартфон с доступом в интернет.</p>\n\n<p>Все сервисы, которые мы используем на курсе, доступны в бесплатных версиях — вам не потребуется дополнительно платить после покупки курса.</p>",
+  "description": "<p>Это практический курс для начинающего интернет-маркетолога. Его задача не в том, чтобы засыпать вас терминами, а в том, чтобы провести через основные рабочие ситуации: аудитория, конкуренты, сайт, аналитика, реклама, SEO, SMM, email, продажи, резюме и собеседование.</p><p>Курс устроен как путь к первым задачам в профессии. В каждом модуле есть прикладная логика: что делает специалист, зачем это нужно бизнесу, какой результат должен получиться и как это можно показать в портфолио.</p><p>Я веду курс с позиции практикующего руководителя маркетинга. Поэтому здесь много внимания к простым вещам, которые часто решают исход работы: понять задачу, не перепутать метрику, аккуратно оформить результат, объяснить решение и не обещать того, что канал не может дать.</p><p>Курс подойдёт тем, кто хочет войти в интернет-маркетинг системно и без лишнего шума: новичкам, студентам, фрилансерам, предпринимателям и тем, кто меняет профессию.</p>",
+  "sections": [
+    179749,
+    179765,
+    179768,
+    179766,
+    527406,
+    273402
+  ],
+  "total_units": 64,
+  "enrollment": 94834,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": true
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": true
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/94834/edit-info",
+    "edit_syllabus": "/course/94834/edit",
+    "view_statistics": "/course/94834/statistics/",
+    "attachments": "/course/94834/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/94834/clone/",
+    "clone_module": "/course/94834/clone-module/",
+    "edit_certificates": "#",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": "basic_paid"
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/94834/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/94834/transfer/",
+    "view_revenue": {
+      "enabled": true
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": true
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-94834",
+  "first_lesson": 2541494,
+  "first_unit": 2580133,
+  "certificate_link": "/cert/2844194",
+  "certificate_regular_link": "/api/courses/94834/regular",
+  "certificate_distinction_link": "/api/courses/94834/distinction",
+  "user_certificate": 2844194,
+  "referral_link": "/a/94834",
+  "schedule_link": "/course/94834/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/94834/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-94834",
+    "30-78-94834"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-94834",
+  "intro_video": {
+    "id": 641566,
+    "thumbnail": "https://i.vimeocdn.com/video/default_640",
+    "urls": [
+      {
+        "quality": "720",
+        "url": "https://cdn.stepik.net/video/641566/source/e21f50ee80b8e69fe3a4660eabbc3627.mp4"
+      }
+    ],
+    "duration": 41,
+    "status": "uploaded",
+    "upload_date": "2026-08-25T12:28:07Z",
+    "filename": "Как начать в маркетинге, пошаговый курс.mp4"
+  },
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [
+    182,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211
+  ],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 94375,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 1,
+  "learners_count": 0,
+  "lessons_count": 64,
+  "quizzes_count": 75,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 205,
+  "time_to_complete": 332,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": true,
+  "price": "6900.00",
+  "currency_code": "RUB",
+  "display_price": "6900 ₽",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/94834/continue",
+  "readiness": 0.8181818181818182,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": "easy",
+  "acquired_skills": [
+    "Составлять целевую аудиторию, сегменты и персоны",
+    "Строить воронку продаж и путь клиента (CJM)",
+    "Выбирать каналы продвижения и составлять маркетинговый микс",
+    "Прогнозировать медиаплан и его ключевые метрики",
+    "Составлять бриф на сайт и продвижение проекта",
+    "Ставить техническое задание (ТЗ) на сайт",
+    "Собирать структуру лендинга",
+    "Проводить конкурентный и SWOT-анализ",
+    "Создавать креативы для таргета в Canva",
+    "Устанавливать и настраивать Яндекс Метрику",
+    "Создавать письма в Unisender",
+    "Грамотно отвечать на негативные отзывы",
+    "Создавать лендинги на Tilda, устанавливать Яндекс Метрику, настраивать формы и соединять их с email-рассылкой",
+    "Создавать рекламные кампании в VK Ads",
+    "Создавать рекламные кампании в Яндекс Директ",
+    "Писать SEO-статьи под ключевые запросы",
+    "Создавать группу в VK",
+    "Описывать оффер для партнёрской программы",
+    "Ставить техническое задание (ТЗ) на интерактивный баннер",
+    "Связывать Метрику и Директ для запуска кампании с оптимизацией на события",
+    "Связывать пиксель и VK Ads для запуска кампании с оптимизацией на события",
+    "Составлять эффективное резюме интернет-маркетолога",
+    "Искать вакансии по системе",
+    "Писать сопроводительные письма",
+    "Проходить собеседования в маркетинге",
+    "Решать тестовые задания интернет-маркетлога",
+    "Упаковывать проект и портфолио"
+  ],
+  "acquired_assets": [
+    "Понимание основ интернет-маркетинга, его инструментов и принципов работы",
+    "Практические навыки: запуск рекламных кампаний, анализ метрик, работа с контентом и соцсетями",
+    "Готовый проект, который можно показать на собеседовании и добавить в портфолио",
+    "Сертификат о прохождении курса — пригодится при откликах на вакансии",
+    "Инструкции по выполнению ключевых задач интернет-маркетолога",
+    "Шаблоны и примеры для реальной работы: бриф на проект, таблица конкурентов, медиаплан и др.",
+    "Полезные материалы в каждом уроке: списки сервисов, чек-листы, гайды",
+    "Рекомендованная литература и ресурсы для саморазвития в профессии"
+  ],
+  "learning_format": "<p><strong>Изучение материалов</strong></p>\n\n<p>Короткие и структурированные текстовые уроки с инфографикой, примерами и объяснениями — чтобы вы быстро осваивали теорию без перегруза.</p>\n\n<p><strong>Практика в каждом модуле</strong></p>\n\n<p>Вы сразу применяете знания на практике: выполняете задания, используя шаблоны, таблицы и инструкции.</p>\n\n<p>Работаете с выбранным проектом — своим бизнесом или идеей мечты.</p>\n\n<p><strong>Тесты и самопроверка</strong></p>\n\n<p>После каждого блока — небольшие тесты для закрепления материала.</p>\n\n<p>Вы можете возвращаться к любому уроку, пересматривать и повторять.</p>\n\n<p><strong>Финальный проект</strong></p>\n\n<p>Все задания курса складываются в единый проект — план продвижения, сайт, реклама и аналитика.</p>\n\n<p>Это ваш первый маркетинговый кейс, который можно <strong>показать на собеседовании</strong> как подтверждение ваших навыков и подхода к работе.</p>",
+  "content_details": [],
+  "issue": 52263,
+  "course_type": "basic_paid",
+  "possible_type": "basic",
+  "is_certificate_with_score": true,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": true,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Internet Marketing, Career Start",
+  "last_update_price_date": "2025-05-06T03:13:30.494Z",
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/94834/",
+  "title": "Интернет-Маркетолог — Старт Карьеры",
+  "slug": "Интернет-Маркетолог-Старт-Карьеры-94834",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2021-03-22T10:19:30Z",
+  "update_date": "2026-08-25T12:28:08Z",
+  "learners_group": 3382449,
+  "testers_group": 3382450,
+  "moderators_group": 3382451,
+  "assistants_group": 3382452,
+  "teachers_group": 3382447,
+  "admins_group": 3382448,
+  "discussions_count": 8,
+  "discussion_proxy": "78-94834-1",
+  "discussion_threads": [
+    "78-94834-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

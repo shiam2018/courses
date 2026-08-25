@@ -1,0 +1,276 @@
+{
+  "id": 183097,
+  "summary": "Практический курс о профессии таргетолога от Игоря Шеньшина: как настраивать таргетированную рекламу, собрать портфолио без бюджета и найти первую работу или клиентов в этой профессии.",
+  "workload": "6-8 часов",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183097/cover_OHPT4ej/f787e1a6c87a604fc13289a95cb6aa28.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Начинающие специалисты, которые хотят войти в профессию таргетолога, предприниматели, которые хотят вести рекламу самостоятельно, и все, кто рассматривает таргетированную рекламу как новую карьеру.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "Специальная подготовка не нужна. Пригодится доступ к любому рекламному кабинету (даже тестовому) для практики.",
+  "description": "<p>Курс разбирает профессию таргетолога с нуля: чем занимается специалист по таргетированной рекламе, как устроены рекламные кампании, какие метрики нужно смотреть и как подготовиться к первой работе или первым клиентам.</p><p>Я объясняю таргетированную рекламу как рабочий процесс: задача бизнеса, аудитория, оффер, креатив, кампания, тест, данные и решение. Интерфейсы рекламных кабинетов меняются, но эта логика остаётся полезной.</p><p>Курс подойдёт новичкам, маркетологам смежных направлений и тем, кто хочет понять профессию до перехода к более глубокой практике.</p>",
+  "sections": [
+    743903,
+    743904,
+    743905,
+    743906,
+    743907,
+    743908,
+    743909,
+    743918
+  ],
+  "total_units": 65,
+  "enrollment": 183097,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183097/edit-info",
+    "edit_syllabus": "/course/183097/edit",
+    "view_statistics": "/course/183097/statistics/",
+    "attachments": "/course/183097/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183097/clone/",
+    "clone_module": "/course/183097/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183097/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183097/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183097",
+  "first_lesson": 2538511,
+  "first_unit": 2577139,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183097/regular",
+  "certificate_distinction_link": "/api/courses/183097/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183097",
+  "schedule_link": "/course/183097/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183097/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183097",
+    "30-78-183097"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183097",
+  "intro_video": {
+    "id": 641127,
+    "thumbnail": "https://cdn.stepik.net/video/641127/thumbnail/995980ac3d5c9e480af9edcd50a83ce6.jpg",
+    "urls": [
+      {
+        "quality": "720",
+        "url": "https://cdn.stepik.net/video/641127/720/977811d5b1a3c782ec0f567d0be09f2e.mp4"
+      },
+      {
+        "quality": "540",
+        "url": "https://cdn.stepik.net/video/641127/540/636579042e8cf0f2fbe49b89c800ea2d.mp4"
+      },
+      {
+        "quality": "360",
+        "url": "https://cdn.stepik.net/video/641127/360/640d0f77ad7507a85ce955adb6addd10.mp4"
+      },
+      {
+        "quality": "240",
+        "url": "https://cdn.stepik.net/video/641127/240/a09be23444918c8533b636232e70e12b.mp4"
+      }
+    ],
+    "duration": 45,
+    "status": "ready",
+    "upload_date": "2026-08-21T17:58:49Z",
+    "filename": "Таргетолог с нуля_ как начать и трудоустроиться.mp4"
+  },
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [
+    182,
+    184,
+    196,
+    197,
+    206,
+    207,
+    209
+  ],
+  "is_enabled": true,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182566,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 6,
+  "lessons_count": 65,
+  "quizzes_count": 70,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183097/continue",
+  "readiness": 1.0,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": "easy",
+  "acquired_skills": [
+    "Понимать, чем занимается таргетолог и как устроена его работа",
+    "Настраивать таргетинг по интересам, поведению и похожим аудиториям",
+    "Собирать структуру рекламной кампании: цели, группы объявлений, бюджеты",
+    "Создавать креативы и объявления, которые реально тестируются, а не просто красиво выглядят",
+    "Читать метрики кампании (CTR, CPC, CPL, CPA, ROI) и принимать решения на основе цифр, а не ощущений",
+    "Собирать портфолио без клиентов и рекламного бюджета",
+    "Писать резюме и проходить собеседование на позицию таргетолога"
+  ],
+  "acquired_assets": [
+    "Пошаговую систему из 7 модулей: от основ профессии до настройки кампаний, аналитики и трудоустройства",
+    "Практические задания на одном сквозном бизнес-кейсе, который вы ведёте через весь курс",
+    "Тест из 10 вопросов после каждого модуля для закрепления материала",
+    "Готовый разбор одного бизнеса, который можно показать на собеседовании как часть портфолио",
+    "Список вопросов реального собеседования на таргетолога от человека, который сам их проводит"
+  ],
+  "learning_format": "<p>Курс состоит из 7 модулей: от того, чем вообще занимается таргетолог, до настройки кампаний, аналитики, портфолио и поиска первой работы или клиентов.</p>\n<p>Каждый модуль устроен одинаково: короткое введение, несколько уроков по теме, практическое задание на сквозном бизнес-кейсе, который вы ведёте через весь курс, и тест из 10 вопросов для закрепления материала.</p>\n<p>Проходить курс можно в своём темпе, возвращаясь к нужному модулю, когда столкнётесь с конкретной задачей на практике.</p>",
+  "content_details": [],
+  "issue": 140457,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": "2026-08-19T10:15:59.047Z",
+  "became_paid_at": null,
+  "title_en": "Targeting Specialist: From Zero to Your First Job",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": true,
+  "canonical_url": "https://stepik.org/course/183097/",
+  "title": "Профессия таргетолог: с нуля до первой работы",
+  "slug": "Профессия-таргетолог-с-нуля-до-первой-работы-183097",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:41:12Z",
+  "update_date": "2026-08-25T12:23:28Z",
+  "learners_group": 7309397,
+  "testers_group": 7309398,
+  "moderators_group": 7309399,
+  "assistants_group": 7309400,
+  "teachers_group": 7309395,
+  "admins_group": 7309396,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183097-1",
+  "discussion_threads": [
+    "78-183097-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

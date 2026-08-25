@@ -1,0 +1,275 @@
+{
+  "id": 297305,
+  "summary": "Хотите принимать решения на данных, а не на глаз? Я — Head of User Acquisition с 12-летним опытом, каждый день работаю с отчётами и цифрами. В этом бесплатном курсе — с нуля разберём аналитику: от ключевых метрик и настройки Яндекс.Метрики и Google Analytics до поиска инсайтов и постановки A/B-тестов. Примеры — реальные цифры из аналитики cleanor.app, а не выдуманные таблицы.",
+  "workload": "2-3 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/297305/cover_peSCJtH/086b6ed08c257d40299f390074e2e7a3.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Курс подойдёт маркетологам, которые хотят перестать гадать по цифрам и начать принимать решения на данных, начинающим аналитикам, и всем, кто в работе сталкивается с отчётами Яндекс.Метрики, Google Analytics или Excel-таблицами.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": 0,
+  "certificate_distinction_threshold": 0,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Компьютер с доступом в интернет. Специальных знаний статистики или опыта работы с аналитикой не требуется — курс подходит и тем, кто впервые открывает отчёт.</p>",
+  "description": "<p>Данные есть почти у всех, но решения на их основе принимают не всегда. Часто цифру просто смотрят и гадают, хорошая она или плохая. В курсе разберём аналитику так, чтобы вы могли связать метрику с вопросом бизнеса.</p><p>Курс даёт вводную карту маркетинговой аналитики: трафик, конверсия, стоимость результата, отчёт, вывод и рекомендация. Главная задача - научиться не просто считать показатели, а понимать, что они говорят о работе канала.</p><p>Курс подойдёт новичкам, маркетологам и предпринимателям, которые хотят перейти от ощущения «что-то происходит» к аккуратному первому отчёту.</p>",
+  "sections": [
+    745186,
+    745187,
+    745188,
+    745189,
+    745190,
+    745191,
+    745192
+  ],
+  "total_units": 27,
+  "enrollment": 297305,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/297305/edit-info",
+    "edit_syllabus": "/course/297305/edit",
+    "view_statistics": "/course/297305/statistics/",
+    "attachments": "/course/297305/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/297305/clone/",
+    "clone_module": "/course/297305/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/297305/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/297305/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-297305",
+  "first_lesson": 2543728,
+  "first_unit": 2582377,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/297305/regular",
+  "certificate_distinction_link": "/api/courses/297305/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/297305",
+  "schedule_link": "/course/297305/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/297305/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-297305",
+    "30-78-297305"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-297305",
+  "intro_video": {
+    "id": 641188,
+    "thumbnail": "https://cdn.stepik.net/video/641188/thumbnail/be5abc0c151718a0e685d2c04ca991b3.jpg",
+    "urls": [
+      {
+        "quality": "720",
+        "url": "https://cdn.stepik.net/video/641188/720/72dc7108aee325467b48a888ab06b075.mp4"
+      },
+      {
+        "quality": "540",
+        "url": "https://cdn.stepik.net/video/641188/540/27ebc2c2624eb2d545ce107f10a6f5e2.mp4"
+      },
+      {
+        "quality": "360",
+        "url": "https://cdn.stepik.net/video/641188/360/f826cd74fdc773a8224d3ef979ef3936.mp4"
+      },
+      {
+        "quality": "240",
+        "url": "https://cdn.stepik.net/video/641188/240/da2e6a8be99256c8f5385459e772dac3.mp4"
+      }
+    ],
+    "duration": 36,
+    "status": "ready",
+    "upload_date": "2026-08-22T16:53:48Z",
+    "filename": "Ключевые метрики и аналитика в маркетинге (1).mp4"
+  },
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [
+    206,
+    207,
+    220,
+    221,
+    1,
+    82,
+    83,
+    86
+  ],
+  "is_enabled": true,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 296477,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 8,
+  "lessons_count": 27,
+  "quizzes_count": 50,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/297305/continue",
+  "readiness": 1.0,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": "easy",
+  "acquired_skills": [
+    "Понимать ключевые метрики маркетинга: CTR, CPC, CPA, CR, ROI",
+    "Настраивать счётчик и цели в Яндекс.Метрике",
+    "Ориентироваться в Google Analytics 4 и находить нужные отчёты",
+    "Сводить данные в Excel и строить сводные таблицы",
+    "Читать отчёт по трафику и объяснять, что стоит за цифрами",
+    "Находить инсайты в данных и формулировать проверяемые гипотезы",
+    "Ставить A/B-тест и корректно оценивать его результат"
+  ],
+  "acquired_assets": [
+    "Рабочий словарь метрик: CTR, CPC, CPA, CR, ROI — без путаницы в формулах",
+    "Умение читать отчёт по трафику, не обманываясь первой попавшейся цифрой",
+    "Понимание, как разные модели атрибуции меняют картину эффективности каналов",
+    "Навык ставить A/B-тест и корректно оценивать его результат"
+  ],
+  "learning_format": "<p>Курс состоит из пяти модулей: основы аналитики, инструменты, отчёты и метрики, инсайты и гипотезы, эксперименты. Уроки короткие — по 5-10 минут, без воды.</p><p>Все примеры и цифры в уроках — реальные данные из аналитики cleanor.app, а не абстрактные иллюстрации. После каждого модуля — тест на 10 вопросов, чтобы закрепить материал перед следующим.</p>",
+  "content_details": [],
+  "issue": 254368,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": true,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": "2026-08-22T03:01:44.169Z",
+  "became_paid_at": null,
+  "title_en": "Marketing Analytics: from scratch to the first report",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": true,
+  "canonical_url": "https://stepik.org/course/297305/",
+  "title": "Маркетинговая аналитика: с нуля до первого отчёта",
+  "slug": "Маркетинговая-аналитика-с-нуля-до-первого-отчёта-297305",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "halved",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "halved",
+  "is_active": true,
+  "create_date": "2026-08-22T03:01:44Z",
+  "update_date": "2026-08-25T12:23:39Z",
+  "learners_group": 16649619,
+  "testers_group": 16649620,
+  "moderators_group": 16649621,
+  "assistants_group": 16649622,
+  "teachers_group": 16649617,
+  "admins_group": 16649618,
+  "discussions_count": 0,
+  "discussion_proxy": "78-297305-1",
+  "discussion_threads": [
+    "78-297305-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

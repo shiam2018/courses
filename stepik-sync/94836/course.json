@@ -1,0 +1,269 @@
+{
+  "id": 94836,
+  "summary": "Что такое интернет-маркетинг на самом деле и из чего он состоит: SEO, SMM, таргет, контекст, email и репутация. Я — Head of User Acquisition с 12-летним опытом, каждый день работаю на стыке этих каналов. Покажу карту всей системы: что за чем стоит и как каналы работают вместе — без обещаний сделать из вас специалиста по каждому из них за пару часов.",
+  "workload": "1.5-2 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/94836/cover_fQhi0Xm/40b302370667f5121aac9c0a7ba224ff.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Курс подойдёт тем, кто только начинает разбираться в интернет-маркетинге и хочет получить общую карту вместо отрывочных фактов, руководителям, которые хотят понимать, чем занимаются их маркетологи и подрядчики, и всем, кто выбирает, в какую специализацию пойти дальше.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Компьютер с доступом в интернет. Специальных знаний не требуется — курс для тех, кто раньше не сталкивался с интернет-маркетингом или только начинает.</p>",
+  "description": "<p>Этот курс помогает собрать первую карту интернет-маркетинга: какие каналы бывают, чем они отличаются, как человек проходит путь от первого касания до заявки или покупки, и какие метрики показывают, что происходит на каждом этапе.</p><p>Я не пытаюсь научить всем инструментам сразу. На старте важнее другое: понять, как связаны SEO, контекст, таргет, SMM, email, аналитика и продажи, чтобы не выбирать канал наугад и не путать охват с результатом.</p><p>Курс подойдёт новичкам, предпринимателям и специалистам смежных ролей, которым нужна спокойная вводная точка перед углублением в отдельные направления.</p>",
+  "sections": [
+    745195,
+    745196,
+    745197,
+    745198,
+    745199,
+    745200
+  ],
+  "total_units": 21,
+  "enrollment": 94836,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/94836/edit-info",
+    "edit_syllabus": "/course/94836/edit",
+    "view_statistics": "/course/94836/statistics/",
+    "attachments": "/course/94836/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/94836/clone/",
+    "clone_module": "/course/94836/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/94836/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/94836/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-94836",
+  "first_lesson": 2543760,
+  "first_unit": 2582409,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/94836/regular",
+  "certificate_distinction_link": "/api/courses/94836/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/94836",
+  "schedule_link": "/course/94836/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/94836/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-94836",
+    "30-78-94836"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-94836",
+  "intro_video": {
+    "id": 641165,
+    "thumbnail": "https://cdn.stepik.net/video/641165/thumbnail/4c962c29673d331d2d88747e70cc5900.jpg",
+    "urls": [
+      {
+        "quality": "720",
+        "url": "https://cdn.stepik.net/video/641165/720/d6b2d0f86a14834bf2d790baf9d578e5.mp4"
+      },
+      {
+        "quality": "540",
+        "url": "https://cdn.stepik.net/video/641165/540/b32cb5d6163cd4a0225809c4adb0aebc.mp4"
+      },
+      {
+        "quality": "360",
+        "url": "https://cdn.stepik.net/video/641165/360/527b4dc884cc929c225deb2ff01d3232.mp4"
+      },
+      {
+        "quality": "240",
+        "url": "https://cdn.stepik.net/video/641165/240/ca9169f207a0759f9af6d8b104c0c890.mp4"
+      }
+    ],
+    "duration": 91,
+    "status": "ready",
+    "upload_date": "2026-08-22T09:42:13Z",
+    "filename": "Карта интернет-маркетинга_ каналы, путь клиента, метрики.mp4"
+  },
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [
+    182,
+    206,
+    207
+  ],
+  "is_enabled": true,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 94377,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 3,
+  "lessons_count": 21,
+  "quizzes_count": 40,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/94836/continue",
+  "readiness": 1.0,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Объяснять, что такое интернет-маркетинг и чем он отличается от офлайн-продвижения",
+    "Описывать целевую аудиторию и путь клиента от первого контакта до покупки",
+    "Различать платные, собственные и заслуженные каналы и выбирать подходящий микс",
+    "Понимать, когда работает SEO, а когда контекстная или таргетированная реклама",
+    "Ориентироваться в email-маркетинге и управлении репутацией бренда",
+    "Читать ключевые метрики воронки и оценивать, что в маркетинге действительно работает"
+  ],
+  "acquired_assets": [
+    "Карту из 6 каналов — SEO, SMM, таргет, контекст, email, репутация/digital PR — что каждый решает и когда он не подходит",
+    "Разбор пути клиента: от первого касания до покупки и повторного обращения через email-маркетинг",
+    "Разбор ключевых метрик воронки — от показов до повторной покупки — на реальном примере с сайта cleanor.app",
+    "Базовый словарь терминов, чтобы говорить на одном языке с подрядчиками и командой",
+    "Ориентир, в какую специализацию идти дальше, если конкретный канал зацепит"
+  ],
+  "learning_format": "<p>Курс состоит из четырёх модулей: как устроен интернет-маркетинг, карта каналов, email и репутация, метрики. Уроки короткие и без глубокого how-to по каждому инструменту — это карта местности, а не подробная инструкция.</p><p>После каждого модуля — тест на 10 вопросов. Примеры и цифры — реальные данные с сайта cleanor.app.</p>",
+  "content_details": [],
+  "issue": 52265,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": "2026-08-23T04:12:38.744Z",
+  "became_paid_at": null,
+  "title_en": "Internet marketing database",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": true,
+  "canonical_url": "https://stepik.org/course/94836/",
+  "title": "Интернет-маркетинг с нуля: карта каналов и метрики",
+  "slug": "Интернет-маркетинг-с-нуля-карта-каналов-и-метрики-94836",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2021-03-22T10:21:33Z",
+  "update_date": "2026-08-25T12:22:39Z",
+  "learners_group": 3382461,
+  "testers_group": 3382462,
+  "moderators_group": 3382463,
+  "assistants_group": 3382464,
+  "teachers_group": 3382459,
+  "admins_group": 3382460,
+  "discussions_count": 0,
+  "discussion_proxy": "78-94836-1",
+  "discussion_threads": [
+    "78-94836-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

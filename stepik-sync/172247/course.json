@@ -1,0 +1,251 @@
+{
+  "id": 172247,
+  "summary": "Бесплатный онлайн-курс по SEO от Игоря Шеньшина. Научитесь продвигать сайты в Яндексе и освоите практические навыки оптимизации. Актуально на 2025 год.",
+  "workload": "4 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/172247/cover_mzyTwCu/c1767cd65276d6662b4838fdc10323f1.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Для начинающих SEO-специалистов, студентов, маркетологов, контент-менеджеров, фрилансеров, владельцев сайтов, всех, кто хочет разобраться в SEO и научиться продвигать сайты в Яндексе.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Понимание, что такое веб-сайт и как вносить правки в его содержимое. Все материалы представлены в доступной форме и объясняются пошагово.</p>",
+  "description": "<p>Курс даёт базовое введение в SEO в Яндексе. Разберём, как поисковая система находит страницы, почему важны запросы и интент, что такое техническая доступность, контент, внутренняя структура и внешние сигналы.</p><p>SEO часто объясняют как набор отдельных приёмов. В курсе я стараюсь показать систему: страница должна отвечать на реальный спрос, быть доступной для поисковика, давать понятный ответ пользователю и иметь причины быть выше конкурентов.</p><p>Курс подойдёт владельцам сайтов, начинающим маркетологам, редакторам и специалистам, которые хотят понимать базу SEO перед более глубоким аудитом и контентной стратегией.</p>",
+  "sections": [
+    308577,
+    308578,
+    308579,
+    308580,
+    521756,
+    308583
+  ],
+  "total_units": 39,
+  "enrollment": 172247,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/172247/edit-info",
+    "edit_syllabus": "/course/172247/edit",
+    "view_statistics": "/course/172247/statistics/",
+    "attachments": "/course/172247/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/172247/clone/",
+    "clone_module": "/course/172247/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/172247/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/172247/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-172247",
+  "first_lesson": 940130,
+  "first_unit": 946285,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/172247/regular",
+  "certificate_distinction_link": "/api/courses/172247/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/172247",
+  "schedule_link": "/course/172247/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/172247/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-172247",
+    "30-78-172247"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-172247",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [
+    182,
+    184,
+    195,
+    206,
+    207,
+    211
+  ],
+  "is_enabled": true,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 171716,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 1638,
+  "lessons_count": 39,
+  "quizzes_count": 35,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": 6360,
+  "is_popular": true,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/172247/continue",
+  "readiness": 1.0,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": "easy",
+  "acquired_skills": [
+    "Разберётесь, как работает поисковая система Яндекса и как сайты попадают в топ",
+    "Узнаете, что такое SEO и как оно помогает привлекать трафик",
+    "Научитесь собирать ключевые слова и формировать семантическое ядро",
+    "Сможете создавать технические задания для копирайтеров и писать SEO-тексты",
+    "Поймёте, что такое внутренняя, внешняя и техническая оптимизация",
+    "Познакомитесь с инструментами Яндекса: Вебмастером и Метрикой",
+    "Составите контент-план и организуете работу с блогом",
+    "Освоите работу с AI-инструментами для ускорения SEO-задач",
+    "Настроите аналитику, будете следить за метриками и KPI",
+    "Соберёте собственный мини-проект — блог с семантикой и SEO-статьями"
+  ],
+  "acquired_assets": [
+    "🔧 Практические знания по SEO-продвижению, которые востребованы на рынке и пригодятся при трудоустройстве.",
+    "🧠 Интерактивные задания и тесты для закрепления теории и формирования настоящих навыков.",
+    "🔍 Пошаговый процесс подбора и кластеризации ключевых слов, как это делают профессиональные SEO-специалисты.",
+    "🚀 Алгоритм оптимизации сайта под Яндекс — от внутренней структуры до внешних факторов.",
+    "💬 Полезные советы от автора на основе 15 лет реального опыта: как не терять мотивацию, как искать работу и продвигать себя."
+  ],
+  "learning_format": "<p>Курс построен по принципу \"от простого к сложному\" и подходит даже для тех, кто никогда не работал с SEO.</p>\n\n<p>📌 <strong>Структура курса</strong>:</p>\n\n<ul>\n\t<li><strong>Теория</strong> — короткие и понятные уроки с пояснениями и примерами из практики.</li>\n\t<li><strong>Проверка знаний</strong> — после каждого модуля вас ждут мини-тесты с вопросами и задачами.</li>\n\t<li><strong>Практика</strong> — вы создадите свой блог, подберёте ключевые слова, составите SEO-тексты и подключите инструменты аналитики.</li>\n\t<li><strong>Финальный проект</strong> — соберёте все задания в полноценный SEO-кейс, который можно показать на собеседовании.</li>\n</ul>\n\n<p>🕒 <strong>Гибкий темп</strong><br>\nВы проходите курс в удобное для вас время. Можно учиться по вечерам, на выходных или в обеденный перерыв.</p>\n\n<p>🧠 <strong>Поддержка и мотивация</strong><br>\nВ каждом уроке — доброжелательные подсказки, ссылки на полезные ресурсы и мотивационные напутствия от автора курса.</p>",
+  "content_details": [],
+  "issue": 129607,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": "2025-03-30T14:26:23.318Z",
+  "became_paid_at": null,
+  "title_en": "SEO promotion in Yandex. Free course for beginners.",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": true,
+  "canonical_url": "https://stepik.org/course/172247/",
+  "title": "SEO в Яндексе: Бесплатный курс для начинающих",
+  "slug": "SEO-в-Яндексе-Бесплатный-курс-для-начинающих-172247",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-03-31T18:01:40Z",
+  "update_date": "2026-08-25T12:22:41Z",
+  "learners_group": 6418803,
+  "testers_group": 6418804,
+  "moderators_group": 6418805,
+  "assistants_group": 6418806,
+  "teachers_group": 6418795,
+  "admins_group": 6418796,
+  "discussions_count": 25,
+  "discussion_proxy": "78-172247-1",
+  "discussion_threads": [
+    "78-172247-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}
