@@ -1,0 +1,67 @@
+{
+  "id": 11061964,
+  "lesson": 2543834,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"Что дальше\" height=\"840\" name=\"header-2543834.webp\" src=\"https://stepik.org/media/attachments/course/183079/header-2543834.webp\" width=\"3840\"></p>\n\n<h2>Лучший способ закрепить материал — начать проект</h2>\n\n<p>Курс закрывает теорию и методологию, но вайб-кодинг — навык, который нарабатывается практикой, а не повторным чтением конспекта. Возьмите свою собственную небольшую идею — сайт-визитку, бота, инструмент для личной задачи — и пройдите с ней тот же путь: сформулируйте задачу, разбейте на маленькие шаги, проверяйте каждый, следите за техническим долгом, задеплойте.</p>\n\n<h2>Если застряли</h2>\n\n<p>Возвращайтесь к шпаргалкам промптов в конце каждого урока — они написаны так, чтобы их можно было скопировать и вставить прямо в диалог с агентом, когда столкнётесь с похожей ситуацией на практике.</p>\n\n<h2>Спасибо, что прошли курс</h2>\n\n<p>Удачи в первом собственном проекте — пусть он дойдёт до реальных пользователей.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11061964",
+  "subscriptions": [
+    "31-77-11061964",
+    "30-77-11061964"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041055,
+  "create_date": "2026-08-22T05:07:39Z",
+  "update_date": "2026-08-22T05:07:40Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11061964-1",
+  "discussion_threads": [
+    "77-11061964-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

@@ -1,0 +1,67 @@
+{
+  "id": 11061963,
+  "lesson": 2543833,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"Итоги курса\" height=\"840\" name=\"header-2543833.webp\" src=\"https://stepik.org/media/attachments/course/183079/header-2543833.webp\" width=\"3840\"></p>\n\n<h2>Коротко о пройденном</h2>\n\n<p>Вы прошли путь от «что такое вайб-кодинг» до реального деплоя — четыре модуля:</p>\n\n<ul>\n\t<li><strong>Что такое вайб-кодинг:</strong> когда он реально работает и как AI-агент устроен изнутри</li>\n\t<li><strong>Инструменты:</strong> Claude Code, Codex, Cursor, YandexGPT — и когда какой выбрать</li>\n\t<li><strong>Как работать с агентом:</strong> формулировка задач, маленькие шаги, технический долг</li>\n\t<li><strong>От прототипа к продукту:</strong> реальный кейс, честные расходы, деплой</li>\n</ul>\n\n<h2>Что взять с собой</h2>\n\n<p>Главная мысль курса: инструмент почти не имеет значения без навыка ставить задачу и проверять результат. Названия сервисов сменятся ещё не раз — а привычка формулировать конкретно, двигаться маленькими шагами и явно проверять, что должен продолжать замечать именно человек, останется полезной в любом из них.</p>\n\n<h2>Что дальше?</h2>\n\n<p>Курс пройден — дальше только практика. О том, с чего начать свой первый проект, — в следующем уроке.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11061963",
+  "subscriptions": [
+    "31-77-11061963",
+    "30-77-11061963"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041054,
+  "create_date": "2026-08-22T05:07:38Z",
+  "update_date": "2026-08-22T05:07:39Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11061963-1",
+  "discussion_threads": [
+    "77-11061963-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

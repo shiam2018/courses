@@ -1,0 +1,250 @@
+{
+  "id": 183079,
+  "summary": "Практический курс о вайб-кодинге: как программировать с помощью AI-агентов и создавать рабочие сайты, боты и сервисы без глубокого знания кода. Я каждый день пишу код через Claude Code и Codex — это не пересказ рекламных материалов сервисов, а реальный рабочий процесс, с текстовыми конспектами и готовыми промптами в каждом уроке.",
+  "workload": "1.5-2 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183079/cover_U4Z50YS/550fa830856b1a5cfeb373b9c04ba0f9.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Курс подойдёт тем, кто не пишет код, но хочет самостоятельно собрать сайт, бота или сервис для своей идеи, тем, кто немного умеет программировать и хочет работать быстрее с AI-агентом, и разработчикам, которые хотят понять, как встроить Claude Code или Codex в свой реальный рабочий процесс, а не только для игрушечных примеров.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Компьютер с доступом в интернет. Специальных знаний программирования не требуется. Часть инструментов (Claude Code, Codex, Cursor) платные или условно-бесплатные — актуальные цены нужно проверять на сайтах сервисов, курс не полагается на конкретные тарифы.</p>",
+  "description": "<p>Большинство курсов про AI-кодинг устроены так: видео с демонстрацией интерфейса, который через полгода переименуют, и ни одного текстового конспекта, чтобы вернуться и вспомнить нужный промпт. Этот курс — иначе: текст, который можно перечитать, и шпаргалка готовых промптов в каждом уроке.</p>\n\n<p>Я — Игорь Шеньшин, каждый день программирую через AI-агентов — это моя реальная рабочая практика, а не разовый эксперимент для курса. Сайт cleanor.app и вся экосистема вокруг него, личный сайт shenshin.co — всё построено через вайб-кодинг. Тем же способом на основной работе я каждый день создаю рекламные креативы и веду отчётность по закупке трафика — это часть моего обычного рабочего процесса, а не хобби на выходных.</p>\n\n<p>Курс — про принципы работы с AI-агентом (как ставить задачу, как итерировать, как проверять результат и не утонуть в техническом долге), а не про конкретные пункты меню конкретного сервиса — такие детали устаревают быстрее, чем читатель успевает пройти курс.</p>",
+  "sections": [
+    745204,
+    745205,
+    745206,
+    745207,
+    745208,
+    745209
+  ],
+  "total_units": 23,
+  "enrollment": 183079,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183079/edit-info",
+    "edit_syllabus": "/course/183079/edit",
+    "view_statistics": "/course/183079/statistics/",
+    "attachments": "/course/183079/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183079/clone/",
+    "clone_module": "/course/183079/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183079/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183079/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183079",
+  "first_lesson": 2543812,
+  "first_unit": 2582461,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183079/regular",
+  "certificate_distinction_link": "/api/courses/183079/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183079",
+  "schedule_link": "/course/183079/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183079/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183079",
+    "30-78-183079"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183079",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [
+    1,
+    55,
+    82,
+    91,
+    96,
+    248,
+    264,
+    396
+  ],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182548,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 23,
+  "quizzes_count": 40,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183079/continue",
+  "readiness": 0.9090909090909091,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": "easy",
+  "acquired_skills": [
+    "Понимать, что такое вайб-кодинг и когда он реально экономит время, а когда мешает",
+    "Ставить задачу AI-агенту так, чтобы получить рабочий, а не выдуманный код",
+    "Работать с Claude Code, Codex, Cursor и понимать, когда какой инструмент уместен",
+    "Вести итеративную разработку маленькими проверяемыми шагами",
+    "Замечать технический долг, который агент не видит сам, и вовремя вмешиваться",
+    "Довести проект от прототипа до задеплоенной рабочей версии"
+  ],
+  "acquired_assets": [
+    "Понимание, когда вайб-кодинг реально экономит время, а когда создаёт больше проблем, чем решает",
+    "Шпаргалку готовых промптов на каждый этап разработки — от постановки задачи до деплоя",
+    "Чек-лист вопросов о техническом долге, которые стоит задавать агенту самому",
+    "Разбор реального проекта (cleanor.app) целиком — от первой идеи до продукта с пользователями"
+  ],
+  "learning_format": "<p>Курс состоит из четырёх модулей: что такое вайб-кодинг, инструменты, как работать с агентом, от прототипа к продукту. Уроки короткие и текстовые — без видео с устаревающим интерфейсом.</p><p>Каждый урок заканчивается блоком «Готовые промпты» — шаблонами, которые можно сразу использовать в диалоге с агентом. После каждого модуля — тест на 10 вопросов. Сквозной пример курса — реальный проект cleanor.app, построенный через вайб-кодинг.</p>",
+  "content_details": [],
+  "issue": 140439,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Introduction to Copywriting",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183079/",
+  "title": "Вайб-кодинг: как программировать с AI без знания кода",
+  "slug": "Вайб-кодинг-как-программировать-с-AI-без-знания-кода-183079",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:28:26Z",
+  "update_date": "2026-08-25T03:10:36Z",
+  "learners_group": 7309199,
+  "testers_group": 7309200,
+  "moderators_group": 7309201,
+  "assistants_group": 7309202,
+  "teachers_group": 7309197,
+  "admins_group": 7309198,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183079-1",
+  "discussion_threads": [
+    "78-183079-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

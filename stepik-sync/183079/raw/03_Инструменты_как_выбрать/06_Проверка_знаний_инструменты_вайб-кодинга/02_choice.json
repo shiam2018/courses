@@ -1,0 +1,101 @@
+{
+  "id": 11061913,
+  "lesson": 2543822,
+  "position": 2,
+  "status": "ready",
+  "block": {
+    "name": "choice",
+    "text": "<h2><strong>Где запускается Claude Code и почему это важно?</strong></h2>",
+    "video": null,
+    "options": {
+      "is_multiple_choice": false
+    },
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {
+      "is_multiple_choice": false,
+      "is_always_correct": false,
+      "sample_size": 4,
+      "preserve_order": false,
+      "is_html_enabled": true,
+      "is_options_feedback": false,
+      "options": [
+        {
+          "is_correct": false,
+          "text": "В браузере, без доступа к файлам проекта",
+          "feedback": ""
+        },
+        {
+          "is_correct": true,
+          "text": "В командной строке внутри папки проекта — агент видит всю структуру файлов и может работать с ними напрямую",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Только на мобильных устройствах",
+          "feedback": ""
+        },
+        {
+          "is_correct": false,
+          "text": "Внутри почтового клиента",
+          "feedback": ""
+        }
+      ]
+    },
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "edit_instructions": "#",
+    "submit": "#",
+    "comment": "#"
+  },
+  "progress": "77-11061913",
+  "subscriptions": [
+    "31-77-11061913",
+    "30-77-11061913"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041004,
+  "create_date": "2026-08-22T05:02:10Z",
+  "update_date": "2026-08-22T05:02:10Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11061913-1",
+  "discussion_threads": [
+    "77-11061913-1",
+    "77-11061913-2"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

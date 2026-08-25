@@ -1,0 +1,67 @@
+{
+  "id": 11061892,
+  "lesson": 2543813,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"Что будет в модуле «Что такое вайб-кодинг»\" height=\"840\" name=\"header-2543813.webp\" src=\"https://stepik.org/media/attachments/course/183079/header-2543813.webp\" width=\"3840\"></p>\n\n<h2>Что будет в модуле?</h2>\n\n<p>Прежде чем сравнивать конкретные инструменты, полезно понять саму идею: что происходит, когда вы поручаете написание кода AI-агенту, и почему это иногда работает блестяще, а иногда — нет.</p>\n\n<ol>\n\t<li><strong>Что такое вайб-кодинг</strong> и когда он реально работает, а когда лучше писать код самому</li>\n\t<li><strong>Как думает AI-агент:</strong> контекст, инструменты, ограничения — то, что не меняется от смены сервиса</li>\n</ol>\n\n<p>После модуля — тест на 10 вопросов.</p>\n\n<h2>Почему начинаем не с инструментов</h2>\n\n<p>Инструменты (Claude Code, Codex, Cursor) меняются каждые несколько месяцев: переименовываются, обновляют интерфейс. Принципы работы с AI-агентом — нет. Этот модуль про то, что останется верным, даже когда очередной сервис поменяет название кнопки.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11061892",
+  "subscriptions": [
+    "31-77-11061892",
+    "30-77-11061892"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11040983,
+  "create_date": "2026-08-22T04:58:39Z",
+  "update_date": "2026-08-22T04:58:39Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11061892-1",
+  "discussion_threads": [
+    "77-11061892-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

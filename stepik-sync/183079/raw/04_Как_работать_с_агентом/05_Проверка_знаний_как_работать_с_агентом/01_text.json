@@ -1,0 +1,67 @@
+{
+  "id": 11061936,
+  "lesson": 2543827,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"Проверка знаний: как работать с агентом\" height=\"840\" name=\"header-2543827.webp\" src=\"https://stepik.org/media/attachments/course/183079/header-2543827.webp\" width=\"3840\"></p>\n\n<h2>Проверьте себя</h2>\n\n<p>10 вопросов по модулю «Как работать с агентом» — формулировка задач, итеративная разработка и технический долг.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11061936",
+  "subscriptions": [
+    "31-77-11061936",
+    "30-77-11061936"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11041027,
+  "create_date": "2026-08-22T05:04:23Z",
+  "update_date": "2026-08-22T05:04:23Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11061936-1",
+  "discussion_threads": [
+    "77-11061936-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

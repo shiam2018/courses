@@ -1,0 +1,67 @@
+{
+  "id": 11061895,
+  "lesson": 2543816,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"Проверка знаний: что такое вайб-кодинг\" height=\"840\" name=\"header-2543816.webp\" src=\"https://stepik.org/media/attachments/course/183079/header-2543816.webp\" width=\"3840\"></p>\n\n<h2>Проверьте себя</h2>\n\n<p>10 вопросов по модулю «Что такое вайб-кодинг» — определение, когда он работает, и как думает AI-агент.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11061895",
+  "subscriptions": [
+    "31-77-11061895",
+    "30-77-11061895"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11040986,
+  "create_date": "2026-08-22T04:59:21Z",
+  "update_date": "2026-08-22T04:59:21Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11061895-1",
+  "discussion_threads": [
+    "77-11061895-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}

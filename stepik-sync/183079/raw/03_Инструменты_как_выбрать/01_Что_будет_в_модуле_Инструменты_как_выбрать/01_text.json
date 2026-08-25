@@ -1,0 +1,67 @@
+{
+  "id": 11061907,
+  "lesson": 2543817,
+  "position": 1,
+  "status": "ready",
+  "block": {
+    "name": "text",
+    "text": "<p><img alt=\"Что будет в модуле «Инструменты: как выбрать»\" height=\"840\" name=\"header-2543817.webp\" src=\"https://stepik.org/media/attachments/course/183079/header-2543817.webp\" width=\"3840\"></p>\n\n<h2>Что будет в модуле?</h2>\n\n<p>Четыре инструмента, каждый со своей логикой работы. Задача не в том, чтобы выучить их все одновременно, а в том, чтобы понимать, чем они отличаются, и осознанно выбрать один для старта.</p>\n\n<ol>\n\t<li><strong>Claude Code:</strong> агент в терминале для реальных проектов — мой основной рабочий инструмент</li>\n\t<li><strong>Codex:</strong> второй подход от OpenAI и когда он лучше подходит</li>\n\t<li><strong>Cursor:</strong> вводное в AI-кодинг внутри привычной среды разработки</li>\n\t<li><strong>YandexGPT для кодинга:</strong> когда это разумный выбор</li>\n</ol>\n\n<p>После модуля — тест на 10 вопросов.</p>\n\n<h2>Важная оговорка</h2>\n\n<p>Названия функций и интерфейсы этих сервисов будут меняться — так уже было не раз. Уроки модуля описывают принципы работы каждого инструмента, а не конкретные пункты меню: это то, что останется актуальным дольше пары месяцев.</p>\n",
+    "video": null,
+    "options": {},
+    "subtitle_files": [],
+    "is_deprecated": false,
+    "source": {},
+    "subtitles": {},
+    "tests_archive": null,
+    "feedback_correct": "",
+    "feedback_wrong": ""
+  },
+  "actions": {
+    "comment": "#"
+  },
+  "progress": "77-11061907",
+  "subscriptions": [
+    "31-77-11061907",
+    "30-77-11061907"
+  ],
+  "instruction": null,
+  "session": null,
+  "instruction_type": null,
+  "viewed_by": 0,
+  "passed_by": 0,
+  "correct_ratio": null,
+  "worth": 0,
+  "is_solutions_unlocked": false,
+  "solutions_unlocked_attempts": 3,
+  "has_submissions_restrictions": false,
+  "max_submissions_count": 3,
+  "variation": 1,
+  "variations_count": 1,
+  "is_enabled": true,
+  "needs_plan": null,
+  "num_grades": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "user_step_grade": null,
+  "user_step_vote": null,
+  "step_issue": 11040998,
+  "create_date": "2026-08-22T05:01:25Z",
+  "update_date": "2026-08-22T05:01:25Z",
+  "discussions_count": 0,
+  "discussion_proxy": "77-11061907-1",
+  "discussion_threads": [
+    "77-11061907-1"
+  ],
+  "reason_of_failure": "",
+  "error": {
+    "text": "",
+    "code": "",
+    "params": {}
+  },
+  "warnings": [],
+  "cost": 0
+}
