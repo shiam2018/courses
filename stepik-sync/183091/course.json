@@ -1,0 +1,228 @@
+{
+  "id": 183091,
+  "summary": "Практика поверх основ из бесплатного курса «Creative Production»: один сквозной проект — от брифа на рекламную кампанию до отчёта по результатам теста. Как ставить задачу команде, организовывать продакшн, тестировать несколько концепций и защищать результат перед бизнесом, а не рисовать креативы самому.",
+  "workload": "3-4 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183091/cover_Maj3wL1/b5c88afd6207a189e0c39bfef2f73617.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Курс подойдёт тем, кто прошёл бесплатный курс «Creative Production» (или владеет материалом на его уровне) и хочет вырасти из исполнителя в продюсера — организовывать процесс создания креативов, а не только рисовать их самостоятельно.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Базовое понимание метрик креатива (CTR, CVR) и того, чем дизайн отличается от рекламного креатива. Это даёт бесплатный курс «Creative Production» — пройдите его сначала, если этого пока нет.</p>",
+  "description": "<p>Бесплатный курс «Creative Production» даёт базу: метрики CTR и CVR, разницу дизайна и креатива, честные подходы к разным категориям продукта. Продюсер креативов — другая роль: не рисует сам, а организует процесс так, чтобы команда стабильно выдавала работающие креативы в срок. Этот курс — про то, как устроена именно эта работа.</p>\n\n<p>Я руковожу направлением User Acquisition и каждый день ставлю задачи на креативы, читаю результаты тестов и защищаю решения по бюджету перед руководством. Курс построен как один сквозной проект: реальный бриф → организация продакшена → тестирование → отчёт с результатом.</p>\n\n<h3><strong>Что вы получите</strong></h3>\n\n<ul>\n\t<li>Разобранный бриф и стратегию для реальной рекламной кампании</li>\n\t<li>Систему постановки задач команде, которая не превращается в бесконечные правки</li>\n\t<li>План теста нескольких концепций и понимание, как читать его результаты</li>\n\t<li>Навык давать обратную связь дизайнеру, которая улучшает работу, а не демотивирует</li>\n\t<li>Отчёт по результатам, который можно показать руководителю или клиенту</li>\n</ul>\n\n<h3><strong>Что дальше</strong></h3>\n\n<p>Этот курс — часть большой программы <strong>«Интернет-Маркетолог: Старт Карьеры»</strong>. Если захотите освоить остальные каналы маркетинга — по промокоду <strong>CAREERSTART</strong> вход в полный курс дешевле на 3000 ₽.</p>",
+  "sections": [
+    745936,
+    745937,
+    745938,
+    745939,
+    745940,
+    745941,
+    745942
+  ],
+  "total_units": 24,
+  "enrollment": 183091,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": true
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": true
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183091/edit-info",
+    "edit_syllabus": "/course/183091/edit",
+    "view_statistics": "/course/183091/statistics/",
+    "attachments": "/course/183091/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183091/clone/",
+    "clone_module": "/course/183091/clone-module/",
+    "edit_certificates": "#",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183091/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183091/transfer/",
+    "view_revenue": {
+      "enabled": true
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": true
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183091",
+  "first_lesson": 2546495,
+  "first_unit": 2585174,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183091/regular",
+  "certificate_distinction_link": "/api/courses/183091/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183091",
+  "schedule_link": "/course/183091/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183091/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183091",
+    "30-78-183091"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183091",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182560,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 24,
+  "quizzes_count": 0,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": true,
+  "price": "5900.00",
+  "currency_code": "RUB",
+  "display_price": "5900 ₽",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183091/continue",
+  "readiness": 0.7272727272727273,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Разбирать бриф на кампанию и формулировать креативную стратегию",
+    "Ставить задачу дизайнеру или видеографу так, чтобы получить нужный результат с первого раза",
+    "Планировать и запускать тест нескольких концепций креативов",
+    "Давать обратную связь, которая улучшает работу команды, а не демотивирует",
+    "Оформлять результаты в отчёт с рекомендацией для руководителя или клиента"
+  ],
+  "acquired_assets": [],
+  "learning_format": "<p>Курс построен на практике поверх основ бесплатного курса «Creative Production»: разбор брифа, организация продакшена, тестирование концепций, работа с командой и отчёт по результатам — на реальном или выбранном вами проекте, а не на абстрактном примере.</p>",
+  "content_details": [],
+  "issue": 140451,
+  "course_type": "basic_paid",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "The profession of motion designer.",
+  "last_update_price_date": "2026-08-24T08:55:55.506Z",
+  "learners_limit": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183091/",
+  "title": "Профессия креативный продюсер в маркетинге",
+  "slug": "Профессия-креативный-продюсер-в-маркетинге-183091",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:39:19Z",
+  "update_date": "2026-08-24T09:06:48Z",
+  "learners_group": 7309361,
+  "testers_group": 7309362,
+  "moderators_group": 7309363,
+  "assistants_group": 7309364,
+  "teachers_group": 7309359,
+  "admins_group": 7309360,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183091-1",
+  "discussion_threads": [
+    "78-183091-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

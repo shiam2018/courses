@@ -1,0 +1,228 @@
+{
+  "id": 183077,
+  "summary": "Практический курс поверх основ аналитики: не теория метрик, а сборка настоящего дашборда и отчёта с рекомендацией на реальных данных cleanor.app. Для тех, кто уже прошёл бесплатные курсы «Маркетинговая аналитика» и «Excel с нуля» (или знает материал на их уровне) и хочет разобрать полный цикл: от вопроса бизнеса до защищённого перед руководителем решения.",
+  "workload": "3-4 часа",
+  "cover": null,
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Курс подойдёт тем, кто уже прошёл бесплатные курсы «Маркетинговая аналитика» и «Excel с нуля» (или владеет материалом на их уровне: метрики, GA4/Метрика, ВПР, сводные таблицы) и хочет практики — собрать реальный дашборд и отчёт с рекомендацией, а не выучить ещё одну формулу.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Уверенное владение основами: ключевые метрики (CTR, CPA, ROI), базовая работа с Google Analytics 4 или Яндекс.Метрикой, формулы и сводные таблицы Excel. Это ровно то, что дают бесплатные курсы «Маркетинговая аналитика» и «Excel с нуля» — пройдите их сначала, если этого пока нет.</p>",
+  "description": "<p>Бесплатные курсы «Маркетинговая аналитика» и «Excel с нуля» разбирают метрики, формулы, ВПР и сводные таблицы по отдельности. Здесь — как это выглядит одним целым: реальный вопрос бизнеса → сбор и очистка данных → дашборд → отчёт с конкретной рекомендацией → защита решения перед тем, кто задаёт неудобные вопросы.</p>\n\n<p>Я — Игорь Шеньшин, руковожу направлением User Acquisition, и каждую неделю прохожу этот же цикл на реальных данных cleanor.app. В курсе — тот же датасет, что и в бесплатных курсах, но глубже: больше каналов, больше периодов для сравнения, и настоящий вопрос без заранее известного ответа.</p>\n\n<h3><strong>Что вы получите</strong></h3>\n\n<ul>\n\t<li>Собранный своими руками дашборд на реальных данных, который можно показать в портфолио</li>\n\t<li>Написанный отчёт с рекомендацией — не набор графиков, а обоснованный ответ на вопрос бизнеса</li>\n\t<li>Разбор реального продолжения истории из бесплатного курса «Маркетинговая аналитика» — куда делся трафик и что с этим делать</li>\n\t<li>Чек-лист вопросов, которые задаёт руководитель, когда не верит графику на слово, и как на них отвечать</li>\n\t<li>Практику на каждом модуле поверх одного сквозного датасета, а не разрозненные примеры</li>\n</ul>\n\n<h3><strong>Что дальше</strong></h3>\n\n<p>Этот курс — часть большой программы <strong>«Интернет-Маркетолог: Старт Карьеры»</strong>. Если после него захотите освоить остальные каналы маркетинга и собрать полное портфолио — по промокоду <strong>CAREERSTART</strong> вход в полный курс дешевле на 3000 ₽.</p>",
+  "sections": [
+    745795,
+    745796,
+    745797,
+    745798,
+    745799,
+    745800,
+    745801
+  ],
+  "total_units": 24,
+  "enrollment": 183077,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": true
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": true
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183077/edit-info",
+    "edit_syllabus": "/course/183077/edit",
+    "view_statistics": "/course/183077/statistics/",
+    "attachments": "/course/183077/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183077/clone/",
+    "clone_module": "/course/183077/clone-module/",
+    "edit_certificates": "#",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183077/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183077/transfer/",
+    "view_revenue": {
+      "enabled": true
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": true
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183077",
+  "first_lesson": 2545898,
+  "first_unit": 2584578,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183077/regular",
+  "certificate_distinction_link": "/api/courses/183077/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183077",
+  "schedule_link": "/course/183077/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183077/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183077",
+    "30-78-183077"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183077",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182546,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 24,
+  "quizzes_count": 0,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": true,
+  "price": "5900.00",
+  "currency_code": "RUB",
+  "display_price": "5900 ₽",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183077/continue",
+  "readiness": 0.6363636363636364,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Переводить вопрос бизнеса в конкретный набор метрик для анализа",
+    "Собирать данные из нескольких периодов и каналов в единый дашборд",
+    "Строить отчёт, который отвечает на вопрос, а не просто показывает цифры",
+    "Формулировать рекомендацию с конкретной цифрой и обоснованием",
+    "Отвечать на возражения к своим выводам, а не просто верить графику"
+  ],
+  "acquired_assets": [],
+  "learning_format": "<p>Курс построен вокруг одного сквозного проекта на реальных данных cleanor.app: пять модулей ведут от вопроса бизнеса до защищённого решения. В каждом модуле — практическое задание на реальном датасете, не тест с вариантами ответов.</p><p>Курс не повторяет основы бесплатных курсов — сразу начинается с практики поверх них.</p>",
+  "content_details": [],
+  "issue": 140437,
+  "course_type": "basic_paid",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Introduction to Web Analytics",
+  "last_update_price_date": "2026-08-24T06:40:01.520Z",
+  "learners_limit": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183077/",
+  "title": "Аналитика для маркетолога: дашборд и отчёт для решения",
+  "slug": "Аналитика-для-маркетолога-дашборд-и-отчёт-для-решения-183077",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:25:47Z",
+  "update_date": "2026-08-24T06:51:55Z",
+  "learners_group": 7309169,
+  "testers_group": 7309170,
+  "moderators_group": 7309171,
+  "assistants_group": 7309172,
+  "teachers_group": 7309167,
+  "admins_group": 7309168,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183077-1",
+  "discussion_threads": [
+    "78-183077-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

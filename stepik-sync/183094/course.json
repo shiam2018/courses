@@ -1,0 +1,241 @@
+{
+  "id": 183094,
+  "summary": "Практический курс по Excel: формулы и ссылки, ВПР и ИНДЕКС+ПОИСКПОЗ, сводные таблицы и диаграммы — темы, которые в большинстве вводных курсов остаются нераскрытыми. Я — Head of User Acquisition, каждый день свожу отчёты по рекламным кампаниям в Excel. В курсе — скачиваемый файл-тренажёр с реальными данными и тест после каждого модуля.",
+  "workload": "2-2.5 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183094/cover_eBoZEbC/e3d91f474a72ea1a7b3e6585c0513853.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Курс подойдёт офисным сотрудникам и менеджерам, которые работают с таблицами каждый день, предпринимателям и фрилансерам, которые хотят упростить работу с цифрами, и всем, кто уже умеет писать СУММ, но хочет разобраться в ВПР, сводных таблицах и диаграммах.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Установленный Microsoft Excel или Google Таблицы. Нужно уметь писать простую формулу вроде СУММ и понимать, что такое ячейка и лист — курс начинается сразу с практики.</p>",
+  "description": "<p>Многие вводные курсы по Excel останавливаются на СУММ и СРЗНАЧ, а самые полезные темы — ВПР и сводные таблицы — оставляют «на потом». Этот курс идёт дальше: разбирает именно то, без чего Excel не станет рабочим инструментом, а не просто калькулятором.</p>\n\n<p>Я — Игорь Шеньшин, руковожу направлением User Acquisition и каждый день свожу отчёты по рекламным кампаниям в Excel — с реальными таблицами на сотни строк, а не с примерами на пять ячеек. В курсе используется такой же тренировочный датасет: рекламные кампании, расходы, заявки.</p>\n\n<h3><strong>Что дальше</strong></h3>\n\n<p>Если вам интересна аналитика данных глубже, чем формулы Excel — у меня есть отдельный бесплатный курс <strong>«Маркетинговая аналитика: с нуля до первого отчёта»</strong>, где разбираются Яндекс.Метрика, Google Analytics и A/B-тесты.</p>",
+  "sections": [
+    745275,
+    745276,
+    745277,
+    745278,
+    745279,
+    745280,
+    745281
+  ],
+  "total_units": 26,
+  "enrollment": 183094,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183094/edit-info",
+    "edit_syllabus": "/course/183094/edit",
+    "view_statistics": "/course/183094/statistics/",
+    "attachments": "/course/183094/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183094/clone/",
+    "clone_module": "/course/183094/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183094/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183094/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183094",
+  "first_lesson": 2543877,
+  "first_unit": 2582526,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183094/regular",
+  "certificate_distinction_link": "/api/courses/183094/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183094",
+  "schedule_link": "/course/183094/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183094/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183094",
+    "30-78-183094"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183094",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [
+    248,
+    264,
+    266
+  ],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182563,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 26,
+  "quizzes_count": 50,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183094/continue",
+  "readiness": 0.9090909090909091,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Уверенно работать с формулами и абсолютными/относительными ссылками",
+    "Искать данные в других таблицах через ВПР и ИНДЕКС+ПОИСКПОЗ",
+    "Использовать логические формулы: ЕСЛИ, СУММЕСЛИ, СЧЁТЕСЛИ",
+    "Сортировать, фильтровать и выделять данные условным форматированием",
+    "Строить сводные таблицы и группировать в них данные",
+    "Выбирать подходящий тип диаграммы и визуализировать отчёт"
+  ],
+  "acquired_assets": [
+    "Скачиваемый файл-тренажёр с данными для каждого модуля и практическими заданиями",
+    "Реально разобранные ВПР, ИНДЕКС+ПОИСКПОЗ и сводные таблицы — не «мы вернёмся к этому позже»",
+    "Тест на 10 вопросов после каждого модуля — чтобы закрепить, а не просто посмотреть",
+    "Итоговое задание: собрать отчёт с формулами, сводной таблицей и диаграммой вместе"
+  ],
+  "learning_format": "<p>Курс состоит из пяти модулей: формулы и ссылки, текст/даты/поиск данных, логика/сортировка/фильтры, сводные таблицы, диаграммы. К курсу прилагается скачиваемый файл-тренажёр с данными для практики и отдельным листом заданий.</p><p>После каждого модуля — тест на 10 вопросов. Все примеры — на одном сквозном датасете рекламных кампаний, от первой формулы до итогового отчёта.</p>",
+  "content_details": [],
+  "issue": 140454,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Excel: Advanced course.",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183094/",
+  "title": "Excel с нуля: формулы, ВПР и сводные таблицы",
+  "slug": "Excel-с-нуля-формулы-ВПР-и-сводные-таблицы-183094",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:40:16Z",
+  "update_date": "2026-08-22T15:42:02Z",
+  "learners_group": 7309379,
+  "testers_group": 7309380,
+  "moderators_group": 7309381,
+  "assistants_group": 7309382,
+  "teachers_group": 7309377,
+  "admins_group": 7309378,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183094-1",
+  "discussion_threads": [
+    "78-183094-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

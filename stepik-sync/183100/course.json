@@ -1,0 +1,246 @@
+{
+  "id": 183100,
+  "summary": "Как устроена работа тимлида в маркетинге на практике: портрет кандидата и собеседование, встречи 1-1 и индивидуальный план развития, ежедневные стендапы и еженедельные отчёты, виды мотивации и когда какая работает. Я руковожу командой User Acquisition, курс на реальных процессах, а не на теории менеджмента. Подойдёт и тимлидам, и их сотрудникам, которые хотят понимать логику руководителя.",
+  "workload": "2.5-3 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183100/cover_EJnWLjo/f952945d5aa9fd9e8cb5f4d437248c59.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Курс подойдёт действующим и будущим тимлидам в маркетинге, которые хотят выстроить процессы найма, работы с сотрудником и командной коммуникации на практике, а не по теории. И подойдёт рядовым сотрудникам маркетинговых команд, которые хотят понимать логику своего руководителя: почему встречи 1-1 устроены именно так, откуда берётся оценка на ревью и как на самом деле работает мотивация.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Специальных знаний не требуется. Курс будет полезнее тем, кто уже работает в команде (маркетинговой или любой другой) и может сразу сверять разбираемые процессы со своим опытом.</p>",
+  "description": "<p>Про маркетинг обычно учат каналам и метрикам, но не тому, как устроена работа внутри команды, которая всё это делает: как нанимают, как ставят задачи, как проходят встречи один на один, почему кто-то получает бонус, а кто-то нет. Этот курс — про процессы, а не про теорию менеджмента.</p>\n\n<p>Я — Игорь Шеньшин, руковожу направлением User Acquisition, и каждый день провожу то, о чём этот курс: нанимаю, веду встречи 1-1, читаю ежедневные стендапы команды в чате, думаю о мотивации разных ролей. Курс подойдёт действующим и будущим тимлидам, которые хотят выстроить процессы, а не изобретать их с нуля. И подойдёт сотрудникам, которые хотят понять, почему их руководитель делает именно так, а не иначе, что обычно скрыто от команды, но напрямую влияет на их работу.</p>\n\n<h3><strong>Что дальше</strong></h3>\n\n<p>Курс самостоятельный, без привязки к другим программам. Если управление командой окажется вам интересно глубже, чем один курс, ищите практику: лучший способ закрепить материал — попробовать хотя бы одну регулярную встречу 1-1 или один формат стендапа в своей собственной команде.</p>\n\n<p>А если сейчас вы по другую сторону стола — ищете работу, а не нанимаете — у меня есть отдельный бесплатный курс <a href=\"https://stepik.org/course/183103\" rel=\"noopener noreferrer nofollow\">«Собеседование в маркетинге: как получить работу мечты»</a>, где разобран весь процесс найма глазами кандидата.</p>",
+  "sections": [
+    745774,
+    745775,
+    745776,
+    745777,
+    745778,
+    745779
+  ],
+  "total_units": 25,
+  "enrollment": 183100,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183100/edit-info",
+    "edit_syllabus": "/course/183100/edit",
+    "view_statistics": "/course/183100/statistics/",
+    "attachments": "/course/183100/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183100/clone/",
+    "clone_module": "/course/183100/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183100/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183100/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183100",
+  "first_lesson": 2545824,
+  "first_unit": 2584500,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183100/regular",
+  "certificate_distinction_link": "/api/courses/183100/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183100",
+  "schedule_link": "/course/183100/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183100/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183100",
+    "30-78-183100"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183100",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [
+    182,
+    184,
+    193,
+    206,
+    207,
+    248,
+    249,
+    250
+  ],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182569,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 25,
+  "quizzes_count": 40,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183100/continue",
+  "readiness": 0.9090909090909091,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": "normal",
+  "acquired_skills": [
+    "Составлять портрет кандидата и оценивать его на собеседовании",
+    "Проводить встречи 1-1 и регулярные ревью, а не разговоры «для галочки»",
+    "Составлять индивидуальный план развития сотрудника",
+    "Вести командную коммуникацию: ежедневные стендапы, еженедельные отчёты и синки",
+    "Подбирать вид мотивации под конкретную роль, а не действовать шаблоном",
+    "Понимать, чем работа тимлида отличается со стороны руководителя и со стороны сотрудника"
+  ],
+  "acquired_assets": [
+    "Понимание всего цикла найма: портрет кандидата, собеседование, оффер, испытательный срок",
+    "Готовые форматы процессов: встречи 1-1, регулярные ревью, индивидуальный план развития",
+    "Реальный формат командной коммуникации: ежедневный стендап в чат, еженедельный отчёт, синки",
+    "Разбор видов мотивации и того, какая подходит какой роли, а не универсальный совет «мотивируйте деньгами»",
+    "Взгляд на работу тимлида с обеих сторон: что видит руководитель и что видит сотрудник"
+  ],
+  "learning_format": "<p>Курс состоит из четырёх модулей: поиск и найм, работа с сотрудником (постановка задач, 1-1, ревью, обратная связь), командная коммуникация, мотивация.</p><p>После каждого модуля тест на 10 вопросов. Примеры и форматы из реальной практики управления командой User Acquisition, а не общие советы по менеджменту.</p>",
+  "content_details": [],
+  "issue": 140460,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Fundamentals of team motivation.",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183100/",
+  "title": "Тимлид в маркетинге: найм, 1-1, мотивация команды",
+  "slug": "Тимлид-в-маркетинге-найм-1-1-мотивация-команды-183100",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:43:39Z",
+  "update_date": "2026-08-24T06:36:25Z",
+  "learners_group": 7309415,
+  "testers_group": 7309416,
+  "moderators_group": 7309417,
+  "assistants_group": 7309418,
+  "teachers_group": 7309413,
+  "admins_group": 7309414,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183100-1",
+  "discussion_threads": [
+    "78-183100-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

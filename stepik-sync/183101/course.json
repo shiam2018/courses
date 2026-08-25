@@ -1,0 +1,230 @@
+{
+  "id": 183101,
+  "summary": "Бесплатный курс о том, чем занимается продакт-маркетолог: от идеи и MVP до go-to-market стратегии и метрик запуска.",
+  "workload": "2-2.5 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183101/cover_EAzrqU8/2a8a51735cbe86ab6649976a1228cee7.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Маркетологи, которые хотят перейти в продакт-маркетинг, и начинающие продакт-менеджеры, которым важно понимать маркетинговую сторону запуска продукта.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "Базовое понимание маркетинга — например, после курса «Интернет-маркетинг с нуля».",
+  "description": "<p>Продакт-маркетолог стоит на стыке продукта, маркетинга и продаж — переводит то, что создала продуктовая команда, в понятное сообщение для рынка и план запуска. Курс разбирает, из чего состоит эта работа: как устроена разработка продукта от идеи до релиза, что такое MVP и product-market fit, как строится позиционирование и go-to-market стратегия, и какими метриками измеряется успешный запуск.</p><h3><strong>Что вы получите</strong></h3><ul><li>Понимание, чем продакт-маркетинг отличается от product management и от performance-маркетинга</li><li>Разбор этапов разработки продукта — от идеи до релиза — на реальном примере</li><li>Понятия MVP, Proof of Concept и product-market fit не как абстрактные термины, а с примерами</li><li>Подход к позиционированию продукта и выбору каналов запуска</li><li>Базовый набор метрик, которыми оценивается запуск продукта</li></ul><h3><strong>Что дальше</strong></h3><p>Этот курс — часть большой программы <strong>«Интернет-Маркетолог: Старт Карьеры»</strong>: там вы освоите остальные каналы маркетинга и соберёте портфолио. По промокоду <strong>CAREERSTART</strong> вход в полный курс дешевле на 3000 ₽. Если продуктовый маркетинг зацепит сильнее остальных тем, у меня есть отдельный платный курс <strong>«Профессия продакт-маркетолог»</strong> с разбором полного цикла запуска продукта.</p>",
+  "sections": [
+    745947,
+    745948,
+    745949,
+    745950,
+    745951,
+    745952,
+    745953
+  ],
+  "total_units": 24,
+  "enrollment": 183101,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183101/edit-info",
+    "edit_syllabus": "/course/183101/edit",
+    "view_statistics": "/course/183101/statistics/",
+    "attachments": "/course/183101/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183101/clone/",
+    "clone_module": "/course/183101/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183101/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183101/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183101",
+  "first_lesson": 2546540,
+  "first_unit": 2585219,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183101/regular",
+  "certificate_distinction_link": "/api/courses/183101/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183101",
+  "schedule_link": "/course/183101/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183101/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183101",
+    "30-78-183101"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183101",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182570,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 24,
+  "quizzes_count": 50,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183101/continue",
+  "readiness": 0.8181818181818182,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Понимание роли продакт-маркетолога и его места в команде",
+    "Разбор этапов разработки продукта и понятий MVP, PoC, product-market fit",
+    "Основы позиционирования и go-to-market стратегии",
+    "Базовые метрики для оценки успешного запуска"
+  ],
+  "acquired_assets": [],
+  "learning_format": "Текстовые уроки с примерами, тест на 10 вопросов после каждого модуля.",
+  "content_details": [],
+  "issue": 140461,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Time management.",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183101/",
+  "title": "Product-маркетинг: продукт, аудитория и запуск",
+  "slug": "Product-маркетинг-продукт-аудитория-и-запуск-183101",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:43:56Z",
+  "update_date": "2026-08-24T09:36:29Z",
+  "learners_group": 7309421,
+  "testers_group": 7309422,
+  "moderators_group": 7309423,
+  "assistants_group": 7309424,
+  "teachers_group": 7309419,
+  "admins_group": 7309420,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183101-1",
+  "discussion_threads": [
+    "78-183101-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

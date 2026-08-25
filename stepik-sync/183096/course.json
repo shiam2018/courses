@@ -1,0 +1,228 @@
+{
+  "id": 183096,
+  "summary": "Платный практический курс: один сквозной запуск продукта — от позиционирования до отчёта по метрикам перед бизнесом.",
+  "workload": "3-4 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183096/cover_tpHszSm/8968fc82dc19d7a3d0fd103fa8f3b515.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Маркетологи и начинающие продакт-маркетологи, которые хотят применить основы на практике и собрать реальный кейс для портфолио.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "Курс «Product-маркетинг: продукт, аудитория и запуск» или эквивалентные базовые знания.",
+  "description": "<p>Курс продолжает бесплатный курс «Product-маркетинг: продукт, аудитория и запуск» — и переходит от теории к практике на одном сквозном проекте. Вы берёте реальный (или тренировочный) продукт и проводите его через весь цикл запуска: от позиционирования и go-to-market плана до работы с командой, теста гипотез и отчёта перед бизнесом. Без тестов — вместо них практические задания на вашем проекте после каждого модуля.</p><h3><strong>Что вы получите</strong></h3><ul><li>Готовое позиционирование и сообщение для своего продукта</li><li>Go-to-market план с выбранными каналами запуска</li><li>Опыт подготовки материалов для команды продукта и продаж</li><li>План теста гипотез запуска и разбор, как читать первые данные</li><li>Отчёт по запуску, понятный нетехническому руководителю</li></ul><h3><strong>Что дальше</strong></h3><p>Этот курс — часть большой программы <strong>«Интернет-Маркетолог: Старт Карьеры»</strong>. По промокоду <strong>CAREERSTART</strong> вход в полный курс дешевле на 3000 ₽.</p>",
+  "sections": [
+    745954,
+    745955,
+    745956,
+    745957,
+    745958,
+    745959,
+    745960
+  ],
+  "total_units": 24,
+  "enrollment": 183096,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": true
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": true
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183096/edit-info",
+    "edit_syllabus": "/course/183096/edit",
+    "view_statistics": "/course/183096/statistics/",
+    "attachments": "/course/183096/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183096/clone/",
+    "clone_module": "/course/183096/clone-module/",
+    "edit_certificates": "#",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183096/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183096/transfer/",
+    "view_revenue": {
+      "enabled": true
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": true
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183096",
+  "first_lesson": 2546564,
+  "first_unit": 2585243,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183096/regular",
+  "certificate_distinction_link": "/api/courses/183096/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183096",
+  "schedule_link": "/course/183096/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183096/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183096",
+    "30-78-183096"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183096",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182565,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 24,
+  "quizzes_count": 0,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": true,
+  "price": "5900.00",
+  "currency_code": "RUB",
+  "display_price": "5900 ₽",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183096/continue",
+  "readiness": 0.7272727272727273,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Позиционирование продукта и разница с конкурентами",
+    "Go-to-market план и выбор каналов запуска",
+    "Работа с продуктовой командой и подготовка sales-материалов",
+    "Планирование и интерпретация теста гипотез запуска",
+    "Отчёт по запуску, понятный бизнесу"
+  ],
+  "acquired_assets": [],
+  "learning_format": "Один сквозной проект, практическое задание после каждого модуля, без тестов.",
+  "content_details": [],
+  "issue": 140456,
+  "course_type": "basic_paid",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Profession product marketing manager.",
+  "last_update_price_date": "2026-08-24T09:19:39.241Z",
+  "learners_limit": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183096/",
+  "title": "Профессия продакт-маркетолог",
+  "slug": "Профессия-продакт-маркетолог-183096",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:40:55Z",
+  "update_date": "2026-08-24T09:39:28Z",
+  "learners_group": 7309391,
+  "testers_group": 7309392,
+  "moderators_group": 7309393,
+  "assistants_group": 7309394,
+  "teachers_group": 7309389,
+  "admins_group": 7309390,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183096-1",
+  "discussion_threads": [
+    "78-183096-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

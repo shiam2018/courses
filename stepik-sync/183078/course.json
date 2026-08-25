@@ -1,0 +1,231 @@
+{
+  "id": 183078,
+  "summary": "Практическая база SMM на площадках, которые реально работают в России: ВКонтакте и Telegram, с оговоркой про Instagram и YouTube для части аудитории. Как вести сообщество, писать текст, который дочитывают, и считать метрики, а не просто «постить красиво». Примеры — из реального ведения соцсетей Cleanor Labs.",
+  "workload": "2-2.5 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183078/cover_vYu9LV4/03bfe34cdd68ca738a123835db5d90d4.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Курс подойдёт тем, кто начинает разбираться в SMM с нуля: ведёт или собирается вести сообщество ВКонтакте или Telegram-канал бренда, продукта или личного проекта, и хочет системный подход вместо постов по настроению.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Специальных знаний не требуется — только доступ к ВКонтакте или Telegram и готовность вести хотя бы одно сообщество или канал на практике параллельно с курсом.</p>",
+  "description": "<p>SMM часто сводят к «выкладывать красивые картинки». На практике это контент-план, который выдерживают месяцами, специфика конкретной площадки (ВКонтакте и Telegram живут по разным правилам), и метрики, по которым видно, работает контент или просто существует.</p>\n\n<p>Я — Игорь Шеньшин, руковожу направлением User Acquisition и веду соцсети продукта Cleanor Labs как часть своей работы. В этом бесплатном курсе — база SMM на площадках, которые реально работают для российской аудитории: ВКонтакте и Telegram, с честной оговоркой, что часть аудитории по-прежнему пользуется Instagram и YouTube через VPN, и это тоже нужно учитывать.</p>\n\n<h3><strong>Что вы получите</strong></h3>\n\n<ul>\n\t<li>Понимание, чем ведение сообщества ВКонтакте отличается от Telegram-канала</li>\n\t<li>Шаблон контент-плана, а не хаотичные посты по вдохновению</li>\n\t<li>Разбор, что реально влияет на дочитываемость текста и вовлечённость</li>\n\t<li>Список метрик (охват, вовлечённость, ER) и как их использовать в отчёте</li>\n</ul>\n\n<h3><strong>Что дальше</strong></h3>\n\n<p>Этот курс — часть большой программы <strong>«Интернет-Маркетолог: Старт Карьеры»</strong>: там вы освоите остальные каналы маркетинга и соберёте портфолио. Если захотите пойти дальше — по промокоду <strong>CAREERSTART</strong> вход в полный курс дешевле на 3000 ₽. Если SMM зацепит сильнее остальных каналов, у меня есть отдельный платный курс <strong>«Профессия SMM»</strong> с разбором реального аккаунта от стратегии до отчёта.</p>",
+  "sections": [
+    745816,
+    745817,
+    745818,
+    745819,
+    745820,
+    745821,
+    745822
+  ],
+  "total_units": 24,
+  "enrollment": 183078,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183078/edit-info",
+    "edit_syllabus": "/course/183078/edit",
+    "view_statistics": "/course/183078/statistics/",
+    "attachments": "/course/183078/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183078/clone/",
+    "clone_module": "/course/183078/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183078/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183078/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183078",
+  "first_lesson": 2545951,
+  "first_unit": 2584631,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183078/regular",
+  "certificate_distinction_link": "/api/courses/183078/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183078",
+  "schedule_link": "/course/183078/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183078/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183078",
+    "30-78-183078"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183078",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182547,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 24,
+  "quizzes_count": 50,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183078/continue",
+  "readiness": 0.8181818181818182,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Составлять контент-план на месяц вперёд, а не публиковать по вдохновению",
+    "Учитывать специфику ВКонтакте и Telegram при выборе формата и текста",
+    "Писать текст поста, который дочитывают до конца",
+    "Считать ключевые метрики SMM: охват, вовлечённость, ER",
+    "Оформлять результаты в отчёт для руководителя или клиента"
+  ],
+  "acquired_assets": [],
+  "learning_format": "<p>Курс состоит из пяти модулей: что такое SMM и контент-план, ВКонтакте, Telegram, контент, который работает, метрики и отчётность. После каждого модуля — тест на 10 вопросов. Примеры — из реального ведения соцсетей продукта Cleanor Labs.</p>",
+  "content_details": [],
+  "issue": 140438,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Introduction to SMM (Social Media Marketing)",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183078/",
+  "title": "Основы SMM: ВКонтакте, Telegram и контент, который работает",
+  "slug": "Основы-SMM-ВКонтакте-Telegram-и-контент-который-работает-183078",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:27:55Z",
+  "update_date": "2026-08-24T09:04:01Z",
+  "learners_group": 7309193,
+  "testers_group": 7309194,
+  "moderators_group": 7309195,
+  "assistants_group": 7309196,
+  "teachers_group": 7309191,
+  "admins_group": 7309192,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183078-1",
+  "discussion_threads": [
+    "78-183078-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

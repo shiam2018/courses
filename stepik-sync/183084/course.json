@@ -1,0 +1,228 @@
+{
+  "id": 183084,
+  "summary": "Платный практический курс: одна реальная email-рассылка от сегментации до отчёта по метрикам.",
+  "workload": "3-4 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183084/cover_8q3iwmj/f9660af0db73aacaadfc5113e60f2fce.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Маркетологи и начинающие email-маркетологи, которые хотят применить основы на практике и собрать реальный кейс для портфолио.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "Курс «Введение в email-маркетинг» или эквивалентные базовые знания.",
+  "description": "<p>Курс продолжает бесплатный курс «Введение в email-маркетинг» — и переходит от теории к практике на одной сквозной рассылке. Вы берёте реальный (или тренировочный) продукт и проводите рассылку через весь цикл: от сегментации базы и написания письма до настройки автоматической цепочки, A/B-теста и отчёта по результатам. Без тестов — вместо них практические задания на вашем проекте после каждого модуля.</p><h3><strong>Что вы получите</strong></h3><ul><li>Сегментацию базы и стратегию рассылки под конкретный продукт</li><li>Готовое письмо с рабочей темой, текстом и призывом к действию</li><li>Настроенную триггерную цепочку (например, welcome-серию)</li><li>Опыт A/B-теста темы или времени отправки</li><li>Отчёт по рассылке, понятный нетехническому руководителю</li></ul><h3><strong>Что дальше</strong></h3><p>Этот курс — часть большой программы <strong>«Интернет-Маркетолог: Старт Карьеры»</strong>. По промокоду <strong>CAREERSTART</strong> вход в полный курс дешевле на 3000 ₽.</p>",
+  "sections": [
+    746054,
+    746055,
+    746056,
+    746057,
+    746058,
+    746059,
+    746060
+  ],
+  "total_units": 24,
+  "enrollment": 183084,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": true
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": true
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183084/edit-info",
+    "edit_syllabus": "/course/183084/edit",
+    "view_statistics": "/course/183084/statistics/",
+    "attachments": "/course/183084/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183084/clone/",
+    "clone_module": "/course/183084/clone-module/",
+    "edit_certificates": "#",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183084/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183084/transfer/",
+    "view_revenue": {
+      "enabled": true
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": true
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183084",
+  "first_lesson": 2546924,
+  "first_unit": 2585624,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183084/regular",
+  "certificate_distinction_link": "/api/courses/183084/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183084",
+  "schedule_link": "/course/183084/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183084/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183084",
+    "30-78-183084"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183084",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182553,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 24,
+  "quizzes_count": 0,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": true,
+  "price": "5900.00",
+  "currency_code": "RUB",
+  "display_price": "5900 ₽",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183084/continue",
+  "readiness": 0.6363636363636364,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Сегментация базы и стратегия рассылки",
+    "Письмо, которое открывают и дочитывают",
+    "Настройка триггерной автоматизации",
+    "A/B-тест темы или времени отправки",
+    "Отчёт по рассылке, понятный бизнесу"
+  ],
+  "acquired_assets": [],
+  "learning_format": "Один сквозной проект, практическое задание после каждого модуля, без тестов.",
+  "content_details": [],
+  "issue": 140444,
+  "course_type": "basic_paid",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Google Ads.",
+  "last_update_price_date": "2026-08-24T13:47:57.074Z",
+  "learners_limit": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183084/",
+  "title": "Профессия Email-маркетолог",
+  "slug": "Профессия-Email-маркетолог-183084",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:36:43Z",
+  "update_date": "2026-08-24T14:04:23Z",
+  "learners_group": 7309265,
+  "testers_group": 7309266,
+  "moderators_group": 7309267,
+  "assistants_group": 7309268,
+  "teachers_group": 7309263,
+  "admins_group": 7309264,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183084-1",
+  "discussion_threads": [
+    "78-183084-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

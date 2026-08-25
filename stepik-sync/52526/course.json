@@ -1,0 +1,231 @@
+{
+  "id": 52526,
+  "summary": "Как устроена работа с рекламными креативами в перформанс-маркетинге: метрики CTR и CVR, разница между хорошим дизайном и хорошим креативом, честные и нечестные приёмы в рекламе (и почему вторые — плохая идея), подходы для разных категорий продукта и то, как тестировать креативы, а не гадать, какой сработает.",
+  "workload": "2-2.5 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/52526/cover_em39IV4/df4e5cd43bf35836535c6e710e80ef29.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Курс подойдёт дизайнерам, которые хотят перейти в перформанс-маркетинг или уже работают с рекламными креативами, и маркетологам, которые хотят понимать логику работы с креативами, даже если сами не рисуют.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Специальных знаний не требуется. Базовые навыки работы с графическими редакторами будут плюсом, но курс не про технику дизайна, а про то, как креатив работает в связке с метриками и воронкой.</p>",
+  "description": "<p>Хороший дизайнер и хороший создатель рекламных креативов — не одно и то же. Креатив в перформанс-маркетинге решает конкретную задачу — заставить человека кликнуть и совершить целевое действие, и оценивается это конкретными цифрами: CTR, CVR, стоимостью результата. Курс — про то, как устроена эта работа на практике.</p>\n\n<p>Я руковожу направлением User Acquisition и каждый день работаю с закупкой трафика и оценкой креативов по реальным метрикам. В курсе — честный разбор того, как индустрия закупки трафика на самом деле работает с креативами: включая приёмы, которые формально работают, но которые мы не рекомендуем использовать, и почему.</p>\n\n<h3><strong>Что вы получите</strong></h3>\n\n<ul>\n\t<li>Понимание метрик креатива — CTR, CVR — и как они связаны с воронкой закупки трафика</li>\n\t<li>Чёткое разделение хорошего дизайна и хорошего креатива, и почему вкус дизайнера — не главный критерий</li>\n\t<li>Честный разбор приёмов на грани допустимого в рекламе — и почему мы их не используем</li>\n\t<li>Подходы к креативам для разных категорий продукта: e-commerce, приложения и игры, услуги</li>\n\t<li>Навык тестировать несколько креативов и делать выводы по цифрам, а не по вкусу</li>\n</ul>\n\n<h3><strong>Что дальше</strong></h3>\n\n<p>Этот курс — часть большой программы <strong>«Интернет-Маркетолог: Старт Карьеры»</strong>: там вы освоите остальные каналы маркетинга и соберёте портфолио. По промокоду <strong>CAREERSTART</strong> вход в полный курс дешевле на 3000 ₽. Если создание креативов зацепит сильнее остальных тем, у меня есть отдельный платный курс <strong>«Профессия креативный продюсер в маркетинге»</strong> с разбором полного цикла работы над рекламной кампанией.</p>",
+  "sections": [
+    745922,
+    745923,
+    745924,
+    745925,
+    745926,
+    745927,
+    745928
+  ],
+  "total_units": 24,
+  "enrollment": 52526,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/52526/edit-info",
+    "edit_syllabus": "/course/52526/edit",
+    "view_statistics": "/course/52526/statistics/",
+    "attachments": "/course/52526/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/52526/clone/",
+    "clone_module": "/course/52526/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/52526/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/52526/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-52526",
+  "first_lesson": 2546432,
+  "first_unit": 2585111,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/52526/regular",
+  "certificate_distinction_link": "/api/courses/52526/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/52526",
+  "schedule_link": "/course/52526/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/52526/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-52526",
+    "30-78-52526"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-52526",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 52073,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 24,
+  "quizzes_count": 50,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": 57,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/52526/continue",
+  "readiness": 0.8181818181818182,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Считать и интерпретировать CTR и CVR рекламного креатива",
+    "Отличать хороший дизайн от хорошего рекламного креатива",
+    "Распознавать спорные приёмы в рекламе и объяснять, почему их стоит избегать",
+    "Подбирать подход к креативу под категорию продукта",
+    "Тестировать несколько креативов и делать выводы на основе метрик"
+  ],
+  "acquired_assets": [],
+  "learning_format": "<p>Курс состоит из пяти модулей: основы креативного продакшена, дизайн и креатив, честность в креативах, форматы по категориям продукта, тестирование креативов. После каждого модуля — тест на 10 вопросов.</p>",
+  "content_details": [],
+  "issue": 10258,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": true,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "Introduction to Creative Production",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/52526/",
+  "title": "Creative Production: креативы для перформанс-маркетинга",
+  "slug": "Creative-Production-креативы-для-перформанс-маркетинга-52526",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "halved",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "halved",
+  "is_active": true,
+  "create_date": "2019-02-27T12:06:54Z",
+  "update_date": "2026-08-24T08:54:09Z",
+  "learners_group": 1277369,
+  "testers_group": 1277370,
+  "moderators_group": 1277371,
+  "assistants_group": 1493750,
+  "teachers_group": 1277367,
+  "admins_group": 1277368,
+  "discussions_count": 0,
+  "discussion_proxy": "78-52526-1",
+  "discussion_threads": [
+    "78-52526-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}
