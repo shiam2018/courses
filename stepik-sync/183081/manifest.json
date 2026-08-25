@@ -1,0 +1,611 @@
+{
+  "course_id": "183081",
+  "course_title": "User Acquisition в геймдеве: метрики, креативы и запуск",
+  "course_cover": "https://cdn.stepik.net/media/cache/images/courses/183081/cover_FLZk47i/38b2be019ee97a2ef7186b7fa3b75591.png",
+  "sections": [
+    {
+      "id": 746306,
+      "title": "Старт",
+      "position": 1,
+      "lessons": [
+        {
+          "id": 2548105,
+          "title": "Что будет на курсе",
+          "unit_id": 2586805,
+          "position": 1,
+          "steps": [
+            {
+              "id": 11086992,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/01_Старт/01_Что_будет_на_курсе/01_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 746307,
+      "title": "Экономика игры",
+      "position": 2,
+      "lessons": [
+        {
+          "id": 2548106,
+          "title": "Что будет в модуле «Экономика игры»",
+          "unit_id": 2586806,
+          "position": 1,
+          "steps": [
+            {
+              "id": 11086993,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Экономика_игры/01_Что_будет_в_модуле_Экономика_игры/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548107,
+          "title": "Чем game UA отличается от рекламы приложений",
+          "unit_id": 2586807,
+          "position": 2,
+          "steps": [
+            {
+              "id": 11086994,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Экономика_игры/02_Чем_game_UA_отличается_от_рекламы_приложений/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548108,
+          "title": "Метрики игрока: retention, ARPDAU, LTV, ROAS",
+          "unit_id": 2586808,
+          "position": 3,
+          "steps": [
+            {
+              "id": 11086995,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Экономика_игры/03_Метрики_игрока_retention_ARPDAU_LTV_ROAS/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548109,
+          "title": "Как выбрать цель первого теста игры",
+          "unit_id": 2586809,
+          "position": 4,
+          "steps": [
+            {
+              "id": 11086996,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Экономика_игры/04_Как_выбрать_цель_первого_теста_игры/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548110,
+          "title": "Проверка знаний: экономика игры",
+          "unit_id": 2586810,
+          "position": 5,
+          "steps": [
+            {
+              "id": 11086997,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/02_Экономика_игры/05_Проверка_знаний_экономика_игры/01_text"
+            },
+            {
+              "id": 11086998,
+              "position": 2,
+              "block_name": "choice",
+              "path": "raw/02_Экономика_игры/05_Проверка_знаний_экономика_игры/02_choice"
+            },
+            {
+              "id": 11086999,
+              "position": 3,
+              "block_name": "choice",
+              "path": "raw/02_Экономика_игры/05_Проверка_знаний_экономика_игры/03_choice"
+            },
+            {
+              "id": 11087000,
+              "position": 4,
+              "block_name": "choice",
+              "path": "raw/02_Экономика_игры/05_Проверка_знаний_экономика_игры/04_choice"
+            },
+            {
+              "id": 11087001,
+              "position": 5,
+              "block_name": "choice",
+              "path": "raw/02_Экономика_игры/05_Проверка_знаний_экономика_игры/05_choice"
+            },
+            {
+              "id": 11087002,
+              "position": 6,
+              "block_name": "choice",
+              "path": "raw/02_Экономика_игры/05_Проверка_знаний_экономика_игры/06_choice"
+            },
+            {
+              "id": 11087003,
+              "position": 7,
+              "block_name": "choice",
+              "path": "raw/02_Экономика_игры/05_Проверка_знаний_экономика_игры/07_choice"
+            },
+            {
+              "id": 11087004,
+              "position": 8,
+              "block_name": "choice",
+              "path": "raw/02_Экономика_игры/05_Проверка_знаний_экономика_игры/08_choice"
+            },
+            {
+              "id": 11087005,
+              "position": 9,
+              "block_name": "choice",
+              "path": "raw/02_Экономика_игры/05_Проверка_знаний_экономика_игры/09_choice"
+            },
+            {
+              "id": 11087006,
+              "position": 10,
+              "block_name": "choice",
+              "path": "raw/02_Экономика_игры/05_Проверка_знаний_экономика_игры/10_choice"
+            },
+            {
+              "id": 11087007,
+              "position": 11,
+              "block_name": "choice",
+              "path": "raw/02_Экономика_игры/05_Проверка_знаний_экономика_игры/11_choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 746308,
+      "title": "Подготовка к soft launch",
+      "position": 3,
+      "lessons": [
+        {
+          "id": 2548111,
+          "title": "Что будет в модуле «Подготовка к soft launch»",
+          "unit_id": 2586811,
+          "position": 1,
+          "steps": [
+            {
+              "id": 11087008,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Подготовка_к_soft_launch/01_Что_будет_в_модуле_Подготовка_к_soft_launch/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548112,
+          "title": "События в игре: что измерять до трафика",
+          "unit_id": 2586812,
+          "position": 2,
+          "steps": [
+            {
+              "id": 11087009,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Подготовка_к_soft_launch/02_События_в_игре_что_измерять_до_трафика/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548113,
+          "title": "Страница игры в сторе: иконка, скриншоты, видео",
+          "unit_id": 2586813,
+          "position": 3,
+          "steps": [
+            {
+              "id": 11087010,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Подготовка_к_soft_launch/03_Страница_игры_в_сторе_иконка_скриншоты_видео/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548114,
+          "title": "Страны, бюджет и критерии soft launch",
+          "unit_id": 2586814,
+          "position": 4,
+          "steps": [
+            {
+              "id": 11087011,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Подготовка_к_soft_launch/04_Страны_бюджет_и_критерии_soft_launch/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548115,
+          "title": "Проверка знаний: soft launch",
+          "unit_id": 2586815,
+          "position": 5,
+          "steps": [
+            {
+              "id": 11087012,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/03_Подготовка_к_soft_launch/05_Проверка_знаний_soft_launch/01_text"
+            },
+            {
+              "id": 11087013,
+              "position": 2,
+              "block_name": "choice",
+              "path": "raw/03_Подготовка_к_soft_launch/05_Проверка_знаний_soft_launch/02_choice"
+            },
+            {
+              "id": 11087014,
+              "position": 3,
+              "block_name": "choice",
+              "path": "raw/03_Подготовка_к_soft_launch/05_Проверка_знаний_soft_launch/03_choice"
+            },
+            {
+              "id": 11087015,
+              "position": 4,
+              "block_name": "choice",
+              "path": "raw/03_Подготовка_к_soft_launch/05_Проверка_знаний_soft_launch/04_choice"
+            },
+            {
+              "id": 11087016,
+              "position": 5,
+              "block_name": "choice",
+              "path": "raw/03_Подготовка_к_soft_launch/05_Проверка_знаний_soft_launch/05_choice"
+            },
+            {
+              "id": 11087017,
+              "position": 6,
+              "block_name": "choice",
+              "path": "raw/03_Подготовка_к_soft_launch/05_Проверка_знаний_soft_launch/06_choice"
+            },
+            {
+              "id": 11087018,
+              "position": 7,
+              "block_name": "choice",
+              "path": "raw/03_Подготовка_к_soft_launch/05_Проверка_знаний_soft_launch/07_choice"
+            },
+            {
+              "id": 11087019,
+              "position": 8,
+              "block_name": "choice",
+              "path": "raw/03_Подготовка_к_soft_launch/05_Проверка_знаний_soft_launch/08_choice"
+            },
+            {
+              "id": 11087020,
+              "position": 9,
+              "block_name": "choice",
+              "path": "raw/03_Подготовка_к_soft_launch/05_Проверка_знаний_soft_launch/09_choice"
+            },
+            {
+              "id": 11087021,
+              "position": 10,
+              "block_name": "choice",
+              "path": "raw/03_Подготовка_к_soft_launch/05_Проверка_знаний_soft_launch/10_choice"
+            },
+            {
+              "id": 11087022,
+              "position": 11,
+              "block_name": "choice",
+              "path": "raw/03_Подготовка_к_soft_launch/05_Проверка_знаний_soft_launch/11_choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 746309,
+      "title": "Креативы и каналы",
+      "position": 4,
+      "lessons": [
+        {
+          "id": 2548116,
+          "title": "Что будет в модуле «Креативы и каналы»",
+          "unit_id": 2586816,
+          "position": 1,
+          "steps": [
+            {
+              "id": 11087023,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Креативы_и_каналы/01_Что_будет_в_модуле_Креативы_и_каналы/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548117,
+          "title": "Hook, gameplay, promise: структура креатива",
+          "unit_id": 2586817,
+          "position": 2,
+          "steps": [
+            {
+              "id": 11087024,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Креативы_и_каналы/02_Hook_gameplay_promise_структура_креатива/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548118,
+          "title": "Честные и нечестные креативы в играх",
+          "unit_id": 2586818,
+          "position": 3,
+          "steps": [
+            {
+              "id": 11087025,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Креативы_и_каналы/03_Честные_и_нечестные_креативы_в_играх/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548119,
+          "title": "Google, Apple Ads и социальные сети для игр",
+          "unit_id": 2586819,
+          "position": 4,
+          "steps": [
+            {
+              "id": 11087026,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Креативы_и_каналы/04_Google_Apple_Ads_и_социальные_сети_для_игр/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548120,
+          "title": "Проверка знаний: креативы и каналы",
+          "unit_id": 2586820,
+          "position": 5,
+          "steps": [
+            {
+              "id": 11087027,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/04_Креативы_и_каналы/05_Проверка_знаний_креативы_и_каналы/01_text"
+            },
+            {
+              "id": 11087028,
+              "position": 2,
+              "block_name": "choice",
+              "path": "raw/04_Креативы_и_каналы/05_Проверка_знаний_креативы_и_каналы/02_choice"
+            },
+            {
+              "id": 11087029,
+              "position": 3,
+              "block_name": "choice",
+              "path": "raw/04_Креативы_и_каналы/05_Проверка_знаний_креативы_и_каналы/03_choice"
+            },
+            {
+              "id": 11087030,
+              "position": 4,
+              "block_name": "choice",
+              "path": "raw/04_Креативы_и_каналы/05_Проверка_знаний_креативы_и_каналы/04_choice"
+            },
+            {
+              "id": 11087031,
+              "position": 5,
+              "block_name": "choice",
+              "path": "raw/04_Креативы_и_каналы/05_Проверка_знаний_креативы_и_каналы/05_choice"
+            },
+            {
+              "id": 11087032,
+              "position": 6,
+              "block_name": "choice",
+              "path": "raw/04_Креативы_и_каналы/05_Проверка_знаний_креативы_и_каналы/06_choice"
+            },
+            {
+              "id": 11087033,
+              "position": 7,
+              "block_name": "choice",
+              "path": "raw/04_Креативы_и_каналы/05_Проверка_знаний_креативы_и_каналы/07_choice"
+            },
+            {
+              "id": 11087034,
+              "position": 8,
+              "block_name": "choice",
+              "path": "raw/04_Креативы_и_каналы/05_Проверка_знаний_креативы_и_каналы/08_choice"
+            },
+            {
+              "id": 11087035,
+              "position": 9,
+              "block_name": "choice",
+              "path": "raw/04_Креативы_и_каналы/05_Проверка_знаний_креативы_и_каналы/09_choice"
+            },
+            {
+              "id": 11087036,
+              "position": 10,
+              "block_name": "choice",
+              "path": "raw/04_Креативы_и_каналы/05_Проверка_знаний_креативы_и_каналы/10_choice"
+            },
+            {
+              "id": 11087037,
+              "position": 11,
+              "block_name": "choice",
+              "path": "raw/04_Креативы_и_каналы/05_Проверка_знаний_креативы_и_каналы/11_choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 746310,
+      "title": "Оптимизация и масштабирование",
+      "position": 5,
+      "lessons": [
+        {
+          "id": 2548121,
+          "title": "Что будет в модуле «Оптимизация и масштабирование»",
+          "unit_id": 2586821,
+          "position": 1,
+          "steps": [
+            {
+              "id": 11087038,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Оптимизация_и_масштабирование/01_Что_будет_в_модуле_Оптимизация_и_масштабирование/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548122,
+          "title": "Когорты: почему среднее значение обманывает",
+          "unit_id": 2586822,
+          "position": 2,
+          "steps": [
+            {
+              "id": 11087039,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Оптимизация_и_масштабирование/02_Когорты_почему_среднее_значение_обманывает/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548123,
+          "title": "Что чинить первым: креатив, стор или продукт",
+          "unit_id": 2586823,
+          "position": 3,
+          "steps": [
+            {
+              "id": 11087040,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Оптимизация_и_масштабирование/03_Что_чинить_первым_креатив_стор_или_продукт/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548124,
+          "title": "Когда масштабировать game UA",
+          "unit_id": 2586824,
+          "position": 4,
+          "steps": [
+            {
+              "id": 11087041,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Оптимизация_и_масштабирование/04_Когда_масштабировать_game_UA/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548125,
+          "title": "Проверка знаний: оптимизация game UA",
+          "unit_id": 2586825,
+          "position": 5,
+          "steps": [
+            {
+              "id": 11087042,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/05_Оптимизация_и_масштабирование/05_Проверка_знаний_оптимизация_game_UA/01_text"
+            },
+            {
+              "id": 11087043,
+              "position": 2,
+              "block_name": "choice",
+              "path": "raw/05_Оптимизация_и_масштабирование/05_Проверка_знаний_оптимизация_game_UA/02_choice"
+            },
+            {
+              "id": 11087044,
+              "position": 3,
+              "block_name": "choice",
+              "path": "raw/05_Оптимизация_и_масштабирование/05_Проверка_знаний_оптимизация_game_UA/03_choice"
+            },
+            {
+              "id": 11087045,
+              "position": 4,
+              "block_name": "choice",
+              "path": "raw/05_Оптимизация_и_масштабирование/05_Проверка_знаний_оптимизация_game_UA/04_choice"
+            },
+            {
+              "id": 11087046,
+              "position": 5,
+              "block_name": "choice",
+              "path": "raw/05_Оптимизация_и_масштабирование/05_Проверка_знаний_оптимизация_game_UA/05_choice"
+            },
+            {
+              "id": 11087047,
+              "position": 6,
+              "block_name": "choice",
+              "path": "raw/05_Оптимизация_и_масштабирование/05_Проверка_знаний_оптимизация_game_UA/06_choice"
+            },
+            {
+              "id": 11087048,
+              "position": 7,
+              "block_name": "choice",
+              "path": "raw/05_Оптимизация_и_масштабирование/05_Проверка_знаний_оптимизация_game_UA/07_choice"
+            },
+            {
+              "id": 11087049,
+              "position": 8,
+              "block_name": "choice",
+              "path": "raw/05_Оптимизация_и_масштабирование/05_Проверка_знаний_оптимизация_game_UA/08_choice"
+            },
+            {
+              "id": 11087050,
+              "position": 9,
+              "block_name": "choice",
+              "path": "raw/05_Оптимизация_и_масштабирование/05_Проверка_знаний_оптимизация_game_UA/09_choice"
+            },
+            {
+              "id": 11087051,
+              "position": 10,
+              "block_name": "choice",
+              "path": "raw/05_Оптимизация_и_масштабирование/05_Проверка_знаний_оптимизация_game_UA/10_choice"
+            },
+            {
+              "id": 11087052,
+              "position": 11,
+              "block_name": "choice",
+              "path": "raw/05_Оптимизация_и_масштабирование/05_Проверка_знаний_оптимизация_game_UA/11_choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 746311,
+      "title": "Что дальше",
+      "position": 6,
+      "lessons": [
+        {
+          "id": 2548126,
+          "title": "Итоги курса",
+          "unit_id": 2586826,
+          "position": 1,
+          "steps": [
+            {
+              "id": 11087053,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/06_Что_дальше/01_Итоги_курса/01_text"
+            }
+          ]
+        },
+        {
+          "id": 2548127,
+          "title": "Что дальше",
+          "unit_id": 2586827,
+          "position": 2,
+          "steps": [
+            {
+              "id": 11087054,
+              "position": 1,
+              "block_name": "text",
+              "path": "raw/06_Что_дальше/02_Что_дальше/01_text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

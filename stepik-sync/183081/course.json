@@ -1,0 +1,235 @@
+{
+  "id": 183081,
+  "summary": "Бесплатный курс о привлечении игроков в мобильные игры: экономика жанра, метрики, рекламные креативы, soft launch и первые решения по масштабированию.",
+  "workload": "2-2.5 часа",
+  "cover": "https://cdn.stepik.net/media/cache/images/courses/183081/cover_FLZk47i/38b2be019ee97a2ef7186b7fa3b75591.png",
+  "intro": "",
+  "course_format": "",
+  "target_audience": "Начинающие UA-специалисты, indie-разработчики, продюсеры мобильных игр и маркетологи, которые хотят понять, как устроено привлечение игроков в геймдеве.",
+  "certificate_footer": null,
+  "certificate_cover_org": null,
+  "is_certificate_issued": false,
+  "is_certificate_auto_issued": false,
+  "certificate_regular_threshold": null,
+  "certificate_distinction_threshold": null,
+  "instructors": [
+    79441552
+  ],
+  "certificate": "",
+  "requirements": "<p>Специальной подготовки не требуется. Будет полезно понимать базовые маркетинговые метрики: CPI, CPA, retention и ROAS.</p>",
+  "description": "<p>User Acquisition в геймдеве — это не просто покупка установок. Игрок может установить игру из-за яркого креатива, открыть один раз и больше не вернуться. Поэтому UA-специалист смотрит на экономику жанра, retention, монетизацию, креативы и качество трафика одновременно.</p><p>В этом курсе вы разберёте базовый путь запуска: как устроена воронка игрока, какие события нужны до трафика, как проводить soft launch, чем отличаются креативы для игр, и почему ранние решения принимаются по когортам, а не по одному CPI.</p><h3><strong>Что дальше</strong></h3><p>Если хотите собрать более широкую базу performance-маркетинга — каналы, метрики, креативы и отчёты, — переходите к курсу <strong>«Интернет-Маркетолог — Старт Карьеры»</strong>. Промокод <strong>CAREERSTART</strong> даёт скидку на основной платный курс.</p>",
+  "sections": [
+    746306,
+    746307,
+    746308,
+    746309,
+    746310,
+    746311
+  ],
+  "total_units": 23,
+  "enrollment": 183081,
+  "is_favorite": false,
+  "actions": {
+    "view_reports": {
+      "enabled": true
+    },
+    "edit_reports": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "view_grade_book_page": {
+      "enabled": true
+    },
+    "view_grade_book": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "edit_lti": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "edit_advanced_settings": {
+      "enabled": true,
+      "is_draft": true,
+      "needs_plan": "enterprise"
+    },
+    "manage_permissions": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "assist_course": "#",
+    "view_instructor_dashboard": "#",
+    "edit_course": "/course/183081/edit-info",
+    "edit_syllabus": "/course/183081/edit",
+    "view_statistics": "/course/183081/statistics/",
+    "attachments": "/course/183081/attachments/",
+    "create_announcements": "#",
+    "clone_course": "/course/183081/clone/",
+    "clone_module": "/course/183081/clone-module/",
+    "can_publish": {
+      "enabled": true,
+      "needs_plan": null
+    },
+    "can_be_private": {
+      "enabled": false,
+      "needs_plan": "enterprise"
+    },
+    "admin_course": "#",
+    "edit_permissions": "/course/183081/edit-permissions",
+    "edit_publish_settings": "#",
+    "set_price": "#",
+    "transfer_ownership": "/course/183081/transfer/",
+    "view_revenue": {
+      "enabled": false
+    },
+    "can_be_enrolled": {
+      "enabled": true
+    },
+    "can_be_bought": {
+      "enabled": false
+    },
+    "can_be_price_changed": {
+      "enabled": true
+    },
+    "can_be_deleted": {
+      "enabled": true
+    },
+    "edit_tags": {
+      "enabled": true
+    }
+  },
+  "progress": "78-183081",
+  "first_lesson": 2548105,
+  "first_unit": 2586805,
+  "certificate_link": null,
+  "certificate_regular_link": "/api/courses/183081/regular",
+  "certificate_distinction_link": "/api/courses/183081/distinction",
+  "user_certificate": null,
+  "referral_link": "/a/183081",
+  "schedule_link": "/course/183081/schedule/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "schedule_long_link": "/course/183081/schedule/long/be1808f5f920442c076369f31a4f8db55b00e705/",
+  "first_deadline": null,
+  "last_deadline": null,
+  "subscriptions": [
+    "31-78-183081",
+    "30-78-183081"
+  ],
+  "announcements": [],
+  "is_contest": false,
+  "is_self_paced": true,
+  "is_adaptive": false,
+  "is_idea_compatible": false,
+  "is_in_wishlist": false,
+  "last_step": "78-183081",
+  "intro_video": null,
+  "social_providers": [],
+  "authors": [
+    79441552
+  ],
+  "tags": [],
+  "is_enabled": false,
+  "is_proctored": false,
+  "proctor_url": null,
+  "review_summary": 182550,
+  "schedule_type": "self_paced",
+  "product_kind": "plain",
+  "variant_title": "",
+  "variant_description": "",
+  "certificates_count": 0,
+  "learners_count": 0,
+  "lessons_count": 23,
+  "quizzes_count": 40,
+  "challenges_count": 0,
+  "peer_reviews_count": 0,
+  "instructor_reviews_count": 0,
+  "videos_duration": 0,
+  "time_to_complete": null,
+  "is_popular": false,
+  "is_processed_with_paddle": false,
+  "is_unsuitable": false,
+  "is_paid": false,
+  "price": null,
+  "currency_code": null,
+  "display_price": "-",
+  "default_promo_code_name": null,
+  "default_promo_code_price": null,
+  "default_promo_code_discount": null,
+  "default_promo_code_is_percent_discount": null,
+  "default_promo_code_expire_date": null,
+  "continue_url": "/course/183081/continue",
+  "readiness": 0.8181818181818182,
+  "is_archived": false,
+  "options": {},
+  "price_tier": null,
+  "position": 1,
+  "is_censored": false,
+  "difficulty": null,
+  "acquired_skills": [
+    "Понимать, чем game UA отличается от рекламы обычного приложения",
+    "Считать CPI, retention, payer conversion, ARPDAU, LTV и ROAS на базовом уровне",
+    "Готовить игру к soft launch: события, store page, креативы и критерии решения",
+    "Разбирать игровые креативы по hook, gameplay, promise и честности ожиданий",
+    "Принимать первые решения: остановить тест, улучшить продукт или масштабировать закупку"
+  ],
+  "acquired_assets": [],
+  "learning_format": "<p>Курс состоит из четырёх модулей: экономика игры, подготовка к soft launch, креативы и каналы, оптимизация и масштабирование. После каждого модуля — тест на 10 вопросов.</p>",
+  "content_details": [],
+  "issue": 140441,
+  "course_type": "basic",
+  "possible_type": "basic",
+  "is_certificate_with_score": false,
+  "preview_lesson": null,
+  "preview_unit": null,
+  "possible_currencies": [
+    "RUB"
+  ],
+  "commission_basic": "7.00",
+  "commission_promo": "40.00",
+  "with_certificate": false,
+  "child_courses": [],
+  "child_courses_count": 0,
+  "parent_courses": [],
+  "variants": [],
+  "became_published_at": null,
+  "became_paid_at": null,
+  "title_en": "User Acquisition in game development. Free course for beginners.",
+  "last_update_price_date": null,
+  "learners_limit": null,
+  "enrollment_begin_date": null,
+  "enrollment_end_date": null,
+  "owner": 79441552,
+  "language": "ru",
+  "is_featured": false,
+  "is_public": false,
+  "canonical_url": "https://stepik.org/course/183081/",
+  "title": "User Acquisition в геймдеве: метрики, креативы и запуск",
+  "slug": "User-Acquisition-в-геймдеве-метрики-креативы-и-запуск-183081",
+  "begin_date": null,
+  "end_date": null,
+  "soft_deadline": null,
+  "hard_deadline": null,
+  "grading_policy": "no_deadlines",
+  "begin_date_source": null,
+  "end_date_source": null,
+  "soft_deadline_source": null,
+  "hard_deadline_source": null,
+  "grading_policy_source": "no_deadlines",
+  "is_active": true,
+  "create_date": "2023-09-16T13:34:52Z",
+  "update_date": "2026-08-25T08:35:07Z",
+  "learners_group": 7309247,
+  "testers_group": 7309248,
+  "moderators_group": 7309249,
+  "assistants_group": 7309250,
+  "teachers_group": 7309245,
+  "admins_group": 7309246,
+  "discussions_count": 0,
+  "discussion_proxy": "78-183081-1",
+  "discussion_threads": [
+    "78-183081-1"
+  ],
+  "lti_consumer_key": "",
+  "lti_secret_key": "",
+  "lti_private_profile": false
+}

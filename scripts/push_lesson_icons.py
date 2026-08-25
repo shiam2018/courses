@@ -89,7 +89,12 @@ def main():
     with open(sys.argv[1], encoding="utf-8") as f:
         mapping = json.load(f)
 
+    out_path = os.path.join(os.path.dirname(__file__), "_lesson_icons_result.json")
     results = {}
+    if os.path.exists(out_path):
+        with open(out_path, encoding="utf-8") as f:
+            results.update(json.load(f))
+
     with tempfile.TemporaryDirectory() as tmp:
         for entry in mapping:
             lesson_id = entry["lesson_id"]
@@ -100,10 +105,9 @@ def main():
             svg_to_padded_png(svg_path, png_path)
             cover_url = upload_to_uploadcare(png_path)
             confirmed = set_lesson_cover(lesson_id, cover_url, token)
-            results[lesson_id] = confirmed
+            results[str(lesson_id)] = confirmed
             print(f"lesson {lesson_id} ({icon}) -> {confirmed}")
 
-    out_path = os.path.join(os.path.dirname(__file__), "_lesson_icons_result.json")
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
     print("saved", out_path)
