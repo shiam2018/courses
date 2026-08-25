@@ -1,6 +1,6 @@
 {
   "id": 183078,
-  "summary": "Практическая база SMM на примере ВКонтакте и Telegram: роль площадки, контент-план, структура поста, работа с аудиторией и базовые метрики. Курс помогает вести соцсети системно, а не публиковать посты по настроению.",
+  "summary": "Практическая база SMM на площадках, которые реально работают в России: ВКонтакте и Telegram, с оговоркой про Instagram и YouTube для части аудитории. Как вести сообщество, писать текст, который дочитывают, и считать метрики, а не просто «постить красиво». Примеры — из реального ведения соцсетей Cleanor Labs.",
   "workload": "2-2.5 часа",
   "cover": "https://cdn.stepik.net/media/cache/images/courses/183078/cover_vYu9LV4/03bfe34cdd68ca738a123835db5d90d4.png",
   "intro": "",
@@ -16,7 +16,7 @@
     79441552
   ],
   "certificate": "",
-  "requirements": "<p>Специальных знаний не требуется. Нужен доступ к ВКонтакте или Telegram и готовность параллельно разбирать одно сообщество, канал, бренд или личный проект.</p>",
+  "requirements": "<p>Специальных знаний не требуется — только доступ к ВКонтакте или Telegram и готовность вести хотя бы одно сообщество или канал на практике параллельно с курсом.</p>",
   "description": "<p>SMM часто сводят к публикации красивых картинок. На практике это регулярная работа с аудиторией, площадкой, рубриками, форматами, комментариями и метриками.</p><p>В курсе разберём основы SMM на примере ВКонтакте и Telegram: чем отличаются площадки, как планировать контент, как писать посты, как читать базовые показатели и как не путать активность с пользой для бизнеса.</p><p>Курс подойдёт новичкам, которые хотят спокойно разобраться в SMM до перехода к полноценной стратегии, продвижению и отчётности.</p>",
   "sections": [
     745816,
@@ -27,7 +27,7 @@
     745821,
     745822
   ],
-  "total_units": 23,
+  "total_units": 24,
   "enrollment": 183078,
   "is_favorite": false,
   "actions": {
@@ -121,7 +121,32 @@
   "is_idea_compatible": false,
   "is_in_wishlist": false,
   "last_step": "78-183078",
-  "intro_video": null,
+  "intro_video": {
+    "id": 641576,
+    "thumbnail": "https://cdn.stepik.net/video/641576/thumbnail/80f4490d5cd8b5389b89603f1d8ed489.jpg",
+    "urls": [
+      {
+        "quality": "720",
+        "url": "https://cdn.stepik.net/video/641576/720/291ca4411edcd8e9bc654b3ba35a6049.mp4"
+      },
+      {
+        "quality": "540",
+        "url": "https://cdn.stepik.net/video/641576/540/abca3b5fb217066dbddf0c35b3762523.mp4"
+      },
+      {
+        "quality": "360",
+        "url": "https://cdn.stepik.net/video/641576/360/adf1dcf650c7cd54e6ed8dcd18d7ab58.mp4"
+      },
+      {
+        "quality": "240",
+        "url": "https://cdn.stepik.net/video/641576/240/39e06e8a6db82940c721672c120efd84.mp4"
+      }
+    ],
+    "duration": 39,
+    "status": "ready",
+    "upload_date": "2026-08-25T13:01:07Z",
+    "filename": "SMM во Вконтакте и Telegram_ основы и метрики.mp4"
+  },
   "social_providers": [],
   "authors": [
     79441552
@@ -145,7 +170,7 @@
   "variant_description": "",
   "certificates_count": 0,
   "learners_count": 0,
-  "lessons_count": 23,
+  "lessons_count": 24,
   "quizzes_count": 50,
   "challenges_count": 0,
   "peer_reviews_count": 0,
@@ -229,7 +254,7 @@
   "grading_policy_source": "no_deadlines",
   "is_active": true,
   "create_date": "2023-09-16T13:27:55Z",
-  "update_date": "2026-08-25T12:57:23Z",
+  "update_date": "2026-08-25T13:22:40Z",
   "learners_group": 7309193,
   "testers_group": 7309194,
   "moderators_group": 7309195,

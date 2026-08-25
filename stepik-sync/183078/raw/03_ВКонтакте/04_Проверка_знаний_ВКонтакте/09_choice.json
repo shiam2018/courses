@@ -5,7 +5,7 @@
   "status": "ready",
   "block": {
     "name": "choice",
-    "text": "<p>Почему копировать контент из Telegram-канала в сообщество ВКонтакте один в один — плохая идея?</p>",
+    "text": "<p>Почему копировать контент из Telegram-канала в сообщество ВКонтакте один в один - плохая идея?</p>",
     "video": null,
     "options": {
       "is_multiple_choice": false
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11057205,
   "create_date": "2026-08-24T07:45:08Z",
-  "update_date": "2026-08-24T07:45:09Z",
+  "update_date": "2026-08-25T13:26:17Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11078114-1",
   "discussion_threads": [

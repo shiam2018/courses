@@ -5,7 +5,7 @@
   "status": "ready",
   "block": {
     "name": "text",
-    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183078/header-2545964.webp\" style=\"\"></p><p>Тест по модулю «Telegram» — 10 вопросов.</p>",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183078/header-2545964.webp\" style=\"\"></p><p>Тест по модулю «Telegram» - 10 вопросов.</p>",
     "video": null,
     "options": {},
     "subtitle_files": [],
@@ -50,7 +50,7 @@
   "user_step_vote": null,
   "step_issue": 11057210,
   "create_date": "2026-08-24T07:46:27Z",
-  "update_date": "2026-08-24T07:46:27Z",
+  "update_date": "2026-08-25T13:26:06Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11078119-1",
   "discussion_threads": [

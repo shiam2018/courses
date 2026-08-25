@@ -22,7 +22,7 @@
       "options": [
         {
           "is_correct": true,
-          "text": "Охват — уникальные люди, показы — общее число просмотров, включая повторные",
+          "text": "Охват - уникальные люди, показы - общее число просмотров, включая повторные",
           "feedback": ""
         },
         {
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11057233,
   "create_date": "2026-08-24T07:46:47Z",
-  "update_date": "2026-08-24T07:46:48Z",
+  "update_date": "2026-08-25T13:25:35Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11078142-1",
   "discussion_threads": [

@@ -5,7 +5,7 @@
   "status": "ready",
   "block": {
     "name": "text",
-    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183078/header-2545960.webp\" style=\"\"></p><p>Тест по модулю «ВКонтакте» — 10 вопросов.</p>",
+    "text": "<p><img alt=\"\" src=\"https://stepik.org/media/attachments/course/183078/header-2545960.webp\" style=\"\"></p><p>Тест по модулю «ВКонтакте» - 10 вопросов.</p>",
     "video": null,
     "options": {},
     "subtitle_files": [],
@@ -50,7 +50,7 @@
   "user_step_vote": null,
   "step_issue": 11057197,
   "create_date": "2026-08-24T07:45:01Z",
-  "update_date": "2026-08-24T07:45:01Z",
+  "update_date": "2026-08-25T13:26:18Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11078106-1",
   "discussion_threads": [

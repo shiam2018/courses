@@ -5,7 +5,7 @@
   "status": "ready",
   "block": {
     "name": "choice",
-    "text": "<p>Почему использование одной и той же стоковой иллюстрации для каждого второго поста — плохая практика?</p>",
+    "text": "<p>Почему использование одной и той же стоковой иллюстрации для каждого второго поста - плохая практика?</p>",
     "video": null,
     "options": {
       "is_multiple_choice": false
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11057230,
   "create_date": "2026-08-24T07:46:44Z",
-  "update_date": "2026-08-24T07:46:45Z",
+  "update_date": "2026-08-25T13:25:54Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11078139-1",
   "discussion_threads": [

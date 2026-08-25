@@ -22,7 +22,7 @@
       "options": [
         {
           "is_correct": false,
-          "text": "Ничего не меняется — результат тот же, что при планировании",
+          "text": "Ничего не меняется - результат тот же, что при планировании",
           "feedback": ""
         },
         {
@@ -83,7 +83,7 @@
   "user_step_vote": null,
   "step_issue": 11057191,
   "create_date": "2026-08-24T07:44:17Z",
-  "update_date": "2026-08-24T07:44:17Z",
+  "update_date": "2026-08-25T13:25:48Z",
   "discussions_count": 0,
   "discussion_proxy": "77-11078100-1",
   "discussion_threads": [
