@@ -1,6 +1,6 @@
 {
   "id": 183094,
-  "summary": "Практический курс по Excel: формулы и ссылки, ВПР и ИНДЕКС+ПОИСКПОЗ, сводные таблицы и диаграммы — темы, которые в большинстве вводных курсов остаются нераскрытыми. Я — Head of User Acquisition, каждый день свожу отчёты по рекламным кампаниям в Excel. В курсе — скачиваемый файл-тренажёр с реальными данными и тест после каждого модуля.",
+  "summary": "Практический курс по Excel для рабочих задач: формулы, ссылки, ВПР, ИНДЕКС+ПОИСКПОЗ, сводные таблицы и диаграммы. Примеры связаны с маркетинговыми данными, чтобы таблицы сразу работали как основа отчёта.",
   "workload": "2-2.5 часа",
   "cover": "https://cdn.stepik.net/media/cache/images/courses/183094/cover_eBoZEbC/e3d91f474a72ea1a7b3e6585c0513853.png",
   "intro": "",
@@ -16,7 +16,7 @@
     79441552
   ],
   "certificate": "",
-  "requirements": "<p>Установленный Microsoft Excel или Google Таблицы. Нужно уметь писать простую формулу вроде СУММ и понимать, что такое ячейка и лист — курс начинается сразу с практики.</p>",
+  "requirements": "<p>Нужен Microsoft Excel или Google Таблицы. Желательно уметь написать простую формулу вроде СУММ и понимать, что такое ячейка и лист. Остальное разбирается по ходу практики.</p>",
   "description": "<p>Многие вводные курсы по Excel останавливаются на простых формулах, а самые полезные темы оставляют на потом. Здесь разберём то, без чего Excel редко становится рабочим инструментом: ВПР, логика, сортировка, фильтры, сводные таблицы и диаграммы.</p><p>Все примеры связаны с маркетинговыми данными, поэтому вы будете не просто тренировать формулы, а постепенно собирать основу отчёта по рекламным кампаниям.</p><p>Курс подойдёт офисным сотрудникам, маркетологам, предпринимателям и фрилансерам, которые хотят увереннее работать с таблицами и перестать собирать отчёты вручную.</p>",
   "sections": [
     745275,
@@ -46,13 +46,11 @@
       "needs_plan": "enterprise"
     },
     "edit_lti": {
-      "enabled": true,
-      "is_draft": true,
+      "enabled": false,
       "needs_plan": "enterprise"
     },
     "edit_advanced_settings": {
-      "enabled": true,
-      "is_draft": true,
+      "enabled": false,
       "needs_plan": "enterprise"
     },
     "manage_permissions": {
@@ -131,9 +129,12 @@
   "tags": [
     248,
     264,
-    266
+    266,
+    1,
+    2,
+    16
   ],
-  "is_enabled": false,
+  "is_enabled": true,
   "is_proctored": false,
   "proctor_url": null,
   "review_summary": 182563,
@@ -202,7 +203,7 @@
   "child_courses_count": 0,
   "parent_courses": [],
   "variants": [],
-  "became_published_at": null,
+  "became_published_at": "2026-08-25T03:35:42.722Z",
   "became_paid_at": null,
   "title_en": "Excel: Advanced course.",
   "last_update_price_date": null,
@@ -212,7 +213,7 @@
   "owner": 79441552,
   "language": "ru",
   "is_featured": false,
-  "is_public": false,
+  "is_public": true,
   "canonical_url": "https://stepik.org/course/183094/",
   "title": "Excel с нуля: формулы, ВПР и сводные таблицы",
   "slug": "Excel-с-нуля-формулы-ВПР-и-сводные-таблицы-183094",
@@ -228,7 +229,7 @@
   "grading_policy_source": "no_deadlines",
   "is_active": true,
   "create_date": "2023-09-16T13:40:16Z",
-  "update_date": "2026-08-25T03:10:39Z",
+  "update_date": "2026-08-25T12:57:38Z",
   "learners_group": 7309379,
   "testers_group": 7309380,
   "moderators_group": 7309381,

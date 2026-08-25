@@ -16,7 +16,7 @@
     79441552
   ],
   "certificate": "",
-  "requirements": "Специальных знаний не требуется — только базовое владение компьютером.",
+  "requirements": "<p>Специальных знаний не требуется. Достаточно базово пользоваться компьютером и браузером.</p>",
   "description": "<p>Собрать простой сайт сегодня можно без программирования. Конструкторы вроде Tilda, Webflow или Framer позволяют собрать страницу визуально, но хороший сайт всё равно начинается не с выбора шаблона, а со структуры, смысла и понятного действия для пользователя.</p><p>В курсе разберём путь от идеи до первой версии сайта: задача, аудитория, структура, блоки, форма, мобильная версия, публикация и базовая проверка результата.</p><p>Курс подойдёт новичкам, фрилансерам и предпринимателям, которым нужен первый рабочий сайт без найма разработчика и без лишнего усложнения.</p>",
   "sections": [
     746071,
@@ -121,7 +121,32 @@
   "is_idea_compatible": false,
   "is_in_wishlist": false,
   "last_step": "78-183075",
-  "intro_video": null,
+  "intro_video": {
+    "id": 641570,
+    "thumbnail": "https://cdn.stepik.net/video/641570/thumbnail/47ba99aa2fd4fda981f0c0b0471e9c3a.jpg",
+    "urls": [
+      {
+        "quality": "720",
+        "url": "https://cdn.stepik.net/video/641570/720/fad90b4520f90fb4dca1032daa186c4b.mp4"
+      },
+      {
+        "quality": "540",
+        "url": "https://cdn.stepik.net/video/641570/540/1a42027405bb1c4bcc02c2fd13c03797.mp4"
+      },
+      {
+        "quality": "360",
+        "url": "https://cdn.stepik.net/video/641570/360/d508a590377230d7dee86948ab35806b.mp4"
+      },
+      {
+        "quality": "240",
+        "url": "https://cdn.stepik.net/video/641570/240/5f2dd8682246a1ee746dd7b4286114ca.mp4"
+      }
+    ],
+    "duration": 37,
+    "status": "ready",
+    "upload_date": "2026-08-25T12:40:59Z",
+    "filename": "Собираем простой сайт на конструкторе без кода.mp4"
+  },
   "social_providers": [],
   "authors": [
     79441552
@@ -230,7 +255,7 @@
   "grading_policy_source": "no_deadlines",
   "is_active": true,
   "create_date": "2023-09-16T13:24:54Z",
-  "update_date": "2026-08-25T12:22:43Z",
+  "update_date": "2026-08-25T12:57:15Z",
   "learners_group": 7309157,
   "testers_group": 7309158,
   "moderators_group": 7309159,
