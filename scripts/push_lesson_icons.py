@@ -3,15 +3,34 @@
 style established for courses 183080/183097 (Flat Color Icons by Icons8,
 MIT-licensed, served via api.iconify.design; white background, ~180x180).
 
-Earlier attempts assumed cover_url only accepts ucarecdn.stepik.net URLs
-(true) and that uploading there required a Stepik-internal key (previously
-unconfirmed). This script proves the workaround used for 183080/183097 also
-works end-to-end: Uploadcare's PUBLIC unauthenticated upload endpoint
-(https://upload.uploadcare.com/base/) accepts uploads under the demo public
-key "demopublickey", returns a UUID, and the resulting ucarecdn.com/<uuid>/
-URL (same Uploadcare infrastructure, different domain than ucarecdn.stepik.net)
-IS accepted by Stepik's PUT /api/lessons cover_url field. Confirmed live on
-course 183103, lesson 2542278, 2026-08-21.
+cover_url only accepts ucarecdn.* domains.
+
+HISTORY: originally used Uploadcare's public demo key "demopublickey" — found
+2026-08-25 that files uploaded through it do NOT persist: a fresh upload
+returns 200 for a while, but icons pushed days earlier already 404 (renders
+as a blank/solid square in Stepik's UI). Tried a real user Uploadcare
+account/project next — dead end: unsigned uploads are rejected (upload API
+returns 200 with a UUID, but the file serves only from that project's own
+ucarecd.net CDN subdomain, e.g. https://4jis7bddh9.ucarecd.net/<uuid>/...,
+which Stepik's cover_url validator rejects with "Bad cover image url" because
+it isn't literally ucarecdn.com or ucarecdn.stepik.net — confirmed via
+GET https://api.uploadcare.com/files/<uuid>/, the file is real and
+is_ready:true, it just isn't reachable at a domain Stepik accepts).
+
+FIX (2026-08-25): Stepik has its OWN production Uploadcare project, and its
+public key is embedded in plain sight in every lesson page's HTML (view
+https://stepik.org/lesson/<id>/step/1 and grep for UPLOADCARE_PUBLIC_KEY —
+it's meant to be public, that's how Uploadcare public keys work; used by
+Stepik's own in-browser editor when an instructor manually attaches a cover
+image). Uploading to Stepik's own upload endpoint with Stepik's own public
+key returns a ucarecdn.stepik.net URL that Stepik's validator accepts
+natively, and — being their real production infrastructure serving actual
+live course covers platform-wide, not a demo/throwaway key — should not be
+subject to the demopublickey's silent-purge behavior. Confirmed working
+end-to-end 2026-08-25 (upload -> 200 immediately on ucarecdn.stepik.net ->
+accepted as lesson cover_url). Still, always curl-verify a cover_url returns
+200 before trusting it for any given lesson — a successful PUT response
+alone does not prove the image still resolves.
 
 Usage: python3 scripts/push_lesson_icons.py <mapping.json>
 mapping.json: [{"lesson_id": 2542264, "icon": "voice-presentation"}, ...]
@@ -23,14 +42,15 @@ import os
 import subprocess
 import sys
 import tempfile
+import urllib.error
 import urllib.request
 
 sys.path.insert(0, os.path.dirname(__file__))
 from stepik_push import load_env, get_token, api_get  # noqa: E402
 
 ICONIFY_SVG = "https://api.iconify.design/flat-color-icons/{}.svg"
-UPLOADCARE_UPLOAD = "https://upload.uploadcare.com/base/"
-UPLOADCARE_PUBLIC_KEY = "demopublickey"
+UPLOADCARE_UPLOAD = "https://upload.uploadcare.stepik.net/base/"
+UPLOADCARE_PUBLIC_KEY = "e7a075ad8dc9e3a1ec61"  # Stepik's own project, found embedded in lesson page HTML
 
 
 def fetch_icon_svg(icon_name, dest_path):
@@ -52,12 +72,20 @@ def upload_to_uploadcare(png_path):
     boundary = "----stepikicon"
     with open(png_path, "rb") as f:
         file_data = f.read()
-    body = b"".join([
-        f"--{boundary}\r\nContent-Disposition: form-data; name=\"UPLOADCARE_PUB_KEY\"\r\n\r\n{UPLOADCARE_PUBLIC_KEY}\r\n".encode(),
-        f"--{boundary}\r\nContent-Disposition: form-data; name=\"UPLOADCARE_STORE\"\r\n\r\n1\r\n".encode(),
-        f"--{boundary}\r\nContent-Disposition: form-data; name=\"file\"; filename=\"icon.png\"\r\nContent-Type: image/png\r\n\r\n".encode() + file_data + b"\r\n",
-        f"--{boundary}--\r\n".encode(),
-    ])
+    fields = {
+        "UPLOADCARE_PUB_KEY": UPLOADCARE_PUBLIC_KEY,
+        "UPLOADCARE_STORE": "1",
+    }
+    parts = []
+    for name, value in fields.items():
+        parts.append(f"--{boundary}\r\nContent-Disposition: form-data; name=\"{name}\"\r\n\r\n{value}\r\n".encode())
+    parts.append(
+        f"--{boundary}\r\nContent-Disposition: form-data; name=\"file\"; filename=\"icon.png\"\r\nContent-Type: image/png\r\n\r\n".encode()
+        + file_data + b"\r\n"
+    )
+    parts.append(f"--{boundary}--\r\n".encode())
+    body = b"".join(parts)
+
     req = urllib.request.Request(
         UPLOADCARE_UPLOAD, data=body,
         headers={"Content-Type": f"multipart/form-data; boundary={boundary}"},
@@ -65,7 +93,7 @@ def upload_to_uploadcare(png_path):
     )
     with urllib.request.urlopen(req, timeout=30) as resp:
         uuid = json.load(resp)["file"]
-    return f"https://ucarecdn.com/{uuid}/-/scale_crop/180x180/center/"
+    return f"https://ucarecdn.stepik.net/{uuid}/-/scale_crop/180x180/center/"
 
 
 def set_lesson_cover(lesson_id, cover_url, token):
@@ -105,8 +133,15 @@ def main():
             svg_to_padded_png(svg_path, png_path)
             cover_url = upload_to_uploadcare(png_path)
             confirmed = set_lesson_cover(lesson_id, cover_url, token)
+            status = "?"
+            try:
+                verify_req = urllib.request.Request(confirmed, method="HEAD")
+                with urllib.request.urlopen(verify_req, timeout=15) as vresp:
+                    status = vresp.status
+            except urllib.error.HTTPError as e:
+                status = e.code
             results[str(lesson_id)] = confirmed
-            print(f"lesson {lesson_id} ({icon}) -> {confirmed}")
+            print(f"lesson {lesson_id} ({icon}) -> {confirmed} [HTTP {status}]")
 
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
